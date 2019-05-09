@@ -1,0 +1,78 @@
+### points scored by Kevin Durant by game
+------------------------------------------
+
+select game_id, sum(team1_event_point) + sum(team2_event_point) as total_points from plays_201819 where player1 = 'Kevin Durant' and action = 'makes' group by 1;
+
+
+### misses by Kevin Durant by game
+----------------------------------
+
+select game_id, count(*) as total_points from plays_201819 where player1 = 'Kevin Durant' and action = 'misses' group by 1;
+
+### Kevin Durant's misses by shot type
+---------------------------------------
+
+select action_what, count(*) as count from plays_201819 where player1 = 'Kevin Durant' and action = 'misses' group by 1 order by 1;
+
+
+### points by pointers
+-----------------------
+
+select
+game_id,
+team,
+team1_event_point + team2_event_point,
+sum(team1_event_point + team2_event_point) as points
+from plays_201819
+where team1_event_point + team2_event_point != 0
+group by 1, 2, 3
+order by 1, 2, 3;
+
+### points by pointers and percentage of total points
+-----------------------------------------------------
+
+select
+a.team,
+a.pointer,
+a.points,
+round(100*cast(a.points as numeric)/b.points, 2) as percent_total_points
+from
+(
+select
+team,
+team1_event_point + team2_event_point as pointer,
+sum(team1_event_point + team2_event_point) as points
+from plays_201819
+where team1_event_point + team2_event_point != 0
+group by 1, 2
+) a
+join
+(
+select
+team,
+sum(team1_event_point + team2_event_point) as points
+from plays_201819
+where team1_event_point + team2_event_point != 0
+group by 1
+) b
+on a.team = b.team
+and a.pointer <= 3
+order by 1, 2;
+
+
+### top 10 players to make layups
+---------------------------------
+
+select player1, count(*) as total_layups from plays_201819 where action = 'makes' and action_what like '%layup%' group by 1 order by 2 desc limit 10;
+
+
+### player to block another player max times (top 10)
+-----------------------------------------------------
+
+select player1, player2, count(*) as num_blocks from plays_201819 where action = 'blocks' group by 1, 2 order by 3 desc limit 10
+
+
+select * from (select game_id, sum(team1_event_point), sum(team2_event_point) from plays_201819 group by 1) a join (select game_id, score from plays_201819 where action = 'end of game') b on a.game_id = b.game_id;
+
+
+

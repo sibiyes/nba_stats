@@ -1,0 +1,414 @@
+game_id	quarter	q_time	q_time_remaining	team	event	score	team1_score	team2_score	team1_event_point	team2_event_point	player1	player2	action	action_what	foot_value	free_throw	point_info	player_secondary	action_secondary	team_action
+401126836	1	00:00	12:00	tor	Marc Gasol vs. Nikola Vucevic (Kyle Lowry gains possession)	0 - 0	0	0	0	0	Marc Gasol	Nikola Vucevic	vs.					Kyle Lowry	gains possession	
+401126836	1	00:15	11:45	tor	Kawhi Leonard bad pass (Evan Fournier steals)	0 - 0	0	0	0	0	Kawhi Leonard		bad pass					Evan Fournier	steals	
+401126836	1	00:24	11:36	orl	Nikola Vucevic makes 19-foot jumper (Evan Fournier assists)	0 - 2	0	2	0	2	Nikola Vucevic		makes	jumper	19			Evan Fournier	assists	
+401126836	1	00:40	11:20	tor	Kyle Lowry traveling	0 - 2	0	2	0	0	Kyle Lowry		traveling							
+401126836	1	00:46	11:14	tor	Kawhi Leonard personal foul	0 - 2	0	2	0	0	Kawhi Leonard		foul							
+401126836	1	00:58	11:02	orl	Aaron Gordon makes 26-foot three point jumper (D.J. Augustin assists)	0 - 5	0	5	0	3	Aaron Gordon		makes	jumper	26		three	D.J. Augustin	assists	
+401126836	1	01:22	10:38	tor	Pascal Siakam misses two point shot	0 - 5	0	5	0	0	Pascal Siakam		misses	shot			two			
+401126836	1	01:25	10:35	orl	Aaron Gordon defensive rebound	0 - 5	0	5	0	0	Aaron Gordon		defensive rebound							
+401126836	1	01:29	10:31	orl	Aaron Gordon bad pass (Kyle Lowry steals)	0 - 5	0	5	0	0	Aaron Gordon		bad pass					Kyle Lowry	steals	
+401126836	1	01:33	10:27	tor	Kyle Lowry misses 26-foot three point jumper	0 - 5	0	5	0	0	Kyle Lowry		misses	jumper	26		three			
+401126836	1	01:36	10:24	tor	Kawhi Leonard offensive rebound	0 - 5	0	5	0	0	Kawhi Leonard		offensive rebound							
+401126836	1	01:38	10:22	tor	Danny Green misses 23-foot three point jumper	0 - 5	0	5	0	0	Danny Green		misses	jumper	23		three			
+401126836	1	01:41	10:19	orl	Jonathan Isaac defensive rebound	0 - 5	0	5	0	0	Jonathan Isaac		defensive rebound							
+401126836	1	01:48	10:12	orl	D.J. Augustin makes two point shot	0 - 7	0	7	0	2	D.J. Augustin		makes	shot			two			
+401126836	1	01:51	10:09	orl	Jonathan Isaac shooting foul	0 - 7	0	7	0	0	Jonathan Isaac		foul							
+401126836	1	01:51	10:09	tor	Kyle Lowry makes free throw 1 of 2	1 - 7	1	7	1	0	Kyle Lowry		makes	free throw		1-2				
+401126836	1	01:51	10:09	tor	Kyle Lowry misses free throw 2 of 2	1 - 7	1	7	0	0	Kyle Lowry		misses	free throw		2-2				
+401126836	1	01:52	10:08	orl	Magic defensive team rebound	1 - 7	1	7	0	0			defensive rebound	team						magic
+401126836	1	02:08	9:52	orl	D.J. Augustin makes 16-foot pullup jump shot	1 - 9	1	9	0	2	D.J. Augustin		makes	pullup jump shot	16					
+401126836	1	02:17	9:43	tor	Kyle Lowry makes driving layup	3 - 9	3	9	2	0	Kyle Lowry		makes	driving layup						
+401126836	1	02:37	9:23	orl	Jonathan Isaac lost ball turnover (Kyle Lowry steals)	3 - 9	3	9	0	0	Jonathan Isaac		turnover					Kyle Lowry	steals	
+401126836	1	02:50	9:10	tor	Marc Gasol makes driving layup (Kyle Lowry assists)	5 - 9	5	9	2	0	Marc Gasol		makes	driving layup				Kyle Lowry	assists	
+401126836	1	03:07	8:53	orl	Nikola Vucevic bad pass (Kawhi Leonard steals)	5 - 9	5	9	0	0	Nikola Vucevic		bad pass					Kawhi Leonard	steals	
+401126836	1	03:17	8:43	tor	Kawhi Leonard misses 23-foot three point pullup jump shot	5 - 9	5	9	0	0	Kawhi Leonard		misses	pullup jump shot	23		three			
+401126836	1	03:21	8:39	orl	D.J. Augustin defensive rebound	5 - 9	5	9	0	0	D.J. Augustin		defensive rebound							
+401126836	1	03:29	8:31	orl	Evan Fournier makes 21-foot pullup jump shot (D.J. Augustin assists)	5 - 11	5	11	0	2	Evan Fournier		makes	pullup jump shot	21			D.J. Augustin	assists	
+401126836	1	03:55	8:05	orl	Jonathan Isaac shooting foul	5 - 11	5	11	0	0	Jonathan Isaac		foul							
+401126836	1	03:55	8:05	tor	Kawhi Leonard makes free throw 1 of 2	6 - 11	6	11	1	0	Kawhi Leonard		makes	free throw		1-2				
+401126836	1	03:55	8:05	orl	Terrence Ross enters the game for Jonathan Isaac	6 - 11	6	11	0	0	Terrence Ross	Jonathan Isaac	enters the game for							
+401126836	1	03:55	8:05	tor	Kawhi Leonard makes free throw 2 of 2	7 - 11	7	11	1	0	Kawhi Leonard		makes	free throw		2-2				
+401126836	1	04:07	7:53	orl	D.J. Augustin lost ball turnover (Danny Green steals)	7 - 11	7	11	0	0	D.J. Augustin		turnover					Danny Green	steals	
+401126836	1	04:20	7:40	tor	Danny Green makes 26-foot three point jumper (Pascal Siakam assists)	10 - 11	10	11	3	0	Danny Green		makes	jumper	26		three	Pascal Siakam	assists	
+401126836	1	04:42	7:18	orl	Nikola Vucevic makes 13-foot jumper (Terrence Ross assists)	10 - 13	10	13	0	2	Nikola Vucevic		makes	jumper	13			Terrence Ross	assists	
+401126836	1	04:53	7:07	tor	Pascal Siakam makes alley oop layup (Kyle Lowry assists)	12 - 13	12	13	2	0	Pascal Siakam		makes	alley oop layup				Kyle Lowry	assists	
+401126836	1	05:03	6:57	orl	Nikola Vucevic misses 26-foot three point jumper	12 - 13	12	13	0	0	Nikola Vucevic		misses	jumper	26		three			
+401126836	1	05:06	6:54	tor	Danny Green defensive rebound	12 - 13	12	13	0	0	Danny Green		defensive rebound							
+401126836	1	05:14	6:46	orl	Aaron Gordon personal foul	12 - 13	12	13	0	0	Aaron Gordon		foul							
+401126836	1	05:14	6:46	orl	Magic Full timeout	12 - 13	12	13	0	0			full timeout							magic
+401126836	1	05:22	6:38	tor	Kawhi Leonard makes driving dunk	14 - 13	14	13	2	0	Kawhi Leonard		makes	driving dunk						
+401126836	1	05:42	6:18	orl	Aaron Gordon misses 26-foot three point jumper	14 - 13	14	13	0	0	Aaron Gordon		misses	jumper	26		three			
+401126836	1	05:45	6:15	tor	Marc Gasol defensive rebound	14 - 13	14	13	0	0	Marc Gasol		defensive rebound							
+401126836	1	05:53	6:07	tor	Kawhi Leonard makes driving layup	16 - 13	16	13	2	0	Kawhi Leonard		makes	driving layup						
+401126836	1	06:05	5:55	orl	Terrence Ross lost ball turnover (Marc Gasol steals)	16 - 13	16	13	0	0	Terrence Ross		turnover					Marc Gasol	steals	
+401126836	1	06:09	5:51	tor	Kawhi Leonard makes 2-foot dunk (Marc Gasol assists)	18 - 13	18	13	2	0	Kawhi Leonard		makes	dunk	2			Marc Gasol	assists	
+401126836	1	06:24	5:36	tor	Kawhi Leonard defensive 3-seconds (technical foul)	18 - 13	18	13	0	0	Kawhi Leonard		defensive 3-seconds							
+401126836	1	06:24	5:36	orl	D.J. Augustin makes technical free throw	18 - 14	18	14	0	1	D.J. Augustin		makes	technical free throw						
+401126836	1	06:27	5:33	tor	Danny Green personal foul	18 - 14	18	14	0	0	Danny Green		foul							
+401126836	1	06:43	5:17	orl	Nikola Vucevic makes two point shot (Aaron Gordon assists)	18 - 16	18	16	0	2	Nikola Vucevic		makes	shot			two	Aaron Gordon	assists	
+401126836	1	06:52	5:08	tor	Danny Green makes layup (Kyle Lowry assists)	20 - 16	20	16	2	0	Danny Green		makes	layup				Kyle Lowry	assists	
+401126836	1	07:16	4:44	orl	Terrence Ross misses 27-foot three point jumper	20 - 16	20	16	0	0	Terrence Ross		misses	jumper	27		three			
+401126836	1	07:19	4:41	tor	Pascal Siakam defensive rebound	20 - 16	20	16	0	0	Pascal Siakam		defensive rebound							
+401126836	1	07:22	4:38	tor	Danny Green misses 27-foot three point jumper	20 - 16	20	16	0	0	Danny Green		misses	jumper	27		three			
+401126836	1	07:25	4:35	tor	Kyle Lowry offensive rebound	20 - 16	20	16	0	0	Kyle Lowry		offensive rebound							
+401126836	1	07:37	4:23	tor	Kawhi Leonard misses 18-foot pullup jump shot	20 - 16	20	16	0	0	Kawhi Leonard		misses	pullup jump shot	18					
+401126836	1	07:39	4:21	orl	D.J. Augustin defensive rebound	20 - 16	20	16	0	0	D.J. Augustin		defensive rebound							
+401126836	1	07:53	4:07	orl	Evan Fournier makes driving layup	20 - 18	20	18	0	2	Evan Fournier		makes	driving layup						
+401126836	1	08:09	3:51	tor	Pascal Siakam makes 2-foot driving dunk	22 - 18	22	18	2	0	Pascal Siakam		makes	driving dunk	2					
+401126836	1	08:28	3:32	tor	Danny Green personal foul	22 - 18	22	18	0	0	Danny Green		foul							
+401126836	1	08:28	3:32	orl	Wes Iwundu enters the game for Evan Fournier	22 - 18	22	18	0	0	Wes Iwundu	Evan Fournier	enters the game for							
+401126836	1	08:28	3:32	orl	Michael Carter-Williams enters the game for D.J. Augustin	22 - 18	22	18	0	0	Michael Carter-Williams	D.J. Augustin	enters the game for							
+401126836	1	08:28	3:32	tor	Fred VanVleet enters the game for Danny Green	22 - 18	22	18	0	0	Fred VanVleet	Danny Green	enters the game for							
+401126836	1	08:39	3:21	orl	Michael Carter-Williams makes driving layup (Terrence Ross assists)	22 - 20	22	20	0	2	Michael Carter-Williams		makes	driving layup				Terrence Ross	assists	
+401126836	1	08:55	3:05	tor	Pascal Siakam misses 24-foot three point jumper	22 - 20	22	20	0	0	Pascal Siakam		misses	jumper	24		three			
+401126836	1	08:57	3:03	orl	Magic defensive team rebound	22 - 20	22	20	0	0			defensive rebound	team						magic
+401126836	1	09:09	2:51	orl	Terrence Ross bad pass (Marc Gasol steals)	22 - 20	22	20	0	0	Terrence Ross		bad pass					Marc Gasol	steals	
+401126836	1	09:13	2:47	orl	Nikola Vucevic shooting foul	22 - 20	22	20	0	0	Nikola Vucevic		foul							
+401126836	1	09:13	2:47	tor	Raptors Full timeout	22 - 20	22	20	0	0			full timeout							raptors
+401126836	1	09:13	2:47	tor	Norman Powell enters the game for Kyle Lowry	22 - 20	22	20	0	0	Norman Powell	Kyle Lowry	enters the game for							
+401126836	1	09:13	2:47	tor	Serge Ibaka enters the game for Marc Gasol	22 - 20	22	20	0	0	Serge Ibaka	Marc Gasol	enters the game for							
+401126836	1	09:13	2:47	tor	Kawhi Leonard misses free throw 1 of 2	22 - 20	22	20	0	0	Kawhi Leonard		misses	free throw		1-2				
+401126836	1	09:13	2:47	tor	Raptors offensive team rebound	22 - 20	22	20	0	0			offensive rebound	team						raptors
+401126836	1	09:13	2:47	tor	Kawhi Leonard makes free throw 2 of 2	23 - 20	23	20	1	0	Kawhi Leonard		makes	free throw		2-2				
+401126836	1	09:24	2:36	orl	Aaron Gordon misses driving layup	23 - 20	23	20	0	0	Aaron Gordon		misses	driving layup						
+401126836	1	09:30	2:30	orl	Nikola Vucevic offensive rebound	23 - 20	23	20	0	0	Nikola Vucevic		offensive rebound							
+401126836	1	09:30	2:30	orl	Nikola Vucevic makes two point shot	23 - 22	23	22	0	2	Nikola Vucevic		makes	shot			two			
+401126836	1	09:48	2:12	tor	Fred VanVleet 3 second turnover	23 - 22	23	22	0	0	Fred VanVleet		turnover							
+401126836	1	09:48	2:12	tor	Jodie Meeks enters the game for Kawhi Leonard	23 - 22	23	22	0	0	Jodie Meeks	Kawhi Leonard	enters the game for							
+401126836	1	09:58	2:02	tor	Norman Powell personal foul	23 - 22	23	22	0	0	Norman Powell		foul							
+401126836	1	10:12	1:48	orl	Aaron Gordon misses 23-foot step back jumpshot	23 - 22	23	22	0	0	Aaron Gordon		misses	step back jumpshot	23					
+401126836	1	10:16	1:44	tor	Serge Ibaka defensive rebound	23 - 22	23	22	0	0	Serge Ibaka		defensive rebound							
+401126836	1	10:30	1:30	tor	Fred VanVleet makes 28-foot three point jumper (Pascal Siakam assists)	26 - 22	26	22	3	0	Fred VanVleet		makes	jumper	28		three	Pascal Siakam	assists	
+401126836	1	10:41	1:19	tor	Fred VanVleet personal foul	26 - 22	26	22	0	0	Fred VanVleet		foul							
+401126836	1	10:41	1:19	orl	Terrence Ross makes free throw 1 of 2	26 - 23	26	23	0	1	Terrence Ross		makes	free throw		1-2				
+401126836	1	10:41	1:19	orl	Khem Birch enters the game for Nikola Vucevic	26 - 23	26	23	0	0	Khem Birch	Nikola Vucevic	enters the game for							
+401126836	1	10:41	1:19	orl	Terrence Ross makes free throw 2 of 2	26 - 24	26	24	0	1	Terrence Ross		makes	free throw		2-2				
+401126836	1	10:52	1:08	tor	Pascal Siakam makes 11-foot two point shot (Fred VanVleet assists)	28 - 24	28	24	2	0	Pascal Siakam		makes	shot	11		two	Fred VanVleet	assists	
+401126836	1	11:09	50.3	orl	Michael Carter-Williams misses 18-foot pullup jump shot	28 - 24	28	24	0	0	Michael Carter-Williams		misses	pullup jump shot	18					
+401126836	1	11:10	49.2	orl	Magic offensive team rebound	28 - 24	28	24	0	0			offensive rebound	team						magic
+401126836	1	11:14	46.0	orl	Terrence Ross misses 19-foot jumper	28 - 24	28	24	0	0	Terrence Ross		misses	jumper	19					
+401126836	1	11:17	42.6	orl	Khem Birch offensive rebound	28 - 24	28	24	0	0	Khem Birch		offensive rebound							
+401126836	1	11:24	35.4	orl	Serge Ibaka blocks Aaron Gordon's driving dunk	28 - 24	28	24	0	0	Serge Ibaka	Aaron Gordon	blocks	driving dunk						
+401126836	1	11:29	30.4	orl	Aaron Gordon offensive rebound	28 - 24	28	24	0	0	Aaron Gordon		offensive rebound							
+401126836	1	11:32	27.8	orl	Aaron Gordon misses 24-foot step back jumpshot	28 - 24	28	24	0	0	Aaron Gordon		misses	step back jumpshot	24					
+401126836	1	11:35	24.5	tor	Jodie Meeks defensive rebound	28 - 24	28	24	0	0	Jodie Meeks		defensive rebound							
+401126836	1	11:52	7.3	tor	Pascal Siakam misses 13-foot two point shot	28 - 24	28	24	0	0	Pascal Siakam		misses	shot	13		two			
+401126836	1	11:55	4.3	orl	Michael Carter-Williams defensive rebound	28 - 24	28	24	0	0	Michael Carter-Williams		defensive rebound							
+401126836	1	11:59	0.3	orl	Michael Carter-Williams makes 16-foot step back jumpshot	28 - 26	28	26	0	2	Michael Carter-Williams		makes	step back jumpshot	16					
+401126836	1	12:00	0.0	orl	End of the 1st Quarter	28 - 26	28	26	0	0			end of the 1st quarter							
+401126836	2	00:00	12:00	orl	Evan Fournier enters the game for Aaron Gordon	28 - 26	28	26	0	0	Evan Fournier	Aaron Gordon	enters the game for							
+401126836	2	00:00	12:00	orl	Jonathan Isaac enters the game for Wes Iwundu	28 - 26	28	26	0	0	Jonathan Isaac	Wes Iwundu	enters the game for							
+401126836	2	00:00	12:00	tor	Kyle Lowry enters the game for Jodie Meeks	28 - 26	28	26	0	0	Kyle Lowry	Jodie Meeks	enters the game for							
+401126836	2	00:20	11:40	orl	Evan Fournier misses 26-foot three point jumper	28 - 26	28	26	0	0	Evan Fournier		misses	jumper	26		three			
+401126836	2	00:25	11:35	tor	Pascal Siakam defensive rebound	28 - 26	28	26	0	0	Pascal Siakam		defensive rebound							
+401126836	2	00:35	11:25	tor	Kyle Lowry makes 25-foot three point jumper (Serge Ibaka assists)	31 - 26	31	26	3	0	Kyle Lowry		makes	jumper	25		three	Serge Ibaka	assists	
+401126836	2	00:57	11:03	orl	Evan Fournier makes 9-foot driving floating jump shot	31 - 28	31	28	0	2	Evan Fournier		makes	driving floating jump shot	9					
+401126836	2	01:17	10:43	tor	Kyle Lowry out of bounds bad pass turnover	31 - 28	31	28	0	0	Kyle Lowry		turnover							
+401126836	2	01:26	10:34	tor	Fred VanVleet personal foul	31 - 28	31	28	0	0	Fred VanVleet		foul							
+401126836	2	01:38	10:22	orl	Jonathan Isaac offensive charge	31 - 28	31	28	0	0	Jonathan Isaac		offensive charge							
+401126836	2	01:38	10:22	orl	Jonathan Isaac turnover	31 - 28	31	28	0	0	Jonathan Isaac		turnover							
+401126836	2	01:38	10:22	orl	Jarell Martin enters the game for Jonathan Isaac	31 - 28	31	28	0	0	Jarell Martin	Jonathan Isaac	enters the game for							
+401126836	2	01:57	10:03	tor	Jarell Martin blocks Kyle Lowry 's 7-foot pullup jump shot	31 - 28	31	28	0	0	Jarell Martin	Kyle Lowry	blocks	pullup jump shot	7					
+401126836	2	02:00	10:00	orl	Evan Fournier defensive rebound	31 - 28	31	28	0	0	Evan Fournier		defensive rebound							
+401126836	2	02:02	9:58	orl	Terrence Ross misses 30-foot three point jumper	31 - 28	31	28	0	0	Terrence Ross		misses	jumper	30		three			
+401126836	2	02:06	9:54	orl	Jarell Martin offensive rebound	31 - 28	31	28	0	0	Jarell Martin		offensive rebound							
+401126836	2	02:13	9:47	orl	Jarell Martin makes 24-foot three point jumper (Evan Fournier assists)	31 - 31	31	31	0	3	Jarell Martin		makes	jumper	24		three	Evan Fournier	assists	
+401126836	2	02:35	9:25	tor	Pascal Siakam misses three point jumper	31 - 31	31	31	0	0	Pascal Siakam		misses	jumper			three			
+401126836	2	02:39	9:21	orl	Evan Fournier defensive rebound	31 - 31	31	31	0	0	Evan Fournier		defensive rebound							
+401126836	2	02:47	9:13	orl	Jarell Martin misses 27-foot three point jumper	31 - 31	31	31	0	0	Jarell Martin		misses	jumper	27		three			
+401126836	2	02:50	9:10	tor	Norman Powell defensive rebound	31 - 31	31	31	0	0	Norman Powell		defensive rebound							
+401126836	2	03:01	8:59	tor	Norman Powell makes two point shot (Kyle Lowry assists)	33 - 31	33	31	2	0	Norman Powell		makes	shot			two	Kyle Lowry	assists	
+401126836	2	03:19	8:41	orl	Michael Carter-Williams misses 26-foot three point jumper	33 - 31	33	31	0	0	Michael Carter-Williams		misses	jumper	26		three			
+401126836	2	03:23	8:37	tor	Kyle Lowry defensive rebound	33 - 31	33	31	0	0	Kyle Lowry		defensive rebound							
+401126836	2	03:34	8:26	orl	Evan Fournier personal foul	33 - 31	33	31	0	0	Evan Fournier		foul							
+401126836	2	03:34	8:26	orl	Aaron Gordon enters the game for Jarell Martin	33 - 31	33	31	0	0	Aaron Gordon	Jarell Martin	enters the game for							
+401126836	2	03:34	8:26	tor	Kawhi Leonard enters the game for Pascal Siakam	33 - 31	33	31	0	0	Kawhi Leonard	Pascal Siakam	enters the game for							
+401126836	2	03:42	8:18	tor	Kyle Lowry misses 26-foot three point jumper	33 - 31	33	31	0	0	Kyle Lowry		misses	jumper	26		three			
+401126836	2	03:47	8:13	tor	Serge Ibaka offensive rebound	33 - 31	33	31	0	0	Serge Ibaka		offensive rebound							
+401126836	2	03:49	8:11	tor	Serge Ibaka makes 5-foot two point shot	35 - 31	35	31	2	0	Serge Ibaka		makes	shot	5		two			
+401126836	2	04:07	7:53	orl	Khem Birch makes hook shot (Michael Carter-Williams assists)	35 - 33	35	33	0	2	Khem Birch		makes	hook shot				Michael Carter-Williams	assists	
+401126836	2	04:22	7:38	tor	Serge Ibaka makes 27-foot three point jumper (Norman Powell assists)	38 - 33	38	33	3	0	Serge Ibaka		makes	jumper	27		three	Norman Powell	assists	
+401126836	2	04:35	7:25	orl	Evan Fournier makes 21-foot jumper (Michael Carter-Williams assists)	38 - 35	38	35	0	2	Evan Fournier		makes	jumper	21			Michael Carter-Williams	assists	
+401126836	2	04:42	7:18	orl	Evan Fournier personal foul	38 - 35	38	35	0	0	Evan Fournier		foul							
+401126836	2	04:42	7:18	orl	Wes Iwundu enters the game for Michael Carter-Williams	38 - 35	38	35	0	0	Wes Iwundu	Michael Carter-Williams	enters the game for							
+401126836	2	04:42	7:18	orl	D.J. Augustin enters the game for Evan Fournier	38 - 35	38	35	0	0	D.J. Augustin	Evan Fournier	enters the game for							
+401126836	2	04:42	7:18	orl	Nikola Vucevic enters the game for Khem Birch	38 - 35	38	35	0	0	Nikola Vucevic	Khem Birch	enters the game for							
+401126836	2	04:49	7:11	tor	Fred VanVleet misses 21-foot step back jumpshot	38 - 35	38	35	0	0	Fred VanVleet		misses	step back jumpshot	21					
+401126836	2	04:53	7:07	tor	Kawhi Leonard offensive rebound	38 - 35	38	35	0	0	Kawhi Leonard		offensive rebound							
+401126836	2	04:53	7:07	tor	Norman Powell makes 25-foot three point jumper (Kawhi Leonard assists)	41 - 35	41	35	3	0	Norman Powell		makes	jumper	25		three	Kawhi Leonard	assists	
+401126836	2	05:06	6:54	tor	Serge Ibaka personal foul	41 - 35	41	35	0	0	Serge Ibaka		foul							
+401126836	2	05:06	6:54	orl	Magic Full timeout	41 - 35	41	35	0	0			full timeout							magic
+401126836	2	05:14	6:46	orl	Wes Iwundu misses 23-foot three point jumper	41 - 35	41	35	0	0	Wes Iwundu		misses	jumper	23		three			
+401126836	2	05:18	6:42	tor	Serge Ibaka defensive rebound	41 - 35	41	35	0	0	Serge Ibaka		defensive rebound							
+401126836	2	05:34	6:26	tor	Serge Ibaka misses 26-foot three point jumper	41 - 35	41	35	0	0	Serge Ibaka		misses	jumper	26		three			
+401126836	2	05:37	6:23	orl	Aaron Gordon defensive rebound	41 - 35	41	35	0	0	Aaron Gordon		defensive rebound							
+401126836	2	05:50	6:10	orl	Aaron Gordon makes layup (Nikola Vucevic assists)	41 - 37	41	37	0	2	Aaron Gordon		makes	layup				Nikola Vucevic	assists	
+401126836	2	06:16	5:44	tor	Fred VanVleet makes two point shot	43 - 37	43	37	2	0	Fred VanVleet		makes	shot			two			
+401126836	2	06:27	5:33	orl	D.J. Augustin misses driving layup	43 - 37	43	37	0	0	D.J. Augustin		misses	driving layup						
+401126836	2	06:27	5:33	orl	Magic offensive team rebound	43 - 37	43	37	0	0			offensive rebound	team						magic
+401126836	2	06:27	5:33	tor	Danny Green enters the game for Serge Ibaka	43 - 37	43	37	0	0	Danny Green	Serge Ibaka	enters the game for							
+401126836	2	06:27	5:33	tor	Marc Gasol enters the game for Fred VanVleet	43 - 37	43	37	0	0	Marc Gasol	Fred VanVleet	enters the game for							
+401126836	2	06:40	5:20	orl	Wes Iwundu makes driving layup (Aaron Gordon assists)	43 - 39	43	39	0	2	Wes Iwundu		makes	driving layup				Aaron Gordon	assists	
+401126836	2	06:50	5:10	orl	Aaron Gordon shooting foul	43 - 39	43	39	0	0	Aaron Gordon		foul							
+401126836	2	06:50	5:10	tor	Kawhi Leonard makes free throw 1 of 2	44 - 39	44	39	1	0	Kawhi Leonard		makes	free throw		1-2				
+401126836	2	06:50	5:10	orl	Evan Fournier enters the game for Terrence Ross	44 - 39	44	39	0	0	Evan Fournier	Terrence Ross	enters the game for							
+401126836	2	06:50	5:10	tor	Pascal Siakam enters the game for Norman Powell	44 - 39	44	39	0	0	Pascal Siakam	Norman Powell	enters the game for							
+401126836	2	06:50	5:10	tor	Kawhi Leonard makes free throw 2 of 2	45 - 39	45	39	1	0	Kawhi Leonard		makes	free throw		2-2				
+401126836	2	07:01	4:59	orl	Pascal Siakam blocks Evan Fournier's driving layup	45 - 39	45	39	0	0	Pascal Siakam	Evan Fournier	blocks	driving layup						
+401126836	2	07:02	4:58	tor	Marc Gasol defensive rebound	45 - 39	45	39	0	0	Marc Gasol		defensive rebound							
+401126836	2	07:24	4:36	tor	Pascal Siakam misses driving floating jump shot	45 - 39	45	39	0	0	Pascal Siakam		misses	driving floating jump shot						
+401126836	2	07:28	4:32	orl	Aaron Gordon defensive rebound	45 - 39	45	39	0	0	Aaron Gordon		defensive rebound							
+401126836	2	07:37	4:23	orl	Aaron Gordon misses two point shot	45 - 39	45	39	0	0	Aaron Gordon		misses	shot			two			
+401126836	2	07:40	4:20	tor	Pascal Siakam defensive rebound	45 - 39	45	39	0	0	Pascal Siakam		defensive rebound							
+401126836	2	07:56	4:04	tor	Kawhi Leonard misses layup	45 - 39	45	39	0	0	Kawhi Leonard		misses	layup						
+401126836	2	08:00	4:00	tor	Kawhi Leonard offensive rebound	45 - 39	45	39	0	0	Kawhi Leonard		offensive rebound							
+401126836	2	08:02	3:58	tor	Kawhi Leonard makes 15-foot two point shot	47 - 39	47	39	2	0	Kawhi Leonard		makes	shot	15		two			
+401126836	2	08:20	3:40	orl	Nikola Vucevic misses 14-foot two point shot	47 - 39	47	39	0	0	Nikola Vucevic		misses	shot	14		two			
+401126836	2	08:20	3:40	tor	Kyle Lowry defensive rebound	47 - 39	47	39	0	0	Kyle Lowry		defensive rebound							
+401126836	2	08:35	3:25	tor	Kyle Lowry out of bounds bad pass turnover	47 - 39	47	39	0	0	Kyle Lowry		turnover							
+401126836	2	08:35	3:25	orl	Terrence Ross enters the game for Wes Iwundu	47 - 39	47	39	0	0	Terrence Ross	Wes Iwundu	enters the game for							
+401126836	2	08:48	3:12	orl	Aaron Gordon makes driving layup	47 - 41	47	41	0	2	Aaron Gordon		makes	driving layup						
+401126836	2	08:58	3:02	tor	Kawhi Leonard makes 26-foot three point jumper (Danny Green assists)	50 - 41	50	41	3	0	Kawhi Leonard		makes	jumper	26		three	Danny Green	assists	
+401126836	2	09:05	2:55	orl	Magic Full timeout	50 - 41	50	41	0	0			full timeout							magic
+401126836	2	09:20	2:40	orl	Kawhi Leonard blocks Nikola Vucevic's two point shot	50 - 41	50	41	0	0	Kawhi Leonard	Nikola Vucevic	blocks	shot			two			
+401126836	2	09:26	2:34	tor	Marc Gasol defensive rebound	50 - 41	50	41	0	0	Marc Gasol		defensive rebound							
+401126836	2	09:32	2:28	tor	Kawhi Leonard makes 11-foot pullup jump shot	52 - 41	52	41	2	0	Kawhi Leonard		makes	pullup jump shot	11					
+401126836	2	09:48	2:12	orl	Marc Gasol blocks D.J. Augustin 's 27-foot three point pullup jump shot	52 - 41	52	41	0	0	Marc Gasol	D.J. Augustin	blocks	pullup jump shot	27		three			
+401126836	2	09:48	2:12	tor	Kawhi Leonard defensive rebound	52 - 41	52	41	0	0	Kawhi Leonard		defensive rebound							
+401126836	2	09:58	2:02	tor	Danny Green misses 23-foot three point jumper	52 - 41	52	41	0	0	Danny Green		misses	jumper	23		three			
+401126836	2	10:04	1:56	orl	Evan Fournier defensive rebound	52 - 41	52	41	0	0	Evan Fournier		defensive rebound							
+401126836	2	10:17	1:43	orl	D.J. Augustin bad pass	52 - 41	52	41	0	0	D.J. Augustin		bad pass							
+401126836	2	10:17	1:43	orl	Aaron Gordon loose ball foul	52 - 41	52	41	0	0	Aaron Gordon		foul							
+401126836	2	10:17	1:43	orl	Jarell Martin enters the game for Aaron Gordon	52 - 41	52	41	0	0	Jarell Martin	Aaron Gordon	enters the game for							
+401126836	2	10:28	1:32	tor	Pascal Siakam makes 26-foot three point jumper (Marc Gasol assists)	55 - 41	55	41	3	0	Pascal Siakam		makes	jumper	26		three	Marc Gasol	assists	
+401126836	2	10:43	1:17	tor	Kyle Lowry personal foul	55 - 41	55	41	0	0	Kyle Lowry		foul							
+401126836	2	10:56	1:04	tor	Marc Gasol shooting foul	55 - 41	55	41	0	0	Marc Gasol		foul							
+401126836	2	10:56	1:04	orl	Evan Fournier makes free throw 1 of 2	55 - 42	55	42	0	1	Evan Fournier		makes	free throw		1-2				
+401126836	2	10:56	1:04	orl	Evan Fournier misses free throw 2 of 2	55 - 42	55	42	0	0	Evan Fournier		misses	free throw		2-2				
+401126836	2	10:59	1:01	tor	Kawhi Leonard defensive rebound	55 - 42	55	42	0	0	Kawhi Leonard		defensive rebound							
+401126836	2	11:12	47.6	tor	Danny Green misses 24-foot three point jumper	55 - 42	55	42	0	0	Danny Green		misses	jumper	24		three			
+401126836	2	11:15	44.6	orl	Nikola Vucevic defensive rebound	55 - 42	55	42	0	0	Nikola Vucevic		defensive rebound							
+401126836	2	11:31	28.9	orl	Nikola Vucevic misses 10-foot hook shot	55 - 42	55	42	0	0	Nikola Vucevic		misses	hook shot	10					
+401126836	2	11:34	25.8	tor	Danny Green defensive rebound	55 - 42	55	42	0	0	Danny Green		defensive rebound							
+401126836	2	11:55	4.5	tor	Pascal Siakam makes 24-foot three point jumper (Kyle Lowry assists)	58 - 42	58	42	3	0	Pascal Siakam		makes	jumper	24		three	Kyle Lowry	assists	
+401126836	2	11:58	1.1	orl	Evan Fournier misses 41-foot three point shot	58 - 42	58	42	0	0	Evan Fournier		misses	shot	41		three			
+401126836	2	11:58	1.1	orl	Magic offensive team rebound	58 - 42	58	42	0	0			offensive rebound	team						magic
+401126836	2	12:00	0.0	orl	End of the 2nd Quarter	58 - 42	58	42	0	0			end of the 2nd quarter							
+401126836	3	00:00	12:00	orl	Jonathan Isaac enters the game for Terrence Ross	58 - 42	58	42	0	0	Jonathan Isaac	Terrence Ross	enters the game for							
+401126836	3	00:00	12:00	orl	Aaron Gordon enters the game for Jarell Martin	58 - 42	58	42	0	0	Aaron Gordon	Jarell Martin	enters the game for							
+401126836	3	00:23	11:37	orl	Evan Fournier misses driving floating jump shot	58 - 42	58	42	0	0	Evan Fournier		misses	driving floating jump shot						
+401126836	3	00:25	11:35	orl	Jonathan Isaac offensive rebound	58 - 42	58	42	0	0	Jonathan Isaac		offensive rebound							
+401126836	3	00:25	11:35	orl	Jonathan Isaac misses 3-foot tip shot	58 - 42	58	42	0	0	Jonathan Isaac		misses	tip shot	3					
+401126836	3	00:25	11:35	orl	Jonathan Isaac offensive rebound	58 - 42	58	42	0	0	Jonathan Isaac		offensive rebound							
+401126836	3	00:28	11:32	orl	Jonathan Isaac misses 12-foot two point shot	58 - 42	58	42	0	0	Jonathan Isaac		misses	shot	12		two			
+401126836	3	00:29	11:31	orl	Nikola Vucevic offensive rebound	58 - 42	58	42	0	0	Nikola Vucevic		offensive rebound							
+401126836	3	00:32	11:28	orl	Jonathan Isaac misses 17-foot jump bank shot	58 - 42	58	42	0	0	Jonathan Isaac		misses	jump bank shot	17					
+401126836	3	00:32	11:28	tor	Marc Gasol defensive rebound	58 - 42	58	42	0	0	Marc Gasol		defensive rebound							
+401126836	3	00:55	11:05	tor	Kawhi Leonard makes 17-foot pullup jump shot	60 - 42	60	42	2	0	Kawhi Leonard		makes	pullup jump shot	17					
+401126836	3	01:14	10:46	orl	Aaron Gordon makes 15-foot jumper (Jonathan Isaac assists)	60 - 44	60	44	0	2	Aaron Gordon		makes	jumper	15			Jonathan Isaac	assists	
+401126836	3	01:35	10:25	tor	Marc Gasol misses 22-foot jumper	60 - 44	60	44	0	0	Marc Gasol		misses	jumper	22					
+401126836	3	01:37	10:23	orl	Jonathan Isaac defensive rebound	60 - 44	60	44	0	0	Jonathan Isaac		defensive rebound							
+401126836	3	01:40	10:20	orl	Jonathan Isaac misses 22-foot pullup jump shot	60 - 44	60	44	0	0	Jonathan Isaac		misses	pullup jump shot	22					
+401126836	3	01:43	10:17	tor	Pascal Siakam defensive rebound	60 - 44	60	44	0	0	Pascal Siakam		defensive rebound							
+401126836	3	01:48	10:12	tor	Pascal Siakam misses 25-foot three point jumper	60 - 44	60	44	0	0	Pascal Siakam		misses	jumper	25		three			
+401126836	3	01:50	10:10	orl	Jonathan Isaac defensive rebound	60 - 44	60	44	0	0	Jonathan Isaac		defensive rebound							
+401126836	3	02:03	9:57	tor	Kyle Lowry personal foul	60 - 44	60	44	0	0	Kyle Lowry		foul							
+401126836	3	02:16	9:44	orl	Aaron Gordon makes 18-foot step back jumpshot (Nikola Vucevic assists)	60 - 46	60	46	0	2	Aaron Gordon		makes	step back jumpshot	18			Nikola Vucevic	assists	
+401126836	3	02:36	9:24	tor	Danny Green misses 14-foot pullup jump shot	60 - 46	60	46	0	0	Danny Green		misses	pullup jump shot	14					
+401126836	3	02:38	9:22	orl	Aaron Gordon defensive rebound	60 - 46	60	46	0	0	Aaron Gordon		defensive rebound							
+401126836	3	02:43	9:17	orl	Nikola Vucevic misses 26-foot three point jumper	60 - 46	60	46	0	0	Nikola Vucevic		misses	jumper	26		three			
+401126836	3	02:49	9:11	tor	Marc Gasol defensive rebound	60 - 46	60	46	0	0	Marc Gasol		defensive rebound							
+401126836	3	02:56	9:04	orl	Nikola Vucevic personal foul	60 - 46	60	46	0	0	Nikola Vucevic		foul							
+401126836	3	03:04	8:56	tor	Kyle Lowry makes 26-foot three point jumper (Kawhi Leonard assists)	63 - 46	63	46	3	0	Kyle Lowry		makes	jumper	26		three	Kawhi Leonard	assists	
+401126836	3	03:22	8:38	tor	Kawhi Leonard personal foul	63 - 46	63	46	0	0	Kawhi Leonard		foul							
+401126836	3	03:24	8:36	orl	Evan Fournier bad pass (Danny Green steals)	63 - 46	63	46	0	0	Evan Fournier		bad pass					Danny Green	steals	
+401126836	3	03:31	8:29	tor	Kawhi Leonard makes dunk (Kyle Lowry assists)	65 - 46	65	46	2	0	Kawhi Leonard		makes	dunk				Kyle Lowry	assists	
+401126836	3	03:42	8:18	orl	Nikola Vucevic misses driving floating jump shot	65 - 46	65	46	0	0	Nikola Vucevic		misses	driving floating jump shot						
+401126836	3	03:42	8:18	tor	Marc Gasol defensive rebound	65 - 46	65	46	0	0	Marc Gasol		defensive rebound							
+401126836	3	03:49	8:11	tor	Kyle Lowry out of bounds bad pass turnover	65 - 46	65	46	0	0	Kyle Lowry		turnover							
+401126836	3	04:01	7:59	tor	Marc Gasol personal foul	65 - 46	65	46	0	0	Marc Gasol		foul							
+401126836	3	04:11	7:49	tor	Kawhi Leonard shooting foul	65 - 46	65	46	0	0	Kawhi Leonard		foul							
+401126836	3	04:11	7:49	orl	Nikola Vucevic makes free throw 1 of 2	65 - 47	65	47	0	1	Nikola Vucevic		makes	free throw		1-2				
+401126836	3	04:11	7:49	orl	Nikola Vucevic misses free throw 2 of 2	65 - 47	65	47	0	0	Nikola Vucevic		misses	free throw		2-2				
+401126836	3	04:13	7:47	tor	Kawhi Leonard defensive rebound	65 - 47	65	47	0	0	Kawhi Leonard		defensive rebound							
+401126836	3	04:26	7:34	tor	Marc Gasol misses 6-foot hook shot	65 - 47	65	47	0	0	Marc Gasol		misses	hook shot	6					
+401126836	3	04:30	7:30	orl	Jonathan Isaac defensive rebound	65 - 47	65	47	0	0	Jonathan Isaac		defensive rebound							
+401126836	3	04:37	7:23	orl	Marc Gasol blocks Nikola Vucevic 's 4-foot driving layup	65 - 47	65	47	0	0	Marc Gasol	Nikola Vucevic	blocks	driving layup	4					
+401126836	3	04:37	7:23	orl	Magic offensive team rebound	65 - 47	65	47	0	0			offensive rebound	team						magic
+401126836	3	04:40	7:20	orl	Nikola Vucevic offensive foul	65 - 47	65	47	0	0	Nikola Vucevic		foul							
+401126836	3	04:40	7:20	orl	Nikola Vucevic turnover	65 - 47	65	47	0	0	Nikola Vucevic		turnover							
+401126836	3	04:58	7:02	tor	Kawhi Leonard misses layup	65 - 47	65	47	0	0	Kawhi Leonard		misses	layup						
+401126836	3	05:01	6:59	orl	Aaron Gordon defensive rebound	65 - 47	65	47	0	0	Aaron Gordon		defensive rebound							
+401126836	3	05:04	6:56	orl	D.J. Augustin makes 26-foot three point jumper (Aaron Gordon assists)	65 - 50	65	50	0	3	D.J. Augustin		makes	jumper	26		three	Aaron Gordon	assists	
+401126836	3	05:18	6:42	tor	Pascal Siakam bad pass (Aaron Gordon steals)	65 - 50	65	50	0	0	Pascal Siakam		bad pass					Aaron Gordon	steals	
+401126836	3	05:23	6:37	orl	Aaron Gordon makes 2-foot dunk	65 - 52	65	52	0	2	Aaron Gordon		makes	dunk	2					
+401126836	3	05:23	6:37	tor	Raptors Full timeout	65 - 52	65	52	0	0			full timeout							raptors
+401126836	3	05:45	6:15	tor	Kawhi Leonard makes 27-foot three point jumper (Danny Green assists)	68 - 52	68	52	3	0	Kawhi Leonard		makes	jumper	27		three	Danny Green	assists	
+401126836	3	06:07	5:53	orl	D.J. Augustin misses 27-foot three point jumper	68 - 52	68	52	0	0	D.J. Augustin		misses	jumper	27		three			
+401126836	3	06:10	5:50	tor	Pascal Siakam defensive rebound	68 - 52	68	52	0	0	Pascal Siakam		defensive rebound							
+401126836	3	06:22	5:38	tor	Pascal Siakam makes 2-foot layup (Kyle Lowry assists)	70 - 52	70	52	2	0	Pascal Siakam		makes	layup	2			Kyle Lowry	assists	
+401126836	3	06:37	5:23	orl	Aaron Gordon makes 27-foot three pointer	70 - 55	70	55	0	3	Aaron Gordon		makes	er	27		three			
+401126836	3	06:58	5:02	tor	Kawhi Leonard misses 27-foot three point jumper	70 - 55	70	55	0	0	Kawhi Leonard		misses	jumper	27		three			
+401126836	3	07:01	4:59	orl	Nikola Vucevic defensive rebound	70 - 55	70	55	0	0	Nikola Vucevic		defensive rebound							
+401126836	3	07:19	4:41	orl	Evan Fournier bad pass (Kyle Lowry steals)	70 - 55	70	55	0	0	Evan Fournier		bad pass					Kyle Lowry	steals	
+401126836	3	07:31	4:29	tor	Kyle Lowry bad pass (Nikola Vucevic steals)	70 - 55	70	55	0	0	Kyle Lowry		bad pass					Nikola Vucevic	steals	
+401126836	3	07:38	4:22	orl	Evan Fournier makes 23-foot three point jumper (Aaron Gordon assists)	70 - 58	70	58	0	3	Evan Fournier		makes	jumper	23		three	Aaron Gordon	assists	
+401126836	3	08:04	3:56	tor	Kawhi Leonard makes 13-foot pullup jump shot	72 - 58	72	58	2	0	Kawhi Leonard		makes	pullup jump shot	13					
+401126836	3	08:26	3:34	orl	Aaron Gordon makes 14-foot step back jumpshot	72 - 60	72	60	0	2	Aaron Gordon		makes	step back jumpshot	14					
+401126836	3	08:38	3:22	tor	Kawhi Leonard makes driving layup	74 - 60	74	60	2	0	Kawhi Leonard		makes	driving layup						
+401126836	3	08:38	3:22	orl	Nikola Vucevic shooting foul	74 - 60	74	60	0	0	Nikola Vucevic		foul							
+401126836	3	08:38	3:22	orl	Michael Carter-Williams enters the game for Nikola Vucevic	74 - 60	74	60	0	0	Michael Carter-Williams	Nikola Vucevic	enters the game for							
+401126836	3	08:38	3:22	orl	Khem Birch enters the game for D.J. Augustin	74 - 60	74	60	0	0	Khem Birch	D.J. Augustin	enters the game for							
+401126836	3	08:38	3:22	orl	Terrence Ross enters the game for Jonathan Isaac	74 - 60	74	60	0	0	Terrence Ross	Jonathan Isaac	enters the game for							
+401126836	3	08:38	3:22	tor	Fred VanVleet enters the game for Kyle Lowry	74 - 60	74	60	0	0	Fred VanVleet	Kyle Lowry	enters the game for							
+401126836	3	08:38	3:22	tor	Kawhi Leonard makes free throw 1 of 1	75 - 60	75	60	1	0	Kawhi Leonard		makes	free throw		1-1				
+401126836	3	08:54	3:06	orl	Evan Fournier makes 7-foot two point shot	75 - 62	75	62	0	2	Evan Fournier		makes	shot	7		two			
+401126836	3	09:08	2:52	tor	Kawhi Leonard misses 12-foot pullup jump shot	75 - 62	75	62	0	0	Kawhi Leonard		misses	pullup jump shot	12					
+401126836	3	09:11	2:49	orl	Terrence Ross defensive rebound	75 - 62	75	62	0	0	Terrence Ross		defensive rebound							
+401126836	3	09:21	2:39	orl	Magic Full timeout	75 - 62	75	62	0	0			full timeout							magic
+401126836	3	09:21	2:39	tor	Norman Powell enters the game for Kawhi Leonard	75 - 62	75	62	0	0	Norman Powell	Kawhi Leonard	enters the game for							
+401126836	3	09:21	2:39	tor	Serge Ibaka enters the game for Marc Gasol	75 - 62	75	62	0	0	Serge Ibaka	Marc Gasol	enters the game for							
+401126836	3	09:30	2:30	orl	Khem Birch out of bounds bad pass turnover	75 - 62	75	62	0	0	Khem Birch		turnover							
+401126836	3	09:49	2:11	tor	Fred VanVleet misses 27-foot three point jumper	75 - 62	75	62	0	0	Fred VanVleet		misses	jumper	27		three			
+401126836	3	09:54	2:06	orl	Aaron Gordon defensive rebound	75 - 62	75	62	0	0	Aaron Gordon		defensive rebound							
+401126836	3	09:54	2:06	orl	Aaron Gordon makes 4-foot two point shot	75 - 64	75	64	0	2	Aaron Gordon		makes	shot	4		two			
+401126836	3	09:54	2:06	tor	Danny Green shooting foul	75 - 64	75	64	0	0	Danny Green		foul							
+401126836	3	09:54	2:06	orl	Aaron Gordon makes free throw 1 of 1	75 - 65	75	65	0	1	Aaron Gordon		makes	free throw		1-1				
+401126836	3	10:16	1:44	tor	Norman Powell misses 27-foot three point pullup jump shot	75 - 65	75	65	0	0	Norman Powell		misses	pullup jump shot	27		three			
+401126836	3	10:20	1:40	orl	Michael Carter-Williams defensive rebound	75 - 65	75	65	0	0	Michael Carter-Williams		defensive rebound							
+401126836	3	10:24	1:36	orl	Evan Fournier misses 26-foot three point jumper	75 - 65	75	65	0	0	Evan Fournier		misses	jumper	26		three			
+401126836	3	10:27	1:33	tor	Norman Powell defensive rebound	75 - 65	75	65	0	0	Norman Powell		defensive rebound							
+401126836	3	10:35	1:25	tor	Norman Powell makes layup	77 - 65	77	65	2	0	Norman Powell		makes	layup						
+401126836	3	10:53	1:07	orl	Michael Carter-Williams out of bounds bad pass turnover	77 - 65	77	65	0	0	Michael Carter-Williams		turnover							
+401126836	3	11:14	45.8	tor	Pascal Siakam misses 26-foot three point jumper	77 - 65	77	65	0	0	Pascal Siakam		misses	jumper	26		three			
+401126836	3	11:16	43.6	tor	Serge Ibaka offensive rebound	77 - 65	77	65	0	0	Serge Ibaka		offensive rebound							
+401126836	3	11:16	43.6	orl	Terrence Ross shooting foul	77 - 65	77	65	0	0	Terrence Ross		foul							
+401126836	3	11:16	43.6	tor	Serge Ibaka makes free throw 1 of 2	78 - 65	78	65	1	0	Serge Ibaka		makes	free throw		1-2				
+401126836	3	11:16	43.6	tor	Serge Ibaka makes free throw 2 of 2	79 - 65	79	65	1	0	Serge Ibaka		makes	free throw		2-2				
+401126836	3	11:23	36.9	tor	Danny Green personal foul	79 - 65	79	65	0	0	Danny Green		foul							
+401126836	3	11:23	36.9	orl	Aaron Gordon makes free throw 1 of 2	79 - 66	79	66	0	1	Aaron Gordon		makes	free throw		1-2				
+401126836	3	11:23	36.9	orl	Wes Iwundu enters the game for Evan Fournier	79 - 66	79	66	0	0	Wes Iwundu	Evan Fournier	enters the game for							
+401126836	3	11:23	36.9	orl	Aaron Gordon makes free throw 2 of 2	79 - 67	79	67	0	1	Aaron Gordon		makes	free throw		2-2				
+401126836	3	11:27	32.8	tor	Danny Green makes 28-foot three point jumper (Fred VanVleet assists)	82 - 67	82	67	3	0	Danny Green		makes	jumper	28		three	Fred VanVleet	assists	
+401126836	3	11:49	10.3	orl	Wes Iwundu misses 19-foot pullup jump shot	82 - 67	82	67	0	0	Wes Iwundu		misses	pullup jump shot	19					
+401126836	3	11:53	6.8	tor	Pascal Siakam defensive rebound	82 - 67	82	67	0	0	Pascal Siakam		defensive rebound							
+401126836	3	11:57	2.5	tor	Pascal Siakam lost ball turnover (Michael Carter-Williams steals)	82 - 67	82	67	0	0	Pascal Siakam		turnover					Michael Carter-Williams	steals	
+401126836	3	12:00	0.0	orl	Terrence Ross makes 33-foot three point shot	82 - 70	82	70	0	3	Terrence Ross		makes	shot	33		three			
+401126836	3	12:00	0.0	orl	End of the 3rd Quarter	82 - 70	82	70	0	0			end of the 3rd quarter							
+401126836	4	00:00	12:00	tor	Kyle Lowry enters the game for Danny Green	82 - 70	82	70	0	0	Kyle Lowry	Danny Green	enters the game for							
+401126836	4	00:12	11:48	tor	Serge Ibaka makes 20-foot jumper (Kyle Lowry assists)	84 - 70	84	70	2	0	Serge Ibaka		makes	jumper	20			Kyle Lowry	assists	
+401126836	4	00:38	11:22	orl	Aaron Gordon makes two point shot	84 - 72	84	72	0	2	Aaron Gordon		makes	shot			two			
+401126836	4	00:59	11:01	tor	Fred VanVleet misses driving layup	84 - 72	84	72	0	0	Fred VanVleet		misses	driving layup						
+401126836	4	01:01	10:59	orl	Khem Birch defensive rebound	84 - 72	84	72	0	0	Khem Birch		defensive rebound							
+401126836	4	01:07	10:53	orl	Terrence Ross misses 28-foot three point jumper	84 - 72	84	72	0	0	Terrence Ross		misses	jumper	28		three			
+401126836	4	01:11	10:49	tor	Kyle Lowry defensive rebound	84 - 72	84	72	0	0	Kyle Lowry		defensive rebound							
+401126836	4	01:29	10:31	tor	Serge Ibaka makes two point shot (Fred VanVleet assists)	86 - 72	86	72	2	0	Serge Ibaka		makes	shot			two	Fred VanVleet	assists	
+401126836	4	01:43	10:17	orl	Aaron Gordon misses 28-foot three point pullup jump shot	86 - 72	86	72	0	0	Aaron Gordon		misses	pullup jump shot	28		three			
+401126836	4	01:46	10:14	tor	Serge Ibaka defensive rebound	86 - 72	86	72	0	0	Serge Ibaka		defensive rebound							
+401126836	4	01:59	10:01	tor	Kyle Lowry misses 26-foot step back jumpshot	86 - 72	86	72	0	0	Kyle Lowry		misses	step back jumpshot	26					
+401126836	4	02:01	9:59	orl	Terrence Ross defensive rebound	86 - 72	86	72	0	0	Terrence Ross		defensive rebound							
+401126836	4	02:04	9:56	tor	Fred VanVleet personal foul	86 - 72	86	72	0	0	Fred VanVleet		foul							
+401126836	4	02:04	9:56	tor	Kawhi Leonard enters the game for Pascal Siakam	86 - 72	86	72	0	0	Kawhi Leonard	Pascal Siakam	enters the game for							
+401126836	4	02:13	9:47	orl	Khem Birch makes driving layup (Wes Iwundu assists)	86 - 74	86	74	0	2	Khem Birch		makes	driving layup				Wes Iwundu	assists	
+401126836	4	02:13	9:47	tor	Kyle Lowry shooting foul	86 - 74	86	74	0	0	Kyle Lowry		foul							
+401126836	4	02:13	9:47	orl	Khem Birch makes free throw 1 of 1	86 - 75	86	75	0	1	Khem Birch		makes	free throw		1-1				
+401126836	4	02:32	9:28	tor	Norman Powell makes layup	88 - 75	88	75	2	0	Norman Powell		makes	layup						
+401126836	4	02:41	9:19	tor	Fred VanVleet personal foul	88 - 75	88	75	0	0	Fred VanVleet		foul							
+401126836	4	02:46	9:14	orl	Michael Carter-Williams bad pass (Fred VanVleet steals)	88 - 75	88	75	0	0	Michael Carter-Williams		bad pass					Fred VanVleet	steals	
+401126836	4	02:46	9:14	orl	Terrence Ross shooting foul	88 - 75	88	75	0	0	Terrence Ross		foul							
+401126836	4	02:46	9:14	tor	Fred VanVleet makes free throw 1 of 2	89 - 75	89	75	1	0	Fred VanVleet		makes	free throw		1-2				
+401126836	4	02:46	9:14	tor	Fred VanVleet makes free throw 2 of 2	90 - 75	90	75	1	0	Fred VanVleet		makes	free throw		2-2				
+401126836	4	02:57	9:03	orl	Terrence Ross traveling	90 - 75	90	75	0	0	Terrence Ross		traveling							
+401126836	4	03:19	8:41	tor	Khem Birch blocks Kyle Lowry 's 2-foot driving layup	90 - 75	90	75	0	0	Khem Birch	Kyle Lowry	blocks	driving layup	2					
+401126836	4	03:19	8:41	orl	Wes Iwundu defensive rebound	90 - 75	90	75	0	0	Wes Iwundu		defensive rebound							
+401126836	4	03:23	8:37	orl	Kawhi Leonard blocks Wes Iwundu 's 3-foot two point shot	90 - 75	90	75	0	0	Kawhi Leonard	Wes Iwundu	blocks	shot	3		two			
+401126836	4	03:27	8:33	tor	Norman Powell defensive rebound	90 - 75	90	75	0	0	Norman Powell		defensive rebound							
+401126836	4	03:39	8:21	tor	Kawhi Leonard makes driving layup	92 - 75	92	75	2	0	Kawhi Leonard		makes	driving layup						
+401126836	4	03:39	8:21	orl	Magic Full timeout	92 - 75	92	75	0	0			full timeout							magic
+401126836	4	03:39	8:21	orl	Nikola Vucevic enters the game for Aaron Gordon	92 - 75	92	75	0	0	Nikola Vucevic	Aaron Gordon	enters the game for							
+401126836	4	03:39	8:21	orl	Jonathan Isaac enters the game for Michael Carter-Williams	92 - 75	92	75	0	0	Jonathan Isaac	Michael Carter-Williams	enters the game for							
+401126836	4	03:39	8:21	orl	Evan Fournier enters the game for Khem Birch	92 - 75	92	75	0	0	Evan Fournier	Khem Birch	enters the game for							
+401126836	4	03:39	8:21	orl	D.J. Augustin enters the game for Wes Iwundu	92 - 75	92	75	0	0	D.J. Augustin	Wes Iwundu	enters the game for							
+401126836	4	03:54	8:06	orl	Nikola Vucevic misses 8-foot hook shot	92 - 75	92	75	0	0	Nikola Vucevic		misses	hook shot	8					
+401126836	4	03:56	8:04	tor	Fred VanVleet defensive rebound	92 - 75	92	75	0	0	Fred VanVleet		defensive rebound							
+401126836	4	04:01	7:59	orl	D.J. Augustin personal foul	92 - 75	92	75	0	0	D.J. Augustin		foul							
+401126836	4	04:19	7:41	tor	Norman Powell misses 22-foot jumper	92 - 75	92	75	0	0	Norman Powell		misses	jumper	22					
+401126836	4	04:22	7:38	orl	Evan Fournier defensive rebound	92 - 75	92	75	0	0	Evan Fournier		defensive rebound							
+401126836	4	04:29	7:31	orl	Evan Fournier misses 26-foot three point jumper	92 - 75	92	75	0	0	Evan Fournier		misses	jumper	26		three			
+401126836	4	04:32	7:28	tor	Serge Ibaka defensive rebound	92 - 75	92	75	0	0	Serge Ibaka		defensive rebound							
+401126836	4	04:36	7:24	orl	Terrence Ross personal foul	92 - 75	92	75	0	0	Terrence Ross		foul							
+401126836	4	04:45	7:15	tor	Kawhi Leonard misses 28-foot three point pullup jump shot	92 - 75	92	75	0	0	Kawhi Leonard		misses	pullup jump shot	28		three			
+401126836	4	04:49	7:11	orl	Nikola Vucevic defensive rebound	92 - 75	92	75	0	0	Nikola Vucevic		defensive rebound							
+401126836	4	04:52	7:08	orl	Evan Fournier bad pass (Kawhi Leonard steals)	92 - 75	92	75	0	0	Evan Fournier		bad pass					Kawhi Leonard	steals	
+401126836	4	05:07	6:53	tor	Norman Powell makes two point shot (Kyle Lowry assists)	94 - 75	94	75	2	0	Norman Powell		makes	shot			two	Kyle Lowry	assists	
+401126836	4	05:23	6:37	orl	Nikola Vucevic misses 21-foot jumper	94 - 75	94	75	0	0	Nikola Vucevic		misses	jumper	21					
+401126836	4	05:27	6:33	tor	Norman Powell defensive rebound	94 - 75	94	75	0	0	Norman Powell		defensive rebound							
+401126836	4	05:35	6:25	orl	Aaron Gordon enters the game for Jonathan Isaac	94 - 75	94	75	0	0	Aaron Gordon	Jonathan Isaac	enters the game for							
+401126836	4	05:35	6:25	tor	Kawhi Leonard vs. Nikola Vucevic (Norman Powell gains possession)	94 - 75	94	75	0	0	Kawhi Leonard	Nikola Vucevic	vs.					Norman Powell	gains possession	
+401126836	4	05:50	6:10	tor	Kawhi Leonard misses 13-foot hook shot	94 - 75	94	75	0	0	Kawhi Leonard		misses	hook shot	13					
+401126836	4	05:50	6:10	tor	Serge Ibaka offensive rebound	94 - 75	94	75	0	0	Serge Ibaka		offensive rebound							
+401126836	4	05:54	6:06	tor	Serge Ibaka makes hook shot	96 - 75	96	75	2	0	Serge Ibaka		makes	hook shot						
+401126836	4	06:04	5:56	orl	Evan Fournier makes driving layup (D.J. Augustin assists)	96 - 77	96	77	0	2	Evan Fournier		makes	driving layup				D.J. Augustin	assists	
+401126836	4	06:14	5:46	tor	Raptors Full timeout	96 - 77	96	77	0	0			full timeout							raptors
+401126836	4	06:27	5:33	tor	Kyle Lowry bad pass (Terrence Ross steals)	96 - 77	96	77	0	0	Kyle Lowry		bad pass					Terrence Ross	steals	
+401126836	4	06:42	5:18	orl	Nikola Vucevic makes 5-foot two point shot (Aaron Gordon assists)	96 - 79	96	79	0	2	Nikola Vucevic		makes	shot	5		two	Aaron Gordon	assists	
+401126836	4	06:55	5:05	tor	Serge Ibaka out of bounds lost ball turnover	96 - 79	96	79	0	0	Serge Ibaka		turnover							
+401126836	4	07:11	4:49	orl	Evan Fournier misses 23-foot three point jumper	96 - 79	96	79	0	0	Evan Fournier		misses	jumper	23		three			
+401126836	4	07:16	4:44	tor	Serge Ibaka defensive rebound	96 - 79	96	79	0	0	Serge Ibaka		defensive rebound							
+401126836	4	07:30	4:30	tor	Norman Powell makes 17-foot pullup jump shot	98 - 79	98	79	2	0	Norman Powell		makes	pullup jump shot	17					
+401126836	4	07:50	4:10	orl	Evan Fournier misses 27-foot three point pullup jump shot	98 - 79	98	79	0	0	Evan Fournier		misses	pullup jump shot	27		three			
+401126836	4	07:54	4:06	tor	Fred VanVleet defensive rebound	98 - 79	98	79	0	0	Fred VanVleet		defensive rebound							
+401126836	4	08:03	3:57	orl	Terrence Ross shooting foul	98 - 79	98	79	0	0	Terrence Ross		foul							
+401126836	4	08:03	3:57	tor	Fred VanVleet makes free throw 1 of 2	99 - 79	99	79	1	0	Fred VanVleet		makes	free throw		1-2				
+401126836	4	08:03	3:57	tor	Pascal Siakam enters the game for Serge Ibaka	99 - 79	99	79	0	0	Pascal Siakam	Serge Ibaka	enters the game for							
+401126836	4	08:03	3:57	tor	Marc Gasol enters the game for Norman Powell	99 - 79	99	79	0	0	Marc Gasol	Norman Powell	enters the game for							
+401126836	4	08:03	3:57	tor	Fred VanVleet makes free throw 2 of 2	100 - 79	100	79	1	0	Fred VanVleet		makes	free throw		2-2				
+401126836	4	08:21	3:39	orl	Evan Fournier lost ball turnover (Kyle Lowry steals)	100 - 79	100	79	0	0	Evan Fournier		turnover					Kyle Lowry	steals	
+401126836	4	08:26	3:34	tor	Pascal Siakam makes alley oop dunk shot (Fred VanVleet assists)	102 - 79	102	79	2	0	Pascal Siakam		makes	alley oop dunk shot				Fred VanVleet	assists	
+401126836	4	08:47	3:13	orl	Evan Fournier makes 28-foot three point jumper (Terrence Ross assists)	102 - 82	102	82	0	3	Evan Fournier		makes	jumper	28		three	Terrence Ross	assists	
+401126836	4	09:08	2:52	orl	Aaron Gordon shooting foul	102 - 82	102	82	0	0	Aaron Gordon		foul							
+401126836	4	09:08	2:52	orl	Magic Full timeout	102 - 82	102	82	0	0			full timeout							magic
+401126836	4	09:08	2:52	orl	Khem Birch enters the game for Aaron Gordon	102 - 82	102	82	0	0	Khem Birch	Aaron Gordon	enters the game for							
+401126836	4	09:08	2:52	orl	Jerian Grant enters the game for Nikola Vucevic	102 - 82	102	82	0	0	Jerian Grant	Nikola Vucevic	enters the game for							
+401126836	4	09:08	2:52	orl	Wes Iwundu enters the game for Evan Fournier	102 - 82	102	82	0	0	Wes Iwundu	Evan Fournier	enters the game for							
+401126836	4	09:08	2:52	orl	Jarell Martin enters the game for D.J. Augustin	102 - 82	102	82	0	0	Jarell Martin	D.J. Augustin	enters the game for							
+401126836	4	09:08	2:52	orl	Melvin Frazier Jr. enters the game for Terrence Ross	102 - 82	102	82	0	0	Melvin Frazier Jr.	Terrence Ross	enters the game for							
+401126836	4	09:08	2:52	tor	Norman Powell enters the game for Kyle Lowry	102 - 82	102	82	0	0	Norman Powell	Kyle Lowry	enters the game for							
+401126836	4	09:08	2:52	tor	Patrick McCaw enters the game for Pascal Siakam	102 - 82	102	82	0	0	Patrick McCaw	Pascal Siakam	enters the game for							
+401126836	4	09:08	2:52	tor	Kawhi Leonard makes free throw 1 of 2	103 - 82	103	82	1	0	Kawhi Leonard		makes	free throw		1-2				
+401126836	4	09:08	2:52	tor	Kawhi Leonard makes free throw 2 of 2	104 - 82	104	82	1	0	Kawhi Leonard		makes	free throw		2-2				
+401126836	4	09:12	2:48	tor	Patrick McCaw personal take foul	104 - 82	104	82	0	0	Patrick McCaw		foul							
+401126836	4	09:12	2:48	tor	Jeremy Lin enters the game for Kawhi Leonard	104 - 82	104	82	0	0	Jeremy Lin	Kawhi Leonard	enters the game for							
+401126836	4	09:12	2:48	tor	Jodie Meeks enters the game for Fred VanVleet	104 - 82	104	82	0	0	Jodie Meeks	Fred VanVleet	enters the game for							
+401126836	4	09:12	2:48	tor	Eric Moreland enters the game for Marc Gasol	104 - 82	104	82	0	0	Eric Moreland	Marc Gasol	enters the game for							
+401126836	4	09:19	2:41	orl	Jerian Grant misses 26-foot three point pullup jump shot	104 - 82	104	82	0	0	Jerian Grant		misses	pullup jump shot	26		three			
+401126836	4	09:22	2:38	tor	Jodie Meeks defensive rebound	104 - 82	104	82	0	0	Jodie Meeks		defensive rebound							
+401126836	4	09:36	2:24	tor	Norman Powell makes driving layup	106 - 82	106	82	2	0	Norman Powell		makes	driving layup						
+401126836	4	09:36	2:24	orl	Jarell Martin shooting foul	106 - 82	106	82	0	0	Jarell Martin		foul							
+401126836	4	09:36	2:24	tor	Norman Powell makes free throw 1 of 1	107 - 82	107	82	1	0	Norman Powell		makes	free throw		1-1				
+401126836	4	09:50	2:10	orl	Jarell Martin misses 23-foot three point jumper	107 - 82	107	82	0	0	Jarell Martin		misses	jumper	23		three			
+401126836	4	09:53	2:07	tor	Eric Moreland defensive rebound	107 - 82	107	82	0	0	Eric Moreland		defensive rebound							
+401126836	4	10:00	2:00	tor	Jeremy Lin out of bounds bad pass turnover	107 - 82	107	82	0	0	Jeremy Lin		turnover							
+401126836	4	10:00	2:00	tor	Malcolm Miller enters the game for Norman Powell	107 - 82	107	82	0	0	Malcolm Miller	Norman Powell	enters the game for							
+401126836	4	10:08	1:52	tor	Eric Moreland shooting foul	107 - 82	107	82	0	0	Eric Moreland		foul							
+401126836	4	10:08	1:52	orl	Melvin Frazier Jr. makes free throw 1 of 2	107 - 83	107	83	0	1	Melvin Frazier Jr.		makes	free throw		1-2				
+401126836	4	10:08	1:52	orl	Melvin Frazier Jr. misses free throw 2 of 2	107 - 83	107	83	0	0	Melvin Frazier Jr.		misses	free throw		2-2				
+401126836	4	10:11	1:49	tor	Eric Moreland defensive rebound	107 - 83	107	83	0	0	Eric Moreland		defensive rebound							
+401126836	4	10:27	1:33	tor	Jodie Meeks misses 23-foot pullup jump shot	107 - 83	107	83	0	0	Jodie Meeks		misses	pullup jump shot	23					
+401126836	4	10:29	1:31	orl	Khem Birch defensive rebound	107 - 83	107	83	0	0	Khem Birch		defensive rebound							
+401126836	4	10:42	1:18	orl	Jerian Grant misses 28-foot three point jumper	107 - 83	107	83	0	0	Jerian Grant		misses	jumper	28		three			
+401126836	4	10:46	1:14	tor	Jeremy Lin defensive rebound	107 - 83	107	83	0	0	Jeremy Lin		defensive rebound							
+401126836	4	10:50	1:10	tor	Jeremy Lin bad pass (Wes Iwundu steals)	107 - 83	107	83	0	0	Jeremy Lin		bad pass					Wes Iwundu	steals	
+401126836	4	10:56	1:04	orl	Jerian Grant misses 28-foot step back jumpshot	107 - 83	107	83	0	0	Jerian Grant		misses	step back jumpshot	28					
+401126836	4	11:00	1:00	tor	Malcolm Miller defensive rebound	107 - 83	107	83	0	0	Malcolm Miller		defensive rebound							
+401126836	4	11:05	54.3	tor	Jeremy Lin misses 22-foot step back jumpshot	107 - 83	107	83	0	0	Jeremy Lin		misses	step back jumpshot	22					
+401126836	4	11:09	50.8	orl	Khem Birch defensive rebound	107 - 83	107	83	0	0	Khem Birch		defensive rebound							
+401126836	4	11:23	36.3	orl	Jarell Martin makes driving layup (Wes Iwundu assists)	107 - 85	107	85	0	2	Jarell Martin		makes	driving layup				Wes Iwundu	assists	
+401126836	4	11:33	26.9	tor	Jeremy Lin bad pass (Melvin Frazier Jr. steals)	107 - 85	107	85	0	0	Jeremy Lin		bad pass					Melvin Frazier Jr.	steals	
+401126836	4	11:38	22.0	orl	Jarell Martin misses 27-foot three point jumper	107 - 85	107	85	0	0	Jarell Martin		misses	jumper	27		three			
+401126836	4	11:38	21.4	orl	Magic offensive team rebound	107 - 85	107	85	0	0			offensive rebound	team						magic
+401126836	4	11:47	12.8	orl	Jerian Grant misses 27-foot three point pullup jump shot	107 - 85	107	85	0	0	Jerian Grant		misses	pullup jump shot	27		three			
+401126836	4	11:50	9.4	tor	Jeremy Lin defensive rebound	107 - 85	107	85	0	0	Jeremy Lin		defensive rebound							
+401126836	4	12:00	0.0	orl	End of the 4th Quarter	107 - 85	107	85	0	0			end of the 4th quarter							
+401126836	4	12:00	0.0	orl	End of Game	107 - 85	107	85	0	0			end of game							

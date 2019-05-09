@@ -1,0 +1,428 @@
+game_id	quarter	q_time	q_time_remaining	team	event	score	team1_score	team2_score	team1_event_point	team2_event_point	player1	player2	action	action_what	foot_value	free_throw	point_info	player_secondary	action_secondary	team_action
+401126835	1	00:00	12:00	sa	Nikola Jokic vs. Jakob Poeltl (Derrick White gains possession)	0 - 0	0	0	0	0	Nikola Jokic	Jakob Poeltl	vs.					Derrick White	gains possession	
+401126835	1	00:16	11:44	sa	DeMar DeRozan makes 12-foot two point shot (LaMarcus Aldridge assists)	0 - 2	0	2	0	2	DeMar DeRozan		makes	shot	12		two	LaMarcus Aldridge	assists	
+401126835	1	00:36	11:24	den	Nikola Jokic misses driving layup	0 - 2	0	2	0	0	Nikola Jokic		misses	driving layup						
+401126835	1	00:37	11:23	sa	Spurs defensive team rebound	0 - 2	0	2	0	0			defensive rebound	team						spurs
+401126835	1	00:37	11:23	den	Nikola Jokic loose ball foul	0 - 2	0	2	0	0	Nikola Jokic		foul							
+401126835	1	00:54	11:06	sa	LaMarcus Aldridge makes 12-foot pullup jump shot (DeMar DeRozan assists)	0 - 4	0	4	0	2	LaMarcus Aldridge		makes	pullup jump shot	12			DeMar DeRozan	assists	
+401126835	1	01:12	10:48	den	Nikola Jokic out of bounds bad pass turnover	0 - 4	0	4	0	0	Nikola Jokic		turnover							
+401126835	1	01:22	10:38	sa	LaMarcus Aldridge misses alley oop dunk shot	0 - 4	0	4	0	0	LaMarcus Aldridge		misses	alley oop dunk shot						
+401126835	1	01:26	10:34	den	Torrey Craig defensive rebound	0 - 4	0	4	0	0	Torrey Craig		defensive rebound							
+401126835	1	01:30	10:30	den	Gary Harris makes driving layup (Nikola Jokic assists)	2 - 4	2	4	2	0	Gary Harris		makes	driving layup				Nikola Jokic	assists	
+401126835	1	01:43	10:17	sa	LaMarcus Aldridge makes 10-foot two point shot	2 - 6	2	6	0	2	LaMarcus Aldridge		makes	shot	10		two			
+401126835	1	02:00	10:00	den	Nikola Jokic misses driving floating jump shot	2 - 6	2	6	0	0	Nikola Jokic		misses	driving floating jump shot						
+401126835	1	02:05	9:55	den	Nikola Jokic offensive rebound	2 - 6	2	6	0	0	Nikola Jokic		offensive rebound							
+401126835	1	02:05	9:55	den	Nikola Jokic makes tip shot	4 - 6	4	6	2	0	Nikola Jokic		makes	tip shot						
+401126835	1	02:17	9:43	sa	Jakob Poeltl makes 5-foot layup (DeMar DeRozan assists)	4 - 8	4	8	0	2	Jakob Poeltl		makes	layup	5			DeMar DeRozan	assists	
+401126835	1	02:30	9:30	den	Derrick White blocks Torrey Craig 's 4-foot layup	4 - 8	4	8	0	0	Derrick White	Torrey Craig	blocks	layup	4					
+401126835	1	02:30	9:30	den	Nuggets offensive team rebound	4 - 8	4	8	0	0			offensive rebound	team						nuggets
+401126835	1	02:36	9:24	den	Paul Millsap makes 6-foot two point shot	6 - 8	6	8	2	0	Paul Millsap		makes	shot	6		two			
+401126835	1	02:50	9:10	sa	Jakob Poeltl makes 4-foot layup (LaMarcus Aldridge assists)	6 - 10	6	10	0	2	Jakob Poeltl		makes	layup	4			LaMarcus Aldridge	assists	
+401126835	1	03:03	8:57	sa	Jakob Poeltl shooting foul	6 - 10	6	10	0	0	Jakob Poeltl		foul							
+401126835	1	03:03	8:57	den	Nikola Jokic makes free throw 1 of 2	7 - 10	7	10	1	0	Nikola Jokic		makes	free throw		1-2				
+401126835	1	03:03	8:57	den	Nikola Jokic makes free throw 2 of 2	8 - 10	8	10	1	0	Nikola Jokic		makes	free throw		2-2				
+401126835	1	03:20	8:40	sa	Derrick White misses 6-foot pullup jump shot	8 - 10	8	10	0	0	Derrick White		misses	pullup jump shot	6					
+401126835	1	03:23	8:37	sa	Jakob Poeltl offensive rebound	8 - 10	8	10	0	0	Jakob Poeltl		offensive rebound							
+401126835	1	03:27	8:33	sa	DeMar DeRozan misses 20-foot pullup jump shot	8 - 10	8	10	0	0	DeMar DeRozan		misses	pullup jump shot	20					
+401126835	1	03:30	8:30	den	Paul Millsap defensive rebound	8 - 10	8	10	0	0	Paul Millsap		defensive rebound							
+401126835	1	03:45	8:15	den	Jamal Murray misses two point shot	8 - 10	8	10	0	0	Jamal Murray		misses	shot			two			
+401126835	1	03:48	8:12	sa	DeMar DeRozan defensive rebound	8 - 10	8	10	0	0	DeMar DeRozan		defensive rebound							
+401126835	1	03:54	8:06	sa	Derrick White makes driving layup (DeMar DeRozan assists)	8 - 12	8	12	0	2	Derrick White		makes	driving layup				DeMar DeRozan	assists	
+401126835	1	04:12	7:48	den	Nikola Jokic misses 26-foot three point jumper	8 - 12	8	12	0	0	Nikola Jokic		misses	jumper	26		three			
+401126835	1	04:12	7:48	sa	Jakob Poeltl defensive rebound	8 - 12	8	12	0	0	Jakob Poeltl		defensive rebound							
+401126835	1	04:33	7:27	sa	LaMarcus Aldridge makes 24-foot three point jumper (DeMar DeRozan assists)	8 - 15	8	15	0	3	LaMarcus Aldridge		makes	jumper	24		three	DeMar DeRozan	assists	
+401126835	1	04:34	7:26	den	Nuggets Full timeout	8 - 15	8	15	0	0			full timeout							nuggets
+401126835	1	04:56	7:04	den	Nikola Jokic makes 7-foot hook shot	10 - 15	10	15	2	0	Nikola Jokic		makes	hook shot	7					
+401126835	1	05:03	6:57	den	Torrey Craig personal foul	10 - 15	10	15	0	0	Torrey Craig		foul							
+401126835	1	05:05	6:55	sa	Bryn Forbes offensive foul	10 - 15	10	15	0	0	Bryn Forbes		foul							
+401126835	1	05:05	6:55	sa	Bryn Forbes turnover	10 - 15	10	15	0	0	Bryn Forbes		turnover							
+401126835	1	05:16	6:44	den	Nikola Jokic misses 27-foot three point jumper	10 - 15	10	15	0	0	Nikola Jokic		misses	jumper	27		three			
+401126835	1	05:19	6:41	sa	Bryn Forbes defensive rebound	10 - 15	10	15	0	0	Bryn Forbes		defensive rebound							
+401126835	1	05:32	6:28	sa	LaMarcus Aldridge misses jumper	10 - 15	10	15	0	0	LaMarcus Aldridge		misses	jumper						
+401126835	1	05:35	6:25	den	Jamal Murray defensive rebound	10 - 15	10	15	0	0	Jamal Murray		defensive rebound							
+401126835	1	05:48	6:12	den	Jamal Murray misses 23-foot three point jumper	10 - 15	10	15	0	0	Jamal Murray		misses	jumper	23		three			
+401126835	1	05:52	6:08	sa	LaMarcus Aldridge defensive rebound	10 - 15	10	15	0	0	LaMarcus Aldridge		defensive rebound							
+401126835	1	06:01	5:59	sa	Bryn Forbes makes 26-foot three point jumper (DeMar DeRozan assists)	10 - 18	10	18	0	3	Bryn Forbes		makes	jumper	26		three	DeMar DeRozan	assists	
+401126835	1	06:16	5:44	den	Gary Harris makes layup (Nikola Jokic assists)	12 - 18	12	18	2	0	Gary Harris		makes	layup				Nikola Jokic	assists	
+401126835	1	06:31	5:29	sa	LaMarcus Aldridge makes 4-foot layup (Derrick White assists)	12 - 20	12	20	0	2	LaMarcus Aldridge		makes	layup	4			Derrick White	assists	
+401126835	1	06:42	5:18	den	Paul Millsap misses 26-foot three point jumper	12 - 20	12	20	0	0	Paul Millsap		misses	jumper	26		three			
+401126835	1	06:43	5:17	den	Nuggets offensive team rebound	12 - 20	12	20	0	0			offensive rebound	team						nuggets
+401126835	1	06:44	5:16	sa	Jakob Poeltl loose ball foul	12 - 20	12	20	0	0	Jakob Poeltl		foul							
+401126835	1	06:44	5:16	sa	Rudy Gay enters the game for Jakob Poeltl	12 - 20	12	20	0	0	Rudy Gay	Jakob Poeltl	enters the game for							
+401126835	1	06:44	5:16	sa	Patty Mills enters the game for Derrick White	12 - 20	12	20	0	0	Patty Mills	Derrick White	enters the game for							
+401126835	1	06:56	5:04	den	Jamal Murray misses driving floating jump shot	12 - 20	12	20	0	0	Jamal Murray		misses	driving floating jump shot						
+401126835	1	07:00	5:00	sa	LaMarcus Aldridge defensive rebound	12 - 20	12	20	0	0	LaMarcus Aldridge		defensive rebound							
+401126835	1	07:11	4:49	sa	Bryn Forbes makes 17-foot two point shot	12 - 22	12	22	0	2	Bryn Forbes		makes	shot	17		two			
+401126835	1	07:22	4:38	den	Nikola Jokic misses 6-foot two point shot	12 - 22	12	22	0	0	Nikola Jokic		misses	shot	6		two			
+401126835	1	07:22	4:38	den	Gary Harris offensive rebound	12 - 22	12	22	0	0	Gary Harris		offensive rebound							
+401126835	1	07:33	4:27	den	Paul Millsap makes 6-foot layup (Torrey Craig assists)	14 - 22	14	22	2	0	Paul Millsap		makes	layup	6			Torrey Craig	assists	
+401126835	1	07:47	4:13	sa	Rudy Gay makes pullup jump shot (Patty Mills assists)	14 - 24	14	24	0	2	Rudy Gay		makes	pullup jump shot				Patty Mills	assists	
+401126835	1	08:11	3:49	den	Paul Millsap makes 10-foot pullup jump shot	16 - 24	16	24	2	0	Paul Millsap		makes	pullup jump shot	10					
+401126835	1	08:19	3:41	sa	Spurs Full timeout	16 - 24	16	24	0	0			full timeout							spurs
+401126835	1	08:19	3:41	den	Monte Morris enters the game for Torrey Craig	16 - 24	16	24	0	0	Monte Morris	Torrey Craig	enters the game for							
+401126835	1	08:19	3:41	den	Malik Beasley enters the game for Jamal Murray	16 - 24	16	24	0	0	Malik Beasley	Jamal Murray	enters the game for							
+401126835	1	08:26	3:34	sa	Bryn Forbes makes 20-foot pullup jump shot	16 - 26	16	26	0	2	Bryn Forbes		makes	pullup jump shot	20					
+401126835	1	08:40	3:20	den	Paul Millsap makes driving layup (Monte Morris assists)	18 - 26	18	26	2	0	Paul Millsap		makes	driving layup				Monte Morris	assists	
+401126835	1	08:56	3:04	sa	LaMarcus Aldridge makes 14-foot step back jumpshot	18 - 28	18	28	0	2	LaMarcus Aldridge		makes	step back jumpshot	14					
+401126835	1	09:07	2:53	sa	Bryn Forbes personal foul	18 - 28	18	28	0	0	Bryn Forbes		foul							
+401126835	1	09:07	2:53	sa	Marco Belinelli enters the game for Bryn Forbes	18 - 28	18	28	0	0	Marco Belinelli	Bryn Forbes	enters the game for							
+401126835	1	09:20	2:40	den	Paul Millsap makes layup (Gary Harris assists)	20 - 28	20	28	2	0	Paul Millsap		makes	layup				Gary Harris	assists	
+401126835	1	09:30	2:30	sa	Patty Mills makes driving layup	20 - 30	20	30	0	2	Patty Mills		makes	driving layup						
+401126835	1	09:35	2:25	den	Gary Harris makes driving layup (Nikola Jokic assists)	22 - 30	22	30	2	0	Gary Harris		makes	driving layup				Nikola Jokic	assists	
+401126835	1	09:47	2:13	sa	Nikola Jokic blocks DeMar DeRozan 's 6-foot driving layup	22 - 30	22	30	0	0	Nikola Jokic	DeMar DeRozan	blocks	driving layup	6					
+401126835	1	09:47	2:13	den	Nikola Jokic defensive rebound	22 - 30	22	30	0	0	Nikola Jokic		defensive rebound							
+401126835	1	09:55	2:05	den	Malik Beasley misses 24-foot three point jumper	22 - 30	22	30	0	0	Malik Beasley		misses	jumper	24		three			
+401126835	1	09:55	2:05	sa	Patty Mills defensive rebound	22 - 30	22	30	0	0	Patty Mills		defensive rebound							
+401126835	1	10:07	1:53	den	Will Barton enters the game for Gary Harris	22 - 30	22	30	0	0	Will Barton	Gary Harris	enters the game for							
+401126835	1	10:07	1:53	den	Mason Plumlee enters the game for Nikola Jokic	22 - 30	22	30	0	0	Mason Plumlee	Nikola Jokic	enters the game for							
+401126835	1	10:18	1:42	sa	Mason Plumlee blocks LaMarcus Aldridge 's 5-foot driving layup	22 - 30	22	30	0	0	Mason Plumlee	LaMarcus Aldridge	blocks	driving layup	5					
+401126835	1	10:19	1:41	sa	LaMarcus Aldridge offensive rebound	22 - 30	22	30	0	0	LaMarcus Aldridge		offensive rebound							
+401126835	1	10:20	1:40	sa	DeMar DeRozan lost ball turnover (Will Barton steals)	22 - 30	22	30	0	0	DeMar DeRozan		turnover					Will Barton	steals	
+401126835	1	10:21	1:39	sa	Marco Belinelli shooting foul	22 - 30	22	30	0	0	Marco Belinelli		foul							
+401126835	1	10:21	1:39	den	Mason Plumlee makes free throw 1 of 2	23 - 30	23	30	1	0	Mason Plumlee		makes	free throw		1-2				
+401126835	1	10:21	1:39	sa	Jakob Poeltl enters the game for DeMar DeRozan	23 - 30	23	30	0	0	Jakob Poeltl	DeMar DeRozan	enters the game for							
+401126835	1	10:21	1:39	den	Torrey Craig enters the game for Paul Millsap	23 - 30	23	30	0	0	Torrey Craig	Paul Millsap	enters the game for							
+401126835	1	10:21	1:39	den	Mason Plumlee makes free throw 2 of 2	24 - 30	24	30	1	0	Mason Plumlee		makes	free throw		2-2				
+401126835	1	10:39	1:21	sa	Patty Mills misses 27-foot three point jumper	24 - 30	24	30	0	0	Patty Mills		misses	jumper	27		three			
+401126835	1	10:44	1:16	den	Mason Plumlee defensive rebound	24 - 30	24	30	0	0	Mason Plumlee		defensive rebound							
+401126835	1	11:01	58.8	den	Will Barton misses 27-foot three point pullup jump shot	24 - 30	24	30	0	0	Will Barton		misses	pullup jump shot	27		three			
+401126835	1	11:03	56.4	sa	LaMarcus Aldridge defensive rebound	24 - 30	24	30	0	0	LaMarcus Aldridge		defensive rebound							
+401126835	1	11:12	47.6	den	Will Barton personal foul	24 - 30	24	30	0	0	Will Barton		foul							
+401126835	1	11:20	39.8	sa	LaMarcus Aldridge makes driving dunk (Patty Mills assists)	24 - 32	24	32	0	2	LaMarcus Aldridge		makes	driving dunk				Patty Mills	assists	
+401126835	1	11:30	29.6	den	Monte Morris misses 9-foot two point shot	24 - 32	24	32	0	0	Monte Morris		misses	shot	9		two			
+401126835	1	11:32	27.3	sa	Jakob Poeltl defensive rebound	24 - 32	24	32	0	0	Jakob Poeltl		defensive rebound							
+401126835	1	11:47	12.4	sa	Rudy Gay misses two point shot	24 - 32	24	32	0	0	Rudy Gay		misses	shot			two			
+401126835	1	11:50	9.4	sa	Jakob Poeltl offensive rebound	24 - 32	24	32	0	0	Jakob Poeltl		offensive rebound							
+401126835	1	11:56	3.4	sa	Patty Mills makes 5-foot two point shot	24 - 34	24	34	0	2	Patty Mills		makes	shot	5		two			
+401126835	1	11:59	0.5	den	Will Barton misses 26-foot three point pullup jump shot	24 - 34	24	34	0	0	Will Barton		misses	pullup jump shot	26		three			
+401126835	1	12:00	0.0	den	Nuggets offensive team rebound	24 - 34	24	34	0	0			offensive rebound	team						nuggets
+401126835	1	12:00	0.0	sa	End of the 1st Quarter	24 - 34	24	34	0	0			end of the 1st quarter							
+401126835	2	00:00	12:00	sa	Derrick White enters the game for LaMarcus Aldridge	24 - 34	24	34	0	0	Derrick White	LaMarcus Aldridge	enters the game for							
+401126835	2	00:17	11:43	den	Torrey Craig makes 26-foot three point jumper (Monte Morris assists)	27 - 34	27	34	3	0	Torrey Craig		makes	jumper	26		three	Monte Morris	assists	
+401126835	2	00:33	11:27	sa	Patty Mills bad pass (Torrey Craig steals)	27 - 34	27	34	0	0	Patty Mills		bad pass					Torrey Craig	steals	
+401126835	2	00:36	11:24	den	Monte Morris makes driving layup (Torrey Craig assists)	29 - 34	29	34	2	0	Monte Morris		makes	driving layup				Torrey Craig	assists	
+401126835	2	00:36	11:24	sa	Spurs Full timeout	29 - 34	29	34	0	0			full timeout							spurs
+401126835	2	00:52	11:08	den	Mason Plumlee personal foul	29 - 34	29	34	0	0	Mason Plumlee		foul							
+401126835	2	01:00	11:00	sa	Rudy Gay makes two point shot (Marco Belinelli assists)	29 - 36	29	36	0	2	Rudy Gay		makes	shot			two	Marco Belinelli	assists	
+401126835	2	01:17	10:43	den	Malik Beasley misses layup	29 - 36	29	36	0	0	Malik Beasley		misses	layup						
+401126835	2	01:17	10:43	den	Mason Plumlee offensive rebound	29 - 36	29	36	0	0	Mason Plumlee		offensive rebound							
+401126835	2	01:25	10:35	den	Mason Plumlee makes dunk	31 - 36	31	36	2	0	Mason Plumlee		makes	dunk						
+401126835	2	01:29	10:31	den	Mason Plumlee personal foul	31 - 36	31	36	0	0	Mason Plumlee		foul							
+401126835	2	01:34	10:26	sa	Patty Mills misses jumper	31 - 36	31	36	0	0	Patty Mills		misses	jumper						
+401126835	2	01:38	10:22	den	Malik Beasley defensive rebound	31 - 36	31	36	0	0	Malik Beasley		defensive rebound							
+401126835	2	01:45	10:15	den	Will Barton misses driving layup	31 - 36	31	36	0	0	Will Barton		misses	driving layup						
+401126835	2	01:45	10:15	den	Mason Plumlee offensive rebound	31 - 36	31	36	0	0	Mason Plumlee		offensive rebound							
+401126835	2	01:45	10:15	sa	Derrick White shooting foul	31 - 36	31	36	0	0	Derrick White		foul							
+401126835	2	01:45	10:15	sa	DeMar DeRozan enters the game for Patty Mills	31 - 36	31	36	0	0	DeMar DeRozan	Patty Mills	enters the game for							
+401126835	2	01:45	10:15	den	Mason Plumlee misses free throw 1 of 2	31 - 36	31	36	0	0	Mason Plumlee		misses	free throw		1-2				
+401126835	2	01:45	10:15	den	Nuggets offensive team rebound	31 - 36	31	36	0	0			offensive rebound	team						nuggets
+401126835	2	01:45	10:15	den	Mason Plumlee makes free throw 2 of 2	32 - 36	32	36	1	0	Mason Plumlee		makes	free throw		2-2				
+401126835	2	01:58	10:02	sa	Jakob Poeltl misses layup	32 - 36	32	36	0	0	Jakob Poeltl		misses	layup						
+401126835	2	02:01	9:59	den	Torrey Craig defensive rebound	32 - 36	32	36	0	0	Torrey Craig		defensive rebound							
+401126835	2	02:08	9:52	den	Malik Beasley misses 15-foot pullup jump shot	32 - 36	32	36	0	0	Malik Beasley		misses	pullup jump shot	15					
+401126835	2	02:09	9:51	sa	Spurs defensive team rebound	32 - 36	32	36	0	0			defensive rebound	team						spurs
+401126835	2	02:09	9:51	den	Mason Plumlee loose ball foul	32 - 36	32	36	0	0	Mason Plumlee		foul							
+401126835	2	02:09	9:51	den	Nikola Jokic enters the game for Mason Plumlee	32 - 36	32	36	0	0	Nikola Jokic	Mason Plumlee	enters the game for							
+401126835	2	02:29	9:31	sa	Rudy Gay makes 19-foot pullup jump shot	32 - 38	32	38	0	2	Rudy Gay		makes	pullup jump shot	19					
+401126835	2	02:48	9:12	den	Nikola Jokic makes 16-foot jumper	34 - 38	34	38	2	0	Nikola Jokic		makes	jumper	16					
+401126835	2	03:05	8:55	sa	Marco Belinelli makes 27-foot three point jumper (DeMar DeRozan assists)	34 - 41	34	41	0	3	Marco Belinelli		makes	jumper	27		three	DeMar DeRozan	assists	
+401126835	2	03:19	8:41	den	Jakob Poeltl blocks Nikola Jokic 's 4-foot hook shot	34 - 41	34	41	0	0	Jakob Poeltl	Nikola Jokic	blocks	hook shot	4					
+401126835	2	03:19	8:41	den	Nikola Jokic offensive rebound	34 - 41	34	41	0	0	Nikola Jokic		offensive rebound							
+401126835	2	03:19	8:41	den	Rudy Gay blocks Nikola Jokic 's 6-foot layup	34 - 41	34	41	0	0	Rudy Gay	Nikola Jokic	blocks	layup	6					
+401126835	2	03:19	8:41	den	Nuggets offensive team rebound	34 - 41	34	41	0	0			offensive rebound	team						nuggets
+401126835	2	03:19	8:41	sa	LaMarcus Aldridge enters the game for Rudy Gay	34 - 41	34	41	0	0	LaMarcus Aldridge	Rudy Gay	enters the game for							
+401126835	2	03:25	8:35	den	Monte Morris makes 13-foot two point shot (Nikola Jokic assists)	36 - 41	36	41	2	0	Monte Morris		makes	shot	13		two	Nikola Jokic	assists	
+401126835	2	03:40	8:20	den	Torrey Craig shooting foul	36 - 41	36	41	0	0	Torrey Craig		foul							
+401126835	2	03:40	8:20	sa	LaMarcus Aldridge makes free throw 1 of 2	36 - 42	36	42	0	1	LaMarcus Aldridge		makes	free throw		1-2				
+401126835	2	03:40	8:20	sa	Bryn Forbes enters the game for Marco Belinelli	36 - 42	36	42	0	0	Bryn Forbes	Marco Belinelli	enters the game for							
+401126835	2	03:40	8:20	den	Paul Millsap enters the game for Torrey Craig	36 - 42	36	42	0	0	Paul Millsap	Torrey Craig	enters the game for							
+401126835	2	03:40	8:20	sa	LaMarcus Aldridge makes free throw 2 of 2	36 - 43	36	43	0	1	LaMarcus Aldridge		makes	free throw		2-2				
+401126835	2	03:58	8:02	den	LaMarcus Aldridge blocks Malik Beasley 's 5-foot driving layup	36 - 43	36	43	0	0	LaMarcus Aldridge	Malik Beasley	blocks	driving layup	5					
+401126835	2	03:58	8:02	den	Nuggets offensive team rebound	36 - 43	36	43	0	0			offensive rebound	team						nuggets
+401126835	2	03:58	8:02	den	Jamal Murray enters the game for Monte Morris	36 - 43	36	43	0	0	Jamal Murray	Monte Morris	enters the game for							
+401126835	2	04:05	7:55	den	Nikola Jokic makes 26-foot three point jumper	39 - 43	39	43	3	0	Nikola Jokic		makes	jumper	26		three			
+401126835	2	04:22	7:38	sa	LaMarcus Aldridge misses 24-foot three point jumper	39 - 43	39	43	0	0	LaMarcus Aldridge		misses	jumper	24		three			
+401126835	2	04:22	7:38	den	Paul Millsap defensive rebound	39 - 43	39	43	0	0	Paul Millsap		defensive rebound							
+401126835	2	04:26	7:34	sa	Derrick White personal foul	39 - 43	39	43	0	0	Derrick White		foul							
+401126835	2	04:26	7:34	den	Gary Harris enters the game for Malik Beasley	39 - 43	39	43	0	0	Gary Harris	Malik Beasley	enters the game for							
+401126835	2	04:41	7:19	sa	Derrick White personal foul	39 - 43	39	43	0	0	Derrick White		foul							
+401126835	2	04:41	7:19	sa	Patty Mills enters the game for Derrick White	39 - 43	39	43	0	0	Patty Mills	Derrick White	enters the game for							
+401126835	2	04:45	7:15	den	Nikola Jokic misses 26-foot three point jumper	39 - 43	39	43	0	0	Nikola Jokic		misses	jumper	26		three			
+401126835	2	04:49	7:11	sa	LaMarcus Aldridge defensive rebound	39 - 43	39	43	0	0	LaMarcus Aldridge		defensive rebound							
+401126835	2	04:57	7:03	sa	DeMar DeRozan misses 11-foot pullup jump shot	39 - 43	39	43	0	0	DeMar DeRozan		misses	pullup jump shot	11					
+401126835	2	04:59	7:01	den	Nikola Jokic defensive rebound	39 - 43	39	43	0	0	Nikola Jokic		defensive rebound							
+401126835	2	05:12	6:48	den	Will Barton misses layup	39 - 43	39	43	0	0	Will Barton		misses	layup						
+401126835	2	05:13	6:47	sa	Jakob Poeltl shooting foul	39 - 43	39	43	0	0	Jakob Poeltl		foul							
+401126835	2	05:13	6:47	den	Nikola Jokic makes free throw 1 of 2	40 - 43	40	43	1	0	Nikola Jokic		makes	free throw		1-2				
+401126835	2	05:13	6:47	den	Nikola Jokic misses free throw 2 of 2	40 - 43	40	43	0	0	Nikola Jokic		misses	free throw		2-2				
+401126835	2	05:13	6:47	den	Nikola Jokic offensive rebound	40 - 43	40	43	0	0	Nikola Jokic		offensive rebound							
+401126835	2	05:13	6:47	sa	Rudy Gay enters the game for Jakob Poeltl	40 - 43	40	43	0	0	Rudy Gay	Jakob Poeltl	enters the game for							
+401126835	2	05:15	6:45	sa	DeMar DeRozan defensive rebound	40 - 43	40	43	0	0	DeMar DeRozan		defensive rebound							
+401126835	2	05:23	6:37	den	Paul Millsap shooting foul	40 - 43	40	43	0	0	Paul Millsap		foul							
+401126835	2	05:23	6:37	sa	Rudy Gay makes free throw 1 of 2	40 - 44	40	44	0	1	Rudy Gay		makes	free throw		1-2				
+401126835	2	05:23	6:37	sa	Rudy Gay makes free throw 2 of 2	40 - 45	40	45	0	1	Rudy Gay		makes	free throw		2-2				
+401126835	2	05:36	6:24	den	Paul Millsap misses 16-foot step back jumpshot	40 - 45	40	45	0	0	Paul Millsap		misses	step back jumpshot	16					
+401126835	2	05:39	6:21	den	Nuggets offensive team rebound	40 - 45	40	45	0	0			offensive rebound	team						nuggets
+401126835	2	05:45	6:15	den	Gary Harris makes 26-foot three point jumper (Jamal Murray assists)	43 - 45	43	45	3	0	Gary Harris		makes	jumper	26		three	Jamal Murray	assists	
+401126835	2	06:02	5:58	sa	LaMarcus Aldridge makes 15-foot step back jumpshot	43 - 47	43	47	0	2	LaMarcus Aldridge		makes	step back jumpshot	15					
+401126835	2	06:17	5:43	den	Jamal Murray makes 24-foot three point jumper (Nikola Jokic assists)	46 - 47	46	47	3	0	Jamal Murray		makes	jumper	24		three	Nikola Jokic	assists	
+401126835	2	06:28	5:32	sa	Patty Mills misses 26-foot three point pullup jump shot	46 - 47	46	47	0	0	Patty Mills		misses	pullup jump shot	26		three			
+401126835	2	06:28	5:32	den	Will Barton defensive rebound	46 - 47	46	47	0	0	Will Barton		defensive rebound							
+401126835	2	06:37	5:23	den	Paul Millsap misses 8-foot jumper	46 - 47	46	47	0	0	Paul Millsap		misses	jumper	8					
+401126835	2	06:41	5:19	sa	LaMarcus Aldridge defensive rebound	46 - 47	46	47	0	0	LaMarcus Aldridge		defensive rebound							
+401126835	2	06:53	5:07	sa	Bryn Forbes misses driving floating jump shot	46 - 47	46	47	0	0	Bryn Forbes		misses	driving floating jump shot						
+401126835	2	06:54	5:06	den	Nikola Jokic defensive rebound	46 - 47	46	47	0	0	Nikola Jokic		defensive rebound							
+401126835	2	07:10	4:50	den	Gary Harris misses driving layup	46 - 47	46	47	0	0	Gary Harris		misses	driving layup						
+401126835	2	07:12	4:48	sa	Rudy Gay defensive rebound	46 - 47	46	47	0	0	Rudy Gay		defensive rebound							
+401126835	2	07:23	4:37	sa	Rudy Gay misses 18-foot pullup jump shot	46 - 47	46	47	0	0	Rudy Gay		misses	pullup jump shot	18					
+401126835	2	07:26	4:34	sa	DeMar DeRozan offensive rebound	46 - 47	46	47	0	0	DeMar DeRozan		offensive rebound							
+401126835	2	07:28	4:32	sa	Bryn Forbes misses 26-foot three point jumper	46 - 47	46	47	0	0	Bryn Forbes		misses	jumper	26		three			
+401126835	2	07:32	4:28	den	Nikola Jokic defensive rebound	46 - 47	46	47	0	0	Nikola Jokic		defensive rebound							
+401126835	2	07:35	4:25	sa	DeMar DeRozan shooting foul	46 - 47	46	47	0	0	DeMar DeRozan		foul							
+401126835	2	07:35	4:25	den	Gary Harris makes free throw 1 of 2	47 - 47	47	47	1	0	Gary Harris		makes	free throw		1-2				
+401126835	2	07:35	4:25	den	Torrey Craig enters the game for Will Barton	47 - 47	47	47	0	0	Torrey Craig	Will Barton	enters the game for							
+401126835	2	07:35	4:25	den	Gary Harris makes free throw 2 of 2	48 - 47	48	47	1	0	Gary Harris		makes	free throw		2-2				
+401126835	2	07:57	4:03	sa	LaMarcus Aldridge misses 22-foot jumper	48 - 47	48	47	0	0	LaMarcus Aldridge		misses	jumper	22					
+401126835	2	08:00	4:00	den	Jamal Murray defensive rebound	48 - 47	48	47	0	0	Jamal Murray		defensive rebound							
+401126835	2	08:08	3:52	den	Jamal Murray makes two point shot (Nikola Jokic assists)	50 - 47	50	47	2	0	Jamal Murray		makes	shot			two	Nikola Jokic	assists	
+401126835	2	08:09	3:51	sa	Spurs Full timeout	50 - 47	50	47	0	0			full timeout							spurs
+401126835	2	08:27	3:33	sa	Rudy Gay makes 23-foot three point jumper (DeMar DeRozan assists)	50 - 50	50	50	0	3	Rudy Gay		makes	jumper	23		three	DeMar DeRozan	assists	
+401126835	2	08:49	3:11	den	Gary Harris misses driving floating jump shot	50 - 50	50	50	0	0	Gary Harris		misses	driving floating jump shot						
+401126835	2	08:53	3:07	den	Nikola Jokic offensive rebound	50 - 50	50	50	0	0	Nikola Jokic		offensive rebound							
+401126835	2	08:53	3:07	den	Nikola Jokic makes tip shot	52 - 50	52	50	2	0	Nikola Jokic		makes	tip shot						
+401126835	2	09:05	2:55	sa	Patty Mills misses 27-foot three point shot	52 - 50	52	50	0	0	Patty Mills		misses	shot	27		three			
+401126835	2	09:08	2:52	den	Paul Millsap defensive rebound	52 - 50	52	50	0	0	Paul Millsap		defensive rebound							
+401126835	2	09:18	2:42	den	Jamal Murray misses 26-foot step back jumpshot	52 - 50	52	50	0	0	Jamal Murray		misses	step back jumpshot	26					
+401126835	2	09:21	2:39	sa	LaMarcus Aldridge defensive rebound	52 - 50	52	50	0	0	LaMarcus Aldridge		defensive rebound							
+401126835	2	09:27	2:33	sa	Rudy Gay makes 24-foot three point jumper (Patty Mills assists)	52 - 53	52	53	0	3	Rudy Gay		makes	jumper	24		three	Patty Mills	assists	
+401126835	2	09:50	2:10	den	Jamal Murray makes 3-foot layup (Nikola Jokic assists)	54 - 53	54	53	2	0	Jamal Murray		makes	layup	3			Nikola Jokic	assists	
+401126835	2	10:01	1:59	den	Paul Millsap shooting foul	54 - 53	54	53	0	0	Paul Millsap		foul							
+401126835	2	10:01	1:59	sa	LaMarcus Aldridge misses free throw 1 of 2	54 - 53	54	53	0	0	LaMarcus Aldridge		misses	free throw		1-2				
+401126835	2	10:01	1:59	sa	Spurs offensive team rebound	54 - 53	54	53	0	0			offensive rebound	team						spurs
+401126835	2	10:01	1:59	sa	Marco Belinelli enters the game for Bryn Forbes	54 - 53	54	53	0	0	Marco Belinelli	Bryn Forbes	enters the game for							
+401126835	2	10:01	1:59	sa	LaMarcus Aldridge makes free throw 2 of 2	54 - 54	54	54	0	1	LaMarcus Aldridge		makes	free throw		2-2				
+401126835	2	10:21	1:39	den	Jamal Murray misses 26-foot three point jumper	54 - 54	54	54	0	0	Jamal Murray		misses	jumper	26		three			
+401126835	2	10:24	1:36	sa	Patty Mills defensive rebound	54 - 54	54	54	0	0	Patty Mills		defensive rebound							
+401126835	2	10:29	1:31	den	Gary Harris shooting foul	54 - 54	54	54	0	0	Gary Harris		foul							
+401126835	2	10:29	1:31	sa	Marco Belinelli makes free throw 1 of 3	54 - 55	54	55	0	1	Marco Belinelli		makes	free throw		1-3				
+401126835	2	10:29	1:31	sa	Marco Belinelli makes free throw 2 of 3	54 - 56	54	56	0	1	Marco Belinelli		makes	free throw		2-3				
+401126835	2	10:29	1:31	sa	Marco Belinelli makes free throw 3 of 3	54 - 57	54	57	0	1	Marco Belinelli		makes	free throw		3-3				
+401126835	2	10:40	1:20	den	Nikola Jokic makes two point shot (Jamal Murray assists)	56 - 57	56	57	2	0	Nikola Jokic		makes	shot			two	Jamal Murray	assists	
+401126835	2	10:52	1:08	sa	DeMar DeRozan makes 12-foot two point shot	56 - 59	56	59	0	2	DeMar DeRozan		makes	shot	12		two			
+401126835	2	11:16	43.2	den	Jamal Murray makes 11-foot two point shot (Torrey Craig assists)	58 - 59	58	59	2	0	Jamal Murray		makes	shot	11		two	Torrey Craig	assists	
+401126835	2	11:25	34.9	sa	Patty Mills makes two point shot	58 - 61	58	61	0	2	Patty Mills		makes	shot			two			
+401126835	2	11:43	16.9	den	Jamal Murray makes two point shot	60 - 61	60	61	2	0	Jamal Murray		makes	shot			two			
+401126835	2	11:59	0.8	den	Torrey Craig shooting foul	60 - 61	60	61	0	0	Torrey Craig		foul							
+401126835	2	11:59	0.8	sa	DeMar DeRozan makes free throw 1 of 2	60 - 62	60	62	0	1	DeMar DeRozan		makes	free throw		1-2				
+401126835	2	11:59	0.8	den	Malik Beasley enters the game for Torrey Craig	60 - 62	60	62	0	0	Malik Beasley	Torrey Craig	enters the game for							
+401126835	2	11:59	0.8	sa	DeMar DeRozan misses free throw 2 of 2	60 - 62	60	62	0	0	DeMar DeRozan		misses	free throw		2-2				
+401126835	2	11:59	0.8	sa	DeMar DeRozan offensive rebound	60 - 62	60	62	0	0	DeMar DeRozan		offensive rebound							
+401126835	2	11:59	0.5	sa	DeMar DeRozan makes two point shot	60 - 64	60	64	0	2	DeMar DeRozan		makes	shot			two			
+401126835	2	12:00	0.0	sa	End of the 2nd Quarter	60 - 64	60	64	0	0			end of the 2nd quarter							
+401126835	3	00:00	12:00	sa	Bryn Forbes enters the game for Patty Mills	60 - 64	60	64	0	0	Bryn Forbes	Patty Mills	enters the game for							
+401126835	3	00:00	12:00	sa	Derrick White enters the game for Marco Belinelli	60 - 64	60	64	0	0	Derrick White	Marco Belinelli	enters the game for							
+401126835	3	00:00	12:00	sa	Jakob Poeltl enters the game for Rudy Gay	60 - 64	60	64	0	0	Jakob Poeltl	Rudy Gay	enters the game for							
+401126835	3	00:00	12:00	den	Torrey Craig enters the game for Malik Beasley	60 - 64	60	64	0	0	Torrey Craig	Malik Beasley	enters the game for							
+401126835	3	00:20	11:40	den	Gary Harris misses 27-foot three point jumper	60 - 64	60	64	0	0	Gary Harris		misses	jumper	27		three			
+401126835	3	00:25	11:35	sa	DeMar DeRozan defensive rebound	60 - 64	60	64	0	0	DeMar DeRozan		defensive rebound							
+401126835	3	00:31	11:29	sa	DeMar DeRozan makes 11-foot pullup jump shot	60 - 66	60	66	0	2	DeMar DeRozan		makes	pullup jump shot	11					
+401126835	3	00:48	11:12	den	Torrey Craig misses two point shot	60 - 66	60	66	0	0	Torrey Craig		misses	shot			two			
+401126835	3	00:49	11:11	sa	DeMar DeRozan defensive rebound	60 - 66	60	66	0	0	DeMar DeRozan		defensive rebound							
+401126835	3	01:01	10:59	sa	Bryn Forbes misses 27-foot three point jumper	60 - 66	60	66	0	0	Bryn Forbes		misses	jumper	27		three			
+401126835	3	01:03	10:57	den	Jamal Murray defensive rebound	60 - 66	60	66	0	0	Jamal Murray		defensive rebound							
+401126835	3	01:14	10:46	den	Jamal Murray misses two point shot	60 - 66	60	66	0	0	Jamal Murray		misses	shot			two			
+401126835	3	01:16	10:44	sa	LaMarcus Aldridge defensive rebound	60 - 66	60	66	0	0	LaMarcus Aldridge		defensive rebound							
+401126835	3	01:33	10:27	sa	Derrick White misses 27-foot three point pullup jump shot	60 - 66	60	66	0	0	Derrick White		misses	pullup jump shot	27		three			
+401126835	3	01:34	10:26	den	Nikola Jokic defensive rebound	60 - 66	60	66	0	0	Nikola Jokic		defensive rebound							
+401126835	3	01:34	10:26	den	Nuggets Full timeout	60 - 66	60	66	0	0			full timeout							nuggets
+401126835	3	01:44	10:16	den	Jamal Murray makes 13-foot two point shot	62 - 66	62	66	2	0	Jamal Murray		makes	shot	13		two			
+401126835	3	02:01	9:59	sa	DeMar DeRozan makes 20-foot pullup jump shot	62 - 68	62	68	0	2	DeMar DeRozan		makes	pullup jump shot	20					
+401126835	3	02:28	9:32	den	Nikola Jokic makes 27-foot three point jumper (Gary Harris assists)	65 - 68	65	68	3	0	Nikola Jokic		makes	jumper	27		three	Gary Harris	assists	
+401126835	3	02:50	9:10	sa	DeMar DeRozan makes 16-foot step back jumpshot (LaMarcus Aldridge assists)	65 - 70	65	70	0	2	DeMar DeRozan		makes	step back jumpshot	16			LaMarcus Aldridge	assists	
+401126835	3	03:13	8:47	den	Nikola Jokic makes 11-foot two point shot (Torrey Craig assists)	67 - 70	67	70	2	0	Nikola Jokic		makes	shot	11		two	Torrey Craig	assists	
+401126835	3	03:26	8:34	sa	LaMarcus Aldridge misses 11-foot two point shot	67 - 70	67	70	0	0	LaMarcus Aldridge		misses	shot	11		two			
+401126835	3	03:28	8:32	den	Torrey Craig defensive rebound	67 - 70	67	70	0	0	Torrey Craig		defensive rebound							
+401126835	3	03:35	8:25	den	Jamal Murray misses 13-foot two point shot	67 - 70	67	70	0	0	Jamal Murray		misses	shot	13		two			
+401126835	3	03:38	8:22	sa	LaMarcus Aldridge defensive rebound	67 - 70	67	70	0	0	LaMarcus Aldridge		defensive rebound							
+401126835	3	03:45	8:15	den	Nikola Jokic shooting foul	67 - 70	67	70	0	0	Nikola Jokic		foul							
+401126835	3	03:45	8:15	sa	Derrick White misses free throw 1 of 2	67 - 70	67	70	0	0	Derrick White		misses	free throw		1-2				
+401126835	3	03:45	8:15	sa	Spurs offensive team rebound	67 - 70	67	70	0	0			offensive rebound	team						spurs
+401126835	3	03:45	8:15	sa	Derrick White makes free throw 2 of 2	67 - 71	67	71	0	1	Derrick White		makes	free throw		2-2				
+401126835	3	03:58	8:02	den	Jamal Murray offensive foul	67 - 71	67	71	0	0	Jamal Murray		foul							
+401126835	3	03:58	8:02	den	Jamal Murray turnover	67 - 71	67	71	0	0	Jamal Murray		turnover							
+401126835	3	04:20	7:40	sa	DeMar DeRozan makes two point shot	67 - 73	67	73	0	2	DeMar DeRozan		makes	shot			two			
+401126835	3	04:39	7:21	den	Paul Millsap makes two point shot	69 - 73	69	73	2	0	Paul Millsap		makes	shot			two			
+401126835	3	04:54	7:06	sa	Jakob Poeltl lost ball turnover (Nikola Jokic steals)	69 - 73	69	73	0	0	Jakob Poeltl		turnover					Nikola Jokic	steals	
+401126835	3	05:04	6:56	den	Nikola Jokic makes layup	71 - 73	71	73	2	0	Nikola Jokic		makes	layup						
+401126835	3	05:17	6:43	sa	Derrick White lost ball turnover (Nikola Jokic steals)	71 - 73	71	73	0	0	Derrick White		turnover					Nikola Jokic	steals	
+401126835	3	05:25	6:35	den	Derrick White blocks Nikola Jokic 's 5-foot driving layup	71 - 73	71	73	0	0	Derrick White	Nikola Jokic	blocks	driving layup	5					
+401126835	3	05:28	6:32	sa	Derrick White defensive rebound	71 - 73	71	73	0	0	Derrick White		defensive rebound							
+401126835	3	05:28	6:32	den	Paul Millsap shooting foul	71 - 73	71	73	0	0	Paul Millsap		foul							
+401126835	3	05:28	6:32	sa	Derrick White makes free throw 1 of 2	71 - 74	71	74	0	1	Derrick White		makes	free throw		1-2				
+401126835	3	05:28	6:32	sa	Derrick White makes free throw 2 of 2	71 - 75	71	75	0	1	Derrick White		makes	free throw		2-2				
+401126835	3	05:42	6:18	den	Torrey Craig misses 24-foot three point jumper	71 - 75	71	75	0	0	Torrey Craig		misses	jumper	24		three			
+401126835	3	05:43	6:17	den	Nuggets offensive team rebound	71 - 75	71	75	0	0			offensive rebound	team						nuggets
+401126835	3	05:43	6:17	sa	LaMarcus Aldridge loose ball foul	71 - 75	71	75	0	0	LaMarcus Aldridge		foul							
+401126835	3	05:52	6:08	den	Nikola Jokic makes layup (Jamal Murray assists)	73 - 75	73	75	2	0	Nikola Jokic		makes	layup				Jamal Murray	assists	
+401126835	3	05:52	6:08	sa	Spurs Full timeout	73 - 75	73	75	0	0			full timeout							spurs
+401126835	3	05:52	6:08	sa	Rudy Gay enters the game for Jakob Poeltl	73 - 75	73	75	0	0	Rudy Gay	Jakob Poeltl	enters the game for							
+401126835	3	06:13	5:47	sa	Bryn Forbes makes 18-foot pullup jump shot (Rudy Gay assists)	73 - 77	73	77	0	2	Bryn Forbes		makes	pullup jump shot	18			Rudy Gay	assists	
+401126835	3	06:35	5:25	den	Nikola Jokic makes 8-foot two point shot	75 - 77	75	77	2	0	Nikola Jokic		makes	shot	8		two			
+401126835	3	06:56	5:04	sa	Marco Belinelli enters the game for Bryn Forbes	75 - 77	75	77	0	0	Marco Belinelli	Bryn Forbes	enters the game for							
+401126835	3	06:56	5:04	den	Malik Beasley enters the game for Paul Millsap	75 - 77	75	77	0	0	Malik Beasley	Paul Millsap	enters the game for							
+401126835	3	07:04	4:56	sa	DeMar DeRozan misses 18-foot pullup jump shot	75 - 77	75	77	0	0	DeMar DeRozan		misses	pullup jump shot	18					
+401126835	3	07:08	4:52	sa	LaMarcus Aldridge offensive rebound	75 - 77	75	77	0	0	LaMarcus Aldridge		offensive rebound							
+401126835	3	07:08	4:52	sa	LaMarcus Aldridge makes tip shot	75 - 79	75	79	0	2	LaMarcus Aldridge		makes	tip shot						
+401126835	3	07:25	4:35	den	Nikola Jokic makes layup (Torrey Craig assists)	77 - 79	77	79	2	0	Nikola Jokic		makes	layup				Torrey Craig	assists	
+401126835	3	07:43	4:17	sa	DeMar DeRozan makes 16-foot pullup jump shot	77 - 81	77	81	0	2	DeMar DeRozan		makes	pullup jump shot	16					
+401126835	3	07:57	4:03	den	Jamal Murray misses 15-foot pullup jump shot	77 - 81	77	81	0	0	Jamal Murray		misses	pullup jump shot	15					
+401126835	3	08:00	4:00	sa	Rudy Gay defensive rebound	77 - 81	77	81	0	0	Rudy Gay		defensive rebound							
+401126835	3	08:19	3:41	sa	LaMarcus Aldridge makes 12-foot two point shot	77 - 83	77	83	0	2	LaMarcus Aldridge		makes	shot	12		two			
+401126835	3	08:19	3:41	den	Nuggets Full timeout	77 - 83	77	83	0	0			full timeout							nuggets
+401126835	3	08:31	3:29	den	Nikola Jokic makes layup (Jamal Murray assists)	79 - 83	79	83	2	0	Nikola Jokic		makes	layup				Jamal Murray	assists	
+401126835	3	08:46	3:14	sa	Marco Belinelli traveling	79 - 83	79	83	0	0	Marco Belinelli		traveling							
+401126835	3	08:58	3:02	den	Jamal Murray makes 7-foot two point shot	81 - 83	81	83	2	0	Jamal Murray		makes	shot	7		two			
+401126835	3	09:17	2:43	sa	Derrick White makes three point jumper (LaMarcus Aldridge assists)	81 - 86	81	86	0	3	Derrick White		makes	jumper			three	LaMarcus Aldridge	assists	
+401126835	3	09:33	2:27	den	Jamal Murray misses 28-foot step back jumpshot	81 - 86	81	86	0	0	Jamal Murray		misses	step back jumpshot	28					
+401126835	3	09:35	2:25	den	Nuggets offensive team rebound	81 - 86	81	86	0	0			offensive rebound	team						nuggets
+401126835	3	09:35	2:25	sa	LaMarcus Aldridge loose ball foul	81 - 86	81	86	0	0	LaMarcus Aldridge		foul							
+401126835	3	09:35	2:25	sa	Jakob Poeltl enters the game for Derrick White	81 - 86	81	86	0	0	Jakob Poeltl	Derrick White	enters the game for							
+401126835	3	09:35	2:25	sa	Patty Mills enters the game for LaMarcus Aldridge	81 - 86	81	86	0	0	Patty Mills	LaMarcus Aldridge	enters the game for							
+401126835	3	09:35	2:25	den	Will Barton enters the game for Gary Harris	81 - 86	81	86	0	0	Will Barton	Gary Harris	enters the game for							
+401126835	3	09:35	2:25	den	Monte Morris enters the game for Jamal Murray	81 - 86	81	86	0	0	Monte Morris	Jamal Murray	enters the game for							
+401126835	3	09:42	2:18	den	Torrey Craig makes 3-foot dunk (Nikola Jokic assists)	83 - 86	83	86	2	0	Torrey Craig		makes	dunk	3			Nikola Jokic	assists	
+401126835	3	09:57	2:03	sa	Jakob Poeltl makes 6-foot two point shot (Patty Mills assists)	83 - 88	83	88	0	2	Jakob Poeltl		makes	shot	6		two	Patty Mills	assists	
+401126835	3	10:22	1:38	den	Will Barton misses 28-foot three point jumper	83 - 88	83	88	0	0	Will Barton		misses	jumper	28		three			
+401126835	3	10:26	1:34	den	Torrey Craig offensive rebound	83 - 88	83	88	0	0	Torrey Craig		offensive rebound							
+401126835	3	10:28	1:32	den	Marco Belinelli blocks Torrey Craig 's 5-foot layup	83 - 88	83	88	0	0	Marco Belinelli	Torrey Craig	blocks	layup	5					
+401126835	3	10:28	1:32	den	Monte Morris offensive rebound	83 - 88	83	88	0	0	Monte Morris		offensive rebound							
+401126835	3	10:28	1:32	den	Monte Morris misses driving layup	83 - 88	83	88	0	0	Monte Morris		misses	driving layup						
+401126835	3	10:28	1:32	den	Nikola Jokic offensive rebound	83 - 88	83	88	0	0	Nikola Jokic		offensive rebound							
+401126835	3	10:35	1:25	den	Nikola Jokic makes tip shot	85 - 88	85	88	2	0	Nikola Jokic		makes	tip shot						
+401126835	3	10:45	1:15	sa	Patty Mills misses 26-foot three point pullup jump shot	85 - 88	85	88	0	0	Patty Mills		misses	pullup jump shot	26		three			
+401126835	3	10:45	1:15	den	Torrey Craig defensive rebound	85 - 88	85	88	0	0	Torrey Craig		defensive rebound							
+401126835	3	10:55	1:05	den	Monte Morris misses 13-foot two point shot	85 - 88	85	88	0	0	Monte Morris		misses	shot	13		two			
+401126835	3	10:56	1:04	den	Nuggets offensive team rebound	85 - 88	85	88	0	0			offensive rebound	team						nuggets
+401126835	3	10:57	1:03	sa	Jakob Poeltl loose ball foul	85 - 88	85	88	0	0	Jakob Poeltl		foul							
+401126835	3	10:57	1:03	den	Mason Plumlee enters the game for Nikola Jokic	85 - 88	85	88	0	0	Mason Plumlee	Nikola Jokic	enters the game for							
+401126835	3	11:04	55.9	den	Mason Plumlee misses 8-foot hook shot	85 - 88	85	88	0	0	Mason Plumlee		misses	hook shot	8					
+401126835	3	11:07	52.9	sa	DeMar DeRozan defensive rebound	85 - 88	85	88	0	0	DeMar DeRozan		defensive rebound							
+401126835	3	11:13	46.8	sa	DeMar DeRozan makes 7-foot two point shot	85 - 90	85	90	0	2	DeMar DeRozan		makes	shot	7		two			
+401126835	3	11:25	34.5	den	Will Barton bad pass (Patty Mills steals)	85 - 90	85	90	0	0	Will Barton		bad pass					Patty Mills	steals	
+401126835	3	11:29	30.6	sa	Marco Belinelli misses 27-foot three point pullup jump shot	85 - 90	85	90	0	0	Marco Belinelli		misses	pullup jump shot	27		three			
+401126835	3	11:34	25.6	den	Monte Morris defensive rebound	85 - 90	85	90	0	0	Monte Morris		defensive rebound							
+401126835	3	11:54	5.8	den	Will Barton lost ball turnover (Patty Mills steals)	85 - 90	85	90	0	0	Will Barton		turnover					Patty Mills	steals	
+401126835	3	11:58	1.5	sa	Patty Mills misses two point shot	85 - 90	85	90	0	0	Patty Mills		misses	shot			two			
+401126835	3	11:58	1.5	den	Malik Beasley defensive rebound	85 - 90	85	90	0	0	Malik Beasley		defensive rebound							
+401126835	3	12:00	0.0	sa	End of the 3rd Quarter	85 - 90	85	90	0	0			end of the 3rd quarter							
+401126835	4	00:00	12:00	sa	Derrick White enters the game for DeMar DeRozan	85 - 90	85	90	0	0	Derrick White	DeMar DeRozan	enters the game for							
+401126835	4	00:00	12:00	den	Paul Millsap enters the game for Torrey Craig	85 - 90	85	90	0	0	Paul Millsap	Torrey Craig	enters the game for							
+401126835	4	00:19	11:41	sa	Rudy Gay makes 23-foot three point jumper (Jakob Poeltl assists)	85 - 93	85	93	0	3	Rudy Gay		makes	jumper	23		three	Jakob Poeltl	assists	
+401126835	4	00:46	11:14	den	Rudy Gay blocks Monte Morris 's 4-foot layup	85 - 93	85	93	0	0	Rudy Gay	Monte Morris	blocks	layup	4					
+401126835	4	00:46	11:14	sa	Jakob Poeltl defensive rebound	85 - 93	85	93	0	0	Jakob Poeltl		defensive rebound							
+401126835	4	00:52	11:08	sa	Marco Belinelli misses 24-foot three point pullup jump shot	85 - 93	85	93	0	0	Marco Belinelli		misses	pullup jump shot	24		three			
+401126835	4	00:54	11:06	den	Nuggets defensive team rebound	85 - 93	85	93	0	0			defensive rebound	team						nuggets
+401126835	4	01:10	10:50	den	Will Barton misses 27-foot three point jumper	85 - 93	85	93	0	0	Will Barton		misses	jumper	27		three			
+401126835	4	01:15	10:45	sa	Rudy Gay defensive rebound	85 - 93	85	93	0	0	Rudy Gay		defensive rebound							
+401126835	4	01:24	10:36	sa	Marco Belinelli makes 26-foot three point jumper (Derrick White assists)	85 - 96	85	96	0	3	Marco Belinelli		makes	jumper	26		three	Derrick White	assists	
+401126835	4	01:26	10:34	den	Nuggets Full timeout	85 - 96	85	96	0	0			full timeout							nuggets
+401126835	4	01:43	10:17	den	Malik Beasley misses driving layup	85 - 96	85	96	0	0	Malik Beasley		misses	driving layup						
+401126835	4	01:45	10:15	sa	Rudy Gay defensive rebound	85 - 96	85	96	0	0	Rudy Gay		defensive rebound							
+401126835	4	01:59	10:01	sa	Jakob Poeltl makes layup (Rudy Gay assists)	85 - 98	85	98	0	2	Jakob Poeltl		makes	layup				Rudy Gay	assists	
+401126835	4	02:14	9:46	den	Will Barton makes driving layup	87 - 98	87	98	2	0	Will Barton		makes	driving layup						
+401126835	4	02:32	9:28	sa	Rudy Gay misses 9-foot two point shot	87 - 98	87	98	0	0	Rudy Gay		misses	shot	9		two			
+401126835	4	02:36	9:24	sa	Jakob Poeltl offensive rebound	87 - 98	87	98	0	0	Jakob Poeltl		offensive rebound							
+401126835	4	02:46	9:14	sa	Derrick White makes 17-foot pullup jump shot	87 - 100	87	100	0	2	Derrick White		makes	pullup jump shot	17					
+401126835	4	03:01	8:59	sa	Rudy Gay personal foul	87 - 100	87	100	0	0	Rudy Gay		foul							
+401126835	4	03:01	8:59	sa	LaMarcus Aldridge enters the game for Rudy Gay	87 - 100	87	100	0	0	LaMarcus Aldridge	Rudy Gay	enters the game for							
+401126835	4	03:01	8:59	den	Nikola Jokic enters the game for Monte Morris	87 - 100	87	100	0	0	Nikola Jokic	Monte Morris	enters the game for							
+401126835	4	03:01	8:59	den	Gary Harris enters the game for Mason Plumlee	87 - 100	87	100	0	0	Gary Harris	Mason Plumlee	enters the game for							
+401126835	4	03:01	8:59	den	Jamal Murray enters the game for Malik Beasley	87 - 100	87	100	0	0	Jamal Murray	Malik Beasley	enters the game for							
+401126835	4	03:15	8:45	den	Paul Millsap misses 27-foot three point jumper	87 - 100	87	100	0	0	Paul Millsap		misses	jumper	27		three			
+401126835	4	03:18	8:42	sa	Marco Belinelli defensive rebound	87 - 100	87	100	0	0	Marco Belinelli		defensive rebound							
+401126835	4	03:23	8:37	sa	Patty Mills misses 23-foot three point jumper	87 - 100	87	100	0	0	Patty Mills		misses	jumper	23		three			
+401126835	4	03:26	8:34	den	Will Barton defensive rebound	87 - 100	87	100	0	0	Will Barton		defensive rebound							
+401126835	4	03:27	8:33	sa	Patty Mills personal foul	87 - 100	87	100	0	0	Patty Mills		foul							
+401126835	4	03:40	8:20	den	Nikola Jokic misses 27-foot three point jumper	87 - 100	87	100	0	0	Nikola Jokic		misses	jumper	27		three			
+401126835	4	03:44	8:16	sa	Marco Belinelli defensive rebound	87 - 100	87	100	0	0	Marco Belinelli		defensive rebound							
+401126835	4	03:55	8:05	den	Paul Millsap shooting foul	87 - 100	87	100	0	0	Paul Millsap		foul							
+401126835	4	03:55	8:05	sa	LaMarcus Aldridge makes free throw 1 of 2	87 - 101	87	101	0	1	LaMarcus Aldridge		makes	free throw		1-2				
+401126835	4	03:55	8:05	sa	Bryn Forbes enters the game for Patty Mills	87 - 101	87	101	0	0	Bryn Forbes	Patty Mills	enters the game for							
+401126835	4	03:55	8:05	sa	LaMarcus Aldridge makes free throw 2 of 2	87 - 102	87	102	0	1	LaMarcus Aldridge		makes	free throw		2-2				
+401126835	4	04:09	7:51	den	Jamal Murray misses two point shot	87 - 102	87	102	0	0	Jamal Murray		misses	shot			two			
+401126835	4	04:13	7:47	sa	Jakob Poeltl defensive rebound	87 - 102	87	102	0	0	Jakob Poeltl		defensive rebound							
+401126835	4	04:28	7:32	sa	Derrick White misses two point shot	87 - 102	87	102	0	0	Derrick White		misses	shot			two			
+401126835	4	04:28	7:32	sa	Jakob Poeltl offensive rebound	87 - 102	87	102	0	0	Jakob Poeltl		offensive rebound							
+401126835	4	04:32	7:28	sa	Bryn Forbes makes 31-foot three point jumper (Jakob Poeltl assists)	87 - 105	87	105	0	3	Bryn Forbes		makes	jumper	31		three	Jakob Poeltl	assists	
+401126835	4	04:33	7:27	den	Nuggets Full timeout	87 - 105	87	105	0	0			full timeout							nuggets
+401126835	4	04:45	7:15	den	Nikola Jokic out of bounds bad pass turnover	87 - 105	87	105	0	0	Nikola Jokic		turnover							
+401126835	4	05:03	6:57	sa	LaMarcus Aldridge makes 13-foot two point shot	87 - 107	87	107	0	2	LaMarcus Aldridge		makes	shot	13		two			
+401126835	4	05:23	6:37	den	Nikola Jokic misses jumper	87 - 107	87	107	0	0	Nikola Jokic		misses	jumper						
+401126835	4	05:27	6:33	den	Nikola Jokic offensive rebound	87 - 107	87	107	0	0	Nikola Jokic		offensive rebound							
+401126835	4	05:27	6:33	den	Nikola Jokic makes tip shot	89 - 107	89	107	2	0	Nikola Jokic		makes	tip shot						
+401126835	4	05:43	6:17	sa	Derrick White makes 28-foot three point jumper (LaMarcus Aldridge assists)	89 - 110	89	110	0	3	Derrick White		makes	jumper	28		three	LaMarcus Aldridge	assists	
+401126835	4	05:54	6:06	den	Nikola Jokic makes driving layup	91 - 110	91	110	2	0	Nikola Jokic		makes	driving layup						
+401126835	4	06:19	5:41	sa	LaMarcus Aldridge misses 26-foot three point jumper	91 - 110	91	110	0	0	LaMarcus Aldridge		misses	jumper	26		three			
+401126835	4	06:25	5:35	sa	Jakob Poeltl offensive rebound	91 - 110	91	110	0	0	Jakob Poeltl		offensive rebound							
+401126835	4	06:25	5:35	sa	Jakob Poeltl misses tip shot	91 - 110	91	110	0	0	Jakob Poeltl		misses	tip shot						
+401126835	4	06:25	5:35	den	Paul Millsap defensive rebound	91 - 110	91	110	0	0	Paul Millsap		defensive rebound							
+401126835	4	06:31	5:29	sa	Derrick White personal foul	91 - 110	91	110	0	0	Derrick White		foul							
+401126835	4	06:31	5:29	sa	Rudy Gay enters the game for Derrick White	91 - 110	91	110	0	0	Rudy Gay	Derrick White	enters the game for							
+401126835	4	06:31	5:29	sa	DeMar DeRozan enters the game for Marco Belinelli	91 - 110	91	110	0	0	DeMar DeRozan	Marco Belinelli	enters the game for							
+401126835	4	06:31	5:29	sa	Patty Mills enters the game for Jakob Poeltl	91 - 110	91	110	0	0	Patty Mills	Jakob Poeltl	enters the game for							
+401126835	4	06:38	5:22	den	Gary Harris makes 27-foot three pointer (Nikola Jokic assists)	94 - 110	94	110	3	0	Gary Harris		makes	er	27		three	Nikola Jokic	assists	
+401126835	4	06:38	5:22	sa	Spurs Full timeout	94 - 110	94	110	0	0			full timeout							spurs
+401126835	4	06:50	5:10	den	Gary Harris personal foul	94 - 110	94	110	0	0	Gary Harris		foul							
+401126835	4	06:57	5:03	sa	DeMar DeRozan makes 14-foot two point shot	94 - 112	94	112	0	2	DeMar DeRozan		makes	shot	14		two			
+401126835	4	07:12	4:48	den	Nikola Jokic makes 3-foot dunk (Jamal Murray assists)	96 - 112	96	112	2	0	Nikola Jokic		makes	dunk	3			Jamal Murray	assists	
+401126835	4	07:36	4:24	sa	LaMarcus Aldridge misses 10-foot two point shot	96 - 112	96	112	0	0	LaMarcus Aldridge		misses	shot	10		two			
+401126835	4	07:36	4:24	sa	Spurs offensive team rebound	96 - 112	96	112	0	0			offensive rebound	team						spurs
+401126835	4	07:36	4:24	den	Paul Millsap loose ball foul	96 - 112	96	112	0	0	Paul Millsap		foul							
+401126835	4	07:36	4:24	den	Torrey Craig enters the game for Will Barton	96 - 112	96	112	0	0	Torrey Craig	Will Barton	enters the game for							
+401126835	4	07:41	4:19	sa	DeMar DeRozan makes 16-foot pullup jump shot	96 - 114	96	114	0	2	DeMar DeRozan		makes	pullup jump shot	16					
+401126835	4	07:59	4:01	den	Jamal Murray misses driving floating jump shot	96 - 114	96	114	0	0	Jamal Murray		misses	driving floating jump shot						
+401126835	4	08:03	3:57	sa	Bryn Forbes defensive rebound	96 - 114	96	114	0	0	Bryn Forbes		defensive rebound							
+401126835	4	08:09	3:51	den	Jamal Murray personal foul	96 - 114	96	114	0	0	Jamal Murray		foul							
+401126835	4	08:13	3:47	sa	DeMar DeRozan makes 17-foot jumper (Patty Mills assists)	96 - 116	96	116	0	2	DeMar DeRozan		makes	jumper	17			Patty Mills	assists	
+401126835	4	08:15	3:45	den	Nuggets Full timeout	96 - 116	96	116	0	0			full timeout							nuggets
+401126835	4	08:15	3:45	den	Malik Beasley enters the game for Paul Millsap	96 - 116	96	116	0	0	Malik Beasley	Paul Millsap	enters the game for							
+401126835	4	08:23	3:37	den	Jamal Murray out of bounds lost ball turnover	96 - 116	96	116	0	0	Jamal Murray		turnover							
+401126835	4	08:40	3:20	sa	Patty Mills misses 27-foot three point jumper	96 - 116	96	116	0	0	Patty Mills		misses	jumper	27		three			
+401126835	4	08:43	3:17	den	Nikola Jokic defensive rebound	96 - 116	96	116	0	0	Nikola Jokic		defensive rebound							
+401126835	4	08:56	3:04	den	Nikola Jokic makes 6-foot driving floating jump shot (Torrey Craig assists)	98 - 116	98	116	2	0	Nikola Jokic		makes	driving floating jump shot	6			Torrey Craig	assists	
+401126835	4	09:16	2:44	sa	Rudy Gay makes 12-foot two point shot (Patty Mills assists)	98 - 118	98	118	0	2	Rudy Gay		makes	shot	12		two	Patty Mills	assists	
+401126835	4	09:26	2:34	den	Jamal Murray bad pass (Patty Mills steals)	98 - 118	98	118	0	0	Jamal Murray		bad pass					Patty Mills	steals	
+401126835	4	09:31	2:29	sa	Patty Mills bad pass (Nikola Jokic steals)	98 - 118	98	118	0	0	Patty Mills		bad pass					Nikola Jokic	steals	
+401126835	4	09:39	2:21	den	Nikola Jokic makes layup (Jamal Murray assists)	100 - 118	100	118	2	0	Nikola Jokic		makes	layup				Jamal Murray	assists	
+401126835	4	10:01	1:59	sa	Rudy Gay misses pullup jump shot	100 - 118	100	118	0	0	Rudy Gay		misses	pullup jump shot						
+401126835	4	10:01	1:59	den	Torrey Craig defensive rebound	100 - 118	100	118	0	0	Torrey Craig		defensive rebound							
+401126835	4	10:15	1:45	sa	DeMar DeRozan shooting foul	100 - 118	100	118	0	0	DeMar DeRozan		foul							
+401126835	4	10:15	1:45	den	Jamal Murray makes free throw 1 of 2	101 - 118	101	118	1	0	Jamal Murray		makes	free throw		1-2				
+401126835	4	10:15	1:45	sa	Donatas Motiejunas enters the game for LaMarcus Aldridge	101 - 118	101	118	0	0	Donatas Motiejunas	LaMarcus Aldridge	enters the game for							
+401126835	4	10:15	1:45	sa	Dante Cunningham enters the game for Rudy Gay	101 - 118	101	118	0	0	Dante Cunningham	Rudy Gay	enters the game for							
+401126835	4	10:15	1:45	den	Jarred Vanderbilt enters the game for Gary Harris	101 - 118	101	118	0	0	Jarred Vanderbilt	Gary Harris	enters the game for							
+401126835	4	10:15	1:45	den	Juan Hernangomez enters the game for Nikola Jokic	101 - 118	101	118	0	0	Juan Hernangomez	Nikola Jokic	enters the game for							
+401126835	4	10:15	1:45	den	Jamal Murray misses free throw 2 of 2	101 - 118	101	118	0	0	Jamal Murray		misses	free throw		2-2				
+401126835	4	10:15	1:45	den	Trey Lyles enters the game for	101 - 118	101	118	0	0	Trey Lyles		enters the game for							
+401126835	4	10:15	1:45	sa	Lonnie Walker IV enters the game for DeMar DeRozan	101 - 118	101	118	0	0	Lonnie Walker IV	DeMar DeRozan	enters the game for							
+401126835	4	10:15	1:45	den	enters the game for Torrey Craig	101 - 118	101	118	0	0		Torrey Craig	enters the game for torrey craig							
+401126835	4	10:19	1:41	sa	Dante Cunningham defensive rebound	101 - 118	101	118	0	0	Dante Cunningham		defensive rebound							
+401126835	4	10:28	1:32	sa	Patty Mills misses 26-foot three point pullup jump shot	101 - 118	101	118	0	0	Patty Mills		misses	pullup jump shot	26		three			
+401126835	4	10:32	1:28	den	Jarred Vanderbilt defensive rebound	101 - 118	101	118	0	0	Jarred Vanderbilt		defensive rebound							
+401126835	4	10:45	1:15	den	Jamal Murray misses driving floating jump shot	101 - 118	101	118	0	0	Jamal Murray		misses	driving floating jump shot						
+401126835	4	10:53	1:07	den	Trey Lyles offensive rebound	101 - 118	101	118	0	0	Trey Lyles		offensive rebound							
+401126835	4	10:53	1:07	den	Jarred Vanderbilt misses layup	101 - 118	101	118	0	0	Jarred Vanderbilt		misses	layup						
+401126835	4	10:53	1:07	sa	Bryn Forbes defensive rebound	101 - 118	101	118	0	0	Bryn Forbes		defensive rebound							
+401126835	4	10:53	1:07	sa	Spurs Full timeout	101 - 118	101	118	0	0			full timeout							spurs
+401126835	4	10:53	1:07	sa	Quincy Pondexter enters the game for Patty Mills	101 - 118	101	118	0	0	Quincy Pondexter	Patty Mills	enters the game for							
+401126835	4	10:53	1:07	den	Monte Morris enters the game for	101 - 118	101	118	0	0	Monte Morris		enters the game for							
+401126835	4	10:53	1:07	den	enters the game for Juan Hernangomez	101 - 118	101	118	0	0		Juan Hernangomez	enters the game for juan hernangomez							
+401126835	4	11:11	48.7	sa	Jarred Vanderbilt blocks Dante Cunningham 's 7-foot driving layup	101 - 118	101	118	0	0	Jarred Vanderbilt	Dante Cunningham	blocks	driving layup	7					
+401126835	4	11:12	48.0	sa	shot clock turnover	101 - 118	101	118	0	0			turnover							
+401126835	4	11:12	47.4	sa	Dante Cunningham offensive rebound	101 - 118	101	118	0	0	Dante Cunningham		offensive rebound							
+401126835	4	11:27	32.8	den	Malik Beasley makes 7-foot two point shot	103 - 118	103	118	2	0	Malik Beasley		makes	shot	7		two			
+401126835	4	11:48	11.9	sa	Lonnie Walker IV makes driving layup	103 - 120	103	120	0	2	Lonnie Walker IV		makes	driving layup						
+401126835	4	11:55	4.3	den	Trey Lyles misses 28-foot three point jumper	103 - 120	103	120	0	0	Trey Lyles		misses	jumper	28		three			
+401126835	4	11:55	4.3	sa	Dante Cunningham defensive rebound	103 - 120	103	120	0	0	Dante Cunningham		defensive rebound							
+401126835	4	12:00	0.0	sa	End of the 4th Quarter	103 - 120	103	120	0	0			end of the 4th quarter							
+401126835	4	12:00	0.0	sa	End of Game	103 - 120	103	120	0	0			end of game							

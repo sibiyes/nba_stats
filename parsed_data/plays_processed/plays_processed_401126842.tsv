@@ -1,0 +1,500 @@
+game_id	quarter	q_time	q_time_remaining	team	event	score	team1_score	team2_score	team1_event_point	team2_event_point	player1	player2	action	action_what	foot_value	free_throw	point_info	player_secondary	action_secondary	team_action
+401126842	1	00:00	12:00	okc	Steven Adams vs. Enes Kanter (Jerami Grant gains possession)	0 - 0	0	0	0	0	Steven Adams	Enes Kanter	vs.					Jerami Grant	gains possession	
+401126842	1	00:14	11:46	okc	Steven Adams makes 5-foot two point shot (Russell Westbrook assists)	2 - 0	2	0	2	0	Steven Adams		makes	shot	5		two	Russell Westbrook	assists	
+401126842	1	00:32	11:28	por	Enes Kanter misses 2-foot hook shot	2 - 0	2	0	0	0	Enes Kanter		misses	hook shot	2					
+401126842	1	00:34	11:26	okc	Paul George defensive rebound	2 - 0	2	0	0	0	Paul George		defensive rebound							
+401126842	1	00:38	11:22	okc	Paul George out of bounds bad pass turnover	2 - 0	2	0	0	0	Paul George		turnover							
+401126842	1	00:51	11:09	por	CJ McCollum out of bounds bad pass turnover	2 - 0	2	0	0	0	CJ McCollum		turnover							
+401126842	1	00:59	11:01	okc	Steven Adams offensive foul	2 - 0	2	0	0	0	Steven Adams		foul							
+401126842	1	00:59	11:01	okc	Steven Adams turnover	2 - 0	2	0	0	0	Steven Adams		turnover							
+401126842	1	01:15	10:45	por	Maurice Harkless misses 25-foot three point jumper	2 - 0	2	0	0	0	Maurice Harkless		misses	jumper	25		three			
+401126842	1	01:17	10:43	okc	Terrance Ferguson defensive rebound	2 - 0	2	0	0	0	Terrance Ferguson		defensive rebound							
+401126842	1	01:22	10:38	okc	Maurice Harkless blocks Paul George 's 25-foot three point jumper	2 - 0	2	0	0	0	Maurice Harkless	Paul George	blocks	jumper	25		three			
+401126842	1	01:24	10:36	okc	Paul George offensive rebound	2 - 0	2	0	0	0	Paul George		offensive rebound							
+401126842	1	01:30	10:30	okc	Jerami Grant misses 23-foot three point jumper	2 - 0	2	0	0	0	Jerami Grant		misses	jumper	23		three			
+401126842	1	01:33	10:27	por	Maurice Harkless defensive rebound	2 - 0	2	0	0	0	Maurice Harkless		defensive rebound							
+401126842	1	01:42	10:18	por	Damian Lillard misses 26-foot three point pullup jump shot	2 - 0	2	0	0	0	Damian Lillard		misses	pullup jump shot	26		three			
+401126842	1	01:43	10:17	okc	Thunder defensive team rebound	2 - 0	2	0	0	0			defensive rebound	team						thunder
+401126842	1	02:00	10:00	okc	Steven Adams makes driving layup (Paul George assists)	4 - 0	4	0	2	0	Steven Adams		makes	driving layup				Paul George	assists	
+401126842	1	02:18	9:42	por	Al-Farouq Aminu makes 23-foot three point jumper (Damian Lillard assists)	4 - 3	4	3	0	3	Al-Farouq Aminu		makes	jumper	23		three	Damian Lillard	assists	
+401126842	1	02:32	9:28	okc	Russell Westbrook misses driving layup	4 - 3	4	3	0	0	Russell Westbrook		misses	driving layup						
+401126842	1	02:33	9:27	por	Enes Kanter defensive rebound	4 - 3	4	3	0	0	Enes Kanter		defensive rebound							
+401126842	1	02:45	9:15	por	CJ McCollum makes two point shot	4 - 5	4	5	0	2	CJ McCollum		makes	shot			two			
+401126842	1	02:58	9:02	okc	Paul George makes 20-foot jumper (Russell Westbrook assists)	6 - 5	6	5	2	0	Paul George		makes	jumper	20			Russell Westbrook	assists	
+401126842	1	03:10	8:50	por	Damian Lillard makes two point shot	6 - 7	6	7	0	2	Damian Lillard		makes	shot			two			
+401126842	1	03:15	8:45	okc	Terrance Ferguson makes alley oop dunk shot (Russell Westbrook assists)	8 - 7	8	7	2	0	Terrance Ferguson		makes	alley oop dunk shot				Russell Westbrook	assists	
+401126842	1	03:27	8:33	por	Damian Lillard misses three point pullup jump shot	8 - 7	8	7	0	0	Damian Lillard		misses	pullup jump shot			three			
+401126842	1	03:28	8:32	okc	Steven Adams defensive rebound	8 - 7	8	7	0	0	Steven Adams		defensive rebound							
+401126842	1	03:35	8:25	por	Maurice Harkless shooting foul	8 - 7	8	7	0	0	Maurice Harkless		foul							
+401126842	1	03:35	8:25	okc	Jerami Grant makes free throw 1 of 2	9 - 7	9	7	1	0	Jerami Grant		makes	free throw		1-2				
+401126842	1	03:35	8:25	okc	Jerami Grant misses free throw 2 of 2	9 - 7	9	7	0	0	Jerami Grant		misses	free throw		2-2				
+401126842	1	03:37	8:23	por	Maurice Harkless defensive rebound	9 - 7	9	7	0	0	Maurice Harkless		defensive rebound							
+401126842	1	03:41	8:19	okc	Terrance Ferguson shooting foul	9 - 7	9	7	0	0	Terrance Ferguson		foul							
+401126842	1	03:41	8:19	por	CJ McCollum makes free throw 1 of 2	9 - 8	9	8	0	1	CJ McCollum		makes	free throw		1-2				
+401126842	1	03:41	8:19	por	CJ McCollum makes free throw 2 of 2	9 - 9	9	9	0	1	CJ McCollum		makes	free throw		2-2				
+401126842	1	03:53	8:07	okc	Terrance Ferguson misses 23-foot three point jumper	9 - 9	9	9	0	0	Terrance Ferguson		misses	jumper	23		three			
+401126842	1	03:55	8:05	por	Al-Farouq Aminu defensive rebound	9 - 9	9	9	0	0	Al-Farouq Aminu		defensive rebound							
+401126842	1	03:59	8:01	por	Damian Lillard makes driving layup	9 - 11	9	11	0	2	Damian Lillard		makes	driving layup						
+401126842	1	03:59	8:01	okc	Paul George shooting foul	9 - 11	9	11	0	0	Paul George		foul							
+401126842	1	03:59	8:01	por	Damian Lillard misses free throw 1 of 1	9 - 11	9	11	0	0	Damian Lillard		misses	free throw		1-1				
+401126842	1	04:01	7:59	okc	Russell Westbrook defensive rebound	9 - 11	9	11	0	0	Russell Westbrook		defensive rebound							
+401126842	1	04:11	7:49	okc	Jerami Grant misses 22-foot three point jumper	9 - 11	9	11	0	0	Jerami Grant		misses	jumper	22		three			
+401126842	1	04:13	7:47	por	Damian Lillard defensive rebound	9 - 11	9	11	0	0	Damian Lillard		defensive rebound							
+401126842	1	04:23	7:37	por	CJ McCollum misses pullup jump shot	9 - 11	9	11	0	0	CJ McCollum		misses	pullup jump shot						
+401126842	1	04:27	7:33	okc	Steven Adams defensive rebound	9 - 11	9	11	0	0	Steven Adams		defensive rebound							
+401126842	1	04:44	7:16	okc	Paul George makes 19-foot step back jumpshot	11 - 11	11	11	2	0	Paul George		makes	step back jumpshot	19					
+401126842	1	04:59	7:01	por	CJ McCollum misses 25-foot three point jumper	11 - 11	11	11	0	0	CJ McCollum		misses	jumper	25		three			
+401126842	1	04:59	7:01	okc	Thunder defensive team rebound	11 - 11	11	11	0	0			defensive rebound	team						thunder
+401126842	1	05:05	6:55	okc	Russell Westbrook makes 25-foot running pullup jump shot	14 - 11	14	11	3	0	Russell Westbrook		makes	running pullup jump shot	25					
+401126842	1	05:29	6:31	por	Maurice Harkless makes layup (Al-Farouq Aminu assists)	14 - 13	14	13	0	2	Maurice Harkless		makes	layup				Al-Farouq Aminu	assists	
+401126842	1	05:41	6:19	okc	Paul George makes driving layup	16 - 13	16	13	2	0	Paul George		makes	driving layup						
+401126842	1	06:02	5:58	por	Al-Farouq Aminu misses 25-foot three point jumper	16 - 13	16	13	0	0	Al-Farouq Aminu		misses	jumper	25		three			
+401126842	1	06:06	5:54	okc	Jerami Grant defensive rebound	16 - 13	16	13	0	0	Jerami Grant		defensive rebound							
+401126842	1	06:11	5:49	okc	Steven Adams makes layup (Russell Westbrook assists)	18 - 13	18	13	2	0	Steven Adams		makes	layup				Russell Westbrook	assists	
+401126842	1	06:11	5:49	por	Enes Kanter shooting foul	18 - 13	18	13	0	0	Enes Kanter		foul							
+401126842	1	06:11	5:49	por	Trail Blazers Full timeout	18 - 13	18	13	0	0			full timeout							trail blazers
+401126842	1	06:11	5:49	okc	Dennis Schroder enters the game for Paul George	18 - 13	18	13	0	0	Dennis Schroder	Paul George	enters the game for							
+401126842	1	06:11	5:49	okc	Steven Adams misses free throw 1 of 1	18 - 13	18	13	0	0	Steven Adams		misses	free throw		1-1				
+401126842	1	06:15	5:45	por	Damian Lillard defensive rebound	18 - 13	18	13	0	0	Damian Lillard		defensive rebound							
+401126842	1	06:28	5:32	por	Al-Farouq Aminu misses driving floating jump shot	18 - 13	18	13	0	0	Al-Farouq Aminu		misses	driving floating jump shot						
+401126842	1	06:30	5:30	okc	Steven Adams defensive rebound	18 - 13	18	13	0	0	Steven Adams		defensive rebound							
+401126842	1	06:41	5:19	okc	Russell Westbrook makes two point shot	20 - 13	20	13	2	0	Russell Westbrook		makes	shot			two			
+401126842	1	07:07	4:53	por	CJ McCollum makes driving layup	20 - 15	20	15	0	2	CJ McCollum		makes	driving layup						
+401126842	1	07:26	4:34	okc	Terrance Ferguson misses two point shot	20 - 15	20	15	0	0	Terrance Ferguson		misses	shot			two			
+401126842	1	07:27	4:33	okc	Russell Westbrook offensive rebound	20 - 15	20	15	0	0	Russell Westbrook		offensive rebound							
+401126842	1	07:27	4:33	okc	Russell Westbrook misses tip shot	20 - 15	20	15	0	0	Russell Westbrook		misses	tip shot						
+401126842	1	07:28	4:32	por	Damian Lillard defensive rebound	20 - 15	20	15	0	0	Damian Lillard		defensive rebound							
+401126842	1	07:34	4:26	por	Maurice Harkless misses 8-foot two point shot	20 - 15	20	15	0	0	Maurice Harkless		misses	shot	8		two			
+401126842	1	07:35	4:25	por	Maurice Harkless offensive rebound	20 - 15	20	15	0	0	Maurice Harkless		offensive rebound							
+401126842	1	07:36	4:24	por	Maurice Harkless misses 3-foot tip shot	20 - 15	20	15	0	0	Maurice Harkless		misses	tip shot	3					
+401126842	1	07:37	4:23	por	Maurice Harkless offensive rebound	20 - 15	20	15	0	0	Maurice Harkless		offensive rebound							
+401126842	1	07:38	4:22	por	Maurice Harkless makes two point shot	20 - 17	20	17	0	2	Maurice Harkless		makes	shot			two			
+401126842	1	07:56	4:04	por	Enes Kanter personal foul	20 - 17	20	17	0	0	Enes Kanter		foul							
+401126842	1	07:56	4:04	por	Rodney Hood enters the game for Maurice Harkless	20 - 17	20	17	0	0	Rodney Hood	Maurice Harkless	enters the game for							
+401126842	1	07:56	4:04	por	Zach Collins enters the game for Al-Farouq Aminu	20 - 17	20	17	0	0	Zach Collins	Al-Farouq Aminu	enters the game for							
+401126842	1	07:56	4:04	okc	Paul George enters the game for Terrance Ferguson	20 - 17	20	17	0	0	Paul George	Terrance Ferguson	enters the game for							
+401126842	1	08:05	3:55	okc	Russell Westbrook misses driving floating jump shot	20 - 17	20	17	0	0	Russell Westbrook		misses	driving floating jump shot						
+401126842	1	08:09	3:51	por	CJ McCollum defensive rebound	20 - 17	20	17	0	0	CJ McCollum		defensive rebound							
+401126842	1	08:17	3:43	por	CJ McCollum makes 25-foot three point jumper (Rodney Hood assists)	20 - 20	20	20	0	3	CJ McCollum		makes	jumper	25		three	Rodney Hood	assists	
+401126842	1	08:34	3:26	okc	Steven Adams misses two point shot	20 - 20	20	20	0	0	Steven Adams		misses	shot			two			
+401126842	1	08:36	3:24	por	Enes Kanter defensive rebound	20 - 20	20	20	0	0	Enes Kanter		defensive rebound							
+401126842	1	08:46	3:14	por	CJ McCollum makes 6-foot two point shot	20 - 22	20	22	0	2	CJ McCollum		makes	shot	6		two			
+401126842	1	09:01	2:59	okc	Thunder Full timeout	20 - 22	20	22	0	0			full timeout							thunder
+401126842	1	09:01	2:59	por	Evan Turner enters the game for Enes Kanter	20 - 22	20	22	0	0	Evan Turner	Enes Kanter	enters the game for							
+401126842	1	09:01	2:59	por	Seth Curry enters the game for CJ McCollum	20 - 22	20	22	0	0	Seth Curry	CJ McCollum	enters the game for							
+401126842	1	09:01	2:59	okc	Markieff Morris enters the game for Jerami Grant	20 - 22	20	22	0	0	Markieff Morris	Jerami Grant	enters the game for							
+401126842	1	09:01	2:59	okc	Nerlens Noel enters the game for Steven Adams	20 - 22	20	22	0	0	Nerlens Noel	Steven Adams	enters the game for							
+401126842	1	09:06	2:54	okc	Zach Collins blocks Russell Westbrook's driving layup	20 - 22	20	22	0	0	Zach Collins	Russell Westbrook	blocks	driving layup						
+401126842	1	09:10	2:50	okc	Nerlens Noel offensive rebound	20 - 22	20	22	0	0	Nerlens Noel		offensive rebound							
+401126842	1	09:11	2:49	okc	Nerlens Noel makes two point shot	22 - 22	22	22	2	0	Nerlens Noel		makes	shot			two			
+401126842	1	09:30	2:30	por	Zach Collins misses layup	22 - 22	22	22	0	0	Zach Collins		misses	layup						
+401126842	1	09:32	2:28	por	Zach Collins offensive rebound	22 - 22	22	22	0	0	Zach Collins		offensive rebound							
+401126842	1	09:32	2:28	por	Zach Collins makes tip shot	22 - 24	22	24	0	2	Zach Collins		makes	tip shot						
+401126842	1	09:44	2:16	por	Seth Curry personal foul	22 - 24	22	24	0	0	Seth Curry		foul							
+401126842	1	09:44	2:16	okc	Raymond Felton enters the game for Russell Westbrook	22 - 24	22	24	0	0	Raymond Felton	Russell Westbrook	enters the game for							
+401126842	1	09:51	2:09	okc	Markieff Morris makes 25-foot three point jumper (Dennis Schroder assists)	25 - 24	25	24	3	0	Markieff Morris		makes	jumper	25		three	Dennis Schroder	assists	
+401126842	1	10:12	1:48	por	Markieff Morris blocks Zach Collins 's 2-foot layup	25 - 24	25	24	0	0	Markieff Morris	Zach Collins	blocks	layup	2					
+401126842	1	10:12	1:48	por	Trail Blazers offensive team rebound	25 - 24	25	24	0	0			offensive rebound	team						trail blazers
+401126842	1	10:14	1:46	por	Damian Lillard misses 20-foot jumper	25 - 24	25	24	0	0	Damian Lillard		misses	jumper	20					
+401126842	1	10:18	1:42	okc	Paul George defensive rebound	25 - 24	25	24	0	0	Paul George		defensive rebound							
+401126842	1	10:25	1:35	okc	Raymond Felton misses three point jumper	25 - 24	25	24	0	0	Raymond Felton		misses	jumper			three			
+401126842	1	10:28	1:32	por	Zach Collins defensive rebound	25 - 24	25	24	0	0	Zach Collins		defensive rebound							
+401126842	1	10:30	1:30	por	Evan Turner lost ball turnover (Raymond Felton steals)	25 - 24	25	24	0	0	Evan Turner		turnover					Raymond Felton	steals	
+401126842	1	10:39	1:21	okc	Dennis Schroder makes 15-foot pullup jump shot	27 - 24	27	24	2	0	Dennis Schroder		makes	pullup jump shot	15					
+401126842	1	10:53	1:07	okc	Dennis Schroder personal foul	27 - 24	27	24	0	0	Dennis Schroder		foul							
+401126842	1	11:00	59.9	por	Damian Lillard lost ball turnover (Nerlens Noel steals)	27 - 24	27	24	0	0	Damian Lillard		turnover					Nerlens Noel	steals	
+401126842	1	11:03	56.1	okc	Nerlens Noel makes 1-foot dunk (Dennis Schroder assists)	29 - 24	29	24	2	0	Nerlens Noel		makes	dunk	1			Dennis Schroder	assists	
+401126842	1	11:28	31.1	por	Zach Collins makes 17-foot jump bank shot (Seth Curry assists)	29 - 26	29	26	0	2	Zach Collins		makes	jump bank shot	17			Seth Curry	assists	
+401126842	1	11:50	9.4	okc	Dennis Schroder makes 19-foot step back jumpshot (Paul George assists)	31 - 26	31	26	2	0	Dennis Schroder		makes	step back jumpshot	19			Paul George	assists	
+401126842	1	12:00	0.0	por	Double technical foul: Zach Collins and Markieff Morris	31 - 26	31	26	0	0		Markieff Morris	foul	: zach collins and markieff morris						
+401126842	1	12:00	0.0	por	End of the 1st Quarter	31 - 26	31	26	0	0			end of the 1st quarter							
+401126842	2	00:00	12:00	por	Jake Layman enters the game for Damian Lillard	31 - 26	31	26	0	0	Jake Layman	Damian Lillard	enters the game for							
+401126842	2	00:09	11:51	okc	Nerlens Noel personal foul	31 - 26	31	26	0	0	Nerlens Noel		foul							
+401126842	2	00:20	11:40	por	Nerlens Noel blocks Evan Turner's two point shot	31 - 26	31	26	0	0	Nerlens Noel	Evan Turner	blocks	shot			two			
+401126842	2	00:20	11:40	por	Trail Blazers offensive team rebound	31 - 26	31	26	0	0			offensive rebound	team						trail blazers
+401126842	2	00:20	11:40	por	Zach Collins offensive foul	31 - 26	31	26	0	0	Zach Collins		foul							
+401126842	2	00:20	11:40	por	Zach Collins turnover	31 - 26	31	26	0	0	Zach Collins		turnover							
+401126842	2	00:25	11:35	por	Jake Layman personal foul	31 - 26	31	26	0	0	Jake Layman		foul							
+401126842	2	00:28	11:32	okc	Paul George offensive foul	31 - 26	31	26	0	0	Paul George		foul							
+401126842	2	00:28	11:32	okc	Paul George turnover	31 - 26	31	26	0	0	Paul George		turnover							
+401126842	2	00:49	11:11	por	Rodney Hood makes pullup jump shot	31 - 28	31	28	0	2	Rodney Hood		makes	pullup jump shot						
+401126842	2	01:04	10:56	okc	Zach Collins blocks Dennis Schroder's driving layup	31 - 28	31	28	0	0	Zach Collins	Dennis Schroder	blocks	driving layup						
+401126842	2	01:07	10:53	okc	Nerlens Noel offensive rebound	31 - 28	31	28	0	0	Nerlens Noel		offensive rebound							
+401126842	2	01:08	10:52	okc	Nerlens Noel makes 8-foot two point shot (Raymond Felton assists)	33 - 28	33	28	2	0	Nerlens Noel		makes	shot	8		two	Raymond Felton	assists	
+401126842	2	01:17	10:43	okc	Raymond Felton personal foul	33 - 28	33	28	0	0	Raymond Felton		foul							
+401126842	2	01:24	10:36	por	Raymond Felton blocks Evan Turner's driving layup	33 - 28	33	28	0	0	Raymond Felton	Evan Turner	blocks	driving layup						
+401126842	2	01:24	10:36	okc	Thunder defensive team rebound	33 - 28	33	28	0	0			defensive rebound	team						thunder
+401126842	2	01:33	10:27	okc	Thunder Full timeout	33 - 28	33	28	0	0			full timeout							thunder
+401126842	2	01:42	10:18	por	Evan Turner shooting foul	33 - 28	33	28	0	0	Evan Turner		foul							
+401126842	2	01:42	10:18	okc	Dennis Schroder makes free throw 1 of 2	34 - 28	34	28	1	0	Dennis Schroder		makes	free throw		1-2				
+401126842	2	01:42	10:18	okc	Dennis Schroder makes free throw 2 of 2	35 - 28	35	28	1	0	Dennis Schroder		makes	free throw		2-2				
+401126842	2	02:03	9:57	por	Zach Collins bad pass (Raymond Felton steals)	35 - 28	35	28	0	0	Zach Collins		bad pass					Raymond Felton	steals	
+401126842	2	02:10	9:50	okc	Zach Collins blocks Nerlens Noel 's 2-foot layup	35 - 28	35	28	0	0	Zach Collins	Nerlens Noel	blocks	layup	2					
+401126842	2	02:12	9:48	por	Jake Layman defensive rebound	35 - 28	35	28	0	0	Jake Layman		defensive rebound							
+401126842	2	02:22	9:38	por	Rodney Hood misses 26-foot three point pullup jump shot	35 - 28	35	28	0	0	Rodney Hood		misses	pullup jump shot	26		three			
+401126842	2	02:24	9:36	okc	Nerlens Noel defensive rebound	35 - 28	35	28	0	0	Nerlens Noel		defensive rebound							
+401126842	2	02:44	9:16	okc	Paul George misses 18-foot jumper	35 - 28	35	28	0	0	Paul George		misses	jumper	18					
+401126842	2	02:45	9:15	por	Evan Turner defensive rebound	35 - 28	35	28	0	0	Evan Turner		defensive rebound							
+401126842	2	02:50	9:10	por	Evan Turner offensive foul	35 - 28	35	28	0	0	Evan Turner		foul							
+401126842	2	02:50	9:10	por	Evan Turner turnover	35 - 28	35	28	0	0	Evan Turner		turnover							
+401126842	2	02:50	9:10	por	CJ McCollum enters the game for Evan Turner	35 - 28	35	28	0	0	CJ McCollum	Evan Turner	enters the game for							
+401126842	2	02:50	9:10	por	Maurice Harkless enters the game for Jake Layman	35 - 28	35	28	0	0	Maurice Harkless	Jake Layman	enters the game for							
+401126842	2	03:04	8:56	okc	Dennis Schroder misses 17-foot pullup jump shot	35 - 28	35	28	0	0	Dennis Schroder		misses	pullup jump shot	17					
+401126842	2	03:07	8:53	por	Maurice Harkless defensive rebound	35 - 28	35	28	0	0	Maurice Harkless		defensive rebound							
+401126842	2	03:14	8:46	por	CJ McCollum misses driving layup	35 - 28	35	28	0	0	CJ McCollum		misses	driving layup						
+401126842	2	03:18	8:42	okc	Markieff Morris defensive rebound	35 - 28	35	28	0	0	Markieff Morris		defensive rebound							
+401126842	2	03:31	8:29	okc	Paul George misses two point shot	35 - 28	35	28	0	0	Paul George		misses	shot			two			
+401126842	2	03:33	8:27	okc	Nerlens Noel offensive rebound	35 - 28	35	28	0	0	Nerlens Noel		offensive rebound							
+401126842	2	03:33	8:27	okc	Nerlens Noel misses tip shot	35 - 28	35	28	0	0	Nerlens Noel		misses	tip shot						
+401126842	2	03:33	8:27	okc	Markieff Morris offensive rebound	35 - 28	35	28	0	0	Markieff Morris		offensive rebound							
+401126842	2	03:33	8:27	por	Rodney Hood shooting foul	35 - 28	35	28	0	0	Rodney Hood		foul							
+401126842	2	03:33	8:27	okc	Markieff Morris makes free throw 1 of 2	36 - 28	36	28	1	0	Markieff Morris		makes	free throw		1-2				
+401126842	2	03:33	8:27	okc	Russell Westbrook enters the game for Dennis Schroder	36 - 28	36	28	0	0	Russell Westbrook	Dennis Schroder	enters the game for							
+401126842	2	03:33	8:27	okc	Markieff Morris makes free throw 2 of 2	37 - 28	37	28	1	0	Markieff Morris		makes	free throw		2-2				
+401126842	2	03:47	8:13	por	Zach Collins makes two point shot (CJ McCollum assists)	37 - 30	37	30	0	2	Zach Collins		makes	shot			two	CJ McCollum	assists	
+401126842	2	04:07	7:53	okc	Raymond Felton misses three point jumper	37 - 30	37	30	0	0	Raymond Felton		misses	jumper			three			
+401126842	2	04:09	7:51	por	CJ McCollum defensive rebound	37 - 30	37	30	0	0	CJ McCollum		defensive rebound							
+401126842	2	04:17	7:43	por	CJ McCollum bad pass (Russell Westbrook steals)	37 - 30	37	30	0	0	CJ McCollum		bad pass					Russell Westbrook	steals	
+401126842	2	04:28	7:32	okc	Russell Westbrook bad pass (Zach Collins steals)	37 - 30	37	30	0	0	Russell Westbrook		bad pass					Zach Collins	steals	
+401126842	2	04:43	7:17	por	CJ McCollum misses 15-foot pullup jump shot	37 - 30	37	30	0	0	CJ McCollum		misses	pullup jump shot	15					
+401126842	2	04:45	7:15	okc	Paul George defensive rebound	37 - 30	37	30	0	0	Paul George		defensive rebound							
+401126842	2	04:53	7:07	okc	Paul George makes two point shot	39 - 30	39	30	2	0	Paul George		makes	shot			two			
+401126842	2	04:53	7:07	por	Trail Blazers Full timeout	39 - 30	39	30	0	0			full timeout							trail blazers
+401126842	2	04:53	7:07	por	Damian Lillard enters the game for Seth Curry	39 - 30	39	30	0	0	Damian Lillard	Seth Curry	enters the game for							
+401126842	2	04:53	7:07	por	Enes Kanter enters the game for Zach Collins	39 - 30	39	30	0	0	Enes Kanter	Zach Collins	enters the game for							
+401126842	2	04:53	7:07	okc	Steven Adams enters the game for Raymond Felton	39 - 30	39	30	0	0	Steven Adams	Raymond Felton	enters the game for							
+401126842	2	04:53	7:07	okc	Terrance Ferguson enters the game for Nerlens Noel	39 - 30	39	30	0	0	Terrance Ferguson	Nerlens Noel	enters the game for							
+401126842	2	05:11	6:49	por	Markieff Morris blocks Enes Kanter's layup	39 - 30	39	30	0	0	Markieff Morris	Enes Kanter	blocks	layup						
+401126842	2	05:13	6:47	okc	Steven Adams defensive rebound	39 - 30	39	30	0	0	Steven Adams		defensive rebound							
+401126842	2	05:17	6:43	okc	Russell Westbrook misses two point shot	39 - 30	39	30	0	0	Russell Westbrook		misses	shot			two			
+401126842	2	05:18	6:42	por	Enes Kanter defensive rebound	39 - 30	39	30	0	0	Enes Kanter		defensive rebound							
+401126842	2	05:28	6:32	por	Enes Kanter makes 5-foot two point shot (Rodney Hood assists)	39 - 32	39	32	0	2	Enes Kanter		makes	shot	5		two	Rodney Hood	assists	
+401126842	2	05:44	6:16	okc	Paul George makes 4-foot layup (Markieff Morris assists)	41 - 32	41	32	2	0	Paul George		makes	layup	4			Markieff Morris	assists	
+401126842	2	05:57	6:03	okc	Russell Westbrook personal foul	41 - 32	41	32	0	0	Russell Westbrook		foul							
+401126842	2	05:57	6:03	por	Al-Farouq Aminu enters the game for Rodney Hood	41 - 32	41	32	0	0	Al-Farouq Aminu	Rodney Hood	enters the game for							
+401126842	2	05:57	6:03	okc	Jerami Grant enters the game for Markieff Morris	41 - 32	41	32	0	0	Jerami Grant	Markieff Morris	enters the game for							
+401126842	2	06:11	5:49	por	Damian Lillard makes 30-foot three point shot	41 - 35	41	35	0	3	Damian Lillard		makes	shot	30		three			
+401126842	2	06:33	5:27	okc	Paul George makes 26-foot step back jumpshot	44 - 35	44	35	3	0	Paul George		makes	step back jumpshot	26					
+401126842	2	06:50	5:10	okc	Terrance Ferguson shooting foul	44 - 35	44	35	0	0	Terrance Ferguson		foul							
+401126842	2	06:50	5:10	por	Maurice Harkless misses free throw 1 of 2	44 - 35	44	35	0	0	Maurice Harkless		misses	free throw		1-2				
+401126842	2	06:50	5:10	por	Trail Blazers offensive team rebound	44 - 35	44	35	0	0			offensive rebound	team						trail blazers
+401126842	2	06:50	5:10	por	Maurice Harkless makes free throw 2 of 2	44 - 36	44	36	0	1	Maurice Harkless		makes	free throw		2-2				
+401126842	2	07:00	5:00	okc	Russell Westbrook makes driving layup	46 - 36	46	36	2	0	Russell Westbrook		makes	driving layup						
+401126842	2	07:15	4:45	por	Damian Lillard makes driving layup	46 - 38	46	38	0	2	Damian Lillard		makes	driving layup						
+401126842	2	07:27	4:33	okc	Russell Westbrook misses 13-foot pullup jump shot	46 - 38	46	38	0	0	Russell Westbrook		misses	pullup jump shot	13					
+401126842	2	07:28	4:32	por	Al-Farouq Aminu defensive rebound	46 - 38	46	38	0	0	Al-Farouq Aminu		defensive rebound							
+401126842	2	07:34	4:26	por	Damian Lillard makes 28-foot three point jumper (Al-Farouq Aminu assists)	46 - 41	46	41	0	3	Damian Lillard		makes	jumper	28		three	Al-Farouq Aminu	assists	
+401126842	2	07:34	4:26	okc	Jerami Grant shooting foul	46 - 41	46	41	0	0	Jerami Grant		foul							
+401126842	2	07:34	4:26	okc	Thunder Full timeout	46 - 41	46	41	0	0			full timeout							thunder
+401126842	2	07:34	4:26	por	Damian Lillard makes free throw 1 of 1	46 - 42	46	42	0	1	Damian Lillard		makes	free throw		1-1				
+401126842	2	07:46	4:14	okc	Steven Adams makes 1-foot alley oop dunk shot (Russell Westbrook assists)	48 - 42	48	42	2	0	Steven Adams		makes	alley oop dunk shot	1			Russell Westbrook	assists	
+401126842	2	08:00	4:00	okc	Russell Westbrook personal foul	48 - 42	48	42	0	0	Russell Westbrook		foul							
+401126842	2	08:00	4:00	por	Damian Lillard misses free throw 1 of 2	48 - 42	48	42	0	0	Damian Lillard		misses	free throw		1-2				
+401126842	2	08:00	4:00	por	Damian Lillard makes free throw 2 of 2	48 - 43	48	43	0	1	Damian Lillard		makes	free throw		2-2				
+401126842	2	08:00	4:00	por	Trail Blazers offensive team rebound	48 - 43	48	43	0	0			offensive rebound	team						trail blazers
+401126842	2	08:05	3:55	por	Al-Farouq Aminu personal foul	48 - 43	48	43	0	0	Al-Farouq Aminu		foul							
+401126842	2	08:05	3:55	okc	Dennis Schroder enters the game for Terrance Ferguson	48 - 43	48	43	0	0	Dennis Schroder	Terrance Ferguson	enters the game for							
+401126842	2	08:15	3:45	por	Al-Farouq Aminu shooting foul	48 - 43	48	43	0	0	Al-Farouq Aminu		foul							
+401126842	2	08:15	3:45	okc	Paul George misses free throw 1 of 2	48 - 43	48	43	0	0	Paul George		misses	free throw		1-2				
+401126842	2	08:15	3:45	okc	Thunder offensive team rebound	48 - 43	48	43	0	0			offensive rebound	team						thunder
+401126842	2	08:15	3:45	okc	Paul George makes free throw 2 of 2	49 - 43	49	43	1	0	Paul George		makes	free throw		2-2				
+401126842	2	08:28	3:32	por	Damian Lillard misses driving layup	49 - 43	49	43	0	0	Damian Lillard		misses	driving layup						
+401126842	2	08:30	3:30	por	Al-Farouq Aminu offensive rebound	49 - 43	49	43	0	0	Al-Farouq Aminu		offensive rebound							
+401126842	2	08:31	3:29	por	Al-Farouq Aminu misses 3-foot two point shot	49 - 43	49	43	0	0	Al-Farouq Aminu		misses	shot	3		two			
+401126842	2	08:31	3:29	okc	Paul George defensive rebound	49 - 43	49	43	0	0	Paul George		defensive rebound							
+401126842	2	08:45	3:15	okc	Russell Westbrook misses 27-foot three point pullup jump shot	49 - 43	49	43	0	0	Russell Westbrook		misses	pullup jump shot	27		three			
+401126842	2	08:45	3:15	por	CJ McCollum defensive rebound	49 - 43	49	43	0	0	CJ McCollum		defensive rebound							
+401126842	2	08:45	3:15	okc	Dennis Schroder personal foul	49 - 43	49	43	0	0	Dennis Schroder		foul							
+401126842	2	08:45	3:15	por	CJ McCollum makes free throw 1 of 2	49 - 44	49	44	0	1	CJ McCollum		makes	free throw		1-2				
+401126842	2	08:45	3:15	por	CJ McCollum makes free throw 2 of 2	49 - 45	49	45	0	1	CJ McCollum		makes	free throw		2-2				
+401126842	2	08:54	3:06	okc	Paul George makes 17-foot step back jumpshot	51 - 45	51	45	2	0	Paul George		makes	step back jumpshot	17					
+401126842	2	09:06	2:54	por	CJ McCollum misses 20-foot pullup jump shot	51 - 45	51	45	0	0	CJ McCollum		misses	pullup jump shot	20					
+401126842	2	09:06	2:54	okc	Thunder defensive team rebound	51 - 45	51	45	0	0			defensive rebound	team						thunder
+401126842	2	09:06	2:54	por	Al-Farouq Aminu loose ball foul	51 - 45	51	45	0	0	Al-Farouq Aminu		foul							
+401126842	2	09:06	2:54	okc	Jerami Grant makes free throw 1 of 2	52 - 45	52	45	1	0	Jerami Grant		makes	free throw		1-2				
+401126842	2	09:06	2:54	por	Rodney Hood enters the game for Al-Farouq Aminu	52 - 45	52	45	0	0	Rodney Hood	Al-Farouq Aminu	enters the game for							
+401126842	2	09:06	2:54	okc	Jerami Grant misses free throw 2 of 2	52 - 45	52	45	0	0	Jerami Grant		misses	free throw		2-2				
+401126842	2	09:12	2:48	okc	Steven Adams offensive rebound	52 - 45	52	45	0	0	Steven Adams		offensive rebound							
+401126842	2	09:17	2:43	okc	Thunder Full timeout	52 - 45	52	45	0	0			full timeout							thunder
+401126842	2	09:21	2:39	okc	Damian Lillard blocks Russell Westbrook 's 5-foot driving layup	52 - 45	52	45	0	0	Damian Lillard	Russell Westbrook	blocks	driving layup	5					
+401126842	2	09:21	2:39	por	Enes Kanter defensive rebound	52 - 45	52	45	0	0	Enes Kanter		defensive rebound							
+401126842	2	09:21	2:39	okc	Russell Westbrook personal foul	52 - 45	52	45	0	0	Russell Westbrook		foul							
+401126842	2	09:21	2:39	por	Enes Kanter makes free throw 1 of 2	52 - 46	52	46	0	1	Enes Kanter		makes	free throw		1-2				
+401126842	2	09:21	2:39	por	Enes Kanter makes free throw 2 of 2	52 - 47	52	47	0	1	Enes Kanter		makes	free throw		2-2				
+401126842	2	09:33	2:27	okc	Paul George misses 25-foot three point jumper	52 - 47	52	47	0	0	Paul George		misses	jumper	25		three			
+401126842	2	09:35	2:25	por	Enes Kanter defensive rebound	52 - 47	52	47	0	0	Enes Kanter		defensive rebound							
+401126842	2	09:43	2:17	por	CJ McCollum misses driving floating jump shot	52 - 47	52	47	0	0	CJ McCollum		misses	driving floating jump shot						
+401126842	2	09:44	2:16	por	CJ McCollum offensive rebound	52 - 47	52	47	0	0	CJ McCollum		offensive rebound							
+401126842	2	09:46	2:14	por	Rodney Hood misses 27-foot three point jumper	52 - 47	52	47	0	0	Rodney Hood		misses	jumper	27		three			
+401126842	2	09:50	2:10	okc	Steven Adams defensive rebound	52 - 47	52	47	0	0	Steven Adams		defensive rebound							
+401126842	2	09:56	2:04	okc	Russell Westbrook misses running pullup jump shot	52 - 47	52	47	0	0	Russell Westbrook		misses	running pullup jump shot						
+401126842	2	09:58	2:02	por	CJ McCollum defensive rebound	52 - 47	52	47	0	0	CJ McCollum		defensive rebound							
+401126842	2	10:06	1:54	por	Damian Lillard misses 22-foot step back jumpshot	52 - 47	52	47	0	0	Damian Lillard		misses	step back jumpshot	22					
+401126842	2	10:08	1:52	okc	Jerami Grant defensive rebound	52 - 47	52	47	0	0	Jerami Grant		defensive rebound							
+401126842	2	10:18	1:42	okc	Paul George misses 10-foot two point shot	52 - 47	52	47	0	0	Paul George		misses	shot	10		two			
+401126842	2	10:20	1:40	okc	Russell Westbrook offensive rebound	52 - 47	52	47	0	0	Russell Westbrook		offensive rebound							
+401126842	2	10:20	1:40	okc	Russell Westbrook misses tip shot	52 - 47	52	47	0	0	Russell Westbrook		misses	tip shot						
+401126842	2	10:21	1:39	por	Damian Lillard defensive rebound	52 - 47	52	47	0	0	Damian Lillard		defensive rebound							
+401126842	2	10:26	1:34	por	Enes Kanter offensive charge	52 - 47	52	47	0	0	Enes Kanter		offensive charge							
+401126842	2	10:26	1:34	por	Enes Kanter turnover	52 - 47	52	47	0	0	Enes Kanter		turnover							
+401126842	2	10:26	1:34	okc	Terrance Ferguson enters the game for Russell Westbrook	52 - 47	52	47	0	0	Terrance Ferguson	Russell Westbrook	enters the game for							
+401126842	2	10:26	1:34	por	Meyers Leonard enters the game for Enes Kanter	52 - 47	52	47	0	0	Meyers Leonard	Enes Kanter	enters the game for							
+401126842	2	10:42	1:18	okc	Terrance Ferguson misses 22-foot three point jumper	52 - 47	52	47	0	0	Terrance Ferguson		misses	jumper	22		three			
+401126842	2	10:42	1:18	okc	Thunder offensive team rebound	52 - 47	52	47	0	0			offensive rebound	team						thunder
+401126842	2	10:42	1:18	por	Meyers Leonard loose ball foul	52 - 47	52	47	0	0	Meyers Leonard		foul							
+401126842	2	10:42	1:18	okc	Steven Adams misses free throw 1 of 2	52 - 47	52	47	0	0	Steven Adams		misses	free throw		1-2				
+401126842	2	10:42	1:18	okc	Thunder offensive team rebound	52 - 47	52	47	0	0			offensive rebound	team						thunder
+401126842	2	10:42	1:18	okc	Steven Adams makes free throw 2 of 2	53 - 47	53	47	1	0	Steven Adams		makes	free throw		2-2				
+401126842	2	10:57	1:03	por	Maurice Harkless makes 3-foot driving floating jump shot (CJ McCollum assists)	53 - 49	53	49	0	2	Maurice Harkless		makes	driving floating jump shot	3			CJ McCollum	assists	
+401126842	2	11:18	41.9	okc	Terrance Ferguson offensive charge	53 - 49	53	49	0	0	Terrance Ferguson		offensive charge							
+401126842	2	11:18	41.9	okc	Terrance Ferguson turnover	53 - 49	53	49	0	0	Terrance Ferguson		turnover							
+401126842	2	11:28	31.9	por	Damian Lillard makes driving layup	53 - 51	53	51	0	2	Damian Lillard		makes	driving layup						
+401126842	2	11:44	15.5	por	Damian Lillard shooting foul	53 - 51	53	51	0	0	Damian Lillard		foul							
+401126842	2	11:44	15.5	okc	Abdel Nader enters the game for Terrance Ferguson	53 - 51	53	51	0	0	Abdel Nader	Terrance Ferguson	enters the game for							
+401126842	2	11:44	15.5	okc	Dennis Schroder misses free throw 1 of 2	53 - 51	53	51	0	0	Dennis Schroder		misses	free throw		1-2				
+401126842	2	11:44	15.5	okc	Thunder offensive team rebound	53 - 51	53	51	0	0			offensive rebound	team						thunder
+401126842	2	11:44	15.5	okc	Dennis Schroder makes free throw 2 of 2	54 - 51	54	51	1	0	Dennis Schroder		makes	free throw		2-2				
+401126842	2	12:00	0.0	por	CJ McCollum makes 26-foot three point jumper (Damian Lillard assists)	54 - 54	54	54	0	3	CJ McCollum		makes	jumper	26		three	Damian Lillard	assists	
+401126842	2	12:00	0.0	por	End of the 2nd Quarter	54 - 54	54	54	0	0			end of the 2nd quarter							
+401126842	3	00:00	12:00	por	Enes Kanter enters the game for Rodney Hood	54 - 54	54	54	0	0	Enes Kanter	Rodney Hood	enters the game for							
+401126842	3	00:00	12:00	por	Al-Farouq Aminu enters the game for Meyers Leonard	54 - 54	54	54	0	0	Al-Farouq Aminu	Meyers Leonard	enters the game for							
+401126842	3	00:00	12:00	okc	Russell Westbrook enters the game for Dennis Schroder	54 - 54	54	54	0	0	Russell Westbrook	Dennis Schroder	enters the game for							
+401126842	3	00:00	12:00	okc	Terrance Ferguson enters the game for Abdel Nader	54 - 54	54	54	0	0	Terrance Ferguson	Abdel Nader	enters the game for							
+401126842	3	00:16	11:44	por	Enes Kanter misses 15-foot two point shot	54 - 54	54	54	0	0	Enes Kanter		misses	shot	15		two			
+401126842	3	00:17	11:43	por	Trail Blazers offensive team rebound	54 - 54	54	54	0	0			offensive rebound	team						trail blazers
+401126842	3	00:22	11:38	por	Enes Kanter offensive charge	54 - 54	54	54	0	0	Enes Kanter		offensive charge							
+401126842	3	00:22	11:38	por	Enes Kanter turnover	54 - 54	54	54	0	0	Enes Kanter		turnover							
+401126842	3	00:34	11:26	okc	Steven Adams makes two point shot (Russell Westbrook assists)	56 - 54	56	54	2	0	Steven Adams		makes	shot			two	Russell Westbrook	assists	
+401126842	3	00:44	11:16	okc	Terrance Ferguson personal foul	56 - 54	56	54	0	0	Terrance Ferguson		foul							
+401126842	3	00:55	11:05	por	Al-Farouq Aminu misses driving layup	56 - 54	56	54	0	0	Al-Farouq Aminu		misses	driving layup						
+401126842	3	00:56	11:04	okc	Russell Westbrook defensive rebound	56 - 54	56	54	0	0	Russell Westbrook		defensive rebound							
+401126842	3	00:57	11:03	okc	Russell Westbrook bad pass (Al-Farouq Aminu steals)	56 - 54	56	54	0	0	Russell Westbrook		bad pass					Al-Farouq Aminu	steals	
+401126842	3	01:06	10:54	por	Enes Kanter makes 2-foot two point shot (Damian Lillard assists)	56 - 56	56	56	0	2	Enes Kanter		makes	shot	2		two	Damian Lillard	assists	
+401126842	3	01:17	10:43	okc	Russell Westbrook lost ball turnover (Damian Lillard steals)	56 - 56	56	56	0	0	Russell Westbrook		turnover					Damian Lillard	steals	
+401126842	3	01:24	10:36	por	CJ McCollum makes 20-foot pullup jump shot	56 - 58	56	58	0	2	CJ McCollum		makes	pullup jump shot	20					
+401126842	3	01:33	10:27	por	Maurice Harkless personal foul	56 - 58	56	58	0	0	Maurice Harkless		foul							
+401126842	3	01:36	10:24	okc	Steven Adams offensive foul	56 - 58	56	58	0	0	Steven Adams		foul							
+401126842	3	01:36	10:24	okc	Steven Adams turnover	56 - 58	56	58	0	0	Steven Adams		turnover							
+401126842	3	01:55	10:05	por	CJ McCollum makes 16-foot pullup jump shot	56 - 60	56	60	0	2	CJ McCollum		makes	pullup jump shot	16					
+401126842	3	02:06	9:54	okc	Jerami Grant misses 27-foot three point jumper	56 - 60	56	60	0	0	Jerami Grant		misses	jumper	27		three			
+401126842	3	02:08	9:52	por	CJ McCollum defensive rebound	56 - 60	56	60	0	0	CJ McCollum		defensive rebound							
+401126842	3	02:15	9:45	por	CJ McCollum misses 25-foot three point pullup jump shot	56 - 60	56	60	0	0	CJ McCollum		misses	pullup jump shot	25		three			
+401126842	3	02:18	9:42	okc	Jerami Grant defensive rebound	56 - 60	56	60	0	0	Jerami Grant		defensive rebound							
+401126842	3	02:24	9:36	okc	Paul George makes driving layup	58 - 60	58	60	2	0	Paul George		makes	driving layup						
+401126842	3	02:41	9:19	por	Damian Lillard misses 25-foot three point pullup jump shot	58 - 60	58	60	0	0	Damian Lillard		misses	pullup jump shot	25		three			
+401126842	3	02:44	9:16	okc	Paul George defensive rebound	58 - 60	58	60	0	0	Paul George		defensive rebound							
+401126842	3	02:50	9:10	okc	Paul George lost ball turnover (Al-Farouq Aminu steals)	58 - 60	58	60	0	0	Paul George		turnover					Al-Farouq Aminu	steals	
+401126842	3	02:53	9:07	por	Damian Lillard makes layup (Al-Farouq Aminu assists)	58 - 62	58	62	0	2	Damian Lillard		makes	layup				Al-Farouq Aminu	assists	
+401126842	3	03:06	8:54	okc	Paul George lost ball turnover (Maurice Harkless steals)	58 - 62	58	62	0	0	Paul George		turnover					Maurice Harkless	steals	
+401126842	3	03:11	8:49	por	Maurice Harkless makes two point shot	58 - 64	58	64	0	2	Maurice Harkless		makes	shot			two			
+401126842	3	03:28	8:32	okc	Terrance Ferguson makes 23-foot three point jumper (Steven Adams assists)	61 - 64	61	64	3	0	Terrance Ferguson		makes	jumper	23		three	Steven Adams	assists	
+401126842	3	03:47	8:13	por	Jerami Grant blocks Damian Lillard's driving layup	61 - 64	61	64	0	0	Jerami Grant	Damian Lillard	blocks	driving layup						
+401126842	3	03:47	8:13	okc	Terrance Ferguson defensive rebound	61 - 64	61	64	0	0	Terrance Ferguson		defensive rebound							
+401126842	3	03:54	8:06	okc	Terrance Ferguson misses 25-foot three point jumper	61 - 64	61	64	0	0	Terrance Ferguson		misses	jumper	25		three			
+401126842	3	03:55	8:05	por	Maurice Harkless defensive rebound	61 - 64	61	64	0	0	Maurice Harkless		defensive rebound							
+401126842	3	04:06	7:54	por	CJ McCollum makes 5-foot two point shot	61 - 66	61	66	0	2	CJ McCollum		makes	shot	5		two			
+401126842	3	04:13	7:47	por	Maurice Harkless personal foul	61 - 66	61	66	0	0	Maurice Harkless		foul							
+401126842	3	04:22	7:38	okc	Steven Adams makes layup (Russell Westbrook assists)	63 - 66	63	66	2	0	Steven Adams		makes	layup				Russell Westbrook	assists	
+401126842	3	04:43	7:17	por	Al-Farouq Aminu misses 25-foot three point jumper	63 - 66	63	66	0	0	Al-Farouq Aminu		misses	jumper	25		three			
+401126842	3	04:48	7:12	okc	Steven Adams defensive rebound	63 - 66	63	66	0	0	Steven Adams		defensive rebound							
+401126842	3	04:58	7:02	okc	Damian Lillard blocks Russell Westbrook 's 15-foot pullup jump shot	63 - 66	63	66	0	0	Damian Lillard	Russell Westbrook	blocks	pullup jump shot	15					
+401126842	3	05:01	6:59	okc	Steven Adams offensive rebound	63 - 66	63	66	0	0	Steven Adams		offensive rebound							
+401126842	3	05:01	6:59	okc	Russell Westbrook misses 26-foot three point pullup jump shot	63 - 66	63	66	0	0	Russell Westbrook		misses	pullup jump shot	26		three			
+401126842	3	05:03	6:57	por	Al-Farouq Aminu defensive rebound	63 - 66	63	66	0	0	Al-Farouq Aminu		defensive rebound							
+401126842	3	05:10	6:50	por	Damian Lillard makes 31-foot running pullup jump shot	63 - 69	63	69	0	3	Damian Lillard		makes	running pullup jump shot	31					
+401126842	3	05:12	6:48	okc	Thunder Full timeout	63 - 69	63	69	0	0			full timeout							thunder
+401126842	3	05:12	6:48	por	Meyers Leonard enters the game for Enes Kanter	63 - 69	63	69	0	0	Meyers Leonard	Enes Kanter	enters the game for							
+401126842	3	05:25	6:35	por	Meyers Leonard shooting foul	63 - 69	63	69	0	0	Meyers Leonard		foul							
+401126842	3	05:25	6:35	okc	Steven Adams misses free throw 1 of 2	63 - 69	63	69	0	0	Steven Adams		misses	free throw		1-2				
+401126842	3	05:25	6:35	okc	Thunder offensive team rebound	63 - 69	63	69	0	0			offensive rebound	team						thunder
+401126842	3	05:25	6:35	okc	Dennis Schroder enters the game for Terrance Ferguson	63 - 69	63	69	0	0	Dennis Schroder	Terrance Ferguson	enters the game for							
+401126842	3	05:25	6:35	okc	Steven Adams makes free throw 2 of 2	64 - 69	64	69	1	0	Steven Adams		makes	free throw		2-2				
+401126842	3	05:42	6:18	por	Maurice Harkless makes 24-foot three point jumper (CJ McCollum assists)	64 - 72	64	72	0	3	Maurice Harkless		makes	jumper	24		three	CJ McCollum	assists	
+401126842	3	06:00	6:00	por	Maurice Harkless shooting foul	64 - 72	64	72	0	0	Maurice Harkless		foul							
+401126842	3	06:00	6:00	okc	Jerami Grant misses free throw 1 of 2	64 - 72	64	72	0	0	Jerami Grant		misses	free throw		1-2				
+401126842	3	06:00	6:00	okc	Thunder offensive team rebound	64 - 72	64	72	0	0			offensive rebound	team						thunder
+401126842	3	06:00	6:00	por	Rodney Hood enters the game for Maurice Harkless	64 - 72	64	72	0	0	Rodney Hood	Maurice Harkless	enters the game for							
+401126842	3	06:00	6:00	okc	Jerami Grant makes free throw 2 of 2	65 - 72	65	72	1	0	Jerami Grant		makes	free throw		2-2				
+401126842	3	06:16	5:44	por	Damian Lillard misses two point shot	65 - 72	65	72	0	0	Damian Lillard		misses	shot			two			
+401126842	3	06:17	5:43	okc	Russell Westbrook defensive rebound	65 - 72	65	72	0	0	Russell Westbrook		defensive rebound							
+401126842	3	06:30	5:30	okc	Terrance Ferguson enters the game for Jerami Grant	65 - 72	65	72	0	0	Terrance Ferguson	Jerami Grant	enters the game for							
+401126842	3	06:32	5:28	okc	Russell Westbrook bad pass (CJ McCollum steals)	65 - 72	65	72	0	0	Russell Westbrook		bad pass					CJ McCollum	steals	
+401126842	3	06:51	5:09	por	Damian Lillard bad pass (Steven Adams steals)	65 - 72	65	72	0	0	Damian Lillard		bad pass					Steven Adams	steals	
+401126842	3	07:02	4:58	okc	Paul George makes driving layup	67 - 72	67	72	2	0	Paul George		makes	driving layup						
+401126842	3	07:02	4:58	por	Meyers Leonard defensive goaltending violation	67 - 72	67	72	0	0	Meyers Leonard		defensive goaltending violation							
+401126842	3	07:18	4:42	por	CJ McCollum makes 26-foot step back jumpshot	67 - 75	67	75	0	3	CJ McCollum		makes	step back jumpshot	26					
+401126842	3	07:40	4:20	okc	Terrance Ferguson misses 24-foot three point jumper	67 - 75	67	75	0	0	Terrance Ferguson		misses	jumper	24		three			
+401126842	3	07:42	4:18	por	Meyers Leonard defensive rebound	67 - 75	67	75	0	0	Meyers Leonard		defensive rebound							
+401126842	3	07:57	4:03	por	Rodney Hood misses 24-foot three point jumper	67 - 75	67	75	0	0	Rodney Hood		misses	jumper	24		three			
+401126842	3	07:59	4:01	okc	Russell Westbrook defensive rebound	67 - 75	67	75	0	0	Russell Westbrook		defensive rebound							
+401126842	3	08:10	3:50	okc	Russell Westbrook makes two point shot	69 - 75	69	75	2	0	Russell Westbrook		makes	shot			two			
+401126842	3	08:10	3:50	por	Trail Blazers Full timeout	69 - 75	69	75	0	0			full timeout							trail blazers
+401126842	3	08:10	3:50	okc	Nerlens Noel enters the game for Steven Adams	69 - 75	69	75	0	0	Nerlens Noel	Steven Adams	enters the game for							
+401126842	3	08:27	3:33	por	CJ McCollum bad pass (Paul George steals)	69 - 75	69	75	0	0	CJ McCollum		bad pass					Paul George	steals	
+401126842	3	08:32	3:28	okc	Dennis Schroder misses running pullup jump shot	69 - 75	69	75	0	0	Dennis Schroder		misses	running pullup jump shot						
+401126842	3	08:33	3:27	por	Meyers Leonard defensive rebound	69 - 75	69	75	0	0	Meyers Leonard		defensive rebound							
+401126842	3	08:43	3:17	okc	Nerlens Noel personal foul	69 - 75	69	75	0	0	Nerlens Noel		foul							
+401126842	3	08:43	3:17	por	Seth Curry enters the game for CJ McCollum	69 - 75	69	75	0	0	Seth Curry	CJ McCollum	enters the game for							
+401126842	3	08:57	3:03	por	Al-Farouq Aminu makes two point shot	69 - 77	69	77	0	2	Al-Farouq Aminu		makes	shot			two			
+401126842	3	09:13	2:47	okc	Nerlens Noel makes dunk (Russell Westbrook assists)	71 - 77	71	77	2	0	Nerlens Noel		makes	dunk				Russell Westbrook	assists	
+401126842	3	09:35	2:25	por	Rodney Hood makes pullup jump shot	71 - 79	71	79	0	2	Rodney Hood		makes	pullup jump shot						
+401126842	3	09:51	2:09	okc	Russell Westbrook misses 17-foot pullup jump shot	71 - 79	71	79	0	0	Russell Westbrook		misses	pullup jump shot	17					
+401126842	3	09:51	2:09	por	Trail Blazers defensive team rebound	71 - 79	71	79	0	0			defensive rebound	team						trail blazers
+401126842	3	09:51	2:09	okc	Nerlens Noel loose ball foul	71 - 79	71	79	0	0	Nerlens Noel		foul							
+401126842	3	09:51	2:09	por	Evan Turner enters the game for Al-Farouq Aminu	71 - 79	71	79	0	0	Evan Turner	Al-Farouq Aminu	enters the game for							
+401126842	3	09:51	2:09	okc	Markieff Morris enters the game for Paul George	71 - 79	71	79	0	0	Markieff Morris	Paul George	enters the game for							
+401126842	3	10:08	1:52	por	Rodney Hood misses 25-foot three point jumper	71 - 79	71	79	0	0	Rodney Hood		misses	jumper	25		three			
+401126842	3	10:12	1:48	okc	Dennis Schroder defensive rebound	71 - 79	71	79	0	0	Dennis Schroder		defensive rebound							
+401126842	3	10:17	1:43	okc	Terrance Ferguson makes 1-foot dunk (Markieff Morris assists)	73 - 79	73	79	2	0	Terrance Ferguson		makes	dunk	1			Markieff Morris	assists	
+401126842	3	10:39	1:21	por	Seth Curry makes 27-foot three point jumper (Damian Lillard assists)	73 - 82	73	82	0	3	Seth Curry		makes	jumper	27		three	Damian Lillard	assists	
+401126842	3	10:57	1:03	okc	Dennis Schroder lost ball turnover (Damian Lillard steals)	73 - 82	73	82	0	0	Dennis Schroder		turnover					Damian Lillard	steals	
+401126842	3	11:00	59.5	por	Seth Curry makes 24-foot three point jumper (Damian Lillard assists)	73 - 85	73	85	0	3	Seth Curry		makes	jumper	24		three	Damian Lillard	assists	
+401126842	3	11:14	45.7	okc	Markieff Morris misses two point shot	73 - 85	73	85	0	0	Markieff Morris		misses	shot			two			
+401126842	3	11:14	45.4	okc	Thunder offensive team rebound	73 - 85	73	85	0	0			offensive rebound	team						thunder
+401126842	3	11:14	45.4	por	Rodney Hood loose ball foul	73 - 85	73	85	0	0	Rodney Hood		foul							
+401126842	3	11:14	45.4	okc	Russell Westbrook makes free throw 1 of 2	74 - 85	74	85	1	0	Russell Westbrook		makes	free throw		1-2				
+401126842	3	11:14	45.4	okc	Russell Westbrook makes free throw 2 of 2	75 - 85	75	85	1	0	Russell Westbrook		makes	free throw		2-2				
+401126842	3	11:24	35.7	okc	Dennis Schroder personal foul	75 - 85	75	85	0	0	Dennis Schroder		foul							
+401126842	3	11:31	28.5	okc	Dennis Schroder shooting foul	75 - 85	75	85	0	0	Dennis Schroder		foul							
+401126842	3	11:31	28.5	por	Damian Lillard makes free throw 1 of 3	75 - 86	75	86	0	1	Damian Lillard		makes	free throw		1-3				
+401126842	3	11:31	28.5	por	Damian Lillard makes free throw 2 of 3	75 - 87	75	87	0	1	Damian Lillard		makes	free throw		2-3				
+401126842	3	11:31	28.5	por	Zach Collins enters the game for Meyers Leonard	75 - 87	75	87	0	0	Zach Collins	Meyers Leonard	enters the game for							
+401126842	3	11:31	28.5	okc	Raymond Felton enters the game for Dennis Schroder	75 - 87	75	87	0	0	Raymond Felton	Dennis Schroder	enters the game for							
+401126842	3	11:31	28.5	por	Damian Lillard makes free throw 3 of 3	75 - 88	75	88	0	1	Damian Lillard		makes	free throw		3-3				
+401126842	3	11:49	10.5	okc	Russell Westbrook offensive charge	75 - 88	75	88	0	0	Russell Westbrook		offensive charge							
+401126842	3	11:49	10.5	okc	Russell Westbrook turnover	75 - 88	75	88	0	0	Russell Westbrook		turnover							
+401126842	3	11:49	10.5	por	CJ McCollum enters the game for Zach Collins	75 - 88	75	88	0	0	CJ McCollum	Zach Collins	enters the game for							
+401126842	3	11:49	10.5	okc	Jerami Grant enters the game for Markieff Morris	75 - 88	75	88	0	0	Jerami Grant	Markieff Morris	enters the game for							
+401126842	3	11:59	0.2	por	Damian Lillard makes 25-foot step back jumpshot	75 - 91	75	91	0	3	Damian Lillard		makes	step back jumpshot	25					
+401126842	3	12:00	0.0	por	End of the 3rd Quarter	75 - 91	75	91	0	0			end of the 3rd quarter							
+401126842	4	00:00	12:00	por	Zach Collins enters the game for Damian Lillard	75 - 91	75	91	0	0	Zach Collins	Damian Lillard	enters the game for							
+401126842	4	00:00	12:00	okc	Markieff Morris enters the game for Nerlens Noel	75 - 91	75	91	0	0	Markieff Morris	Nerlens Noel	enters the game for							
+401126842	4	00:00	12:00	okc	Paul George enters the game for Terrance Ferguson	75 - 91	75	91	0	0	Paul George	Terrance Ferguson	enters the game for							
+401126842	4	00:12	11:48	okc	Jerami Grant misses 4-foot two point shot	75 - 91	75	91	0	0	Jerami Grant		misses	shot	4		two			
+401126842	4	00:14	11:46	por	Zach Collins defensive rebound	75 - 91	75	91	0	0	Zach Collins		defensive rebound							
+401126842	4	00:25	11:35	okc	Markieff Morris personal foul	75 - 91	75	91	0	0	Markieff Morris		foul							
+401126842	4	00:33	11:27	por	CJ McCollum makes driving layup	75 - 93	75	93	0	2	CJ McCollum		makes	driving layup						
+401126842	4	00:44	11:16	okc	Russell Westbrook misses three point jumper	75 - 93	75	93	0	0	Russell Westbrook		misses	jumper			three			
+401126842	4	00:47	11:13	okc	Markieff Morris offensive rebound	75 - 93	75	93	0	0	Markieff Morris		offensive rebound							
+401126842	4	00:50	11:10	okc	Jerami Grant misses 24-foot three point jumper	75 - 93	75	93	0	0	Jerami Grant		misses	jumper	24		three			
+401126842	4	00:53	11:07	por	Evan Turner defensive rebound	75 - 93	75	93	0	0	Evan Turner		defensive rebound							
+401126842	4	01:08	10:52	por	Zach Collins offensive foul	75 - 93	75	93	0	0	Zach Collins		foul							
+401126842	4	01:08	10:52	por	Zach Collins turnover	75 - 93	75	93	0	0	Zach Collins		turnover							
+401126842	4	01:17	10:43	por	Evan Turner shooting foul	75 - 93	75	93	0	0	Evan Turner		foul							
+401126842	4	01:17	10:43	okc	Markieff Morris makes free throw 1 of 2	76 - 93	76	93	1	0	Markieff Morris		makes	free throw		1-2				
+401126842	4	01:17	10:43	okc	Markieff Morris makes free throw 2 of 2	77 - 93	77	93	1	0	Markieff Morris		makes	free throw		2-2				
+401126842	4	01:34	10:26	por	CJ McCollum misses 26-foot three point pullup jump shot	77 - 93	77	93	0	0	CJ McCollum		misses	pullup jump shot	26		three			
+401126842	4	01:38	10:22	okc	Russell Westbrook defensive rebound	77 - 93	77	93	0	0	Russell Westbrook		defensive rebound							
+401126842	4	01:43	10:17	okc	Paul George misses 25-foot three point jumper	77 - 93	77	93	0	0	Paul George		misses	jumper	25		three			
+401126842	4	01:46	10:14	okc	Markieff Morris offensive rebound	77 - 93	77	93	0	0	Markieff Morris		offensive rebound							
+401126842	4	01:46	10:14	okc	Markieff Morris misses tip shot	77 - 93	77	93	0	0	Markieff Morris		misses	tip shot						
+401126842	4	01:46	10:14	por	CJ McCollum defensive rebound	77 - 93	77	93	0	0	CJ McCollum		defensive rebound							
+401126842	4	01:55	10:05	por	Seth Curry misses 26-foot three point jumper	77 - 93	77	93	0	0	Seth Curry		misses	jumper	26		three			
+401126842	4	01:59	10:01	okc	Paul George defensive rebound	77 - 93	77	93	0	0	Paul George		defensive rebound							
+401126842	4	02:04	9:56	okc	Paul George misses 28-foot three point jumper	77 - 93	77	93	0	0	Paul George		misses	jumper	28		three			
+401126842	4	02:05	9:55	por	Evan Turner defensive rebound	77 - 93	77	93	0	0	Evan Turner		defensive rebound							
+401126842	4	02:24	9:36	okc	Markieff Morris kicked ball violation	77 - 93	77	93	0	0	Markieff Morris		kicked ball violation							
+401126842	4	02:24	9:36	por	Meyers Leonard enters the game for Zach Collins	77 - 93	77	93	0	0	Meyers Leonard	Zach Collins	enters the game for							
+401126842	4	02:24	9:36	okc	Steven Adams enters the game for Markieff Morris	77 - 93	77	93	0	0	Steven Adams	Markieff Morris	enters the game for							
+401126842	4	02:29	9:31	por	Seth Curry misses driving floating jump shot	77 - 93	77	93	0	0	Seth Curry		misses	driving floating jump shot						
+401126842	4	02:31	9:29	okc	Russell Westbrook defensive rebound	77 - 93	77	93	0	0	Russell Westbrook		defensive rebound							
+401126842	4	02:38	9:22	okc	Paul George makes dunk	79 - 93	79	93	2	0	Paul George		makes	dunk						
+401126842	4	03:03	8:57	por	CJ McCollum makes pullup jump shot	79 - 95	79	95	0	2	CJ McCollum		makes	pullup jump shot						
+401126842	4	03:13	8:47	okc	Jerami Grant makes dunk (Russell Westbrook assists)	81 - 95	81	95	2	0	Jerami Grant		makes	dunk				Russell Westbrook	assists	
+401126842	4	03:36	8:24	por	Damian Lillard enters the game for Evan Turner	81 - 95	81	95	0	0	Damian Lillard	Evan Turner	enters the game for							
+401126842	4	03:36	8:24	okc	Terrance Ferguson enters the game for Raymond Felton	81 - 95	81	95	0	0	Terrance Ferguson	Raymond Felton	enters the game for							
+401126842	4	03:39	8:21	por	Meyers Leonard misses 16-foot jumper	81 - 95	81	95	0	0	Meyers Leonard		misses	jumper	16					
+401126842	4	03:41	8:19	okc	Jerami Grant defensive rebound	81 - 95	81	95	0	0	Jerami Grant		defensive rebound							
+401126842	4	03:46	8:14	por	Meyers Leonard personal foul	81 - 95	81	95	0	0	Meyers Leonard		foul							
+401126842	4	03:46	8:14	por	Maurice Harkless enters the game for Rodney Hood	81 - 95	81	95	0	0	Maurice Harkless	Rodney Hood	enters the game for							
+401126842	4	03:49	8:11	okc	Russell Westbrook misses 27-foot three point jumper	81 - 95	81	95	0	0	Russell Westbrook		misses	jumper	27		three			
+401126842	4	03:51	8:09	por	Trail Blazers defensive team rebound	81 - 95	81	95	0	0			defensive rebound	team						trail blazers
+401126842	4	03:51	8:09	okc	Jerami Grant loose ball foul	81 - 95	81	95	0	0	Jerami Grant		foul							
+401126842	4	04:04	7:56	por	CJ McCollum misses 17-foot pullup jump shot	81 - 95	81	95	0	0	CJ McCollum		misses	pullup jump shot	17					
+401126842	4	04:05	7:55	por	Trail Blazers offensive team rebound	81 - 95	81	95	0	0			offensive rebound	team						trail blazers
+401126842	4	04:05	7:55	okc	Paul George loose ball foul	81 - 95	81	95	0	0	Paul George		foul							
+401126842	4	04:05	7:55	por	Trail Blazers Full timeout	81 - 95	81	95	0	0			full timeout							trail blazers
+401126842	4	04:16	7:44	por	Meyers Leonard misses 15-foot two point shot	81 - 95	81	95	0	0	Meyers Leonard		misses	shot	15		two			
+401126842	4	04:17	7:43	por	Meyers Leonard offensive rebound	81 - 95	81	95	0	0	Meyers Leonard		offensive rebound							
+401126842	4	04:28	7:32	por	Meyers Leonard makes hook shot (CJ McCollum assists)	81 - 97	81	97	0	2	Meyers Leonard		makes	hook shot				CJ McCollum	assists	
+401126842	4	04:38	7:22	okc	Steven Adams makes alley oop dunk shot (Russell Westbrook assists)	83 - 97	83	97	2	0	Steven Adams		makes	alley oop dunk shot				Russell Westbrook	assists	
+401126842	4	05:04	6:56	por	Damian Lillard misses 30-foot three point jumper	83 - 97	83	97	0	0	Damian Lillard		misses	jumper	30		three			
+401126842	4	05:06	6:54	okc	Terrance Ferguson defensive rebound	83 - 97	83	97	0	0	Terrance Ferguson		defensive rebound							
+401126842	4	05:19	6:41	okc	Terrance Ferguson misses 12-foot pullup jump shot	83 - 97	83	97	0	0	Terrance Ferguson		misses	pullup jump shot	12					
+401126842	4	05:21	6:39	por	Maurice Harkless defensive rebound	83 - 97	83	97	0	0	Maurice Harkless		defensive rebound							
+401126842	4	05:35	6:25	por	Seth Curry makes three point jumper (CJ McCollum assists)	83 - 100	83	100	0	3	Seth Curry		makes	jumper			three	CJ McCollum	assists	
+401126842	4	05:49	6:11	okc	Paul George misses driving floating jump shot	83 - 100	83	100	0	0	Paul George		misses	driving floating jump shot						
+401126842	4	05:53	6:07	okc	Steven Adams offensive rebound	83 - 100	83	100	0	0	Steven Adams		offensive rebound							
+401126842	4	05:58	6:02	okc	Paul George makes three point jumper (Russell Westbrook assists)	86 - 100	86	100	3	0	Paul George		makes	jumper			three	Russell Westbrook	assists	
+401126842	4	06:23	5:37	por	Meyers Leonard makes 26-foot three point jumper (Damian Lillard assists)	86 - 103	86	103	0	3	Meyers Leonard		makes	jumper	26		three	Damian Lillard	assists	
+401126842	4	06:31	5:29	okc	Paul George misses 27-foot three point jumper	86 - 103	86	103	0	0	Paul George		misses	jumper	27		three			
+401126842	4	06:35	5:25	por	Meyers Leonard defensive rebound	86 - 103	86	103	0	0	Meyers Leonard		defensive rebound							
+401126842	4	06:56	5:04	por	Damian Lillard misses two point shot	86 - 103	86	103	0	0	Damian Lillard		misses	shot			two			
+401126842	4	06:57	5:03	okc	Paul George defensive rebound	86 - 103	86	103	0	0	Paul George		defensive rebound							
+401126842	4	06:57	5:03	okc	Russell Westbrook makes two point shot (Paul George assists)	88 - 103	88	103	2	0	Russell Westbrook		makes	shot			two	Paul George	assists	
+401126842	4	06:57	5:03	por	Meyers Leonard shooting foul	88 - 103	88	103	0	0	Meyers Leonard		foul							
+401126842	4	06:57	5:03	okc	Dennis Schroder enters the game for Terrance Ferguson	88 - 103	88	103	0	0	Dennis Schroder	Terrance Ferguson	enters the game for							
+401126842	4	06:57	5:03	por	Al-Farouq Aminu enters the game for Seth Curry	88 - 103	88	103	0	0	Al-Farouq Aminu	Seth Curry	enters the game for							
+401126842	4	06:57	5:03	okc	Russell Westbrook makes free throw 1 of 1	89 - 103	89	103	1	0	Russell Westbrook		makes	free throw		1-1				
+401126842	4	07:14	4:46	por	CJ McCollum makes 18-foot pullup jump shot	89 - 105	89	105	0	2	CJ McCollum		makes	pullup jump shot	18					
+401126842	4	07:25	4:35	por	Maurice Harkless shooting foul	89 - 105	89	105	0	0	Maurice Harkless		foul							
+401126842	4	07:25	4:35	okc	Paul George makes free throw 1 of 2	90 - 105	90	105	1	0	Paul George		makes	free throw		1-2				
+401126842	4	07:25	4:35	okc	Paul George makes free throw 2 of 2	91 - 105	91	105	1	0	Paul George		makes	free throw		2-2				
+401126842	4	07:45	4:15	por	CJ McCollum misses 26-foot step back jumpshot	91 - 105	91	105	0	0	CJ McCollum		misses	step back jumpshot	26					
+401126842	4	07:49	4:11	por	Maurice Harkless offensive rebound	91 - 105	91	105	0	0	Maurice Harkless		offensive rebound							
+401126842	4	07:49	4:11	por	Maurice Harkless makes tip shot	91 - 107	91	107	0	2	Maurice Harkless		makes	tip shot						
+401126842	4	07:55	4:05	okc	Russell Westbrook lost ball turnover (Al-Farouq Aminu steals)	91 - 107	91	107	0	0	Russell Westbrook		turnover					Al-Farouq Aminu	steals	
+401126842	4	08:05	3:55	okc	Steven Adams shooting foul	91 - 107	91	107	0	0	Steven Adams		foul							
+401126842	4	08:05	3:55	por	Al-Farouq Aminu makes free throw 1 of 2	91 - 108	91	108	0	1	Al-Farouq Aminu		makes	free throw		1-2				
+401126842	4	08:05	3:55	por	Al-Farouq Aminu misses free throw 2 of 2	91 - 108	91	108	0	0	Al-Farouq Aminu		misses	free throw		2-2				
+401126842	4	08:07	3:53	okc	Russell Westbrook defensive rebound	91 - 108	91	108	0	0	Russell Westbrook		defensive rebound							
+401126842	4	08:14	3:46	okc	Paul George bad pass (Damian Lillard steals)	91 - 108	91	108	0	0	Paul George		bad pass					Damian Lillard	steals	
+401126842	4	08:19	3:41	por	Damian Lillard makes two point shot	91 - 110	91	110	0	2	Damian Lillard		makes	shot			two			
+401126842	4	08:28	3:32	okc	Jerami Grant misses 23-foot three point jumper	91 - 110	91	110	0	0	Jerami Grant		misses	jumper	23		three			
+401126842	4	08:29	3:31	por	CJ McCollum defensive rebound	91 - 110	91	110	0	0	CJ McCollum		defensive rebound							
+401126842	4	08:29	3:31	okc	Steven Adams personal take foul	91 - 110	91	110	0	0	Steven Adams		foul							
+401126842	4	08:29	3:31	por	CJ McCollum makes free throw 1 of 2	91 - 111	91	111	0	1	CJ McCollum		makes	free throw		1-2				
+401126842	4	08:29	3:31	por	CJ McCollum makes free throw 2 of 2	91 - 112	91	112	0	1	CJ McCollum		makes	free throw		2-2				
+401126842	4	08:29	3:31	okc	Thunder Full timeout	91 - 112	91	112	0	0			full timeout							thunder
+401126842	4	08:29	3:31	okc	Raymond Felton enters the game for Russell Westbrook	91 - 112	91	112	0	0	Raymond Felton	Russell Westbrook	enters the game for							
+401126842	4	08:29	3:31	okc	Abdel Nader enters the game for Jerami Grant	91 - 112	91	112	0	0	Abdel Nader	Jerami Grant	enters the game for							
+401126842	4	08:29	3:31	okc	Deonte Burton enters the game for Steven Adams	91 - 112	91	112	0	0	Deonte Burton	Steven Adams	enters the game for							
+401126842	4	08:29	3:31	okc	Nerlens Noel enters the game for Paul George	91 - 112	91	112	0	0	Nerlens Noel	Paul George	enters the game for							
+401126842	4	08:29	3:31	okc	Terrance Ferguson enters the game for Dennis Schroder	91 - 112	91	112	0	0	Terrance Ferguson	Dennis Schroder	enters the game for							
+401126842	4	08:48	3:12	okc	Raymond Felton misses 21-foot pullup jump shot	91 - 112	91	112	0	0	Raymond Felton		misses	pullup jump shot	21					
+401126842	4	08:52	3:08	por	Maurice Harkless defensive rebound	91 - 112	91	112	0	0	Maurice Harkless		defensive rebound							
+401126842	4	09:11	2:49	por	Abdel Nader blocks Damian Lillard 's 2-foot two point shot	91 - 112	91	112	0	0	Abdel Nader	Damian Lillard	blocks	shot	2		two			
+401126842	4	09:11	2:49	okc	Thunder defensive team rebound	91 - 112	91	112	0	0			defensive rebound	team						thunder
+401126842	4	09:11	2:49	por	Trail Blazers Full timeout	91 - 112	91	112	0	0			full timeout							trail blazers
+401126842	4	09:11	2:49	por	Rodney Hood enters the game for Damian Lillard	91 - 112	91	112	0	0	Rodney Hood	Damian Lillard	enters the game for							
+401126842	4	09:11	2:49	por	Skal Labissiere enters the game for CJ McCollum	91 - 112	91	112	0	0	Skal Labissiere	CJ McCollum	enters the game for							
+401126842	4	09:11	2:49	por	Zach Collins enters the game for Maurice Harkless	91 - 112	91	112	0	0	Zach Collins	Maurice Harkless	enters the game for							
+401126842	4	09:11	2:49	por	Anfernee Simons enters the game for Al-Farouq Aminu	91 - 112	91	112	0	0	Anfernee Simons	Al-Farouq Aminu	enters the game for							
+401126842	4	09:11	2:49	por	Jake Layman enters the game for Meyers Leonard	91 - 112	91	112	0	0	Jake Layman	Meyers Leonard	enters the game for							
+401126842	4	09:23	2:37	okc	Raymond Felton out of bounds bad pass turnover	91 - 112	91	112	0	0	Raymond Felton		turnover							
+401126842	4	09:44	2:16	por	Rodney Hood misses 27-foot three point pullup jump shot	91 - 112	91	112	0	0	Rodney Hood		misses	pullup jump shot	27		three			
+401126842	4	09:45	2:15	okc	Nerlens Noel defensive rebound	91 - 112	91	112	0	0	Nerlens Noel		defensive rebound							
+401126842	4	09:55	2:05	okc	Abdel Nader misses driving layup	91 - 112	91	112	0	0	Abdel Nader		misses	driving layup						
+401126842	4	09:56	2:04	por	Jake Layman defensive rebound	91 - 112	91	112	0	0	Jake Layman		defensive rebound							
+401126842	4	10:10	1:50	por	Skal Labissiere misses 26-foot three point jumper	91 - 112	91	112	0	0	Skal Labissiere		misses	jumper	26		three			
+401126842	4	10:15	1:45	okc	Deonte Burton defensive rebound	91 - 112	91	112	0	0	Deonte Burton		defensive rebound							
+401126842	4	10:18	1:42	okc	Deonte Burton misses 3-foot two point shot	91 - 112	91	112	0	0	Deonte Burton		misses	shot	3		two			
+401126842	4	10:18	1:42	okc	Deonte Burton offensive rebound	91 - 112	91	112	0	0	Deonte Burton		offensive rebound							
+401126842	4	10:21	1:39	okc	Deonte Burton misses two point shot	91 - 112	91	112	0	0	Deonte Burton		misses	shot			two			
+401126842	4	10:22	1:38	por	Zach Collins defensive rebound	91 - 112	91	112	0	0	Zach Collins		defensive rebound							
+401126842	4	10:42	1:18	por	Jake Layman misses 25-foot step back jumpshot	91 - 112	91	112	0	0	Jake Layman		misses	step back jumpshot	25					
+401126842	4	10:45	1:15	okc	Nerlens Noel defensive rebound	91 - 112	91	112	0	0	Nerlens Noel		defensive rebound							
+401126842	4	10:53	1:07	por	Anfernee Simons personal foul	91 - 112	91	112	0	0	Anfernee Simons		foul							
+401126842	4	10:53	1:07	okc	Raymond Felton misses free throw 1 of 2	91 - 112	91	112	0	0	Raymond Felton		misses	free throw		1-2				
+401126842	4	10:53	1:07	okc	Thunder offensive team rebound	91 - 112	91	112	0	0			offensive rebound	team						thunder
+401126842	4	10:53	1:07	okc	Raymond Felton makes free throw 2 of 2	92 - 112	92	112	1	0	Raymond Felton		makes	free throw		2-2				
+401126842	4	11:00	1:00	okc	Raymond Felton personal foul	92 - 112	92	112	0	0	Raymond Felton		foul							
+401126842	4	11:00	1:00	por	Jake Layman makes free throw 1 of 2	92 - 113	92	113	0	1	Jake Layman		makes	free throw		1-2				
+401126842	4	11:00	1:00	por	Jake Layman makes free throw 2 of 2	92 - 114	92	114	0	1	Jake Layman		makes	free throw		2-2				
+401126842	4	11:05	54.1	okc	Deonte Burton misses 29-foot three point jumper	92 - 114	92	114	0	0	Deonte Burton		misses	jumper	29		three			
+401126842	4	11:08	51.2	por	Jake Layman defensive rebound	92 - 114	92	114	0	0	Jake Layman		defensive rebound							
+401126842	4	11:28	31.4	por	Anfernee Simons misses layup	92 - 114	92	114	0	0	Anfernee Simons		misses	layup						
+401126842	4	11:29	30.4	okc	Nerlens Noel defensive rebound	92 - 114	92	114	0	0	Nerlens Noel		defensive rebound							
+401126842	4	11:38	21.3	okc	Deonte Burton makes 1-foot dunk (Raymond Felton assists)	94 - 114	94	114	2	0	Deonte Burton		makes	dunk	1			Raymond Felton	assists	
+401126842	4	12:00	0.0	por	End of the 4th Quarter	94 - 114	94	114	0	0			end of the 4th quarter							
+401126842	4	12:00	0.0	por	End of Game	94 - 114	94	114	0	0			end of game							

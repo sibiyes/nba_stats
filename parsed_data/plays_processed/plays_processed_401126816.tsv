@@ -1,0 +1,509 @@
+game_id	quarter	q_time	q_time_remaining	team	event	score	team1_score	team2_score	team1_event_point	team2_event_point	player1	player2	action	action_what	foot_value	free_throw	point_info	player_secondary	action_secondary	team_action
+401126816	1	00:00	12:00	lac	Ivica Zubac vs. DeMarcus Cousins (Shai Gilgeous-Alexander gains possession)	0 - 0	0	0	0	0	Ivica Zubac	DeMarcus Cousins	vs.					Shai Gilgeous-Alexander	gains possession	
+401126816	1	00:13	11:47	lac	Danilo Gallinari misses 26-foot three point jumper	0 - 0	0	0	0	0	Danilo Gallinari		misses	jumper	26		three			
+401126816	1	00:15	11:45	gs	DeMarcus Cousins defensive rebound	0 - 0	0	0	0	0	DeMarcus Cousins		defensive rebound							
+401126816	1	00:20	11:40	gs	Kevin Durant bad pass (Shai Gilgeous-Alexander steals)	0 - 0	0	0	0	0	Kevin Durant		bad pass					Shai Gilgeous-Alexander	steals	
+401126816	1	00:37	11:23	lac	Shai Gilgeous-Alexander makes dunk	2 - 0	2	0	2	0	Shai Gilgeous-Alexander		makes	dunk						
+401126816	1	00:51	11:09	gs	DeMarcus Cousins misses 20-foot jumper	2 - 0	2	0	0	0	DeMarcus Cousins		misses	jumper	20					
+401126816	1	00:53	11:07	lac	Ivica Zubac defensive rebound	2 - 0	2	0	0	0	Ivica Zubac		defensive rebound							
+401126816	1	01:12	10:48	lac	Ivica Zubac lost ball turnover (Stephen Curry steals)	2 - 0	2	0	0	0	Ivica Zubac		turnover					Stephen Curry	steals	
+401126816	1	01:24	10:36	gs	Stephen Curry makes 19-foot pullup jump shot (DeMarcus Cousins assists)	2 - 2	2	2	0	2	Stephen Curry		makes	pullup jump shot	19			DeMarcus Cousins	assists	
+401126816	1	01:48	10:12	lac	Ivica Zubac makes 15-foot jumper (Danilo Gallinari assists)	4 - 2	4	2	2	0	Ivica Zubac		makes	jumper	15			Danilo Gallinari	assists	
+401126816	1	01:58	10:02	gs	Stephen Curry makes 25-foot running pullup jump shot (Draymond Green assists)	4 - 5	4	5	0	3	Stephen Curry		makes	running pullup jump shot	25			Draymond Green	assists	
+401126816	1	02:19	9:41	lac	Patrick Beverley makes 26-foot three pointer	7 - 5	7	5	3	0	Patrick Beverley		makes	er	26		three			
+401126816	1	02:27	9:33	gs	Draymond Green bad pass (Landry Shamet steals)	7 - 5	7	5	0	0	Draymond Green		bad pass					Landry Shamet	steals	
+401126816	1	02:32	9:28	lac	Landry Shamet bad pass (Draymond Green steals)	7 - 5	7	5	0	0	Landry Shamet		bad pass					Draymond Green	steals	
+401126816	1	02:35	9:25	lac	Ivica Zubac shooting foul	7 - 5	7	5	0	0	Ivica Zubac		foul							
+401126816	1	02:35	9:25	gs	DeMarcus Cousins makes free throw 1 of 2	7 - 6	7	6	0	1	DeMarcus Cousins		makes	free throw		1-2				
+401126816	1	02:35	9:25	gs	DeMarcus Cousins makes free throw 2 of 2	7 - 7	7	7	0	1	DeMarcus Cousins		makes	free throw		2-2				
+401126816	1	02:49	9:11	lac	Ivica Zubac misses 6-foot hook shot	7 - 7	7	7	0	0	Ivica Zubac		misses	hook shot	6					
+401126816	1	02:50	9:10	gs	DeMarcus Cousins defensive rebound	7 - 7	7	7	0	0	DeMarcus Cousins		defensive rebound							
+401126816	1	02:55	9:05	gs	Draymond Green makes dunk (Stephen Curry assists)	7 - 9	7	9	0	2	Draymond Green		makes	dunk				Stephen Curry	assists	
+401126816	1	03:03	8:57	gs	Klay Thompson personal foul	7 - 9	7	9	0	0	Klay Thompson		foul							
+401126816	1	03:09	8:51	lac	Landry Shamet misses 25-foot three point jumper	7 - 9	7	9	0	0	Landry Shamet		misses	jumper	25		three			
+401126816	1	03:11	8:49	lac	Patrick Beverley offensive rebound	7 - 9	7	9	0	0	Patrick Beverley		offensive rebound							
+401126816	1	03:16	8:44	lac	Shai Gilgeous-Alexander makes 10-foot two point shot (Patrick Beverley assists)	9 - 9	9	9	2	0	Shai Gilgeous-Alexander		makes	shot	10		two	Patrick Beverley	assists	
+401126816	1	03:23	8:37	lac	Shai Gilgeous-Alexander shooting foul	9 - 9	9	9	0	0	Shai Gilgeous-Alexander		foul							
+401126816	1	03:23	8:37	gs	Klay Thompson makes free throw 1 of 2	9 - 10	9	10	0	1	Klay Thompson		makes	free throw		1-2				
+401126816	1	03:23	8:37	gs	Klay Thompson makes free throw 2 of 2	9 - 11	9	11	0	1	Klay Thompson		makes	free throw		2-2				
+401126816	1	03:42	8:18	lac	Landry Shamet makes 25-foot three pointer (Danilo Gallinari assists)	12 - 11	12	11	3	0	Landry Shamet		makes	er	25		three	Danilo Gallinari	assists	
+401126816	1	03:51	8:09	gs	Warriors Full timeout	12 - 11	12	11	0	0			full timeout							warriors
+401126816	1	03:51	8:09	gs	Andrew Bogut enters the game for DeMarcus Cousins	12 - 11	12	11	0	0	Andrew Bogut	DeMarcus Cousins	enters the game for							
+401126816	1	04:09	7:51	gs	Draymond Green misses 27-foot three point jumper	12 - 11	12	11	0	0	Draymond Green		misses	jumper	27		three			
+401126816	1	04:11	7:49	lac	Landry Shamet defensive rebound	12 - 11	12	11	0	0	Landry Shamet		defensive rebound							
+401126816	1	04:31	7:29	lac	Patrick Beverley misses 8-foot two point shot	12 - 11	12	11	0	0	Patrick Beverley		misses	shot	8		two			
+401126816	1	04:32	7:28	gs	Andrew Bogut defensive rebound	12 - 11	12	11	0	0	Andrew Bogut		defensive rebound							
+401126816	1	04:42	7:18	lac	Landry Shamet shooting foul	12 - 11	12	11	0	0	Landry Shamet		foul							
+401126816	1	04:42	7:18	gs	Stephen Curry makes free throw 1 of 2	12 - 12	12	12	0	1	Stephen Curry		makes	free throw		1-2				
+401126816	1	04:42	7:18	gs	Stephen Curry makes free throw 2 of 2	12 - 13	12	13	0	1	Stephen Curry		makes	free throw		2-2				
+401126816	1	05:00	7:00	lac	Danilo Gallinari misses 20-foot jumper	12 - 13	12	13	0	0	Danilo Gallinari		misses	jumper	20					
+401126816	1	05:01	6:59	gs	Draymond Green defensive rebound	12 - 13	12	13	0	0	Draymond Green		defensive rebound							
+401126816	1	05:05	6:55	gs	Draymond Green makes layup	12 - 15	12	15	0	2	Draymond Green		makes	layup						
+401126816	1	05:13	6:47	lac	Patrick Beverley misses 25-foot three point jumper	12 - 15	12	15	0	0	Patrick Beverley		misses	jumper	25		three			
+401126816	1	05:15	6:45	gs	Klay Thompson defensive rebound	12 - 15	12	15	0	0	Klay Thompson		defensive rebound							
+401126816	1	05:24	6:36	gs	Klay Thompson misses 28-foot three point jumper	12 - 15	12	15	0	0	Klay Thompson		misses	jumper	28		three			
+401126816	1	05:26	6:34	lac	Ivica Zubac defensive rebound	12 - 15	12	15	0	0	Ivica Zubac		defensive rebound							
+401126816	1	05:37	6:23	gs	Stephen Curry personal foul	12 - 15	12	15	0	0	Stephen Curry		foul							
+401126816	1	05:37	6:23	lac	Montrezl Harrell enters the game for Ivica Zubac	12 - 15	12	15	0	0	Montrezl Harrell	Ivica Zubac	enters the game for							
+401126816	1	05:43	6:17	lac	Danilo Gallinari lost ball turnover (Stephen Curry steals)	12 - 15	12	15	0	0	Danilo Gallinari		turnover					Stephen Curry	steals	
+401126816	1	05:48	6:12	gs	Klay Thompson makes two point shot (Kevin Durant assists)	12 - 17	12	17	0	2	Klay Thompson		makes	shot			two	Kevin Durant	assists	
+401126816	1	05:49	6:11	lac	Clippers Full timeout	12 - 17	12	17	0	0			full timeout							clippers
+401126816	1	06:05	5:55	lac	Danilo Gallinari makes 27-foot step back jumpshot (Shai Gilgeous-Alexander assists)	15 - 17	15	17	3	0	Danilo Gallinari		makes	step back jumpshot	27			Shai Gilgeous-Alexander	assists	
+401126816	1	06:21	5:39	gs	Klay Thompson misses 13-foot jumper	15 - 17	15	17	0	0	Klay Thompson		misses	jumper	13					
+401126816	1	06:22	5:38	gs	Klay Thompson offensive rebound	15 - 17	15	17	0	0	Klay Thompson		offensive rebound							
+401126816	1	06:26	5:34	lac	Danilo Gallinari shooting foul	15 - 17	15	17	0	0	Danilo Gallinari		foul							
+401126816	1	06:26	5:34	gs	Draymond Green makes free throw 1 of 2	15 - 18	15	18	0	1	Draymond Green		makes	free throw		1-2				
+401126816	1	06:26	5:34	gs	Draymond Green misses free throw 2 of 2	15 - 18	15	18	0	0	Draymond Green		misses	free throw		2-2				
+401126816	1	06:27	5:33	lac	Landry Shamet defensive rebound	15 - 18	15	18	0	0	Landry Shamet		defensive rebound							
+401126816	1	06:39	5:21	lac	Landry Shamet misses three point jumper	15 - 18	15	18	0	0	Landry Shamet		misses	jumper			three			
+401126816	1	06:41	5:19	gs	Andrew Bogut defensive rebound	15 - 18	15	18	0	0	Andrew Bogut		defensive rebound							
+401126816	1	06:45	5:15	gs	Kevin Durant makes 17-foot jumper (Draymond Green assists)	15 - 20	15	20	0	2	Kevin Durant		makes	jumper	17			Draymond Green	assists	
+401126816	1	07:12	4:48	lac	Montrezl Harrell makes driving dunk	17 - 20	17	20	2	0	Montrezl Harrell		makes	driving dunk						
+401126816	1	07:22	4:38	lac	Landry Shamet personal foul	17 - 20	17	20	0	0	Landry Shamet		foul							
+401126816	1	07:22	4:38	gs	Kevon Looney enters the game for Klay Thompson	17 - 20	17	20	0	0	Kevon Looney	Klay Thompson	enters the game for							
+401126816	1	07:22	4:38	gs	Andre Iguodala enters the game for Andrew Bogut	17 - 20	17	20	0	0	Andre Iguodala	Andrew Bogut	enters the game for							
+401126816	1	07:22	4:38	lac	Lou Williams enters the game for Landry Shamet	17 - 20	17	20	0	0	Lou Williams	Landry Shamet	enters the game for							
+401126816	1	07:22	4:38	gs	Stephen Curry makes free throw 1 of 2	17 - 21	17	21	0	1	Stephen Curry		makes	free throw		1-2				
+401126816	1	07:22	4:38	gs	Stephen Curry makes free throw 2 of 2	17 - 22	17	22	0	1	Stephen Curry		makes	free throw		2-2				
+401126816	1	07:26	4:34	lac	Lou Williams bad pass (Draymond Green steals)	17 - 22	17	22	0	0	Lou Williams		bad pass					Draymond Green	steals	
+401126816	1	07:40	4:20	gs	Andre Iguodala out of bounds bad pass turnover	17 - 22	17	22	0	0	Andre Iguodala		turnover							
+401126816	1	07:46	4:14	gs	Kevon Looney shooting foul	17 - 22	17	22	0	0	Kevon Looney		foul							
+401126816	1	07:46	4:14	lac	Lou Williams misses free throw 1 of 2	17 - 22	17	22	0	0	Lou Williams		misses	free throw		1-2				
+401126816	1	07:46	4:14	lac	Clippers offensive team rebound	17 - 22	17	22	0	0			offensive rebound	team						clippers
+401126816	1	07:46	4:14	lac	Lou Williams makes free throw 2 of 2	18 - 22	18	22	1	0	Lou Williams		makes	free throw		2-2				
+401126816	1	07:59	4:01	lac	Patrick Beverley personal foul	18 - 22	18	22	0	0	Patrick Beverley		foul							
+401126816	1	07:59	4:01	gs	Kevin Durant makes free throw 1 of 2	18 - 23	18	23	0	1	Kevin Durant		makes	free throw		1-2				
+401126816	1	07:59	4:01	lac	JaMychal Green enters the game for Danilo Gallinari	18 - 23	18	23	0	0	JaMychal Green	Danilo Gallinari	enters the game for							
+401126816	1	07:59	4:01	gs	Kevin Durant makes free throw 2 of 2	18 - 24	18	24	0	1	Kevin Durant		makes	free throw		2-2				
+401126816	1	08:14	3:46	lac	JaMychal Green makes 28-foot jump bank shot (Patrick Beverley assists)	21 - 24	21	24	3	0	JaMychal Green		makes	jump bank shot	28			Patrick Beverley	assists	
+401126816	1	08:27	3:33	gs	Kevon Looney makes 2-foot alley oop dunk shot (Draymond Green assists)	21 - 26	21	26	0	2	Kevon Looney		makes	alley oop dunk shot	2			Draymond Green	assists	
+401126816	1	08:38	3:22	lac	Shai Gilgeous-Alexander misses 19-foot jumper	21 - 26	21	26	0	0	Shai Gilgeous-Alexander		misses	jumper	19					
+401126816	1	08:39	3:21	gs	Kevin Durant defensive rebound	21 - 26	21	26	0	0	Kevin Durant		defensive rebound							
+401126816	1	08:52	3:08	gs	Andre Iguodala makes 24-foot three point jumper (Draymond Green assists)	21 - 29	21	29	0	3	Andre Iguodala		makes	jumper	24		three	Draymond Green	assists	
+401126816	1	09:14	2:46	lac	Lou Williams bad pass (Kevin Durant steals)	21 - 29	21	29	0	0	Lou Williams		bad pass					Kevin Durant	steals	
+401126816	1	09:25	2:35	gs	Lou Williams blocks Stephen Curry 's 31-foot three point jumper	21 - 29	21	29	0	0	Lou Williams	Stephen Curry	blocks	jumper	31		three			
+401126816	1	09:27	2:33	lac	Patrick Beverley defensive rebound	21 - 29	21	29	0	0	Patrick Beverley		defensive rebound							
+401126816	1	09:41	2:19	lac	JaMychal Green traveling	21 - 29	21	29	0	0	JaMychal Green		traveling							
+401126816	1	09:41	2:19	gs	Alfonzo McKinnie enters the game for Kevin Durant	21 - 29	21	29	0	0	Alfonzo McKinnie	Kevin Durant	enters the game for							
+401126816	1	09:41	2:19	lac	Wilson Chandler enters the game for Shai Gilgeous-Alexander	21 - 29	21	29	0	0	Wilson Chandler	Shai Gilgeous-Alexander	enters the game for							
+401126816	1	09:53	2:07	gs	Stephen Curry misses 26-foot three point jumper	21 - 29	21	29	0	0	Stephen Curry		misses	jumper	26		three			
+401126816	1	09:55	2:05	lac	Wilson Chandler defensive rebound	21 - 29	21	29	0	0	Wilson Chandler		defensive rebound							
+401126816	1	10:09	1:51	gs	Stephen Curry shooting foul	21 - 29	21	29	0	0	Stephen Curry		foul							
+401126816	1	10:09	1:51	lac	Lou Williams makes free throw 1 of 2	22 - 29	22	29	1	0	Lou Williams		makes	free throw		1-2				
+401126816	1	10:09	1:51	lac	Garrett Temple enters the game for Patrick Beverley	22 - 29	22	29	0	0	Garrett Temple	Patrick Beverley	enters the game for							
+401126816	1	10:09	1:51	lac	Lou Williams makes free throw 2 of 2	23 - 29	23	29	1	0	Lou Williams		makes	free throw		2-2				
+401126816	1	10:21	1:39	gs	Andre Iguodala misses 25-foot three point jumper	23 - 29	23	29	0	0	Andre Iguodala		misses	jumper	25		three			
+401126816	1	10:23	1:37	lac	Montrezl Harrell defensive rebound	23 - 29	23	29	0	0	Montrezl Harrell		defensive rebound							
+401126816	1	10:34	1:26	lac	Lou Williams misses two point shot	23 - 29	23	29	0	0	Lou Williams		misses	shot			two			
+401126816	1	10:35	1:25	gs	Alfonzo McKinnie defensive rebound	23 - 29	23	29	0	0	Alfonzo McKinnie		defensive rebound							
+401126816	1	10:42	1:18	gs	Andre Iguodala misses 23-foot three point jumper	23 - 29	23	29	0	0	Andre Iguodala		misses	jumper	23		three			
+401126816	1	10:44	1:16	gs	Alfonzo McKinnie offensive rebound	23 - 29	23	29	0	0	Alfonzo McKinnie		offensive rebound							
+401126816	1	10:48	1:12	gs	Draymond Green misses 13-foot two point shot	23 - 29	23	29	0	0	Draymond Green		misses	shot	13		two			
+401126816	1	10:49	1:11	gs	Warriors offensive team rebound	23 - 29	23	29	0	0			offensive rebound	team						warriors
+401126816	1	10:49	1:11	lac	Lou Williams loose ball foul	23 - 29	23	29	0	0	Lou Williams		foul							
+401126816	1	10:49	1:11	gs	Kevon Looney makes free throw 1 of 2	23 - 30	23	30	0	1	Kevon Looney		makes	free throw		1-2				
+401126816	1	10:49	1:11	gs	Kevon Looney makes free throw 2 of 2	23 - 31	23	31	0	1	Kevon Looney		makes	free throw		2-2				
+401126816	1	11:00	59.7	lac	JaMychal Green misses 26-foot three point jumper	23 - 31	23	31	0	0	JaMychal Green		misses	jumper	26		three			
+401126816	1	11:02	57.4	gs	Alfonzo McKinnie defensive rebound	23 - 31	23	31	0	0	Alfonzo McKinnie		defensive rebound							
+401126816	1	11:18	41.5	gs	Stephen Curry misses 23-foot three point jumper	23 - 31	23	31	0	0	Stephen Curry		misses	jumper	23		three			
+401126816	1	11:19	40.4	lac	JaMychal Green defensive rebound	23 - 31	23	31	0	0	JaMychal Green		defensive rebound							
+401126816	1	11:25	34.8	lac	Lou Williams misses 29-foot three point jumper	23 - 31	23	31	0	0	Lou Williams		misses	jumper	29		three			
+401126816	1	11:27	32.4	gs	Kevon Looney defensive rebound	23 - 31	23	31	0	0	Kevon Looney		defensive rebound							
+401126816	1	11:42	17.2	lac	Garrett Temple shooting foul	23 - 31	23	31	0	0	Garrett Temple		foul							
+401126816	1	11:42	17.2	gs	Stephen Curry makes free throw 1 of 2	23 - 32	23	32	0	1	Stephen Curry		makes	free throw		1-2				
+401126816	1	11:42	17.2	gs	Stephen Curry makes free throw 2 of 2	23 - 33	23	33	0	1	Stephen Curry		makes	free throw		2-2				
+401126816	1	11:54	5.3	lac	Garrett Temple makes step back jumpshot (Lou Williams assists)	25 - 33	25	33	2	0	Garrett Temple		makes	step back jumpshot				Lou Williams	assists	
+401126816	1	12:00	0.0	gs	End of the 1st Quarter	25 - 33	25	33	0	0			end of the 1st quarter							
+401126816	2	00:00	12:00	gs	Andrew Bogut enters the game for Kevon Looney	25 - 33	25	33	0	0	Andrew Bogut	Kevon Looney	enters the game for							
+401126816	2	00:00	12:00	gs	Klay Thompson enters the game for Draymond Green	25 - 33	25	33	0	0	Klay Thompson	Draymond Green	enters the game for							
+401126816	2	00:00	12:00	gs	Shaun Livingston enters the game for Alfonzo McKinnie	25 - 33	25	33	0	0	Shaun Livingston	Alfonzo McKinnie	enters the game for							
+401126816	2	00:00	12:00	gs	Quinn Cook enters the game for Stephen Curry	25 - 33	25	33	0	0	Quinn Cook	Stephen Curry	enters the game for							
+401126816	2	00:16	11:44	gs	Klay Thompson makes 18-foot pullup jump shot (Andre Iguodala assists)	25 - 35	25	35	0	2	Klay Thompson		makes	pullup jump shot	18			Andre Iguodala	assists	
+401126816	2	00:32	11:28	gs	Andrew Bogut personal foul	25 - 35	25	35	0	0	Andrew Bogut		foul							
+401126816	2	00:38	11:22	lac	Garrett Temple makes 28-foot three pointer (Montrezl Harrell assists)	28 - 35	28	35	3	0	Garrett Temple		makes	er	28		three	Montrezl Harrell	assists	
+401126816	2	00:55	11:05	gs	Shaun Livingston makes pullup jump shot (Andre Iguodala assists)	28 - 37	28	37	0	2	Shaun Livingston		makes	pullup jump shot				Andre Iguodala	assists	
+401126816	2	01:13	10:47	lac	Wilson Chandler misses 26-foot three point jumper	28 - 37	28	37	0	0	Wilson Chandler		misses	jumper	26		three			
+401126816	2	01:15	10:45	gs	Andrew Bogut defensive rebound	28 - 37	28	37	0	0	Andrew Bogut		defensive rebound							
+401126816	2	01:35	10:25	gs	Shaun Livingston misses 11-foot jumper	28 - 37	28	37	0	0	Shaun Livingston		misses	jumper	11					
+401126816	2	01:36	10:24	gs	Andre Iguodala offensive rebound	28 - 37	28	37	0	0	Andre Iguodala		offensive rebound							
+401126816	2	01:36	10:24	gs	Andre Iguodala makes dunk	28 - 39	28	39	0	2	Andre Iguodala		makes	dunk						
+401126816	2	01:58	10:02	lac	Shaun Livingston blocks Wilson Chandler 's 22-foot three point jumper	28 - 39	28	39	0	0	Shaun Livingston	Wilson Chandler	blocks	jumper	22		three			
+401126816	2	02:00	10:00	gs	Quinn Cook defensive rebound	28 - 39	28	39	0	0	Quinn Cook		defensive rebound							
+401126816	2	02:10	9:50	lac	Garrett Temple personal foul	28 - 39	28	39	0	0	Garrett Temple		foul							
+401126816	2	02:22	9:38	gs	Quinn Cook misses layup	28 - 39	28	39	0	0	Quinn Cook		misses	layup						
+401126816	2	02:22	9:38	gs	Andrew Bogut offensive rebound	28 - 39	28	39	0	0	Andrew Bogut		offensive rebound							
+401126816	2	02:22	9:38	lac	Wilson Chandler shooting foul	28 - 39	28	39	0	0	Wilson Chandler		foul							
+401126816	2	02:22	9:38	gs	Andrew Bogut makes free throw 1 of 2	28 - 40	28	40	0	1	Andrew Bogut		makes	free throw		1-2				
+401126816	2	02:22	9:38	gs	Andrew Bogut misses free throw 2 of 2	28 - 40	28	40	0	0	Andrew Bogut		misses	free throw		2-2				
+401126816	2	02:23	9:37	lac	JaMychal Green defensive rebound	28 - 40	28	40	0	0	JaMychal Green		defensive rebound							
+401126816	2	02:39	9:21	gs	Andrew Bogut shooting foul	28 - 40	28	40	0	0	Andrew Bogut		foul							
+401126816	2	02:39	9:21	lac	JaMychal Green makes free throw 1 of 2	29 - 40	29	40	1	0	JaMychal Green		makes	free throw		1-2				
+401126816	2	02:39	9:21	lac	JaMychal Green misses free throw 2 of 2	29 - 40	29	40	0	0	JaMychal Green		misses	free throw		2-2				
+401126816	2	02:40	9:20	gs	Andrew Bogut defensive rebound	29 - 40	29	40	0	0	Andrew Bogut		defensive rebound							
+401126816	2	02:51	9:09	gs	Klay Thompson makes 28-foot three pointer (Quinn Cook assists)	29 - 43	29	43	0	3	Klay Thompson		makes	er	28		three	Quinn Cook	assists	
+401126816	2	03:02	8:58	lac	Montrezl Harrell makes driving dunk (Lou Williams assists)	31 - 43	31	43	2	0	Montrezl Harrell		makes	driving dunk				Lou Williams	assists	
+401126816	2	03:13	8:47	gs	Shaun Livingston misses 12-foot jumper	31 - 43	31	43	0	0	Shaun Livingston		misses	jumper	12					
+401126816	2	03:14	8:46	lac	Garrett Temple defensive rebound	31 - 43	31	43	0	0	Garrett Temple		defensive rebound							
+401126816	2	03:18	8:42	gs	Klay Thompson shooting foul	31 - 43	31	43	0	0	Klay Thompson		foul							
+401126816	2	03:18	8:42	lac	Lou Williams makes free throw 1 of 2	32 - 43	32	43	1	0	Lou Williams		makes	free throw		1-2				
+401126816	2	03:18	8:42	gs	Kevon Looney enters the game for Andre Iguodala	32 - 43	32	43	0	0	Kevon Looney	Andre Iguodala	enters the game for							
+401126816	2	03:18	8:42	gs	Kevin Durant enters the game for Andrew Bogut	32 - 43	32	43	0	0	Kevin Durant	Andrew Bogut	enters the game for							
+401126816	2	03:18	8:42	lac	Lou Williams makes free throw 2 of 2	33 - 43	33	43	1	0	Lou Williams		makes	free throw		2-2				
+401126816	2	03:29	8:31	gs	Quinn Cook makes 29-foot three pointer (Kevin Durant assists)	33 - 46	33	46	0	3	Quinn Cook		makes	er	29		three	Kevin Durant	assists	
+401126816	2	03:46	8:14	lac	Montrezl Harrell makes layup (Lou Williams assists)	35 - 46	35	46	2	0	Montrezl Harrell		makes	layup				Lou Williams	assists	
+401126816	2	03:46	8:14	gs	Kevon Looney shooting foul	35 - 46	35	46	0	0	Kevon Looney		foul							
+401126816	2	03:46	8:14	lac	Shai Gilgeous-Alexander enters the game for Wilson Chandler	35 - 46	35	46	0	0	Shai Gilgeous-Alexander	Wilson Chandler	enters the game for							
+401126816	2	03:46	8:14	lac	Montrezl Harrell misses free throw 1 of 1	35 - 46	35	46	0	0	Montrezl Harrell		misses	free throw		1-1				
+401126816	2	03:47	8:13	lac	JaMychal Green offensive rebound	35 - 46	35	46	0	0	JaMychal Green		offensive rebound							
+401126816	2	04:01	7:59	lac	Garrett Temple misses 28-foot three point jumper	35 - 46	35	46	0	0	Garrett Temple		misses	jumper	28		three			
+401126816	2	04:01	7:59	lac	Clippers offensive team rebound	35 - 46	35	46	0	0			offensive rebound	team						clippers
+401126816	2	04:01	7:59	lac	shot clock turnover	35 - 46	35	46	0	0			turnover							
+401126816	2	04:10	7:50	gs	Kevin Durant misses 17-foot jumper	35 - 46	35	46	0	0	Kevin Durant		misses	jumper	17					
+401126816	2	04:11	7:49	lac	JaMychal Green defensive rebound	35 - 46	35	46	0	0	JaMychal Green		defensive rebound							
+401126816	2	04:17	7:43	lac	Garrett Temple misses two point shot	35 - 46	35	46	0	0	Garrett Temple		misses	shot			two			
+401126816	2	04:18	7:42	gs	Kevin Durant defensive rebound	35 - 46	35	46	0	0	Kevin Durant		defensive rebound							
+401126816	2	04:23	7:37	gs	Kevin Durant lost ball turnover (Garrett Temple steals)	35 - 46	35	46	0	0	Kevin Durant		turnover					Garrett Temple	steals	
+401126816	2	04:24	7:36	lac	Montrezl Harrell lost ball turnover (Klay Thompson steals)	35 - 46	35	46	0	0	Montrezl Harrell		turnover					Klay Thompson	steals	
+401126816	2	04:25	7:35	lac	Shai Gilgeous-Alexander personal foul	35 - 46	35	46	0	0	Shai Gilgeous-Alexander		foul							
+401126816	2	04:25	7:35	lac	Danilo Gallinari enters the game for JaMychal Green	35 - 46	35	46	0	0	Danilo Gallinari	JaMychal Green	enters the game for							
+401126816	2	04:32	7:28	gs	Kevon Looney makes driving layup	35 - 48	35	48	0	2	Kevon Looney		makes	driving layup						
+401126816	2	04:46	7:14	lac	Danilo Gallinari makes driving layup (Montrezl Harrell assists)	37 - 48	37	48	2	0	Danilo Gallinari		makes	driving layup				Montrezl Harrell	assists	
+401126816	2	04:53	7:07	gs	Kevin Durant bad pass (Lou Williams steals)	37 - 48	37	48	0	0	Kevin Durant		bad pass					Lou Williams	steals	
+401126816	2	04:55	7:05	gs	Kevin Durant kicked ball violation	37 - 48	37	48	0	0	Kevin Durant		kicked ball violation							
+401126816	2	04:55	7:05	lac	Patrick Beverley enters the game for Garrett Temple	37 - 48	37	48	0	0	Patrick Beverley	Garrett Temple	enters the game for							
+401126816	2	05:03	6:57	lac	Lou Williams bad pass (Kevin Durant steals)	37 - 48	37	48	0	0	Lou Williams		bad pass					Kevin Durant	steals	
+401126816	2	05:06	6:54	gs	Klay Thompson makes two point shot (Kevin Durant assists)	37 - 50	37	50	0	2	Klay Thompson		makes	shot			two	Kevin Durant	assists	
+401126816	2	05:06	6:54	lac	Clippers Full timeout	37 - 50	37	50	0	0			full timeout							clippers
+401126816	2	05:14	6:46	lac	Danilo Gallinari misses 11-foot step back jumpshot	37 - 50	37	50	0	0	Danilo Gallinari		misses	step back jumpshot	11					
+401126816	2	05:15	6:45	gs	Kevin Durant defensive rebound	37 - 50	37	50	0	0	Kevin Durant		defensive rebound							
+401126816	2	05:34	6:26	gs	Shaun Livingston misses 14-foot jumper	37 - 50	37	50	0	0	Shaun Livingston		misses	jumper	14					
+401126816	2	05:35	6:25	lac	Montrezl Harrell defensive rebound	37 - 50	37	50	0	0	Montrezl Harrell		defensive rebound							
+401126816	2	05:41	6:19	lac	Danilo Gallinari makes layup (Lou Williams assists)	39 - 50	39	50	2	0	Danilo Gallinari		makes	layup				Lou Williams	assists	
+401126816	2	05:41	6:19	gs	Klay Thompson shooting foul	39 - 50	39	50	0	0	Klay Thompson		foul							
+401126816	2	05:41	6:19	gs	Stephen Curry enters the game for Quinn Cook	39 - 50	39	50	0	0	Stephen Curry	Quinn Cook	enters the game for							
+401126816	2	05:41	6:19	gs	Draymond Green enters the game for Klay Thompson	39 - 50	39	50	0	0	Draymond Green	Klay Thompson	enters the game for							
+401126816	2	05:41	6:19	lac	Danilo Gallinari misses free throw 1 of 1	39 - 50	39	50	0	0	Danilo Gallinari		misses	free throw		1-1				
+401126816	2	05:42	6:18	gs	Kevon Looney defensive rebound	39 - 50	39	50	0	0	Kevon Looney		defensive rebound							
+401126816	2	05:53	6:07	gs	Kevin Durant makes alley oop dunk shot (Draymond Green assists)	39 - 52	39	52	0	2	Kevin Durant		makes	alley oop dunk shot				Draymond Green	assists	
+401126816	2	06:15	5:45	lac	Patrick Beverley misses 10-foot two point shot	39 - 52	39	52	0	0	Patrick Beverley		misses	shot	10		two			
+401126816	2	06:16	5:44	gs	Shaun Livingston defensive rebound	39 - 52	39	52	0	0	Shaun Livingston		defensive rebound							
+401126816	2	06:27	5:33	gs	Kevon Looney makes 2-foot dunk (Stephen Curry assists)	39 - 54	39	54	0	2	Kevon Looney		makes	dunk	2			Stephen Curry	assists	
+401126816	2	06:41	5:19	lac	Lou Williams misses 16-foot two point shot	39 - 54	39	54	0	0	Lou Williams		misses	shot	16		two			
+401126816	2	06:42	5:18	gs	Kevon Looney defensive rebound	39 - 54	39	54	0	0	Kevon Looney		defensive rebound							
+401126816	2	06:50	5:10	lac	Montrezl Harrell shooting foul	39 - 54	39	54	0	0	Montrezl Harrell		foul							
+401126816	2	06:50	5:10	gs	Kevon Looney makes free throw 1 of 2	39 - 55	39	55	0	1	Kevon Looney		makes	free throw		1-2				
+401126816	2	06:50	5:10	gs	Andre Iguodala enters the game for Shaun Livingston	39 - 55	39	55	0	0	Andre Iguodala	Shaun Livingston	enters the game for							
+401126816	2	06:50	5:10	lac	Landry Shamet enters the game for Lou Williams	39 - 55	39	55	0	0	Landry Shamet	Lou Williams	enters the game for							
+401126816	2	06:50	5:10	gs	Kevon Looney makes free throw 2 of 2	39 - 56	39	56	0	1	Kevon Looney		makes	free throw		2-2				
+401126816	2	07:07	4:53	lac	Patrick Beverley makes 9-foot driving floating jump shot (Danilo Gallinari assists)	41 - 56	41	56	2	0	Patrick Beverley		makes	driving floating jump shot	9			Danilo Gallinari	assists	
+401126816	2	07:22	4:38	gs	Draymond Green offensive foul	41 - 56	41	56	0	0	Draymond Green		foul							
+401126816	2	07:22	4:38	gs	Draymond Green turnover	41 - 56	41	56	0	0	Draymond Green		turnover							
+401126816	2	07:45	4:15	lac	Montrezl Harrell makes 14-foot two point shot (Danilo Gallinari assists)	43 - 56	43	56	2	0	Montrezl Harrell		makes	shot	14		two	Danilo Gallinari	assists	
+401126816	2	08:07	3:53	gs	Andre Iguodala misses 28-foot three point jumper	43 - 56	43	56	0	0	Andre Iguodala		misses	jumper	28		three			
+401126816	2	08:09	3:51	lac	Danilo Gallinari defensive rebound	43 - 56	43	56	0	0	Danilo Gallinari		defensive rebound							
+401126816	2	08:29	3:31	lac	Danilo Gallinari misses 19-foot jumper	43 - 56	43	56	0	0	Danilo Gallinari		misses	jumper	19					
+401126816	2	08:30	3:30	gs	Kevin Durant defensive rebound	43 - 56	43	56	0	0	Kevin Durant		defensive rebound							
+401126816	2	08:46	3:14	gs	Warriors Full timeout	43 - 56	43	56	0	0			full timeout							warriors
+401126816	2	08:52	3:08	gs	Kevon Looney makes 4-foot layup (Andre Iguodala assists)	43 - 58	43	58	0	2	Kevon Looney		makes	layup	4			Andre Iguodala	assists	
+401126816	2	09:09	2:51	gs	Andre Iguodala personal foul	43 - 58	43	58	0	0	Andre Iguodala		foul							
+401126816	2	09:09	2:51	lac	Patrick Beverley makes free throw 1 of 2	44 - 58	44	58	1	0	Patrick Beverley		makes	free throw		1-2				
+401126816	2	09:09	2:51	lac	Patrick Beverley makes free throw 2 of 2	45 - 58	45	58	1	0	Patrick Beverley		makes	free throw		2-2				
+401126816	2	09:17	2:43	gs	Stephen Curry makes 27-foot running pullup jump shot	45 - 61	45	61	0	3	Stephen Curry		makes	running pullup jump shot	27					
+401126816	2	09:41	2:19	lac	Patrick Beverley makes 27-foot three pointer (Danilo Gallinari assists)	48 - 61	48	61	3	0	Patrick Beverley		makes	er	27		three	Danilo Gallinari	assists	
+401126816	2	09:57	2:03	gs	Stephen Curry makes 23-foot step back jumpshot	48 - 64	48	64	0	3	Stephen Curry		makes	step back jumpshot	23					
+401126816	2	10:12	1:48	lac	Shai Gilgeous-Alexander palming turnover	48 - 64	48	64	0	0	Shai Gilgeous-Alexander		turnover							
+401126816	2	10:12	1:48	lac	Lou Williams enters the game for Landry Shamet	48 - 64	48	64	0	0	Lou Williams	Landry Shamet	enters the game for							
+401126816	2	10:22	1:38	gs	Stephen Curry makes 3-foot two point shot	48 - 66	48	66	0	2	Stephen Curry		makes	shot	3		two			
+401126816	2	10:42	1:18	lac	Shai Gilgeous-Alexander misses finger roll layup	48 - 66	48	66	0	0	Shai Gilgeous-Alexander		misses	finger roll layup						
+401126816	2	10:42	1:18	lac	Clippers offensive team rebound	48 - 66	48	66	0	0			offensive rebound	team						clippers
+401126816	2	10:46	1:14	lac	Patrick Beverley misses 28-foot three point jumper	48 - 66	48	66	0	0	Patrick Beverley		misses	jumper	28		three			
+401126816	2	10:48	1:12	gs	Kevon Looney defensive rebound	48 - 66	48	66	0	0	Kevon Looney		defensive rebound							
+401126816	2	10:53	1:07	lac	Montrezl Harrell shooting foul	48 - 66	48	66	0	0	Montrezl Harrell		foul							
+401126816	2	10:53	1:07	gs	Kevin Durant makes free throw 1 of 2	48 - 67	48	67	0	1	Kevin Durant		makes	free throw		1-2				
+401126816	2	10:53	1:07	gs	Kevin Durant makes free throw 2 of 2	48 - 68	48	68	0	1	Kevin Durant		makes	free throw		2-2				
+401126816	2	11:01	58.5	lac	Lou Williams makes 10-foot driving floating jump shot	50 - 68	50	68	2	0	Lou Williams		makes	driving floating jump shot	10					
+401126816	2	11:22	37.5	gs	Kevon Looney makes 9-foot jump bank shot (Kevin Durant assists)	50 - 70	50	70	0	2	Kevon Looney		makes	jump bank shot	9			Kevin Durant	assists	
+401126816	2	11:33	26.7	lac	Danilo Gallinari misses 32-foot three point jumper	50 - 70	50	70	0	0	Danilo Gallinari		misses	jumper	32		three			
+401126816	2	11:35	24.8	gs	Draymond Green defensive rebound	50 - 70	50	70	0	0	Draymond Green		defensive rebound							
+401126816	2	11:56	3.7	gs	Stephen Curry makes 25-foot three point shot (Draymond Green assists)	50 - 73	50	73	0	3	Stephen Curry		makes	shot	25		three	Draymond Green	assists	
+401126816	2	12:00	0.0	gs	End of the 2nd Quarter	50 - 73	50	73	0	0			end of the 2nd quarter							
+401126816	3	00:00	12:00	gs	Klay Thompson enters the game for Kevon Looney	50 - 73	50	73	0	0	Klay Thompson	Kevon Looney	enters the game for							
+401126816	3	00:00	12:00	gs	Andrew Bogut enters the game for Andre Iguodala	50 - 73	50	73	0	0	Andrew Bogut	Andre Iguodala	enters the game for							
+401126816	3	00:00	12:00	lac	Landry Shamet enters the game for Montrezl Harrell	50 - 73	50	73	0	0	Landry Shamet	Montrezl Harrell	enters the game for							
+401126816	3	00:00	12:00	lac	Ivica Zubac enters the game for Lou Williams	50 - 73	50	73	0	0	Ivica Zubac	Lou Williams	enters the game for							
+401126816	3	00:13	11:47	gs	Klay Thompson makes 11-foot step back jumpshot (Andrew Bogut assists)	50 - 75	50	75	0	2	Klay Thompson		makes	step back jumpshot	11			Andrew Bogut	assists	
+401126816	3	00:22	11:38	lac	Landry Shamet misses 27-foot three point jumper	50 - 75	50	75	0	0	Landry Shamet		misses	jumper	27		three			
+401126816	3	00:24	11:36	lac	Landry Shamet offensive rebound	50 - 75	50	75	0	0	Landry Shamet		offensive rebound							
+401126816	3	00:30	11:30	lac	Danilo Gallinari makes 27-foot three pointer (Landry Shamet assists)	53 - 75	53	75	3	0	Danilo Gallinari		makes	er	27		three	Landry Shamet	assists	
+401126816	3	00:43	11:17	gs	Draymond Green makes 10-foot two point shot (Stephen Curry assists)	53 - 77	53	77	0	2	Draymond Green		makes	shot	10		two	Stephen Curry	assists	
+401126816	3	00:52	11:08	lac	Landry Shamet bad pass (Kevin Durant steals)	53 - 77	53	77	0	0	Landry Shamet		bad pass					Kevin Durant	steals	
+401126816	3	00:58	11:02	lac	Shai Gilgeous-Alexander vs. Stephen Curry (Patrick Beverley gains possession)	53 - 77	53	77	0	0	Shai Gilgeous-Alexander	Stephen Curry	vs.					Patrick Beverley	gains possession	
+401126816	3	01:00	11:00	gs	Kevin Durant bad pass (Danilo Gallinari steals)	53 - 77	53	77	0	0	Kevin Durant		bad pass					Danilo Gallinari	steals	
+401126816	3	01:08	10:52	lac	Landry Shamet makes 28-foot three pointer (Patrick Beverley assists)	56 - 77	56	77	3	0	Landry Shamet		makes	er	28		three	Patrick Beverley	assists	
+401126816	3	01:25	10:35	gs	Kevin Durant makes 15-foot two point shot (Stephen Curry assists)	56 - 79	56	79	0	2	Kevin Durant		makes	shot	15		two	Stephen Curry	assists	
+401126816	3	01:47	10:13	gs	Stephen Curry personal foul	56 - 79	56	79	0	0	Stephen Curry		foul							
+401126816	3	01:53	10:07	lac	Shai Gilgeous-Alexander misses 18-foot jumper	56 - 79	56	79	0	0	Shai Gilgeous-Alexander		misses	jumper	18					
+401126816	3	01:54	10:06	gs	Klay Thompson defensive rebound	56 - 79	56	79	0	0	Klay Thompson		defensive rebound							
+401126816	3	02:11	9:49	gs	Andrew Bogut makes dunk (Draymond Green assists)	56 - 81	56	81	0	2	Andrew Bogut		makes	dunk				Draymond Green	assists	
+401126816	3	02:24	9:36	gs	Draymond Green personal foul	56 - 81	56	81	0	0	Draymond Green		foul							
+401126816	3	02:36	9:24	lac	Danilo Gallinari out of bounds lost ball turnover	56 - 81	56	81	0	0	Danilo Gallinari		turnover							
+401126816	3	02:47	9:13	gs	Klay Thompson makes 13-foot two point shot (Draymond Green assists)	56 - 83	56	83	0	2	Klay Thompson		makes	shot	13		two	Draymond Green	assists	
+401126816	3	03:04	8:56	gs	Kevin Durant shooting foul	56 - 83	56	83	0	0	Kevin Durant		foul							
+401126816	3	03:04	8:56	lac	Danilo Gallinari makes free throw 1 of 2	57 - 83	57	83	1	0	Danilo Gallinari		makes	free throw		1-2				
+401126816	3	03:04	8:56	lac	JaMychal Green enters the game for Ivica Zubac	57 - 83	57	83	0	0	JaMychal Green	Ivica Zubac	enters the game for							
+401126816	3	03:04	8:56	lac	Danilo Gallinari makes free throw 2 of 2	58 - 83	58	83	1	0	Danilo Gallinari		makes	free throw		2-2				
+401126816	3	03:14	8:46	gs	Draymond Green makes 28-foot three pointer (Stephen Curry assists)	58 - 86	58	86	0	3	Draymond Green		makes	er	28		three	Stephen Curry	assists	
+401126816	3	03:19	8:41	lac	Patrick Beverley out of bounds lost ball turnover	58 - 86	58	86	0	0	Patrick Beverley		turnover							
+401126816	3	03:19	8:41	gs	Jordan Bell enters the game for Andrew Bogut	58 - 86	58	86	0	0	Jordan Bell	Andrew Bogut	enters the game for							
+401126816	3	03:21	8:39	gs	Stephen Curry offensive foul	58 - 86	58	86	0	0	Stephen Curry		foul							
+401126816	3	03:21	8:39	gs	Stephen Curry turnover	58 - 86	58	86	0	0	Stephen Curry		turnover							
+401126816	3	03:21	8:39	gs	Quinn Cook enters the game for Stephen Curry	58 - 86	58	86	0	0	Quinn Cook	Stephen Curry	enters the game for							
+401126816	3	03:21	8:39	gs	Warriors delay of game violation	58 - 86	58	86	0	0			delay of game violation							warriors
+401126816	3	03:21	8:39	lac	Lou Williams enters the game for Shai Gilgeous-Alexander	58 - 86	58	86	0	0	Lou Williams	Shai Gilgeous-Alexander	enters the game for							
+401126816	3	03:30	8:30	lac	Lou Williams makes 27-foot three point jumper (Danilo Gallinari assists)	61 - 86	61	86	3	0	Lou Williams		makes	jumper	27		three	Danilo Gallinari	assists	
+401126816	3	03:45	8:15	gs	Quinn Cook makes pullup jump shot (Draymond Green assists)	61 - 88	61	88	0	2	Quinn Cook		makes	pullup jump shot				Draymond Green	assists	
+401126816	3	03:56	8:04	lac	Landry Shamet misses 26-foot three point jumper	61 - 88	61	88	0	0	Landry Shamet		misses	jumper	26		three			
+401126816	3	03:58	8:02	gs	Kevin Durant defensive rebound	61 - 88	61	88	0	0	Kevin Durant		defensive rebound							
+401126816	3	04:03	7:57	gs	Quinn Cook makes 28-foot three point jumper	61 - 91	61	91	0	3	Quinn Cook		makes	jumper	28		three			
+401126816	3	04:23	7:37	gs	Jordan Bell shooting foul	61 - 91	61	91	0	0	Jordan Bell		foul							
+401126816	3	04:23	7:37	lac	Danilo Gallinari makes free throw 1 of 2	62 - 91	62	91	1	0	Danilo Gallinari		makes	free throw		1-2				
+401126816	3	04:23	7:37	lac	Danilo Gallinari makes free throw 2 of 2	63 - 91	63	91	1	0	Danilo Gallinari		makes	free throw		2-2				
+401126816	3	04:29	7:31	gs	Kevin Durant makes dunk (Klay Thompson assists)	63 - 93	63	93	0	2	Kevin Durant		makes	dunk				Klay Thompson	assists	
+401126816	3	04:29	7:31	lac	JaMychal Green shooting foul	63 - 93	63	93	0	0	JaMychal Green		foul							
+401126816	3	04:29	7:31	lac	Clippers delay of game violation	63 - 93	63	93	0	0			delay of game violation							clippers
+401126816	3	04:29	7:31	gs	Kevin Durant makes free throw 1 of 1	63 - 94	63	94	0	1	Kevin Durant		makes	free throw		1-1				
+401126816	3	04:37	7:23	lac	JaMychal Green makes driving dunk (Lou Williams assists)	65 - 94	65	94	2	0	JaMychal Green		makes	driving dunk				Lou Williams	assists	
+401126816	3	04:45	7:15	gs	Quinn Cook bad pass (JaMychal Green steals)	65 - 94	65	94	0	0	Quinn Cook		bad pass					JaMychal Green	steals	
+401126816	3	04:57	7:03	lac	Draymond Green blocks Lou Williams 's 26-foot three point jumper	65 - 94	65	94	0	0	Draymond Green	Lou Williams	blocks	jumper	26		three			
+401126816	3	04:59	7:01	lac	JaMychal Green offensive rebound	65 - 94	65	94	0	0	JaMychal Green		offensive rebound							
+401126816	3	05:00	7:00	lac	Lou Williams makes layup (JaMychal Green assists)	67 - 94	67	94	2	0	Lou Williams		makes	layup				JaMychal Green	assists	
+401126816	3	05:00	7:00	gs	Warriors Full timeout	67 - 94	67	94	0	0			full timeout							warriors
+401126816	3	05:09	6:51	gs	Quinn Cook misses pullup jump shot	67 - 94	67	94	0	0	Quinn Cook		misses	pullup jump shot						
+401126816	3	05:11	6:49	lac	Landry Shamet defensive rebound	67 - 94	67	94	0	0	Landry Shamet		defensive rebound							
+401126816	3	05:17	6:43	lac	JaMychal Green makes 24-foot three point jumper (Lou Williams assists)	70 - 94	70	94	3	0	JaMychal Green		makes	jumper	24		three	Lou Williams	assists	
+401126816	3	05:39	6:21	lac	Lou Williams shooting foul	70 - 94	70	94	0	0	Lou Williams		foul							
+401126816	3	05:39	6:21	gs	Klay Thompson makes free throw 1 of 2	70 - 95	70	95	0	1	Klay Thompson		makes	free throw		1-2				
+401126816	3	05:39	6:21	gs	Klay Thompson makes free throw 2 of 2	70 - 96	70	96	0	1	Klay Thompson		makes	free throw		2-2				
+401126816	3	05:46	6:14	lac	Lou Williams makes two point shot	72 - 96	72	96	2	0	Lou Williams		makes	shot			two			
+401126816	3	06:07	5:53	gs	Klay Thompson misses 12-foot pullup jump shot	72 - 96	72	96	0	0	Klay Thompson		misses	pullup jump shot	12					
+401126816	3	06:09	5:51	lac	JaMychal Green defensive rebound	72 - 96	72	96	0	0	JaMychal Green		defensive rebound							
+401126816	3	06:20	5:40	lac	Danilo Gallinari makes 12-foot two point shot	74 - 96	74	96	2	0	Danilo Gallinari		makes	shot	12		two			
+401126816	3	06:37	5:23	gs	Quinn Cook makes 26-foot three pointer (Kevin Durant assists)	74 - 99	74	99	0	3	Quinn Cook		makes	er	26		three	Kevin Durant	assists	
+401126816	3	06:55	5:05	lac	JaMychal Green offensive foul	74 - 99	74	99	0	0	JaMychal Green		foul							
+401126816	3	06:55	5:05	lac	JaMychal Green turnover	74 - 99	74	99	0	0	JaMychal Green		turnover							
+401126816	3	06:55	5:05	gs	Kevon Looney enters the game for Jordan Bell	74 - 99	74	99	0	0	Kevon Looney	Jordan Bell	enters the game for							
+401126816	3	07:02	4:58	gs	Kevin Durant offensive foul	74 - 99	74	99	0	0	Kevin Durant		foul							
+401126816	3	07:02	4:58	gs	Kevin Durant turnover	74 - 99	74	99	0	0	Kevin Durant		turnover							
+401126816	3	07:02	4:58	lac	Clippers Full timeout	74 - 99	74	99	0	0			full timeout							clippers
+401126816	3	07:12	4:48	lac	Lou Williams makes 21-foot two point shot	76 - 99	76	99	2	0	Lou Williams		makes	shot	21		two			
+401126816	3	07:25	4:35	gs	Draymond Green bad pass (Danilo Gallinari steals)	76 - 99	76	99	0	0	Draymond Green		bad pass					Danilo Gallinari	steals	
+401126816	3	07:36	4:24	lac	JaMychal Green makes 2-foot dunk (Lou Williams assists)	78 - 99	78	99	2	0	JaMychal Green		makes	dunk	2			Lou Williams	assists	
+401126816	3	07:45	4:15	lac	Patrick Beverley personal foul	78 - 99	78	99	0	0	Patrick Beverley		foul							
+401126816	3	07:47	4:13	lac	Patrick Beverley personal foul	78 - 99	78	99	0	0	Patrick Beverley		foul							
+401126816	3	07:49	4:11	gs	Kevin Durant offensive foul	78 - 99	78	99	0	0	Kevin Durant		foul							
+401126816	3	07:49	4:11	gs	Kevin Durant turnover	78 - 99	78	99	0	0	Kevin Durant		turnover							
+401126816	3	07:58	4:02	lac	JaMychal Green makes 20-foot pullup jump shot (Lou Williams assists)	80 - 99	80	99	2	0	JaMychal Green		makes	pullup jump shot	20			Lou Williams	assists	
+401126816	3	08:10	3:50	gs	Quinn Cook misses 18-foot pullup jump shot	80 - 99	80	99	0	0	Quinn Cook		misses	pullup jump shot	18					
+401126816	3	08:11	3:49	lac	JaMychal Green defensive rebound	80 - 99	80	99	0	0	JaMychal Green		defensive rebound							
+401126816	3	08:19	3:41	lac	Danilo Gallinari traveling	80 - 99	80	99	0	0	Danilo Gallinari		traveling							
+401126816	3	08:24	3:36	lac	JaMychal Green shooting foul	80 - 99	80	99	0	0	JaMychal Green		foul							
+401126816	3	08:24	3:36	gs	Kevon Looney misses free throw 1 of 2	80 - 99	80	99	0	0	Kevon Looney		misses	free throw		1-2				
+401126816	3	08:24	3:36	gs	Warriors offensive team rebound	80 - 99	80	99	0	0			offensive rebound	team						warriors
+401126816	3	08:24	3:36	lac	Montrezl Harrell enters the game for Danilo Gallinari	80 - 99	80	99	0	0	Montrezl Harrell	Danilo Gallinari	enters the game for							
+401126816	3	08:24	3:36	gs	Kevon Looney makes free throw 2 of 2	80 - 100	80	100	0	1	Kevon Looney		makes	free throw		2-2				
+401126816	3	08:37	3:23	lac	Lou Williams makes driving layup	82 - 100	82	100	2	0	Lou Williams		makes	driving layup						
+401126816	3	08:56	3:04	gs	Draymond Green misses two point shot	82 - 100	82	100	0	0	Draymond Green		misses	shot			two			
+401126816	3	08:56	3:04	gs	Warriors offensive team rebound	82 - 100	82	100	0	0			offensive rebound	team						warriors
+401126816	3	08:56	3:04	lac	JaMychal Green loose ball foul	82 - 100	82	100	0	0	JaMychal Green		foul							
+401126816	3	08:56	3:04	gs	Kevin Durant makes free throw 1 of 2	82 - 101	82	101	0	1	Kevin Durant		makes	free throw		1-2				
+401126816	3	08:56	3:04	gs	Kevin Durant makes free throw 2 of 2	82 - 102	82	102	0	1	Kevin Durant		makes	free throw		2-2				
+401126816	3	09:02	2:58	lac	Patrick Beverley misses 26-foot three point jumper	82 - 102	82	102	0	0	Patrick Beverley		misses	jumper	26		three			
+401126816	3	09:04	2:56	gs	Kevon Looney defensive rebound	82 - 102	82	102	0	0	Kevon Looney		defensive rebound							
+401126816	3	09:09	2:51	lac	JaMychal Green shooting foul	82 - 102	82	102	0	0	JaMychal Green		foul							
+401126816	3	09:09	2:51	lac	Clippers Full timeout	82 - 102	82	102	0	0			full timeout							clippers
+401126816	3	09:09	2:51	gs	Alfonzo McKinnie enters the game for Klay Thompson	82 - 102	82	102	0	0	Alfonzo McKinnie	Klay Thompson	enters the game for							
+401126816	3	09:09	2:51	lac	Shai Gilgeous-Alexander enters the game for JaMychal Green	82 - 102	82	102	0	0	Shai Gilgeous-Alexander	JaMychal Green	enters the game for							
+401126816	3	09:09	2:51	lac	Wilson Chandler enters the game for Landry Shamet	82 - 102	82	102	0	0	Wilson Chandler	Landry Shamet	enters the game for							
+401126816	3	09:09	2:51	gs	Draymond Green makes free throw 1 of 2	82 - 103	82	103	0	1	Draymond Green		makes	free throw		1-2				
+401126816	3	09:09	2:51	gs	Draymond Green makes free throw 2 of 2	82 - 104	82	104	0	1	Draymond Green		makes	free throw		2-2				
+401126816	3	09:18	2:42	lac	Lou Williams makes 24-foot three point shot (Patrick Beverley assists)	85 - 104	85	104	3	0	Lou Williams		makes	shot	24		three	Patrick Beverley	assists	
+401126816	3	09:40	2:20	gs	Kevin Durant bad pass (Lou Williams steals)	85 - 104	85	104	0	0	Kevin Durant		bad pass					Lou Williams	steals	
+401126816	3	09:44	2:16	lac	Lou Williams lost ball turnover (Quinn Cook steals)	85 - 104	85	104	0	0	Lou Williams		turnover					Quinn Cook	steals	
+401126816	3	09:50	2:10	gs	Quinn Cook bad pass (Wilson Chandler steals)	85 - 104	85	104	0	0	Quinn Cook		bad pass					Wilson Chandler	steals	
+401126816	3	09:54	2:06	lac	Lou Williams makes driving layup (Wilson Chandler assists)	87 - 104	87	104	2	0	Lou Williams		makes	driving layup				Wilson Chandler	assists	
+401126816	3	09:54	2:06	gs	Kevin Durant shooting foul	87 - 104	87	104	0	0	Kevin Durant		foul							
+401126816	3	09:54	2:06	gs	Andre Iguodala enters the game for Kevin Durant	87 - 104	87	104	0	0	Andre Iguodala	Kevin Durant	enters the game for							
+401126816	3	09:54	2:06	lac	Garrett Temple enters the game for Patrick Beverley	87 - 104	87	104	0	0	Garrett Temple	Patrick Beverley	enters the game for							
+401126816	3	09:54	2:06	lac	Lou Williams makes free throw 1 of 1	88 - 104	88	104	1	0	Lou Williams		makes	free throw		1-1				
+401126816	3	10:07	1:53	gs	Draymond Green misses 27-foot three point jumper	88 - 104	88	104	0	0	Draymond Green		misses	jumper	27		three			
+401126816	3	10:09	1:51	lac	Montrezl Harrell defensive rebound	88 - 104	88	104	0	0	Montrezl Harrell		defensive rebound							
+401126816	3	10:13	1:47	lac	Wilson Chandler offensive foul	88 - 104	88	104	0	0	Wilson Chandler		foul							
+401126816	3	10:13	1:47	lac	Wilson Chandler turnover	88 - 104	88	104	0	0	Wilson Chandler		turnover							
+401126816	3	10:13	1:47	gs	Klay Thompson enters the game for Alfonzo McKinnie	88 - 104	88	104	0	0	Klay Thompson	Alfonzo McKinnie	enters the game for							
+401126816	3	10:25	1:35	gs	Andre Iguodala misses 22-foot three point jumper	88 - 104	88	104	0	0	Andre Iguodala		misses	jumper	22		three			
+401126816	3	10:29	1:31	lac	Wilson Chandler defensive rebound	88 - 104	88	104	0	0	Wilson Chandler		defensive rebound							
+401126816	3	10:44	1:16	lac	Lou Williams misses 16-foot two point shot	88 - 104	88	104	0	0	Lou Williams		misses	shot	16		two			
+401126816	3	10:45	1:15	gs	Andre Iguodala defensive rebound	88 - 104	88	104	0	0	Andre Iguodala		defensive rebound							
+401126816	3	10:57	1:03	gs	Kevon Looney makes 3-foot jump bank shot (Klay Thompson assists)	88 - 106	88	106	0	2	Kevon Looney		makes	jump bank shot	3			Klay Thompson	assists	
+401126816	3	11:17	42.6	gs	Andre Iguodala shooting foul	88 - 106	88	106	0	0	Andre Iguodala		foul							
+401126816	3	11:17	42.6	lac	Montrezl Harrell makes free throw 1 of 2	89 - 106	89	106	1	0	Montrezl Harrell		makes	free throw		1-2				
+401126816	3	11:17	42.6	lac	Montrezl Harrell makes free throw 2 of 2	90 - 106	90	106	1	0	Montrezl Harrell		makes	free throw		2-2				
+401126816	3	11:30	29.3	lac	Montrezl Harrell shooting foul	90 - 106	90	106	0	0	Montrezl Harrell		foul							
+401126816	3	11:30	29.3	gs	Kevon Looney makes free throw 1 of 2	90 - 107	90	107	0	1	Kevon Looney		makes	free throw		1-2				
+401126816	3	11:30	29.3	gs	Kevon Looney makes free throw 2 of 2	90 - 108	90	108	0	1	Kevon Looney		makes	free throw		2-2				
+401126816	3	11:46	13.5	gs	Andre Iguodala personal foul	90 - 108	90	108	0	0	Andre Iguodala		foul							
+401126816	3	11:46	13.5	lac	Garrett Temple makes free throw 1 of 2	91 - 108	91	108	1	0	Garrett Temple		makes	free throw		1-2				
+401126816	3	11:46	13.5	gs	Kevin Durant enters the game for Kevon Looney	91 - 108	91	108	0	0	Kevin Durant	Kevon Looney	enters the game for							
+401126816	3	11:46	13.5	gs	Stephen Curry enters the game for Draymond Green	91 - 108	91	108	0	0	Stephen Curry	Draymond Green	enters the game for							
+401126816	3	11:46	13.5	lac	Sindarius Thornwell enters the game for Lou Williams	91 - 108	91	108	0	0	Sindarius Thornwell	Lou Williams	enters the game for							
+401126816	3	11:46	13.5	lac	Garrett Temple makes free throw 2 of 2	92 - 108	92	108	1	0	Garrett Temple		makes	free throw		2-2				
+401126816	3	11:54	5.6	gs	Stephen Curry bad pass (Shai Gilgeous-Alexander steals)	92 - 108	92	108	0	0	Stephen Curry		bad pass					Shai Gilgeous-Alexander	steals	
+401126816	3	11:59	0.1	lac	Wilson Chandler makes layup (Shai Gilgeous-Alexander assists)	94 - 108	94	108	2	0	Wilson Chandler		makes	layup				Shai Gilgeous-Alexander	assists	
+401126816	3	12:00	0.0	gs	End of the 3rd Quarter	94 - 108	94	108	0	0			end of the 3rd quarter							
+401126816	4	00:00	12:00	gs	Jonas Jerebko enters the game for Quinn Cook	94 - 108	94	108	0	0	Jonas Jerebko	Quinn Cook	enters the game for							
+401126816	4	00:00	12:00	gs	Andrew Bogut enters the game for Klay Thompson	94 - 108	94	108	0	0	Andrew Bogut	Klay Thompson	enters the game for							
+401126816	4	00:00	12:00	gs	Shaun Livingston enters the game for Kevin Durant	94 - 108	94	108	0	0	Shaun Livingston	Kevin Durant	enters the game for							
+401126816	4	00:00	12:00	lac	Landry Shamet enters the game for Sindarius Thornwell	94 - 108	94	108	0	0	Landry Shamet	Sindarius Thornwell	enters the game for							
+401126816	4	00:09	11:51	lac	Landry Shamet makes 28-foot three pointer (Shai Gilgeous-Alexander assists)	97 - 108	97	108	3	0	Landry Shamet		makes	er	28		three	Shai Gilgeous-Alexander	assists	
+401126816	4	00:22	11:38	lac	Garrett Temple personal foul	97 - 108	97	108	0	0	Garrett Temple		foul							
+401126816	4	00:32	11:28	gs	Andre Iguodala bad pass (Shai Gilgeous-Alexander steals)	97 - 108	97	108	0	0	Andre Iguodala		bad pass					Shai Gilgeous-Alexander	steals	
+401126816	4	00:38	11:22	gs	Jonas Jerebko shooting foul	97 - 108	97	108	0	0	Jonas Jerebko		foul							
+401126816	4	00:38	11:22	lac	Montrezl Harrell makes free throw 1 of 2	98 - 108	98	108	1	0	Montrezl Harrell		makes	free throw		1-2				
+401126816	4	00:38	11:22	lac	Montrezl Harrell misses free throw 2 of 2	98 - 108	98	108	0	0	Montrezl Harrell		misses	free throw		2-2				
+401126816	4	00:38	11:22	gs	Andre Iguodala defensive rebound	98 - 108	98	108	0	0	Andre Iguodala		defensive rebound							
+401126816	4	00:47	11:13	gs	Shaun Livingston makes 13-foot two point shot	98 - 110	98	110	0	2	Shaun Livingston		makes	shot	13		two			
+401126816	4	00:47	11:13	lac	Shai Gilgeous-Alexander shooting foul	98 - 110	98	110	0	0	Shai Gilgeous-Alexander		foul							
+401126816	4	00:47	11:13	gs	Shaun Livingston misses free throw 1 of 1	98 - 110	98	110	0	0	Shaun Livingston		misses	free throw		1-1				
+401126816	4	00:49	11:11	gs	Warriors offensive team rebound	98 - 110	98	110	0	0			offensive rebound	team						warriors
+401126816	4	00:49	11:11	lac	Lou Williams enters the game for Garrett Temple	98 - 110	98	110	0	0	Lou Williams	Garrett Temple	enters the game for							
+401126816	4	01:00	11:00	gs	Jonas Jerebko misses 26-foot three point jumper	98 - 110	98	110	0	0	Jonas Jerebko		misses	jumper	26		three			
+401126816	4	01:02	10:58	gs	Andrew Bogut offensive rebound	98 - 110	98	110	0	0	Andrew Bogut		offensive rebound							
+401126816	4	01:05	10:55	lac	Landry Shamet personal foul	98 - 110	98	110	0	0	Landry Shamet		foul							
+401126816	4	01:14	10:46	gs	Stephen Curry misses 9-foot jumper	98 - 110	98	110	0	0	Stephen Curry		misses	jumper	9					
+401126816	4	01:15	10:45	gs	Andrew Bogut offensive rebound	98 - 110	98	110	0	0	Andrew Bogut		offensive rebound							
+401126816	4	01:20	10:40	lac	Montrezl Harrell shooting foul	98 - 110	98	110	0	0	Montrezl Harrell		foul							
+401126816	4	01:20	10:40	gs	Andre Iguodala makes free throw 1 of 2	98 - 111	98	111	0	1	Andre Iguodala		makes	free throw		1-2				
+401126816	4	01:20	10:40	lac	Danilo Gallinari enters the game for Wilson Chandler	98 - 111	98	111	0	0	Danilo Gallinari	Wilson Chandler	enters the game for							
+401126816	4	01:20	10:40	gs	Andre Iguodala makes free throw 2 of 2	98 - 112	98	112	0	1	Andre Iguodala		makes	free throw		2-2				
+401126816	4	01:31	10:29	lac	Montrezl Harrell makes two point shot (Lou Williams assists)	100 - 112	100	112	2	0	Montrezl Harrell		makes	shot			two	Lou Williams	assists	
+401126816	4	01:50	10:10	gs	Shaun Livingston makes 9-foot driving floating jump shot (Andre Iguodala assists)	100 - 114	100	114	0	2	Shaun Livingston		makes	driving floating jump shot	9			Andre Iguodala	assists	
+401126816	4	02:14	9:46	lac	Shaun Livingston blocks Landry Shamet 's 28-foot three point jumper	100 - 114	100	114	0	0	Shaun Livingston	Landry Shamet	blocks	jumper	28		three			
+401126816	4	02:16	9:44	gs	Stephen Curry defensive rebound	100 - 114	100	114	0	0	Stephen Curry		defensive rebound							
+401126816	4	02:19	9:41	lac	Lou Williams personal foul	100 - 114	100	114	0	0	Lou Williams		foul							
+401126816	4	02:19	9:41	gs	Stephen Curry makes free throw 1 of 2	100 - 115	100	115	0	1	Stephen Curry		makes	free throw		1-2				
+401126816	4	02:19	9:41	gs	Stephen Curry makes free throw 2 of 2	100 - 116	100	116	0	1	Stephen Curry		makes	free throw		2-2				
+401126816	4	02:29	9:31	lac	Lou Williams misses two point shot	100 - 116	100	116	0	0	Lou Williams		misses	shot			two			
+401126816	4	02:30	9:30	gs	Andrew Bogut defensive rebound	100 - 116	100	116	0	0	Andrew Bogut		defensive rebound							
+401126816	4	02:38	9:22	gs	Stephen Curry misses 33-foot three point jumper	100 - 116	100	116	0	0	Stephen Curry		misses	jumper	33		three			
+401126816	4	02:40	9:20	gs	Jonas Jerebko offensive rebound	100 - 116	100	116	0	0	Jonas Jerebko		offensive rebound							
+401126816	4	02:52	9:08	gs	Stephen Curry misses 20-foot jumper	100 - 116	100	116	0	0	Stephen Curry		misses	jumper	20					
+401126816	4	02:53	9:07	lac	Danilo Gallinari defensive rebound	100 - 116	100	116	0	0	Danilo Gallinari		defensive rebound							
+401126816	4	02:53	9:07	lac	Clippers Full timeout	100 - 116	100	116	0	0			full timeout							clippers
+401126816	4	02:53	9:07	lac	Patrick Beverley enters the game for Shai Gilgeous-Alexander	100 - 116	100	116	0	0	Patrick Beverley	Shai Gilgeous-Alexander	enters the game for							
+401126816	4	03:14	8:46	lac	Montrezl Harrell makes dunk (Lou Williams assists)	102 - 116	102	116	2	0	Montrezl Harrell		makes	dunk				Lou Williams	assists	
+401126816	4	03:30	8:30	gs	Stephen Curry makes 21-foot step back jumpshot (Andrew Bogut assists)	102 - 118	102	118	0	2	Stephen Curry		makes	step back jumpshot	21			Andrew Bogut	assists	
+401126816	4	03:56	8:04	lac	Andrew Bogut blocks Danilo Gallinari 's 7-foot jumper	102 - 118	102	118	0	0	Andrew Bogut	Danilo Gallinari	blocks	jumper	7					
+401126816	4	03:56	8:04	lac	Clippers offensive team rebound	102 - 118	102	118	0	0			offensive rebound	team						clippers
+401126816	4	03:56	8:04	gs	Klay Thompson enters the game for Jonas Jerebko	102 - 118	102	118	0	0	Klay Thompson	Jonas Jerebko	enters the game for							
+401126816	4	03:56	8:04	gs	Shaun Livingston personal foul	102 - 118	102	118	0	0	Shaun Livingston		foul							
+401126816	4	04:04	7:56	lac	Danilo Gallinari misses 19-foot jumper	102 - 118	102	118	0	0	Danilo Gallinari		misses	jumper	19					
+401126816	4	04:05	7:55	gs	Andrew Bogut defensive rebound	102 - 118	102	118	0	0	Andrew Bogut		defensive rebound							
+401126816	4	04:15	7:45	gs	Shaun Livingston out of bounds bad pass turnover	102 - 118	102	118	0	0	Shaun Livingston		turnover							
+401126816	4	04:26	7:34	lac	Lou Williams misses 11-foot two point shot	102 - 118	102	118	0	0	Lou Williams		misses	shot	11		two			
+401126816	4	04:27	7:33	lac	Montrezl Harrell offensive rebound	102 - 118	102	118	0	0	Montrezl Harrell		offensive rebound							
+401126816	4	04:32	7:28	lac	Montrezl Harrell makes tip shot	104 - 118	104	118	2	0	Montrezl Harrell		makes	tip shot						
+401126816	4	04:42	7:18	gs	Stephen Curry lost ball turnover (Patrick Beverley steals)	104 - 118	104	118	0	0	Stephen Curry		turnover					Patrick Beverley	steals	
+401126816	4	04:44	7:16	lac	Danilo Gallinari makes 3-foot dunk (Patrick Beverley assists)	106 - 118	106	118	2	0	Danilo Gallinari		makes	dunk	3			Patrick Beverley	assists	
+401126816	4	04:45	7:15	gs	Warriors Full timeout	106 - 118	106	118	0	0			full timeout							warriors
+401126816	4	04:45	7:15	gs	Kevin Durant enters the game for Andre Iguodala	106 - 118	106	118	0	0	Kevin Durant	Andre Iguodala	enters the game for							
+401126816	4	04:45	7:15	gs	Draymond Green enters the game for Shaun Livingston	106 - 118	106	118	0	0	Draymond Green	Shaun Livingston	enters the game for							
+401126816	4	04:51	7:09	lac	Patrick Beverley personal foul	106 - 118	106	118	0	0	Patrick Beverley		foul							
+401126816	4	04:51	7:09	gs	Kevin Durant makes free throw 1 of 2	106 - 119	106	119	0	1	Kevin Durant		makes	free throw		1-2				
+401126816	4	04:51	7:09	gs	Kevin Durant makes free throw 2 of 2	106 - 120	106	120	0	1	Kevin Durant		makes	free throw		2-2				
+401126816	4	05:06	6:54	lac	Danilo Gallinari misses two point shot	106 - 120	106	120	0	0	Danilo Gallinari		misses	shot			two			
+401126816	4	05:07	6:53	lac	Danilo Gallinari offensive rebound	106 - 120	106	120	0	0	Danilo Gallinari		offensive rebound							
+401126816	4	05:07	6:53	lac	Danilo Gallinari makes layup	108 - 120	108	120	2	0	Danilo Gallinari		makes	layup						
+401126816	4	05:07	6:53	gs	Klay Thompson shooting foul	108 - 120	108	120	0	0	Klay Thompson		foul							
+401126816	4	05:07	6:53	lac	Danilo Gallinari makes free throw 1 of 1	109 - 120	109	120	1	0	Danilo Gallinari		makes	free throw		1-1				
+401126816	4	05:26	6:34	gs	Andrew Bogut misses two point shot	109 - 120	109	120	0	0	Andrew Bogut		misses	shot			two			
+401126816	4	05:27	6:33	lac	Montrezl Harrell defensive rebound	109 - 120	109	120	0	0	Montrezl Harrell		defensive rebound							
+401126816	4	05:34	6:26	lac	Danilo Gallinari makes 24-foot three point jumper (Landry Shamet assists)	112 - 120	112	120	3	0	Danilo Gallinari		makes	jumper	24		three	Landry Shamet	assists	
+401126816	4	05:49	6:11	gs	Stephen Curry misses 26-foot three point jumper	112 - 120	112	120	0	0	Stephen Curry		misses	jumper	26		three			
+401126816	4	05:51	6:09	lac	Montrezl Harrell defensive rebound	112 - 120	112	120	0	0	Montrezl Harrell		defensive rebound							
+401126816	4	06:01	5:59	lac	Montrezl Harrell makes driving layup (Lou Williams assists)	114 - 120	114	120	2	0	Montrezl Harrell		makes	driving layup				Lou Williams	assists	
+401126816	4	06:12	5:48	gs	Stephen Curry misses 17-foot jumper	114 - 120	114	120	0	0	Stephen Curry		misses	jumper	17					
+401126816	4	06:13	5:47	lac	Danilo Gallinari defensive rebound	114 - 120	114	120	0	0	Danilo Gallinari		defensive rebound							
+401126816	4	06:22	5:38	gs	Draymond Green personal foul	114 - 120	114	120	0	0	Draymond Green		foul							
+401126816	4	06:22	5:38	gs	Andre Iguodala enters the game for Andrew Bogut	114 - 120	114	120	0	0	Andre Iguodala	Andrew Bogut	enters the game for							
+401126816	4	06:22	5:38	lac	JaMychal Green enters the game for Montrezl Harrell	114 - 120	114	120	0	0	JaMychal Green	Montrezl Harrell	enters the game for							
+401126816	4	06:26	5:34	lac	Lou Williams makes 16-foot driving floating jump shot (Landry Shamet assists)	116 - 120	116	120	2	0	Lou Williams		makes	driving floating jump shot	16			Landry Shamet	assists	
+401126816	4	06:26	5:34	gs	Andre Iguodala shooting foul	116 - 120	116	120	0	0	Andre Iguodala		foul							
+401126816	4	06:26	5:34	lac	Lou Williams makes free throw 1 of 1	117 - 120	117	120	1	0	Lou Williams		makes	free throw		1-1				
+401126816	4	06:26	5:34	gs	Warriors Full timeout	117 - 120	117	120	0	0			full timeout							warriors
+401126816	4	06:34	5:26	lac	Patrick Beverley personal foul	117 - 120	117	120	0	0	Patrick Beverley		foul							
+401126816	4	06:34	5:26	gs	Kevin Durant misses free throw 1 of 2	117 - 120	117	120	0	0	Kevin Durant		misses	free throw		1-2				
+401126816	4	06:34	5:26	gs	Warriors offensive team rebound	117 - 120	117	120	0	0			offensive rebound	team						warriors
+401126816	4	06:34	5:26	gs	Kevin Durant makes free throw 2 of 2	117 - 121	117	121	0	1	Kevin Durant		makes	free throw		2-2				
+401126816	4	06:48	5:12	lac	Draymond Green blocks Lou Williams's jumper	117 - 121	117	121	0	0	Draymond Green	Lou Williams	blocks	jumper						
+401126816	4	06:49	5:11	lac	Lou Williams offensive rebound	117 - 121	117	121	0	0	Lou Williams		offensive rebound							
+401126816	4	06:50	5:10	lac	Lou Williams makes layup	119 - 121	119	121	2	0	Lou Williams		makes	layup						
+401126816	4	07:10	4:50	gs	Kevin Durant misses jumper	119 - 121	119	121	0	0	Kevin Durant		misses	jumper						
+401126816	4	07:10	4:50	gs	Warriors offensive team rebound	119 - 121	119	121	0	0			offensive rebound	team						warriors
+401126816	4	07:10	4:50	lac	JaMychal Green loose ball foul	119 - 121	119	121	0	0	JaMychal Green		foul							
+401126816	4	07:10	4:50	lac	Montrezl Harrell enters the game for JaMychal Green	119 - 121	119	121	0	0	Montrezl Harrell	JaMychal Green	enters the game for							
+401126816	4	07:10	4:50	gs	Andre Iguodala makes free throw 1 of 2	119 - 122	119	122	0	1	Andre Iguodala		makes	free throw		1-2				
+401126816	4	07:10	4:50	gs	Andre Iguodala makes free throw 2 of 2	119 - 123	119	123	0	1	Andre Iguodala		makes	free throw		2-2				
+401126816	4	07:27	4:33	lac	Patrick Beverley offensive foul	119 - 123	119	123	0	0	Patrick Beverley		foul							
+401126816	4	07:27	4:33	lac	Patrick Beverley turnover	119 - 123	119	123	0	0	Patrick Beverley		turnover							
+401126816	4	07:27	4:33	lac	Shai Gilgeous-Alexander enters the game for Patrick Beverley	119 - 123	119	123	0	0	Shai Gilgeous-Alexander	Patrick Beverley	enters the game for							
+401126816	4	07:38	4:22	gs	Draymond Green makes dunk (Stephen Curry assists)	119 - 125	119	125	0	2	Draymond Green		makes	dunk				Stephen Curry	assists	
+401126816	4	07:50	4:10	lac	Lou Williams makes 15-foot driving floating jump shot	121 - 125	121	125	2	0	Lou Williams		makes	driving floating jump shot	15					
+401126816	4	08:04	3:56	gs	Stephen Curry misses layup	121 - 125	121	125	0	0	Stephen Curry		misses	layup						
+401126816	4	08:05	3:55	lac	Montrezl Harrell defensive rebound	121 - 125	121	125	0	0	Montrezl Harrell		defensive rebound							
+401126816	4	08:11	3:49	gs	Andre Iguodala shooting foul	121 - 125	121	125	0	0	Andre Iguodala		foul							
+401126816	4	08:11	3:49	lac	Montrezl Harrell makes free throw 1 of 2	122 - 125	122	125	1	0	Montrezl Harrell		makes	free throw		1-2				
+401126816	4	08:11	3:49	lac	Montrezl Harrell makes free throw 2 of 2	123 - 125	123	125	1	0	Montrezl Harrell		makes	free throw		2-2				
+401126816	4	08:35	3:25	lac	Shai Gilgeous-Alexander vs. Stephen Curry (Danilo Gallinari gains possession)	123 - 125	123	125	0	0	Shai Gilgeous-Alexander	Stephen Curry	vs.					Danilo Gallinari	gains possession	
+401126816	4	08:35	3:25	gs	Stephen Curry bad pass (Shai Gilgeous-Alexander steals)	123 - 125	123	125	0	0	Stephen Curry		bad pass					Shai Gilgeous-Alexander	steals	
+401126816	4	08:52	3:08	lac	Danilo Gallinari misses 26-foot three point jumper	123 - 125	123	125	0	0	Danilo Gallinari		misses	jumper	26		three			
+401126816	4	08:54	3:06	gs	Andre Iguodala defensive rebound	123 - 125	123	125	0	0	Andre Iguodala		defensive rebound							
+401126816	4	09:12	2:48	gs	Kevin Durant makes driving dunk	123 - 127	123	127	0	2	Kevin Durant		makes	driving dunk						
+401126816	4	09:12	2:48	lac	Montrezl Harrell shooting foul	123 - 127	123	127	0	0	Montrezl Harrell		foul							
+401126816	4	09:12	2:48	gs	Kevin Durant makes free throw 1 of 1	123 - 128	123	128	0	1	Kevin Durant		makes	free throw		1-1				
+401126816	4	09:24	2:36	lac	Kevin Durant blocks Lou Williams 's 7-foot jumper	123 - 128	123	128	0	0	Kevin Durant	Lou Williams	blocks	jumper	7					
+401126816	4	09:25	2:35	lac	Lou Williams offensive rebound	123 - 128	123	128	0	0	Lou Williams		offensive rebound							
+401126816	4	09:28	2:32	lac	Lou Williams lost ball turnover (Stephen Curry steals)	123 - 128	123	128	0	0	Lou Williams		turnover					Stephen Curry	steals	
+401126816	4	09:30	2:30	gs	Kevin Durant offensive charge	123 - 128	123	128	0	0	Kevin Durant		offensive charge							
+401126816	4	09:30	2:30	gs	Kevin Durant turnover	123 - 128	123	128	0	0	Kevin Durant		turnover							
+401126816	4	09:44	2:16	lac	Montrezl Harrell makes dunk (Shai Gilgeous-Alexander assists)	125 - 128	125	128	2	0	Montrezl Harrell		makes	dunk				Shai Gilgeous-Alexander	assists	
+401126816	4	09:55	2:05	lac	Montrezl Harrell defensive rebound	125 - 128	125	128	0	0	Montrezl Harrell		defensive rebound							
+401126816	4	09:59	2:01	gs	Kevin Durant misses 28-foot three point jumper	125 - 128	125	128	0	0	Kevin Durant		misses	jumper	28		three			
+401126816	4	10:12	1:48	lac	Montrezl Harrell bad pass (Klay Thompson steals)	125 - 128	125	128	0	0	Montrezl Harrell		bad pass					Klay Thompson	steals	
+401126816	4	10:16	1:44	gs	Draymond Green bad pass (Landry Shamet steals)	125 - 128	125	128	0	0	Draymond Green		bad pass					Landry Shamet	steals	
+401126816	4	10:27	1:33	gs	Draymond Green shooting foul	125 - 128	125	128	0	0	Draymond Green		foul							
+401126816	4	10:27	1:33	lac	Lou Williams makes free throw 1 of 2	126 - 128	126	128	1	0	Lou Williams		makes	free throw		1-2				
+401126816	4	10:27	1:33	lac	Lou Williams misses free throw 2 of 2	126 - 128	126	128	0	0	Lou Williams		misses	free throw		2-2				
+401126816	4	10:29	1:31	gs	Draymond Green defensive rebound	126 - 128	126	128	0	0	Draymond Green		defensive rebound							
+401126816	4	10:39	1:21	gs	Kevin Durant offensive foul	126 - 128	126	128	0	0	Kevin Durant		foul							
+401126816	4	10:39	1:21	gs	Kevin Durant turnover	126 - 128	126	128	0	0	Kevin Durant		turnover							
+401126816	4	10:39	1:21	gs	Kevon Looney enters the game for Kevin Durant	126 - 128	126	128	0	0	Kevon Looney	Kevin Durant	enters the game for							
+401126816	4	10:50	1:10	lac	Lou Williams makes 20-foot two point shot	128 - 128	128	128	2	0	Lou Williams		makes	shot	20		two			
+401126816	4	11:01	58.1	gs	Stephen Curry makes 26-foot three pointer (Andre Iguodala assists)	128 - 131	128	131	0	3	Stephen Curry		makes	er	26		three	Andre Iguodala	assists	
+401126816	4	11:04	55.8	lac	Clippers Full timeout	128 - 131	128	131	0	0			full timeout							clippers
+401126816	4	11:14	46.0	lac	Lou Williams makes 11-foot two point shot	130 - 131	130	131	2	0	Lou Williams		makes	shot	11		two			
+401126816	4	11:26	33.3	gs	Klay Thompson misses 30-foot three point jumper	130 - 131	130	131	0	0	Klay Thompson		misses	jumper	30		three			
+401126816	4	11:28	31.2	lac	Montrezl Harrell defensive rebound	130 - 131	130	131	0	0	Montrezl Harrell		defensive rebound							
+401126816	4	11:43	16.5	lac	Landry Shamet makes 27-foot three pointer (Shai Gilgeous-Alexander assists)	133 - 131	133	131	3	0	Landry Shamet		makes	er	27		three	Shai Gilgeous-Alexander	assists	
+401126816	4	11:44	15.9	gs	Warriors Full timeout	133 - 131	133	131	0	0			full timeout							warriors
+401126816	4	11:44	15.9	lac	Garrett Temple enters the game for Lou Williams	133 - 131	133	131	0	0	Garrett Temple	Lou Williams	enters the game for							
+401126816	4	11:50	9.3	gs	Stephen Curry misses 27-foot three point jumper	133 - 131	133	131	0	0	Stephen Curry		misses	jumper	27		three			
+401126816	4	11:52	7.1	lac	Montrezl Harrell defensive rebound	133 - 131	133	131	0	0	Montrezl Harrell		defensive rebound							
+401126816	4	11:54	5.1	gs	Kevon Looney personal foul	133 - 131	133	131	0	0	Kevon Looney		foul							
+401126816	4	11:54	5.1	lac	Montrezl Harrell makes free throw 1 of 2	134 - 131	134	131	1	0	Montrezl Harrell		makes	free throw		1-2				
+401126816	4	11:54	5.1	lac	Montrezl Harrell makes free throw 2 of 2	135 - 131	135	131	1	0	Montrezl Harrell		makes	free throw		2-2				
+401126816	4	11:54	5.1	gs	Warriors Full timeout	135 - 131	135	131	0	0			full timeout							warriors
+401126816	4	11:54	5.1	gs	Quinn Cook enters the game for Kevon Looney	135 - 131	135	131	0	0	Quinn Cook	Kevon Looney	enters the game for							
+401126816	4	11:56	3.8	gs	Klay Thompson misses 27-foot three point jumper	135 - 131	135	131	0	0	Klay Thompson		misses	jumper	27		three			
+401126816	4	11:59	0.1	gs	Warriors offensive team rebound	135 - 131	135	131	0	0			offensive rebound	team						warriors
+401126816	4	12:00	0.0	gs	End of the 4th Quarter	135 - 131	135	131	0	0			end of the 4th quarter							
+401126816	4	12:00	0.0	gs	End of Game	135 - 131	135	131	0	0			end of game							

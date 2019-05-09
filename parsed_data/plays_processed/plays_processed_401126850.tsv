@@ -1,0 +1,514 @@
+game_id	quarter	q_time	q_time_remaining	team	event	score	team1_score	team2_score	team1_event_point	team2_event_point	player1	player2	action	action_what	foot_value	free_throw	point_info	player_secondary	action_secondary	team_action
+401126850	1	00:00	12:00	bkn	Joel Embiid vs. Jarrett Allen (Caris LeVert gains possession)	0 - 0	0	0	0	0	Joel Embiid	Jarrett Allen	vs.					Caris LeVert	gains possession	
+401126850	1	00:21	11:39	bkn	Caris LeVert makes driving layup	0 - 2	0	2	0	2	Caris LeVert		makes	driving layup						
+401126850	1	00:37	11:23	phi	Joel Embiid makes 15-foot pullup jump shot	2 - 2	2	2	2	0	Joel Embiid		makes	pullup jump shot	15					
+401126850	1	00:50	11:10	bkn	Jared Dudley makes 24-foot jumper (D'Angelo Russell assists)	2 - 4	2	4	0	2	Jared Dudley		makes	jumper	24			D'Angelo Russell	assists	
+401126850	1	01:02	10:58	phi	Joel Embiid makes 4-foot pullup jump shot (Ben Simmons assists)	4 - 4	4	4	2	0	Joel Embiid		makes	pullup jump shot	4			Ben Simmons	assists	
+401126850	1	01:15	10:45	bkn	Caris LeVert bad pass (Joel Embiid steals)	4 - 4	4	4	0	0	Caris LeVert		bad pass					Joel Embiid	steals	
+401126850	1	01:18	10:42	phi	Ben Simmons out of bounds lost ball turnover	4 - 4	4	4	0	0	Ben Simmons		turnover							
+401126850	1	01:19	10:41	phi	Ben Simmons personal foul	4 - 4	4	4	0	0	Ben Simmons		foul							
+401126850	1	01:28	10:32	bkn	Joe Harris makes 15-foot two point shot (D'Angelo Russell assists)	4 - 6	4	6	0	2	Joe Harris		makes	shot	15		two	D'Angelo Russell	assists	
+401126850	1	01:44	10:16	phi	Joel Embiid bad pass (D'Angelo Russell steals)	4 - 6	4	6	0	0	Joel Embiid		bad pass					D'Angelo Russell	steals	
+401126850	1	01:53	10:07	bkn	D'Angelo Russell misses 12-foot two point shot	4 - 6	4	6	0	0	D'Angelo Russell		misses	shot	12		two			
+401126850	1	01:56	10:04	phi	Joel Embiid defensive rebound	4 - 6	4	6	0	0	Joel Embiid		defensive rebound							
+401126850	1	02:02	9:58	phi	Ben Simmons makes 2-foot driving floating jump shot (Tobias Harris assists)	6 - 6	6	6	2	0	Ben Simmons		makes	driving floating jump shot	2			Tobias Harris	assists	
+401126850	1	02:14	9:46	phi	Joel Embiid shooting foul	6 - 6	6	6	0	0	Joel Embiid		foul							
+401126850	1	02:14	9:46	bkn	Joe Harris makes free throw 1 of 2	6 - 7	6	7	0	1	Joe Harris		makes	free throw		1-2				
+401126850	1	02:14	9:46	bkn	Joe Harris makes free throw 2 of 2	6 - 8	6	8	0	1	Joe Harris		makes	free throw		2-2				
+401126850	1	02:32	9:28	phi	Tobias Harris misses 22-foot pullup jump shot	6 - 8	6	8	0	0	Tobias Harris		misses	pullup jump shot	22					
+401126850	1	02:37	9:23	bkn	Joe Harris defensive rebound	6 - 8	6	8	0	0	Joe Harris		defensive rebound							
+401126850	1	02:42	9:18	bkn	D'Angelo Russell misses 26-foot three point jumper	6 - 8	6	8	0	0	D'Angelo Russell		misses	jumper	26		three			
+401126850	1	02:45	9:15	phi	JJ Redick defensive rebound	6 - 8	6	8	0	0	JJ Redick		defensive rebound							
+401126850	1	02:53	9:07	phi	Joel Embiid misses 25-foot three point jumper	6 - 8	6	8	0	0	Joel Embiid		misses	jumper	25		three			
+401126850	1	02:57	9:03	bkn	D'Angelo Russell defensive rebound	6 - 8	6	8	0	0	D'Angelo Russell		defensive rebound							
+401126850	1	03:03	8:57	bkn	Caris LeVert misses 25-foot three point pullup jump shot	6 - 8	6	8	0	0	Caris LeVert		misses	pullup jump shot	25		three			
+401126850	1	03:06	8:54	phi	Jimmy Butler defensive rebound	6 - 8	6	8	0	0	Jimmy Butler		defensive rebound							
+401126850	1	03:13	8:47	bkn	Joe Harris shooting foul	6 - 8	6	8	0	0	Joe Harris		foul							
+401126850	1	03:13	8:47	phi	Jimmy Butler makes free throw 1 of 2	7 - 8	7	8	1	0	Jimmy Butler		makes	free throw		1-2				
+401126850	1	03:13	8:47	phi	Jimmy Butler makes free throw 2 of 2	8 - 8	8	8	1	0	Jimmy Butler		makes	free throw		2-2				
+401126850	1	03:27	8:33	bkn	D'Angelo Russell misses two point shot	8 - 8	8	8	0	0	D'Angelo Russell		misses	shot			two			
+401126850	1	03:29	8:31	phi	Jimmy Butler defensive rebound	8 - 8	8	8	0	0	Jimmy Butler		defensive rebound							
+401126850	1	03:33	8:27	phi	Joel Embiid traveling	8 - 8	8	8	0	0	Joel Embiid		traveling							
+401126850	1	03:47	8:13	bkn	Joel Embiid blocks Joe Harris 's 2-foot driving layup	8 - 8	8	8	0	0	Joel Embiid	Joe Harris	blocks	driving layup	2					
+401126850	1	03:48	8:12	bkn	Jarrett Allen offensive rebound	8 - 8	8	8	0	0	Jarrett Allen		offensive rebound							
+401126850	1	03:48	8:12	phi	JJ Redick personal foul	8 - 8	8	8	0	0	JJ Redick		foul							
+401126850	1	03:55	8:05	bkn	Jarrett Allen makes alley oop dunk shot (Caris LeVert assists)	8 - 10	8	10	0	2	Jarrett Allen		makes	alley oop dunk shot				Caris LeVert	assists	
+401126850	1	04:12	7:48	phi	JJ Redick makes 25-foot three point jumper (Jimmy Butler assists)	11 - 10	11	10	3	0	JJ Redick		makes	jumper	25		three	Jimmy Butler	assists	
+401126850	1	04:23	7:37	bkn	Caris LeVert misses 12-foot two point shot	11 - 10	11	10	0	0	Caris LeVert		misses	shot	12		two			
+401126850	1	04:27	7:33	phi	Tobias Harris defensive rebound	11 - 10	11	10	0	0	Tobias Harris		defensive rebound							
+401126850	1	04:41	7:19	phi	Tobias Harris makes 14-foot two point shot	13 - 10	13	10	2	0	Tobias Harris		makes	shot	14		two			
+401126850	1	04:55	7:05	bkn	Tobias Harris blocks Jarrett Allen 's 2-foot driving layup	13 - 10	13	10	0	0	Tobias Harris	Jarrett Allen	blocks	driving layup	2					
+401126850	1	05:00	7:00	bkn	Jarrett Allen offensive rebound	13 - 10	13	10	0	0	Jarrett Allen		offensive rebound							
+401126850	1	05:01	6:59	bkn	Caris LeVert makes dunk (Jarrett Allen assists)	13 - 12	13	12	0	2	Caris LeVert		makes	dunk				Jarrett Allen	assists	
+401126850	1	05:10	6:50	phi	Ben Simmons lost ball turnover (Jared Dudley steals)	13 - 10	13	12	0	0	Ben Simmons		turnover					Jared Dudley	steals	
+401126850	1	05:14	6:46	bkn	D'Angelo Russell makes 26-foot three point jumper (Jared Dudley assists)	13 - 13	13	13	0	3	D'Angelo Russell		makes	jumper	26		three	Jared Dudley	assists	
+401126850	1	05:15	6:45	phi	76ers Full timeout	13 - 13	13	13	0	0			full timeout							76ers
+401126850	1	05:15	6:45	phi	Boban Marjanovic enters the game for Joel Embiid	13 - 15	13	15	0	0	Boban Marjanovic	Joel Embiid	enters the game for							
+401126850	1	05:31	6:29	phi	JJ Redick makes 24-foot three point jumper (Jimmy Butler assists)	16 - 15	16	15	3	0	JJ Redick		makes	jumper	24		three	Jimmy Butler	assists	
+401126850	1	05:48	6:12	bkn	Joe Harris misses 26-foot three point jumper	16 - 15	16	15	0	0	Joe Harris		misses	jumper	26		three			
+401126850	1	05:50	6:10	phi	Tobias Harris defensive rebound	16 - 15	16	15	0	0	Tobias Harris		defensive rebound							
+401126850	1	05:55	6:05	phi	D'Angelo Russell blocks Tobias Harris 's 14-foot pullup jump shot	16 - 15	16	15	0	0	D'Angelo Russell	Tobias Harris	blocks	pullup jump shot	14					
+401126850	1	06:00	6:00	bkn	Joe Harris defensive rebound	16 - 15	16	15	0	0	Joe Harris		defensive rebound							
+401126850	1	06:16	5:44	bkn	Jarrett Allen makes 2-foot layup (Caris LeVert assists)	16 - 17	16	17	0	2	Jarrett Allen		makes	layup	2			Caris LeVert	assists	
+401126850	1	06:16	5:44	phi	Boban Marjanovic shooting foul	16 - 17	16	17	0	0	Boban Marjanovic		foul							
+401126850	1	06:16	5:44	phi	James Ennis III enters the game for JJ Redick	16 - 17	16	17	0	0	James Ennis III	JJ Redick	enters the game for							
+401126850	1	06:16	5:44	phi	Mike Scott enters the game for Ben Simmons	16 - 17	16	17	0	0	Mike Scott	Ben Simmons	enters the game for							
+401126850	1	06:16	5:44	bkn	Jarrett Allen makes free throw 1 of 1	16 - 18	16	18	0	1	Jarrett Allen		makes	free throw		1-1				
+401126850	1	06:34	5:26	phi	Mike Scott misses 26-foot three point jumper	16 - 18	16	18	0	0	Mike Scott		misses	jumper	26		three			
+401126850	1	06:41	5:19	bkn	Joe Harris defensive rebound	16 - 18	16	18	0	0	Joe Harris		defensive rebound							
+401126850	1	06:48	5:12	bkn	Caris LeVert makes driving layup	16 - 20	16	20	0	2	Caris LeVert		makes	driving layup						
+401126850	1	07:04	4:56	bkn	D'Angelo Russell personal foul	16 - 20	16	20	0	0	D'Angelo Russell		foul							
+401126850	1	07:04	4:56	bkn	Spencer Dinwiddie enters the game for Jared Dudley	16 - 20	16	20	0	0	Spencer Dinwiddie	Jared Dudley	enters the game for							
+401126850	1	07:04	4:56	bkn	Treveon Graham enters the game for Caris LeVert	16 - 20	16	20	0	0	Treveon Graham	Caris LeVert	enters the game for							
+401126850	1	07:11	4:49	phi	Tobias Harris makes driving layup	18 - 20	18	20	2	0	Tobias Harris		makes	driving layup						
+401126850	1	07:18	4:42	phi	James Ennis III personal foul	18 - 20	18	20	0	0	James Ennis III		foul							
+401126850	1	07:18	4:42	bkn	Jarrett Allen makes free throw 1 of 2	18 - 21	18	21	0	1	Jarrett Allen		makes	free throw		1-2				
+401126850	1	07:18	4:42	bkn	Jarrett Allen makes free throw 2 of 2	18 - 22	18	22	0	1	Jarrett Allen		makes	free throw		2-2				
+401126850	1	07:31	4:29	phi	Tobias Harris makes 10-foot driving floating jump shot	20 - 22	20	22	2	0	Tobias Harris		makes	driving floating jump shot	10					
+401126850	1	07:31	4:29	bkn	Treveon Graham shooting foul	20 - 22	20	22	0	0	Treveon Graham		foul							
+401126850	1	07:31	4:29	phi	Tobias Harris misses free throw 1 of 1	20 - 22	20	22	0	0	Tobias Harris		misses	free throw		1-1				
+401126850	1	07:35	4:25	phi	Mike Scott offensive rebound	20 - 22	20	22	0	0	Mike Scott		offensive rebound							
+401126850	1	07:36	4:24	phi	James Ennis III misses 25-foot three point jumper	20 - 22	20	22	0	0	James Ennis III		misses	jumper	25		three			
+401126850	1	07:38	4:22	bkn	Nets defensive team rebound	20 - 22	20	22	0	0			defensive rebound	team						nets
+401126850	1	07:45	4:15	bkn	D'Angelo Russell misses 26-foot three point pullup jump shot	20 - 22	20	22	0	0	D'Angelo Russell		misses	pullup jump shot	26		three			
+401126850	1	07:49	4:11	bkn	Joe Harris offensive rebound	20 - 22	20	22	0	0	Joe Harris		offensive rebound							
+401126850	1	07:54	4:06	bkn	Treveon Graham misses driving layup	20 - 22	20	22	0	0	Treveon Graham		misses	driving layup						
+401126850	1	07:54	4:06	bkn	Treveon Graham offensive rebound	20 - 22	20	22	0	0	Treveon Graham		offensive rebound							
+401126850	1	08:00	4:00	bkn	Jarrett Allen makes driving layup (Treveon Graham assists)	20 - 24	20	24	0	2	Jarrett Allen		makes	driving layup				Treveon Graham	assists	
+401126850	1	08:10	3:50	phi	Tobias Harris makes 14-foot pullup jump shot	22 - 24	22	24	2	0	Tobias Harris		makes	pullup jump shot	14					
+401126850	1	08:20	3:40	bkn	D'Angelo Russell misses driving layup	22 - 24	22	24	0	0	D'Angelo Russell		misses	driving layup						
+401126850	1	08:23	3:37	phi	Boban Marjanovic defensive rebound	22 - 24	22	24	0	0	Boban Marjanovic		defensive rebound							
+401126850	1	08:31	3:29	phi	Jimmy Butler misses 25-foot step back jumpshot	22 - 24	22	24	0	0	Jimmy Butler		misses	step back jumpshot	25					
+401126850	1	08:34	3:26	bkn	Joe Harris defensive rebound	22 - 24	22	24	0	0	Joe Harris		defensive rebound							
+401126850	1	08:49	3:11	bkn	Jarrett Allen misses alley oop dunk shot	22 - 24	22	24	0	0	Jarrett Allen		misses	alley oop dunk shot						
+401126850	1	08:51	3:09	bkn	D'Angelo Russell offensive rebound	22 - 24	22	24	0	0	D'Angelo Russell		offensive rebound							
+401126850	1	08:52	3:08	bkn	D'Angelo Russell misses tip shot	22 - 24	22	24	0	0	D'Angelo Russell		misses	tip shot						
+401126850	1	08:53	3:07	bkn	D'Angelo Russell offensive rebound	22 - 24	22	24	0	0	D'Angelo Russell		offensive rebound							
+401126850	1	08:55	3:05	bkn	D'Angelo Russell makes tip shot	22 - 26	22	26	0	2	D'Angelo Russell		makes	tip shot						
+401126850	1	09:05	2:55	phi	Boban Marjanovic misses 6-foot two point shot	22 - 26	22	26	0	0	Boban Marjanovic		misses	shot	6		two			
+401126850	1	09:08	2:52	bkn	Jarrett Allen defensive rebound	22 - 26	22	26	0	0	Jarrett Allen		defensive rebound							
+401126850	1	09:17	2:43	bkn	Jarrett Allen makes 1-foot layup (D'Angelo Russell assists)	22 - 28	22	28	0	2	Jarrett Allen		makes	layup	1			D'Angelo Russell	assists	
+401126850	1	09:31	2:29	phi	Tobias Harris misses 16-foot pullup jump shot	22 - 28	22	28	0	0	Tobias Harris		misses	pullup jump shot	16					
+401126850	1	09:35	2:25	bkn	Spencer Dinwiddie defensive rebound	22 - 28	22	28	0	0	Spencer Dinwiddie		defensive rebound							
+401126850	1	09:40	2:20	bkn	Jarrett Allen misses alley oop dunk shot	22 - 28	22	28	0	0	Jarrett Allen		misses	alley oop dunk shot						
+401126850	1	09:43	2:17	phi	Jimmy Butler defensive rebound	22 - 28	22	28	0	0	Jimmy Butler		defensive rebound							
+401126850	1	09:49	2:11	phi	Jimmy Butler out of bounds bad pass turnover	22 - 28	22	28	0	0	Jimmy Butler		turnover							
+401126850	1	09:49	2:11	bkn	Nets Full timeout	22 - 28	22	28	0	0			full timeout							nets
+401126850	1	09:49	2:11	bkn	Rondae Hollis-Jefferson enters the game for D'Angelo Russell	22 - 28	22	28	0	0	Rondae Hollis-Jefferson	D'Angelo Russell	enters the game for							
+401126850	1	09:49	2:11	bkn	Caris LeVert enters the game for Joe Harris	22 - 28	22	28	0	0	Caris LeVert	Joe Harris	enters the game for							
+401126850	1	09:49	2:11	bkn	DeMarre Carroll enters the game for Jarrett Allen	22 - 28	22	28	0	0	DeMarre Carroll	Jarrett Allen	enters the game for							
+401126850	1	09:49	2:11	phi	Ben Simmons enters the game for Jimmy Butler	22 - 28	22	28	0	0	Ben Simmons	Jimmy Butler	enters the game for							
+401126850	1	09:49	2:11	phi	JJ Redick enters the game for Tobias Harris	22 - 28	22	28	0	0	JJ Redick	Tobias Harris	enters the game for							
+401126850	1	09:49	2:11	phi	Joel Embiid enters the game for Boban Marjanovic	22 - 28	22	28	0	0	Joel Embiid	Boban Marjanovic	enters the game for							
+401126850	1	10:09	1:51	bkn	Caris LeVert makes 25-foot three pointer	22 - 31	22	31	0	3	Caris LeVert		makes	er	25		three			
+401126850	1	10:20	1:40	bkn	Spencer Dinwiddie personal foul	22 - 31	22	31	0	0	Spencer Dinwiddie		foul							
+401126850	1	10:31	1:29	phi	Mike Scott misses 23-foot three point jumper	22 - 31	22	31	0	0	Mike Scott		misses	jumper	23		three			
+401126850	1	10:34	1:26	bkn	Caris LeVert defensive rebound	22 - 31	22	31	0	0	Caris LeVert		defensive rebound							
+401126850	1	10:39	1:21	bkn	Caris LeVert misses 26-foot three point jumper	22 - 31	22	31	0	0	Caris LeVert		misses	jumper	26		three			
+401126850	1	10:43	1:17	phi	Mike Scott defensive rebound	22 - 31	22	31	0	0	Mike Scott		defensive rebound							
+401126850	1	10:56	1:04	phi	Joel Embiid makes driving layup (Ben Simmons assists)	24 - 31	24	31	2	0	Joel Embiid		makes	driving layup				Ben Simmons	assists	
+401126850	1	11:12	47.4	bkn	Joel Embiid blocks Rondae Hollis-Jefferson 's 2-foot two point shot	24 - 31	24	31	0	0	Joel Embiid	Rondae Hollis-Jefferson	blocks	shot	2		two			
+401126850	1	11:15	44.8	phi	Joel Embiid defensive rebound	24 - 31	24	31	0	0	Joel Embiid		defensive rebound							
+401126850	1	11:17	42.2	phi	Ben Simmons bad pass (Spencer Dinwiddie steals)	24 - 31	24	31	0	0	Ben Simmons		bad pass					Spencer Dinwiddie	steals	
+401126850	1	11:22	37.9	bkn	Spencer Dinwiddie misses 26-foot three point jumper	24 - 31	24	31	0	0	Spencer Dinwiddie		misses	jumper	26		three			
+401126850	1	11:25	34.7	bkn	DeMarre Carroll offensive rebound	24 - 31	24	31	0	0	DeMarre Carroll		offensive rebound							
+401126850	1	11:27	32.7	bkn	DeMarre Carroll misses 26-foot three point jumper	24 - 31	24	31	0	0	DeMarre Carroll		misses	jumper	26		three			
+401126850	1	11:29	30.2	phi	Mike Scott defensive rebound	24 - 31	24	31	0	0	Mike Scott		defensive rebound							
+401126850	1	11:46	13.4	phi	JJ Redick out of bounds lost ball turnover	24 - 31	24	31	0	0	JJ Redick		turnover							
+401126850	1	11:46	13.4	phi	Tobias Harris enters the game for JJ Redick	24 - 31	24	31	0	0	Tobias Harris	JJ Redick	enters the game for							
+401126850	1	11:46	13.4	bkn	Joe Harris enters the game for Rondae Hollis-Jefferson	24 - 31	24	31	0	0	Joe Harris	Rondae Hollis-Jefferson	enters the game for							
+401126850	1	11:46	13.4	phi	Jimmy Butler enters the game for Joel Embiid	24 - 31	24	31	0	0	Jimmy Butler	Joel Embiid	enters the game for							
+401126850	1	11:58	1.2	phi	Mike Scott shooting foul	24 - 31	24	31	0	0	Mike Scott		foul							
+401126850	1	11:58	1.2	bkn	Caris LeVert makes free throw 1 of 2	24 - 32	24	32	0	1	Caris LeVert		makes	free throw		1-2				
+401126850	1	11:58	1.2	bkn	Rondae Hollis-Jefferson enters the game for Joe Harris	24 - 32	24	32	0	0	Rondae Hollis-Jefferson	Joe Harris	enters the game for							
+401126850	1	11:58	1.2	bkn	Caris LeVert makes free throw 2 of 2	24 - 33	24	33	0	1	Caris LeVert		makes	free throw		2-2				
+401126850	1	12:00	0.0	bkn	End of the 1st Quarter	24 - 33	24	33	0	0			end of the 1st quarter							
+401126850	2	00:00	12:00	bkn	D'Angelo Russell enters the game for Treveon Graham	24 - 33	24	33	0	0	D'Angelo Russell	Treveon Graham	enters the game for							
+401126850	2	00:00	12:00	phi	JJ Redick enters the game for Mike Scott	24 - 33	24	33	0	0	JJ Redick	Mike Scott	enters the game for							
+401126850	2	00:00	12:00	phi	Joel Embiid enters the game for James Ennis III	24 - 33	24	33	0	0	Joel Embiid	James Ennis III	enters the game for							
+401126850	2	00:17	11:43	phi	Jimmy Butler makes 22-foot pullup jump shot (Joel Embiid assists)	26 - 33	26	33	2	0	Jimmy Butler		makes	pullup jump shot	22			Joel Embiid	assists	
+401126850	2	00:33	11:27	bkn	D'Angelo Russell misses driving floating jump shot	26 - 33	26	33	0	0	D'Angelo Russell		misses	driving floating jump shot						
+401126850	2	00:36	11:24	phi	Ben Simmons defensive rebound	26 - 33	26	33	0	0	Ben Simmons		defensive rebound							
+401126850	2	00:42	11:18	bkn	D'Angelo Russell personal foul	26 - 33	26	33	0	0	D'Angelo Russell		foul							
+401126850	2	00:43	11:17	bkn	Spencer Dinwiddie personal foul	26 - 33	26	33	0	0	Spencer Dinwiddie		foul							
+401126850	2	00:47	11:13	phi	Tobias Harris makes 4-foot layup (Ben Simmons assists)	28 - 33	28	33	2	0	Tobias Harris		makes	layup	4			Ben Simmons	assists	
+401126850	2	01:05	10:55	bkn	Joel Embiid blocks Rondae Hollis-Jefferson 's 2-foot driving layup	28 - 33	28	33	0	0	Joel Embiid	Rondae Hollis-Jefferson	blocks	driving layup	2					
+401126850	2	01:08	10:52	phi	Tobias Harris defensive rebound	28 - 33	28	33	0	0	Tobias Harris		defensive rebound							
+401126850	2	01:18	10:42	phi	Jimmy Butler makes driving layup	30 - 33	30	33	2	0	Jimmy Butler		makes	driving layup						
+401126850	2	01:33	10:27	bkn	Caris LeVert misses driving floating jump shot	30 - 33	30	33	0	0	Caris LeVert		misses	driving floating jump shot						
+401126850	2	01:36	10:24	phi	Joel Embiid defensive rebound	30 - 33	30	33	0	0	Joel Embiid		defensive rebound							
+401126850	2	01:44	10:16	phi	Tobias Harris misses 25-foot three point jumper	30 - 33	30	33	0	0	Tobias Harris		misses	jumper	25		three			
+401126850	2	01:46	10:14	bkn	Rondae Hollis-Jefferson defensive rebound	30 - 33	30	33	0	0	Rondae Hollis-Jefferson		defensive rebound							
+401126850	2	01:58	10:02	bkn	Spencer Dinwiddie makes 24-foot step back jumpshot	30 - 36	30	36	0	3	Spencer Dinwiddie		makes	step back jumpshot	24					
+401126850	2	02:16	9:44	phi	Jimmy Butler makes 24-foot three point jumper (Joel Embiid assists)	33 - 36	33	36	3	0	Jimmy Butler		makes	jumper	24		three	Joel Embiid	assists	
+401126850	2	02:37	9:23	bkn	Rondae Hollis-Jefferson misses 17-foot jumper	33 - 36	33	36	0	0	Rondae Hollis-Jefferson		misses	jumper	17					
+401126850	2	02:40	9:20	phi	Ben Simmons defensive rebound	33 - 36	33	36	0	0	Ben Simmons		defensive rebound							
+401126850	2	02:46	9:14	phi	JJ Redick misses 23-foot three point jumper	33 - 36	33	36	0	0	JJ Redick		misses	jumper	23		three			
+401126850	2	02:51	9:09	bkn	D'Angelo Russell defensive rebound	33 - 36	33	36	0	0	D'Angelo Russell		defensive rebound							
+401126850	2	02:54	9:06	bkn	Spencer Dinwiddie makes driving layup (D'Angelo Russell assists)	33 - 38	33	38	0	2	Spencer Dinwiddie		makes	driving layup				D'Angelo Russell	assists	
+401126850	2	03:11	8:49	phi	Joel Embiid makes 26-foot three point jumper (Jimmy Butler assists)	36 - 38	36	38	3	0	Joel Embiid		makes	jumper	26		three	Jimmy Butler	assists	
+401126850	2	03:25	8:35	bkn	D'Angelo Russell misses driving layup	36 - 38	36	38	0	0	D'Angelo Russell		misses	driving layup						
+401126850	2	03:27	8:33	phi	Joel Embiid defensive rebound	36 - 38	36	38	0	0	Joel Embiid		defensive rebound							
+401126850	2	03:33	8:27	phi	Ben Simmons makes two point shot	38 - 38	38	38	2	0	Ben Simmons		makes	shot			two			
+401126850	2	03:33	8:27	bkn	Nets Full timeout	38 - 38	38	38	0	0			full timeout							nets
+401126850	2	03:33	8:27	bkn	Joe Harris enters the game for Spencer Dinwiddie	38 - 38	38	38	0	0	Joe Harris	Spencer Dinwiddie	enters the game for							
+401126850	2	03:33	8:27	bkn	Jared Dudley enters the game for Rondae Hollis-Jefferson	38 - 38	38	38	0	0	Jared Dudley	Rondae Hollis-Jefferson	enters the game for							
+401126850	2	03:33	8:27	phi	Mike Scott enters the game for Ben Simmons	38 - 38	38	38	0	0	Mike Scott	Ben Simmons	enters the game for							
+401126850	2	03:33	8:27	phi	Boban Marjanovic enters the game for JJ Redick	38 - 38	38	38	0	0	Boban Marjanovic	JJ Redick	enters the game for							
+401126850	2	03:33	8:27	phi	James Ennis III enters the game for Joel Embiid	38 - 38	38	38	0	0	James Ennis III	Joel Embiid	enters the game for							
+401126850	2	03:47	8:13	bkn	D'Angelo Russell makes driving layup (Jared Dudley assists)	38 - 40	38	40	0	2	D'Angelo Russell		makes	driving layup				Jared Dudley	assists	
+401126850	2	04:07	7:53	bkn	DeMarre Carroll personal foul	38 - 40	38	40	0	0	DeMarre Carroll		foul							
+401126850	2	04:11	7:49	phi	James Ennis III misses layup	38 - 40	38	40	0	0	James Ennis III		misses	layup						
+401126850	2	04:13	7:47	bkn	DeMarre Carroll defensive rebound	38 - 40	38	40	0	0	DeMarre Carroll		defensive rebound							
+401126850	2	04:17	7:43	bkn	DeMarre Carroll misses 25-foot three point jumper	38 - 40	38	40	0	0	DeMarre Carroll		misses	jumper	25		three			
+401126850	2	04:21	7:39	phi	Mike Scott defensive rebound	38 - 40	38	40	0	0	Mike Scott		defensive rebound							
+401126850	2	04:28	7:32	phi	Jimmy Butler makes driving layup	40 - 40	40	40	2	0	Jimmy Butler		makes	driving layup						
+401126850	2	04:38	7:22	phi	Mike Scott shooting foul	40 - 40	40	40	0	0	Mike Scott		foul							
+401126850	2	04:38	7:22	bkn	DeMarre Carroll makes free throw 1 of 2	40 - 41	40	41	0	1	DeMarre Carroll		makes	free throw		1-2				
+401126850	2	04:38	7:22	bkn	DeMarre Carroll makes free throw 2 of 2	40 - 42	40	42	0	1	DeMarre Carroll		makes	free throw		2-2				
+401126850	2	04:50	7:10	phi	Boban Marjanovic misses driving layup	40 - 42	40	42	0	0	Boban Marjanovic		misses	driving layup						
+401126850	2	04:54	7:06	bkn	DeMarre Carroll defensive rebound	40 - 42	40	42	0	0	DeMarre Carroll		defensive rebound							
+401126850	2	04:59	7:01	bkn	Jared Dudley misses 26-foot three point jumper	40 - 42	40	42	0	0	Jared Dudley		misses	jumper	26		three			
+401126850	2	05:02	6:58	bkn	DeMarre Carroll offensive rebound	40 - 42	40	42	0	0	DeMarre Carroll		offensive rebound							
+401126850	2	05:06	6:54	bkn	DeMarre Carroll bad pass (Jimmy Butler steals)	40 - 42	40	42	0	0	DeMarre Carroll		bad pass					Jimmy Butler	steals	
+401126850	2	05:06	6:54	bkn	Joe Harris personal take foul	40 - 42	40	42	0	0	Joe Harris		foul							
+401126850	2	05:23	6:37	phi	Tobias Harris misses 13-foot pullup jump shot	40 - 42	40	42	0	0	Tobias Harris		misses	pullup jump shot	13					
+401126850	2	05:27	6:33	bkn	Caris LeVert defensive rebound	40 - 42	40	42	0	0	Caris LeVert		defensive rebound							
+401126850	2	05:28	6:32	phi	James Ennis III shooting foul	40 - 42	40	42	0	0	James Ennis III		foul							
+401126850	2	05:28	6:32	bkn	D'Angelo Russell makes free throw 1 of 2	40 - 43	40	43	0	1	D'Angelo Russell		makes	free throw		1-2				
+401126850	2	05:28	6:32	bkn	D'Angelo Russell makes free throw 2 of 2	40 - 44	40	44	0	1	D'Angelo Russell		makes	free throw		2-2				
+401126850	2	05:41	6:19	phi	Jimmy Butler misses driving layup	40 - 44	40	44	0	0	Jimmy Butler		misses	driving layup						
+401126850	2	05:43	6:17	phi	Boban Marjanovic offensive rebound	40 - 44	40	44	0	0	Boban Marjanovic		offensive rebound							
+401126850	2	05:47	6:13	phi	Boban Marjanovic makes 11-foot two point shot	42 - 44	42	44	2	0	Boban Marjanovic		makes	shot	11		two			
+401126850	2	05:52	6:08	bkn	D'Angelo Russell misses 25-foot three point jumper	42 - 44	42	44	0	0	D'Angelo Russell		misses	jumper	25		three			
+401126850	2	05:52	6:08	phi	Jimmy Butler defensive rebound	42 - 44	42	44	0	0	Jimmy Butler		defensive rebound							
+401126850	2	06:02	5:58	phi	James Ennis III makes 23-foot three point jumper (Tobias Harris assists)	45 - 44	45	44	3	0	James Ennis III		makes	jumper	23		three	Tobias Harris	assists	
+401126850	2	06:19	5:41	bkn	Caris LeVert makes 25-foot step back jumpshot	45 - 47	45	47	0	3	Caris LeVert		makes	step back jumpshot	25					
+401126850	2	06:33	5:27	bkn	Jared Dudley personal foul	45 - 47	45	47	0	0	Jared Dudley		foul							
+401126850	2	06:33	5:27	phi	Tobias Harris makes free throw 1 of 2	46 - 47	46	47	1	0	Tobias Harris		makes	free throw		1-2				
+401126850	2	06:33	5:27	bkn	Spencer Dinwiddie enters the game for DeMarre Carroll	46 - 47	46	47	0	0	Spencer Dinwiddie	DeMarre Carroll	enters the game for							
+401126850	2	06:33	5:27	bkn	Jarrett Allen enters the game for Caris LeVert	46 - 47	46	47	0	0	Jarrett Allen	Caris LeVert	enters the game for							
+401126850	2	06:33	5:27	phi	Tobias Harris makes free throw 2 of 2	47 - 47	47	47	1	0	Tobias Harris		makes	free throw		2-2				
+401126850	2	06:41	5:19	bkn	Joe Harris misses 26-foot three point jumper	47 - 47	47	47	0	0	Joe Harris		misses	jumper	26		three			
+401126850	2	06:44	5:16	phi	Boban Marjanovic defensive rebound	47 - 47	47	47	0	0	Boban Marjanovic		defensive rebound							
+401126850	2	06:57	5:03	phi	Boban Marjanovic lost ball turnover (Jarrett Allen steals)	47 - 47	47	47	0	0	Boban Marjanovic		turnover					Jarrett Allen	steals	
+401126850	2	07:02	4:58	bkn	Spencer Dinwiddie offensive charge	47 - 47	47	47	0	0	Spencer Dinwiddie		offensive charge							
+401126850	2	07:02	4:58	bkn	Spencer Dinwiddie turnover	47 - 47	47	47	0	0	Spencer Dinwiddie		turnover							
+401126850	2	07:02	4:58	phi	76ers Full timeout	47 - 47	47	47	0	0			full timeout							76ers
+401126850	2	07:02	4:58	bkn	DeMarre Carroll enters the game for Spencer Dinwiddie	47 - 47	47	47	0	0	DeMarre Carroll	Spencer Dinwiddie	enters the game for							
+401126850	2	07:02	4:58	phi	Ben Simmons enters the game for Jimmy Butler	47 - 47	47	47	0	0	Ben Simmons	Jimmy Butler	enters the game for							
+401126850	2	07:02	4:58	phi	Jonah Bolden enters the game for Boban Marjanovic	47 - 47	47	47	0	0	Jonah Bolden	Boban Marjanovic	enters the game for							
+401126850	2	07:17	4:43	phi	Tobias Harris makes 21-foot pullup jump shot	49 - 47	49	47	2	0	Tobias Harris		makes	pullup jump shot	21					
+401126850	2	07:34	4:26	bkn	Jarrett Allen makes dunk (Jared Dudley assists)	49 - 49	49	49	0	2	Jarrett Allen		makes	dunk				Jared Dudley	assists	
+401126850	2	07:47	4:13	phi	Jonah Bolden misses step back jumpshot	49 - 49	49	49	0	0	Jonah Bolden		misses	step back jumpshot						
+401126850	2	07:52	4:08	bkn	DeMarre Carroll defensive rebound	49 - 49	49	49	0	0	DeMarre Carroll		defensive rebound							
+401126850	2	08:01	3:59	bkn	Jared Dudley makes 25-foot three point jumper (D'Angelo Russell assists)	49 - 52	49	52	0	3	Jared Dudley		makes	jumper	25		three	D'Angelo Russell	assists	
+401126850	2	08:29	3:31	phi	Mike Scott misses 16-foot jumper	49 - 52	49	52	0	0	Mike Scott		misses	jumper	16					
+401126850	2	08:32	3:28	phi	Jonah Bolden offensive rebound	49 - 52	49	52	0	0	Jonah Bolden		offensive rebound							
+401126850	2	08:32	3:28	bkn	Jared Dudley shooting foul	49 - 52	49	52	0	0	Jared Dudley		foul							
+401126850	2	08:32	3:28	phi	Jonah Bolden misses free throw 1 of 2	49 - 52	49	52	0	0	Jonah Bolden		misses	free throw		1-2				
+401126850	2	08:32	3:28	phi	76ers offensive team rebound	49 - 52	49	52	0	0			offensive rebound	team						76ers
+401126850	2	08:32	3:28	phi	JJ Redick enters the game for James Ennis III	49 - 52	49	52	0	0	JJ Redick	James Ennis III	enters the game for							
+401126850	2	08:32	3:28	bkn	Caris LeVert enters the game for D'Angelo Russell	49 - 52	49	52	0	0	Caris LeVert	D'Angelo Russell	enters the game for							
+401126850	2	08:32	3:28	phi	Jonah Bolden makes free throw 2 of 2	50 - 52	50	52	1	0	Jonah Bolden		makes	free throw		2-2				
+401126850	2	08:48	3:12	bkn	Joe Harris makes 2-foot layup (Jared Dudley assists)	50 - 54	50	54	0	2	Joe Harris		makes	layup	2			Jared Dudley	assists	
+401126850	2	09:01	2:59	phi	Mike Scott makes 22-foot three point jumper (Tobias Harris assists)	53 - 54	53	54	3	0	Mike Scott		makes	jumper	22		three	Tobias Harris	assists	
+401126850	2	09:19	2:41	bkn	Caris LeVert makes driving layup	53 - 56	53	56	0	2	Caris LeVert		makes	driving layup						
+401126850	2	09:19	2:41	phi	Jonah Bolden shooting foul	53 - 56	53	56	0	0	Jonah Bolden		foul							
+401126850	2	09:19	2:41	phi	Jimmy Butler enters the game for Tobias Harris	53 - 56	53	56	0	0	Jimmy Butler	Tobias Harris	enters the game for							
+401126850	2	09:19	2:41	bkn	Caris LeVert misses free throw 1 of 1	53 - 56	53	56	0	0	Caris LeVert		misses	free throw		1-1				
+401126850	2	09:22	2:38	phi	Ben Simmons defensive rebound	53 - 56	53	56	0	0	Ben Simmons		defensive rebound							
+401126850	2	09:36	2:24	phi	JJ Redick misses 25-foot three point jumper	53 - 56	53	56	0	0	JJ Redick		misses	jumper	25		three			
+401126850	2	09:36	2:24	phi	Mike Scott loose ball foul	53 - 56	53	56	0	0	Mike Scott		foul							
+401126850	2	09:36	2:24	bkn	Nets defensive team rebound	53 - 56	53	56	0	0			defensive rebound	team						nets
+401126850	2	09:51	2:09	phi	Tobias Harris enters the game for Mike Scott	53 - 56	53	56	0	0	Tobias Harris	Mike Scott	enters the game for							
+401126850	2	09:56	2:04	bkn	DeMarre Carroll misses 24-foot three point jumper	53 - 56	53	56	0	0	DeMarre Carroll		misses	jumper	24		three			
+401126850	2	10:01	1:59	phi	Jonah Bolden defensive rebound	53 - 56	53	56	0	0	Jonah Bolden		defensive rebound							
+401126850	2	10:08	1:52	phi	Jonah Bolden lost ball turnover (Caris LeVert steals)	53 - 56	53	56	0	0	Jonah Bolden		turnover					Caris LeVert	steals	
+401126850	2	10:16	1:44	bkn	Jared Dudley makes 25-foot three point jumper (Caris LeVert assists)	53 - 59	53	59	0	3	Jared Dudley		makes	jumper	25		three	Caris LeVert	assists	
+401126850	2	10:31	1:29	phi	JJ Redick offensive foul	53 - 59	53	59	0	0	JJ Redick		foul							
+401126850	2	10:31	1:29	phi	JJ Redick turnover	53 - 59	53	59	0	0	JJ Redick		turnover							
+401126850	2	10:31	1:29	phi	Greg Monroe enters the game for Jonah Bolden	53 - 59	53	59	0	0	Greg Monroe	Jonah Bolden	enters the game for							
+401126850	2	10:42	1:18	phi	Ben Simmons personal foul	53 - 59	53	59	0	0	Ben Simmons		foul							
+401126850	2	10:42	1:18	bkn	Jarrett Allen makes free throw 1 of 2	53 - 60	53	60	0	1	Jarrett Allen		makes	free throw		1-2				
+401126850	2	10:42	1:18	bkn	Jarrett Allen makes free throw 2 of 2	53 - 61	53	61	0	1	Jarrett Allen		makes	free throw		2-2				
+401126850	2	10:56	1:04	phi	Tobias Harris misses driving layup	53 - 61	53	61	0	0	Tobias Harris		misses	driving layup						
+401126850	2	10:58	1:02	bkn	Nets defensive team rebound	53 - 61	53	61	0	0			defensive rebound	team						nets
+401126850	2	11:11	48.9	bkn	Caris LeVert misses 27-foot three point jumper	53 - 61	53	61	0	0	Caris LeVert		misses	jumper	27		three			
+401126850	2	11:13	46.8	bkn	DeMarre Carroll offensive rebound	53 - 61	53	61	0	0	DeMarre Carroll		offensive rebound							
+401126850	2	11:18	41.4	bkn	Joe Harris makes layup (Jared Dudley assists)	53 - 63	53	63	0	2	Joe Harris		makes	layup				Jared Dudley	assists	
+401126850	2	11:31	29.0	phi	Ben Simmons makes driving layup	55 - 63	55	63	2	0	Ben Simmons		makes	driving layup						
+401126850	2	11:47	12.5	bkn	Caris LeVert bad pass (Jimmy Butler steals)	55 - 63	55	63	0	0	Caris LeVert		bad pass					Jimmy Butler	steals	
+401126850	2	11:55	4.9	bkn	Rondae Hollis-Jefferson enters the game for Joe Harris	55 - 63	55	63	0	0	Rondae Hollis-Jefferson	Joe Harris	enters the game for							
+401126850	2	11:55	4.9	phi	enters the game for Greg Monroe	55 - 63	55	63	0	0		Greg Monroe	enters the game for greg monroe							
+401126850	2	11:58	1.7	bkn	Jarrett Allen shooting foul	55 - 63	55	63	0	0	Jarrett Allen		foul							
+401126850	2	11:58	1.7	phi	Joel Embiid makes free throw 1 of 2	56 - 63	56	63	1	0	Joel Embiid		makes	free throw		1-2				
+401126850	2	11:58	1.7	bkn	Joe Harris enters the game for Rondae Hollis-Jefferson	56 - 63	56	63	0	0	Joe Harris	Rondae Hollis-Jefferson	enters the game for							
+401126850	2	11:58	1.7	phi	T.J. McConnell enters the game for JJ Redick	56 - 63	56	63	0	0	T.J. McConnell	JJ Redick	enters the game for							
+401126850	2	11:58	1.7	phi	James Ennis III enters the game for Ben Simmons	56 - 63	56	63	0	0	James Ennis III	Ben Simmons	enters the game for							
+401126850	2	11:58	1.7	phi	Joel Embiid makes free throw 2 of 2	57 - 63	57	63	1	0	Joel Embiid		makes	free throw		2-2				
+401126850	2	12:00	0.0	bkn	End of the 2nd Quarter	57 - 63	57	63	0	0			end of the 2nd quarter							
+401126850	3	00:00	12:00	bkn	D'Angelo Russell enters the game for DeMarre Carroll	57 - 63	57	63	0	0	D'Angelo Russell	DeMarre Carroll	enters the game for							
+401126850	3	00:00	12:00	phi	Ben Simmons enters the game for T.J. McConnell	57 - 63	57	63	0	0	Ben Simmons	T.J. McConnell	enters the game for							
+401126850	3	00:00	12:00	phi	JJ Redick enters the game for James Ennis III	57 - 63	57	63	0	0	JJ Redick	James Ennis III	enters the game for							
+401126850	3	00:21	11:39	phi	Tobias Harris misses 26-foot three point jumper	57 - 63	57	63	0	0	Tobias Harris		misses	jumper	26		three			
+401126850	3	00:24	11:36	bkn	Joe Harris defensive rebound	57 - 63	57	63	0	0	Joe Harris		defensive rebound							
+401126850	3	00:39	11:21	bkn	Jarrett Allen makes alley oop dunk shot (Caris LeVert assists)	57 - 65	57	65	0	2	Jarrett Allen		makes	alley oop dunk shot				Caris LeVert	assists	
+401126850	3	00:58	11:02	phi	Joel Embiid misses 22-foot jumper	57 - 65	57	65	0	0	Joel Embiid		misses	jumper	22					
+401126850	3	01:01	10:59	bkn	D'Angelo Russell defensive rebound	57 - 65	57	65	0	0	D'Angelo Russell		defensive rebound							
+401126850	3	01:02	10:58	bkn	Jared Dudley offensive foul	57 - 65	57	65	0	0	Jared Dudley		foul							
+401126850	3	01:02	10:58	bkn	Jared Dudley turnover	57 - 65	57	65	0	0	Jared Dudley		turnover							
+401126850	3	01:14	10:46	phi	JJ Redick misses 25-foot three point jumper	57 - 65	57	65	0	0	JJ Redick		misses	jumper	25		three			
+401126850	3	01:18	10:42	bkn	D'Angelo Russell defensive rebound	57 - 65	57	65	0	0	D'Angelo Russell		defensive rebound							
+401126850	3	01:25	10:35	bkn	Caris LeVert makes two point shot	57 - 67	57	67	0	2	Caris LeVert		makes	shot			two			
+401126850	3	01:42	10:18	phi	JJ Redick lost ball turnover (Joe Harris steals)	57 - 67	57	67	0	0	JJ Redick		turnover					Joe Harris	steals	
+401126850	3	01:45	10:15	bkn	Joe Harris misses two point shot	57 - 67	57	67	0	0	Joe Harris		misses	shot			two			
+401126850	3	01:46	10:14	bkn	Jimmy Butler vs. Caris LeVert (Jared Dudley gains possession)	57 - 67	57	67	0	0	Jimmy Butler	Caris LeVert	vs.					Jared Dudley	gains possession	
+401126850	3	01:46	10:14	bkn	Nets offensive team rebound	57 - 67	57	67	0	0			offensive rebound	team						nets
+401126850	3	01:52	10:08	bkn	Joe Harris misses 25-foot three point jumper	57 - 67	57	67	0	0	Joe Harris		misses	jumper	25		three			
+401126850	3	01:55	10:05	phi	Joel Embiid defensive rebound	57 - 67	57	67	0	0	Joel Embiid		defensive rebound							
+401126850	3	02:04	9:56	bkn	D'Angelo Russell personal foul	57 - 67	57	67	0	0	D'Angelo Russell		foul							
+401126850	3	02:17	9:43	phi	Jared Dudley blocks Joel Embiid 's 11-foot jumper	57 - 67	57	67	0	0	Jared Dudley	Joel Embiid	blocks	jumper	11					
+401126850	3	02:19	9:41	phi	shot clock turnover	57 - 67	57	67	0	0			turnover							
+401126850	3	02:19	9:41	phi	Joel Embiid offensive rebound	57 - 67	57	67	0	0	Joel Embiid		offensive rebound							
+401126850	3	02:30	9:30	bkn	D'Angelo Russell bad pass (Joel Embiid steals)	57 - 67	57	67	0	0	D'Angelo Russell		bad pass					Joel Embiid	steals	
+401126850	3	02:34	9:26	phi	Tobias Harris makes driving layup (Ben Simmons assists)	59 - 67	59	67	2	0	Tobias Harris		makes	driving layup				Ben Simmons	assists	
+401126850	3	02:51	9:09	phi	Tobias Harris shooting foul	59 - 67	59	67	0	0	Tobias Harris		foul							
+401126850	3	02:51	9:09	bkn	Caris LeVert misses free throw 1 of 2	59 - 67	59	67	0	0	Caris LeVert		misses	free throw		1-2				
+401126850	3	02:51	9:09	bkn	Nets offensive team rebound	59 - 67	59	67	0	0			offensive rebound	team						nets
+401126850	3	02:51	9:09	bkn	Caris LeVert misses free throw 2 of 2	59 - 67	59	67	0	0	Caris LeVert		misses	free throw		2-2				
+401126850	3	02:54	9:06	phi	Ben Simmons defensive rebound	59 - 67	59	67	0	0	Ben Simmons		defensive rebound							
+401126850	3	03:04	8:56	phi	Joel Embiid makes layup (Jimmy Butler assists)	61 - 67	61	67	2	0	Joel Embiid		makes	layup				Jimmy Butler	assists	
+401126850	3	03:26	8:34	bkn	Joel Embiid blocks Caris LeVert's driving layup	61 - 67	61	67	0	0	Joel Embiid	Caris LeVert	blocks	driving layup						
+401126850	3	03:30	8:30	phi	Joel Embiid defensive rebound	61 - 67	61	67	0	0	Joel Embiid		defensive rebound							
+401126850	3	03:36	8:24	phi	JJ Redick misses 13-foot step back jumpshot	61 - 67	61	67	0	0	JJ Redick		misses	step back jumpshot	13					
+401126850	3	03:40	8:20	bkn	Jarrett Allen defensive rebound	61 - 67	61	67	0	0	Jarrett Allen		defensive rebound							
+401126850	3	03:56	8:04	bkn	Caris LeVert bad pass (Tobias Harris steals)	61 - 67	61	67	0	0	Caris LeVert		bad pass					Tobias Harris	steals	
+401126850	3	04:09	7:51	phi	Joel Embiid misses 25-foot three point jumper	61 - 67	61	67	0	0	Joel Embiid		misses	jumper	25		three			
+401126850	3	04:12	7:48	bkn	Jarrett Allen defensive rebound	61 - 67	61	67	0	0	Jarrett Allen		defensive rebound							
+401126850	3	04:18	7:42	phi	Joel Embiid flagrant foul type 1	61 - 67	61	67	0	0	Joel Embiid		foul	type 1						
+401126850	3	04:18	7:42	bkn	Double technical foul: Jared Dudley and Jimmy Butler	61 - 67	61	67	0	0		Jimmy Butler	foul	: jared dudley and jimmy butler						
+401126850	3	04:18	7:42	phi	Jimmy Butler ejected	61 - 67	61	67	0	0	Jimmy Butler		ejected							
+401126850	3	04:18	7:42	bkn	Jared Dudley ejected	61 - 67	61	67	0	0	Jared Dudley		ejected							
+401126850	3	04:18	7:42	bkn	Treveon Graham enters the game for Jared Dudley	61 - 67	61	67	0	0	Treveon Graham	Jared Dudley	enters the game for							
+401126850	3	04:18	7:42	phi	James Ennis III enters the game for Jimmy Butler	61 - 67	61	67	0	0	James Ennis III	Jimmy Butler	enters the game for							
+401126850	3	04:18	7:42	bkn	Jarrett Allen makes free throw flagrant 1 of 2	61 - 68	61	68	0	1	Jarrett Allen		makes	free throw flagrant 1 of 2						
+401126850	3	04:18	7:42	bkn	Jarrett Allen makes free throw flagrant 2 of 2	61 - 69	61	69	0	1	Jarrett Allen		makes	free throw flagrant 2 of 2						
+401126850	3	04:30	7:30	bkn	Joel Embiid blocks Joe Harris's driving layup	61 - 69	61	69	0	0	Joel Embiid	Joe Harris	blocks	driving layup						
+401126850	3	04:34	7:26	phi	James Ennis III defensive rebound	61 - 69	61	69	0	0	James Ennis III		defensive rebound							
+401126850	3	04:39	7:21	phi	Joel Embiid makes 6-foot driving floating jump shot (Tobias Harris assists)	63 - 69	63	69	2	0	Joel Embiid		makes	driving floating jump shot	6			Tobias Harris	assists	
+401126850	3	04:48	7:12	bkn	Treveon Graham offensive foul	63 - 69	63	69	0	0	Treveon Graham		foul							
+401126850	3	04:48	7:12	bkn	Treveon Graham turnover	63 - 69	63	69	0	0	Treveon Graham		turnover							
+401126850	3	04:59	7:01	phi	Ben Simmons makes layup (Joel Embiid assists)	65 - 69	65	69	2	0	Ben Simmons		makes	layup				Joel Embiid	assists	
+401126850	3	05:16	6:44	bkn	D'Angelo Russell makes 25-foot three pointer	65 - 72	65	72	0	3	D'Angelo Russell		makes	er	25		three			
+401126850	3	05:25	6:35	phi	Ben Simmons makes driving dunk	67 - 72	67	72	2	0	Ben Simmons		makes	driving dunk						
+401126850	3	05:32	6:28	phi	Ben Simmons shooting foul	67 - 72	67	72	0	0	Ben Simmons		foul							
+401126850	3	05:32	6:28	bkn	Spencer Dinwiddie enters the game for Caris LeVert	67 - 72	67	72	0	0	Spencer Dinwiddie	Caris LeVert	enters the game for							
+401126850	3	05:32	6:28	bkn	Nets Full timeout	67 - 72	67	72	0	0			full timeout							nets
+401126850	3	05:32	6:28	phi	Mike Scott enters the game for JJ Redick	67 - 72	67	72	0	0	Mike Scott	JJ Redick	enters the game for							
+401126850	3	05:32	6:28	bkn	D'Angelo Russell makes free throw 1 of 3	67 - 73	67	73	0	1	D'Angelo Russell		makes	free throw		1-3				
+401126850	3	05:32	6:28	bkn	D'Angelo Russell makes free throw 2 of 3	67 - 74	67	74	0	1	D'Angelo Russell		makes	free throw		2-3				
+401126850	3	05:32	6:28	bkn	D'Angelo Russell makes free throw 3 of 3	67 - 75	67	75	0	1	D'Angelo Russell		makes	free throw		3-3				
+401126850	3	05:41	6:19	phi	Ben Simmons makes layup (Joel Embiid assists)	69 - 75	69	75	2	0	Ben Simmons		makes	layup				Joel Embiid	assists	
+401126850	3	05:41	6:19	bkn	Joe Harris defensive goaltending violation	69 - 75	69	75	0	0	Joe Harris		defensive goaltending violation							
+401126850	3	05:41	6:19	bkn	D'Angelo Russell shooting foul	69 - 75	69	75	0	0	D'Angelo Russell		foul							
+401126850	3	05:41	6:19	phi	Ben Simmons makes free throw 1 of 1	70 - 75	70	75	1	0	Ben Simmons		makes	free throw		1-1				
+401126850	3	06:04	5:56	bkn	Joe Harris misses 3-foot two point shot	70 - 75	70	75	0	0	Joe Harris		misses	shot	3		two			
+401126850	3	06:06	5:54	bkn	Jarrett Allen offensive rebound	70 - 75	70	75	0	0	Jarrett Allen		offensive rebound							
+401126850	3	06:10	5:50	bkn	Spencer Dinwiddie makes 25-foot three point jumper (Jarrett Allen assists)	70 - 78	70	78	0	3	Spencer Dinwiddie		makes	jumper	25		three	Jarrett Allen	assists	
+401126850	3	06:23	5:37	phi	James Ennis III bad pass (D'Angelo Russell steals)	70 - 78	70	78	0	0	James Ennis III		bad pass					D'Angelo Russell	steals	
+401126850	3	06:29	5:31	bkn	D'Angelo Russell misses 26-foot three point pullup jump shot	70 - 78	70	78	0	0	D'Angelo Russell		misses	pullup jump shot	26		three			
+401126850	3	06:32	5:28	phi	Joel Embiid defensive rebound	70 - 78	70	78	0	0	Joel Embiid		defensive rebound							
+401126850	3	06:42	5:18	bkn	Jarrett Allen shooting foul	70 - 78	70	78	0	0	Jarrett Allen		foul							
+401126850	3	06:42	5:18	phi	Joel Embiid makes free throw 1 of 2	71 - 78	71	78	1	0	Joel Embiid		makes	free throw		1-2				
+401126850	3	06:42	5:18	bkn	Caris LeVert enters the game for D'Angelo Russell	71 - 78	71	78	0	0	Caris LeVert	D'Angelo Russell	enters the game for							
+401126850	3	06:42	5:18	phi	Joel Embiid makes free throw 2 of 2	72 - 78	72	78	1	0	Joel Embiid		makes	free throw		2-2				
+401126850	3	06:52	5:08	bkn	Joe Harris misses 25-foot three point jumper	72 - 78	72	78	0	0	Joe Harris		misses	jumper	25		three			
+401126850	3	06:55	5:05	phi	Joel Embiid defensive rebound	72 - 78	72	78	0	0	Joel Embiid		defensive rebound							
+401126850	3	07:06	4:54	phi	Tobias Harris misses 26-foot three point jumper	72 - 78	72	78	0	0	Tobias Harris		misses	jumper	26		three			
+401126850	3	07:09	4:51	phi	Mike Scott offensive rebound	72 - 78	72	78	0	0	Mike Scott		offensive rebound							
+401126850	3	07:13	4:47	phi	Mike Scott makes layup	74 - 78	74	78	2	0	Mike Scott		makes	layup						
+401126850	3	07:20	4:40	bkn	Spencer Dinwiddie makes two point shot (Caris LeVert assists)	74 - 80	74	80	0	2	Spencer Dinwiddie		makes	shot			two	Caris LeVert	assists	
+401126850	3	07:50	4:10	phi	shot clock turnover	74 - 80	74	80	0	0			turnover							
+401126850	3	07:50	4:10	bkn	DeMarre Carroll enters the game for Joe Harris	74 - 80	74	80	0	0	DeMarre Carroll	Joe Harris	enters the game for							
+401126850	3	07:50	4:10	bkn	Rondae Hollis-Jefferson enters the game for Jarrett Allen	74 - 80	74	80	0	0	Rondae Hollis-Jefferson	Jarrett Allen	enters the game for							
+401126850	3	07:50	4:10	phi	Boban Marjanovic enters the game for Joel Embiid	74 - 80	74	80	0	0	Boban Marjanovic	Joel Embiid	enters the game for							
+401126850	3	08:01	3:59	bkn	Spencer Dinwiddie makes 7-foot pullup jump shot (Rondae Hollis-Jefferson assists)	74 - 82	74	82	0	2	Spencer Dinwiddie		makes	pullup jump shot	7			Rondae Hollis-Jefferson	assists	
+401126850	3	08:03	3:57	phi	76ers Full timeout	74 - 82	74	82	0	0			full timeout							76ers
+401126850	3	08:17	3:43	phi	Tobias Harris makes pullup jump shot	76 - 82	76	82	2	0	Tobias Harris		makes	pullup jump shot						
+401126850	3	08:33	3:27	bkn	Treveon Graham misses 26-foot three point jumper	76 - 82	76	82	0	0	Treveon Graham		misses	jumper	26		three			
+401126850	3	08:37	3:23	phi	Mike Scott defensive rebound	76 - 82	76	82	0	0	Mike Scott		defensive rebound							
+401126850	3	08:49	3:11	phi	Tobias Harris makes 6-foot two point shot	78 - 82	78	82	2	0	Tobias Harris		makes	shot	6		two			
+401126850	3	08:49	3:11	bkn	Rondae Hollis-Jefferson shooting foul	76 - 82	78	82	0	0	Rondae Hollis-Jefferson		foul							
+401126850	3	08:49	3:11	phi	Tobias Harris misses free throw 1 of 1	76 - 82	76	82	0	0	Tobias Harris		misses	free throw		1-1				
+401126850	3	08:49	3:11	phi	76ers offensive team rebound	76 - 82	76	82	0	0			offensive rebound	team						76ers
+401126850	3	08:49	3:11	bkn	Rondae Hollis-Jefferson loose ball foul	76 - 82	76	82	0	0	Rondae Hollis-Jefferson		foul							
+401126850	3	08:49	3:11	phi	Boban Marjanovic misses free throw 1 of 2	76 - 82	76	82	0	0	Boban Marjanovic		misses	free throw		1-2				
+401126850	3	08:49	3:11	phi	76ers offensive team rebound	76 - 82	76	82	0	0			offensive rebound	team						76ers
+401126850	3	08:49	3:11	phi	JJ Redick enters the game for James Ennis III	78 - 82	78	82	0	0	JJ Redick	James Ennis III	enters the game for							
+401126850	3	08:49	3:11	phi	Boban Marjanovic makes free throw 2 of 2	79 - 82	79	82	1	0	Boban Marjanovic		makes	free throw		2-2				
+401126850	3	09:07	2:53	bkn	Treveon Graham misses 25-foot three point jumper	79 - 82	79	82	0	0	Treveon Graham		misses	jumper	25		three			
+401126850	3	09:11	2:49	phi	Ben Simmons defensive rebound	79 - 82	79	82	0	0	Ben Simmons		defensive rebound							
+401126850	3	09:16	2:44	phi	Ben Simmons misses 6-foot two point shot	79 - 82	79	82	0	0	Ben Simmons		misses	shot	6		two			
+401126850	3	09:19	2:41	bkn	Treveon Graham defensive rebound	79 - 82	79	82	0	0	Treveon Graham		defensive rebound							
+401126850	3	09:23	2:37	bkn	Spencer Dinwiddie makes 26-foot three pointer	79 - 85	79	85	0	3	Spencer Dinwiddie		makes	er	26		three			
+401126850	3	09:37	2:23	phi	JJ Redick misses 16-foot pullup jump shot	79 - 85	79	85	0	0	JJ Redick		misses	pullup jump shot	16					
+401126850	3	09:41	2:19	bkn	Rondae Hollis-Jefferson defensive rebound	79 - 85	79	85	0	0	Rondae Hollis-Jefferson		defensive rebound							
+401126850	3	09:47	2:13	bkn	Spencer Dinwiddie misses 25-foot three point jumper	79 - 85	79	85	0	0	Spencer Dinwiddie		misses	jumper	25		three			
+401126850	3	09:50	2:10	phi	Mike Scott defensive rebound	79 - 85	79	85	0	0	Mike Scott		defensive rebound							
+401126850	3	09:56	2:04	phi	Boban Marjanovic offensive foul	79 - 85	79	85	0	0	Boban Marjanovic		foul							
+401126850	3	09:56	2:04	phi	Boban Marjanovic turnover	79 - 85	79	85	0	0	Boban Marjanovic		turnover							
+401126850	3	09:56	2:04	phi	Joel Embiid enters the game for Ben Simmons	79 - 85	79	85	0	0	Joel Embiid	Ben Simmons	enters the game for							
+401126850	3	09:56	2:04	phi	James Ennis III enters the game for Tobias Harris	79 - 85	79	85	0	0	James Ennis III	Tobias Harris	enters the game for							
+401126850	3	09:56	2:04	phi	T.J. McConnell enters the game for Boban Marjanovic	79 - 85	79	85	0	0	T.J. McConnell	Boban Marjanovic	enters the game for							
+401126850	3	10:07	1:53	phi	James Ennis III shooting foul	79 - 85	79	85	0	0	James Ennis III		foul							
+401126850	3	10:07	1:53	bkn	Caris LeVert makes free throw 1 of 2	79 - 86	79	86	0	1	Caris LeVert		makes	free throw		1-2				
+401126850	3	10:07	1:53	bkn	Caris LeVert misses free throw 2 of 2	79 - 86	79	86	0	0	Caris LeVert		misses	free throw		2-2				
+401126850	3	10:09	1:51	phi	Joel Embiid defensive rebound	79 - 86	79	86	0	0	Joel Embiid		defensive rebound							
+401126850	3	10:28	1:32	phi	JJ Redick misses 25-foot three point jumper	79 - 86	79	86	0	0	JJ Redick		misses	jumper	25		three			
+401126850	3	10:35	1:25	phi	James Ennis III offensive rebound	79 - 86	79	86	0	0	James Ennis III		offensive rebound							
+401126850	3	10:35	1:25	phi	James Ennis III makes tip shot	81 - 86	81	86	2	0	James Ennis III		makes	tip shot						
+401126850	3	10:47	1:13	bkn	Caris LeVert makes driving layup	81 - 88	81	88	0	2	Caris LeVert		makes	driving layup						
+401126850	3	11:03	56.6	bkn	Rondae Hollis-Jefferson personal foul	81 - 88	81	88	0	0	Rondae Hollis-Jefferson		foul							
+401126850	3	11:03	56.6	phi	Joel Embiid makes free throw 1 of 2	82 - 88	82	88	1	0	Joel Embiid		makes	free throw		1-2				
+401126850	3	11:03	56.6	phi	Joel Embiid makes free throw 2 of 2	83 - 88	83	88	1	0	Joel Embiid		makes	free throw		2-2				
+401126850	3	11:21	38.4	bkn	Caris LeVert makes 25-foot step back jumpshot	83 - 91	83	91	0	3	Caris LeVert		makes	step back jumpshot	25					
+401126850	3	11:38	22.0	phi	T.J. McConnell makes 19-foot pullup jump shot	85 - 91	85	91	2	0	T.J. McConnell		makes	pullup jump shot	19					
+401126850	3	11:57	2.1	bkn	DeMarre Carroll misses three point pullup jump shot	85 - 91	85	91	0	0	DeMarre Carroll		misses	pullup jump shot			three			
+401126850	3	11:57	2.1	bkn	Nets offensive team rebound	85 - 91	85	91	0	0			offensive rebound	team						nets
+401126850	3	12:00	0.0	bkn	End of the 3rd Quarter	85 - 91	85	91	0	0			end of the 3rd quarter							
+401126850	4	00:00	12:00	bkn	D'Angelo Russell enters the game for Treveon Graham	85 - 91	85	91	0	0	D'Angelo Russell	Treveon Graham	enters the game for							
+401126850	4	00:00	12:00	phi	Tobias Harris enters the game for Mike Scott	85 - 91	85	91	0	0	Tobias Harris	Mike Scott	enters the game for							
+401126850	4	00:00	12:00	phi	Ben Simmons enters the game for T.J. McConnell	85 - 91	85	91	0	0	Ben Simmons	T.J. McConnell	enters the game for							
+401126850	4	00:17	11:43	bkn	Caris LeVert misses 25-foot step back jumpshot	85 - 91	85	91	0	0	Caris LeVert		misses	step back jumpshot	25					
+401126850	4	00:21	11:39	bkn	Rondae Hollis-Jefferson offensive rebound	85 - 91	85	91	0	0	Rondae Hollis-Jefferson		offensive rebound							
+401126850	4	00:22	11:38	bkn	Rondae Hollis-Jefferson out of bounds bad pass turnover	85 - 91	85	91	0	0	Rondae Hollis-Jefferson		turnover							
+401126850	4	00:38	11:22	phi	Ben Simmons makes 2-foot two point shot (Joel Embiid assists)	87 - 91	87	91	2	0	Ben Simmons		makes	shot	2		two	Joel Embiid	assists	
+401126850	4	00:49	11:11	bkn	Joel Embiid blocks D'Angelo Russell's driving layup	87 - 91	87	91	0	0	Joel Embiid	D'Angelo Russell	blocks	driving layup						
+401126850	4	00:52	11:08	phi	Joel Embiid defensive rebound	87 - 91	87	91	0	0	Joel Embiid		defensive rebound							
+401126850	4	00:57	11:03	phi	James Ennis III makes 2-foot layup (Ben Simmons assists)	89 - 91	89	91	2	0	James Ennis III		makes	layup	2			Ben Simmons	assists	
+401126850	4	01:03	10:57	phi	Joel Embiid shooting foul	89 - 91	89	91	0	0	Joel Embiid		foul							
+401126850	4	01:03	10:57	bkn	Rondae Hollis-Jefferson makes free throw 1 of 2	89 - 92	89	92	0	1	Rondae Hollis-Jefferson		makes	free throw		1-2				
+401126850	4	01:03	10:57	bkn	Rondae Hollis-Jefferson makes free throw 2 of 2	89 - 93	89	93	0	1	Rondae Hollis-Jefferson		makes	free throw		2-2				
+401126850	4	01:17	10:43	phi	Joel Embiid makes 1-foot dunk (Ben Simmons assists)	91 - 93	91	93	2	0	Joel Embiid		makes	dunk	1			Ben Simmons	assists	
+401126850	4	01:36	10:24	phi	JJ Redick shooting foul	91 - 93	91	93	0	0	JJ Redick		foul							
+401126850	4	01:36	10:24	bkn	Rondae Hollis-Jefferson makes free throw 1 of 2	91 - 94	91	94	0	1	Rondae Hollis-Jefferson		makes	free throw		1-2				
+401126850	4	01:36	10:24	bkn	Rondae Hollis-Jefferson misses free throw 2 of 2	91 - 94	91	94	0	0	Rondae Hollis-Jefferson		misses	free throw		2-2				
+401126850	4	01:40	10:20	phi	Tobias Harris defensive rebound	91 - 94	91	94	0	0	Tobias Harris		defensive rebound							
+401126850	4	01:53	10:07	phi	Rondae Hollis-Jefferson blocks Joel Embiid 's 2-foot layup	91 - 94	91	94	0	0	Rondae Hollis-Jefferson	Joel Embiid	blocks	layup	2					
+401126850	4	02:00	10:00	phi	Joel Embiid offensive rebound	91 - 94	91	94	0	0	Joel Embiid		offensive rebound							
+401126850	4	02:00	10:00	phi	Rondae Hollis-Jefferson blocks Joel Embiid's tip shot	91 - 94	91	94	0	0	Rondae Hollis-Jefferson	Joel Embiid	blocks	tip shot						
+401126850	4	02:00	10:00	bkn	DeMarre Carroll defensive rebound	91 - 94	91	94	0	0	DeMarre Carroll		defensive rebound							
+401126850	4	02:05	9:55	bkn	DeMarre Carroll misses driving layup	91 - 94	91	94	0	0	DeMarre Carroll		misses	driving layup						
+401126850	4	02:07	9:53	phi	Tobias Harris defensive rebound	91 - 94	91	94	0	0	Tobias Harris		defensive rebound							
+401126850	4	02:12	9:48	phi	James Ennis III misses 23-foot three point jumper	91 - 94	91	94	0	0	James Ennis III		misses	jumper	23		three			
+401126850	4	02:17	9:43	bkn	Caris LeVert defensive rebound	91 - 94	91	94	0	0	Caris LeVert		defensive rebound							
+401126850	4	02:18	9:42	phi	James Ennis III personal foul	91 - 94	91	94	0	0	James Ennis III		foul							
+401126850	4	02:24	9:36	bkn	JJ Redick blocks DeMarre Carroll 's 6-foot driving layup	91 - 94	91	94	0	0	JJ Redick	DeMarre Carroll	blocks	driving layup	6					
+401126850	4	02:27	9:33	phi	Joel Embiid defensive rebound	91 - 94	91	94	0	0	Joel Embiid		defensive rebound							
+401126850	4	02:49	9:11	phi	Joel Embiid misses 16-foot two point shot	91 - 94	91	94	0	0	Joel Embiid		misses	shot	16		two			
+401126850	4	02:52	9:08	bkn	Spencer Dinwiddie defensive rebound	91 - 94	91	94	0	0	Spencer Dinwiddie		defensive rebound							
+401126850	4	03:04	8:56	bkn	D'Angelo Russell misses two point shot	91 - 94	91	94	0	0	D'Angelo Russell		misses	shot			two			
+401126850	4	03:06	8:54	phi	JJ Redick defensive rebound	91 - 94	91	94	0	0	JJ Redick		defensive rebound							
+401126850	4	03:10	8:50	bkn	DeMarre Carroll personal foul	91 - 94	91	94	0	0	DeMarre Carroll		foul							
+401126850	4	03:10	8:50	phi	76ers Full timeout	91 - 94	91	94	0	0			full timeout							76ers
+401126850	4	03:10	8:50	bkn	Joe Harris enters the game for DeMarre Carroll	91 - 94	91	94	0	0	Joe Harris	DeMarre Carroll	enters the game for							
+401126850	4	03:10	8:50	bkn	Jarrett Allen enters the game for Rondae Hollis-Jefferson	91 - 94	91	94	0	0	Jarrett Allen	Rondae Hollis-Jefferson	enters the game for							
+401126850	4	03:25	8:35	phi	Joel Embiid makes driving layup	93 - 94	93	94	2	0	Joel Embiid		makes	driving layup						
+401126850	4	03:41	8:19	phi	James Ennis III personal foul	93 - 94	93	94	0	0	James Ennis III		foul							
+401126850	4	03:41	8:19	phi	Mike Scott enters the game for James Ennis III	93 - 94	93	94	0	0	Mike Scott	James Ennis III	enters the game for							
+401126850	4	03:49	8:11	bkn	Jarrett Allen makes 2-foot alley oop dunk shot (Caris LeVert assists)	93 - 96	93	96	0	2	Jarrett Allen		makes	alley oop dunk shot	2			Caris LeVert	assists	
+401126850	4	04:13	7:47	phi	Joel Embiid out of bounds lost ball turnover	93 - 96	93	96	0	0	Joel Embiid		turnover							
+401126850	4	04:23	7:37	bkn	Caris LeVert misses 25-foot three point jumper	93 - 96	93	96	0	0	Caris LeVert		misses	jumper	25		three			
+401126850	4	04:27	7:33	phi	Mike Scott defensive rebound	93 - 96	93	96	0	0	Mike Scott		defensive rebound							
+401126850	4	04:36	7:24	phi	JJ Redick misses 23-foot three point jumper	93 - 96	93	96	0	0	JJ Redick		misses	jumper	23		three			
+401126850	4	04:40	7:20	bkn	D'Angelo Russell defensive rebound	93 - 96	93	96	0	0	D'Angelo Russell		defensive rebound							
+401126850	4	04:43	7:17	bkn	D'Angelo Russell makes 25-foot three point jumper	93 - 99	93	99	0	3	D'Angelo Russell		makes	jumper	25		three			
+401126850	4	04:54	7:06	bkn	Spencer Dinwiddie personal foul	93 - 99	93	99	0	0	Spencer Dinwiddie		foul							
+401126850	4	04:54	7:06	phi	Boban Marjanovic enters the game for Joel Embiid	93 - 99	93	99	0	0	Boban Marjanovic	Joel Embiid	enters the game for							
+401126850	4	05:04	6:56	phi	Ben Simmons out of bounds bad pass turnover	93 - 99	93	99	0	0	Ben Simmons		turnover							
+401126850	4	05:17	6:43	bkn	Joe Harris misses 25-foot three point jumper	93 - 99	93	99	0	0	Joe Harris		misses	jumper	25		three			
+401126850	4	05:21	6:39	phi	Tobias Harris defensive rebound	93 - 99	93	99	0	0	Tobias Harris		defensive rebound							
+401126850	4	05:26	6:34	phi	Ben Simmons misses driving layup	93 - 99	93	99	0	0	Ben Simmons		misses	driving layup						
+401126850	4	05:27	6:33	phi	Boban Marjanovic offensive rebound	93 - 99	93	99	0	0	Boban Marjanovic		offensive rebound							
+401126850	4	05:27	6:33	bkn	Spencer Dinwiddie shooting foul	93 - 99	93	99	0	0	Spencer Dinwiddie		foul							
+401126850	4	05:27	6:33	phi	Boban Marjanovic makes free throw 1 of 2	94 - 99	94	99	1	0	Boban Marjanovic		makes	free throw		1-2				
+401126850	4	05:27	6:33	phi	Boban Marjanovic misses free throw 2 of 2	94 - 99	94	99	0	0	Boban Marjanovic		misses	free throw		2-2				
+401126850	4	05:29	6:31	bkn	Jarrett Allen defensive rebound	94 - 99	94	99	0	0	Jarrett Allen		defensive rebound							
+401126850	4	05:39	6:21	bkn	D'Angelo Russell misses 26-foot three point jumper	94 - 99	94	99	0	0	D'Angelo Russell		misses	jumper	26		three			
+401126850	4	05:42	6:18	phi	Boban Marjanovic defensive rebound	94 - 99	94	99	0	0	Boban Marjanovic		defensive rebound							
+401126850	4	05:49	6:11	phi	Tobias Harris misses 15-foot pullup jump shot	94 - 99	94	99	0	0	Tobias Harris		misses	pullup jump shot	15					
+401126850	4	05:49	6:11	phi	76ers offensive team rebound	94 - 99	94	99	0	0			offensive rebound	team						76ers
+401126850	4	05:49	6:11	bkn	Jarrett Allen loose ball foul	94 - 99	94	99	0	0	Jarrett Allen		foul							
+401126850	4	05:54	6:06	phi	Tobias Harris misses 25-foot three point jumper	94 - 99	94	99	0	0	Tobias Harris		misses	jumper	25		three			
+401126850	4	05:58	6:02	bkn	Spencer Dinwiddie defensive rebound	94 - 99	94	99	0	0	Spencer Dinwiddie		defensive rebound							
+401126850	4	06:01	5:59	phi	Boban Marjanovic shooting foul	94 - 99	94	99	0	0	Boban Marjanovic		foul							
+401126850	4	06:01	5:59	bkn	Spencer Dinwiddie misses free throw 1 of 2	94 - 99	94	99	0	0	Spencer Dinwiddie		misses	free throw		1-2				
+401126850	4	06:01	5:59	bkn	Nets offensive team rebound	94 - 99	94	99	0	0			offensive rebound	team						nets
+401126850	4	06:01	5:59	bkn	Spencer Dinwiddie makes free throw 2 of 2	94 - 100	94	100	0	1	Spencer Dinwiddie		makes	free throw		2-2				
+401126850	4	06:08	5:52	phi	JJ Redick offensive foul	94 - 100	94	100	0	0	JJ Redick		foul							
+401126850	4	06:08	5:52	phi	JJ Redick turnover	94 - 100	94	100	0	0	JJ Redick		turnover							
+401126850	4	06:08	5:52	bkn	Nets Full timeout	94 - 100	94	100	0	0			full timeout							nets
+401126850	4	06:08	5:52	phi	Joel Embiid enters the game for	94 - 100	94	100	0	0	Joel Embiid		enters the game for							
+401126850	4	06:08	5:52	phi	enters the game for Boban Marjanovic	94 - 100	94	100	0	0		Boban Marjanovic	enters the game for boban marjanovic							
+401126850	4	06:23	5:37	bkn	Joe Harris misses 25-foot three point jumper	94 - 100	94	100	0	0	Joe Harris		misses	jumper	25		three			
+401126850	4	06:27	5:33	phi	Tobias Harris defensive rebound	94 - 100	94	100	0	0	Tobias Harris		defensive rebound							
+401126850	4	06:36	5:24	phi	Ben Simmons misses alley oop layup	94 - 100	94	100	0	0	Ben Simmons		misses	alley oop layup						
+401126850	4	06:40	5:20	phi	Ben Simmons offensive rebound	94 - 100	94	100	0	0	Ben Simmons		offensive rebound							
+401126850	4	06:40	5:20	phi	Ben Simmons misses tip shot	94 - 100	94	100	0	0	Ben Simmons		misses	tip shot						
+401126850	4	06:40	5:20	bkn	Caris LeVert defensive rebound	94 - 100	94	100	0	0	Caris LeVert		defensive rebound							
+401126850	4	06:40	5:20	phi	Ben Simmons personal take foul	94 - 100	94	100	0	0	Ben Simmons		foul							
+401126850	4	06:40	5:20	bkn	Caris LeVert makes free throw 1 of 2	94 - 101	94	101	0	1	Caris LeVert		makes	free throw		1-2				
+401126850	4	06:40	5:20	bkn	Caris LeVert misses free throw 2 of 2	94 - 101	94	101	0	0	Caris LeVert		misses	free throw		2-2				
+401126850	4	06:40	5:20	phi	Tobias Harris defensive rebound	94 - 101	94	101	0	0	Tobias Harris		defensive rebound							
+401126850	4	06:56	5:04	phi	Joel Embiid makes 2-foot layup (Tobias Harris assists)	96 - 101	96	101	2	0	Joel Embiid		makes	layup	2			Tobias Harris	assists	
+401126850	4	07:14	4:46	bkn	Jarrett Allen misses alley oop dunk shot	96 - 101	96	101	0	0	Jarrett Allen		misses	alley oop dunk shot						
+401126850	4	07:16	4:44	bkn	Spencer Dinwiddie offensive rebound	96 - 101	96	101	0	0	Spencer Dinwiddie		offensive rebound							
+401126850	4	07:23	4:37	bkn	Spencer Dinwiddie misses 14-foot two point shot	96 - 101	96	101	0	0	Spencer Dinwiddie		misses	shot	14		two			
+401126850	4	07:26	4:34	phi	Joel Embiid defensive rebound	96 - 101	96	101	0	0	Joel Embiid		defensive rebound							
+401126850	4	07:38	4:22	phi	Joel Embiid makes layup	98 - 101	98	101	2	0	Joel Embiid		makes	layup						
+401126850	4	07:38	4:22	bkn	Nets Full timeout	98 - 101	98	101	0	0			full timeout							nets
+401126850	4	07:49	4:11	bkn	Joe Harris offensive foul	98 - 101	98	101	0	0	Joe Harris		foul							
+401126850	4	07:49	4:11	bkn	Joe Harris turnover	98 - 101	98	101	0	0	Joe Harris		turnover							
+401126850	4	08:03	3:57	phi	JJ Redick misses 27-foot three point pullup jump shot	98 - 101	98	101	0	0	JJ Redick		misses	pullup jump shot	27		three			
+401126850	4	08:10	3:50	bkn	Caris LeVert defensive rebound	98 - 101	98	101	0	0	Caris LeVert		defensive rebound							
+401126850	4	08:22	3:38	bkn	Caris LeVert misses 11-foot pullup jump shot	98 - 101	98	101	0	0	Caris LeVert		misses	pullup jump shot	11					
+401126850	4	08:26	3:34	phi	Ben Simmons defensive rebound	98 - 101	98	101	0	0	Ben Simmons		defensive rebound							
+401126850	4	08:32	3:28	phi	Joel Embiid makes dunk (Ben Simmons assists)	100 - 101	100	101	2	0	Joel Embiid		makes	dunk				Ben Simmons	assists	
+401126850	4	08:52	3:08	bkn	D'Angelo Russell out of bounds lost ball turnover	100 - 101	100	101	0	0	D'Angelo Russell		turnover							
+401126850	4	08:52	3:08	phi	76ers Full timeout	100 - 101	100	101	0	0			full timeout							76ers
+401126850	4	09:06	2:54	phi	Joel Embiid makes driving layup (Tobias Harris assists)	102 - 101	102	101	2	0	Joel Embiid		makes	driving layup				Tobias Harris	assists	
+401126850	4	09:21	2:39	bkn	Spencer Dinwiddie makes driving layup (Jarrett Allen assists)	102 - 103	102	103	0	2	Spencer Dinwiddie		makes	driving layup				Jarrett Allen	assists	
+401126850	4	09:40	2:20	phi	Tobias Harris makes 2-foot layup (Joel Embiid assists)	104 - 103	104	103	2	0	Tobias Harris		makes	layup	2			Joel Embiid	assists	
+401126850	4	09:51	2:09	bkn	Jarrett Allen out of bounds bad pass turnover	104 - 103	104	103	0	0	Jarrett Allen		turnover							
+401126850	4	10:08	1:52	phi	Joel Embiid bad pass (Joe Harris steals)	104 - 103	104	103	0	0	Joel Embiid		bad pass					Joe Harris	steals	
+401126850	4	10:30	1:30	bkn	Spencer Dinwiddie misses driving layup	104 - 103	104	103	0	0	Spencer Dinwiddie		misses	driving layup						
+401126850	4	10:32	1:28	bkn	Jarrett Allen offensive rebound	104 - 103	104	103	0	0	Jarrett Allen		offensive rebound							
+401126850	4	10:34	1:26	bkn	D'Angelo Russell makes 26-foot three pointer (Jarrett Allen assists)	104 - 106	104	106	0	3	D'Angelo Russell		makes	er	26		three	Jarrett Allen	assists	
+401126850	4	10:55	1:05	phi	Joel Embiid misses layup	104 - 106	104	106	0	0	Joel Embiid		misses	layup						
+401126850	4	10:58	1:02	phi	Joel Embiid offensive rebound	104 - 106	104	106	0	0	Joel Embiid		offensive rebound							
+401126850	4	10:58	1:02	phi	Joel Embiid misses tip shot	104 - 106	104	106	0	0	Joel Embiid		misses	tip shot						
+401126850	4	10:58	1:02	phi	Joel Embiid offensive rebound	104 - 106	104	106	0	0	Joel Embiid		offensive rebound							
+401126850	4	10:58	1:02	phi	Joel Embiid misses tip shot	104 - 106	104	106	0	0	Joel Embiid		misses	tip shot						
+401126850	4	10:58	1:02	phi	76ers offensive team rebound	104 - 106	104	106	0	0			offensive rebound	team						76ers
+401126850	4	11:06	53.8	phi	Ben Simmons misses driving floating jump shot	104 - 106	104	106	0	0	Ben Simmons		misses	driving floating jump shot						
+401126850	4	11:08	51.6	phi	Ben Simmons offensive rebound	104 - 106	104	106	0	0	Ben Simmons		offensive rebound							
+401126850	4	11:10	50.0	phi	JJ Redick makes 26-foot three point jumper (Ben Simmons assists)	107 - 106	107	106	3	0	JJ Redick		makes	jumper	26		three	Ben Simmons	assists	
+401126850	4	11:10	50.0	bkn	Nets Full timeout	107 - 106	107	106	0	0			full timeout							nets
+401126850	4	11:10	49.5	bkn	Spencer Dinwiddie out of bounds bad pass turnover	107 - 106	107	106	0	0	Spencer Dinwiddie		turnover							
+401126850	4	11:25	34.1	phi	Joel Embiid bad pass (Jarrett Allen steals)	107 - 106	107	106	0	0	Joel Embiid		bad pass					Jarrett Allen	steals	
+401126850	4	11:35	25.0	bkn	Joe Harris makes layup (D'Angelo Russell assists)	107 - 108	107	108	0	2	Joe Harris		makes	layup				D'Angelo Russell	assists	
+401126850	4	11:35	25.0	phi	76ers Full timeout	107 - 108	107	108	0	0			full timeout							76ers
+401126850	4	11:35	25.0	bkn	Treveon Graham enters the game for D'Angelo Russell	107 - 108	107	108	0	0	Treveon Graham	D'Angelo Russell	enters the game for							
+401126850	4	11:40	19.7	phi	Mike Scott makes three point jumper (Joel Embiid assists)	110 - 108	110	108	3	0	Mike Scott		makes	jumper			three	Joel Embiid	assists	
+401126850	4	11:41	18.6	bkn	Nets Full timeout	110 - 108	110	108	0	0			full timeout							nets
+401126850	4	11:41	18.6	bkn	D'Angelo Russell enters the game for Treveon Graham	110 - 108	110	108	0	0	D'Angelo Russell	Treveon Graham	enters the game for							
+401126850	4	11:41	18.6	phi	James Ennis III enters the game for JJ Redick	110 - 108	110	108	0	0	James Ennis III	JJ Redick	enters the game for							
+401126850	4	11:55	4.8	bkn	Jarrett Allen lost ball turnover (Ben Simmons steals)	110 - 108	110	108	0	0	Jarrett Allen		turnover					Ben Simmons	steals	
+401126850	4	11:55	4.8	bkn	Joe Harris personal take foul	110 - 108	110	108	0	0	Joe Harris		foul							
+401126850	4	11:55	4.8	phi	Tobias Harris makes free throw 1 of 2	111 - 108	111	108	1	0	Tobias Harris		makes	free throw		1-2				
+401126850	4	11:55	4.8	phi	Tobias Harris makes free throw 2 of 2	112 - 108	112	108	1	0	Tobias Harris		makes	free throw		2-2				
+401126850	4	11:59	0.8	bkn	Spencer Dinwiddie misses 33-foot three point jumper	112 - 108	112	108	0	0	Spencer Dinwiddie		misses	jumper	33		three			
+401126850	4	12:00	0.0	phi	James Ennis III defensive rebound	112 - 108	112	108	0	0	James Ennis III		defensive rebound							
+401126850	4	12:00	0.0	bkn	End of the 4th Quarter	112 - 108	112	108	0	0			end of the 4th quarter							
+401126850	4	12:00	0.0	bkn	End of Game	112 - 108	112	108	0	0			end of game							

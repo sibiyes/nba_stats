@@ -1,0 +1,133 @@
+The modules scrapes the play by play data for NBA games from espn.com along with the team info and parses the commentary to generate a structured schema to be able to query them and obtain insights and data breakdowns we want.
+
+Example game play data is available here: http://www.espn.com/nba/playbyplay?gameId=401126813
+
+The data parsed is flat file having the following fields
+
+game_id -> ESPN game id
+quarter > game quarter
+q_time -> time elapsed in the quarter
+q_time_remaining -> time remaining in the quarter
+team -> team assocaited with the event
+event -> event in the game. The actual commentary
+score -> game score corresponding to the event (after the event)
+team1_score -> away team score corresponding to the event
+team2_score -> home team score corresponding to the event
+team1_event_point -> point corresponding to the event for away team (0 more non scoring events)
+team2_event_point -> point corresponding to the event for home team
+player1 -> player 1 for the event (main subject of the event)
+player2 -> player 2 for the event
+action text -> main action of the event
+action_what -> extra details about the main event
+foot_value text -> foot value if any associated with the action
+free_throw text -> free throw shot number if it is a free throw event
+point_info text -> extra info about points
+player_secondary text -> secondary player for the event (one who has the assist or steal etc...)
+action_secondary text -> secondary action
+team_action text -> team action
+
+The parsed data being flat file can be inserted into a relational database table and we can use them to answer various question using SQL queries. I created a postges database for this purpose and a table within the db to insert the data and run query against,
+
+For example:
+
+- How many points did Kevin Durant score in each game ?
+
+Answer:
+-------
+select game_id, sum(team1_event_point) + sum(team2_event_point) as total_points from plays_201819 where player1 = 'Kevin Durant' and action = 'makes' group by 1;
+
+
+- How many misses does Keven Durant have every game ?
+ 
+Answer:
+-------
+select game_id, count(*) as total_points from plays_201819 where player1 = 'Kevin Durant' and action = 'misses' group by 1;
+
+- How many misses by shot type does Kevin Durant have ?
+
+Answer:
+-------
+select action_what, count(*) as count from plays_201819 where player1 = 'Kevin Durant' and action = 'misses' group by 1 order by 1;
+
+
+ - How many points did each team score in every game by pointer (1, 2, or 3)  ?
+
+Answer:
+-------
+select
+game_id,
+team,
+team1_event_point + team2_event_point,
+sum(team1_event_point + team2_event_point) as points
+from plays_201819
+where team1_event_point + team2_event_point != 0
+group by 1, 2, 3
+order by 1, 2, 3;
+
+- What is the percentage of points by pointer for each team
+
+Answer:
+-------
+select
+a.team,
+a.pointer,
+a.points,
+round(100*cast(a.points as numeric)/b.points, 2) as percent_total_points
+from
+(
+select
+team,
+team1_event_point + team2_event_point as pointer,
+sum(team1_event_point + team2_event_point) as points
+from plays_201819
+where team1_event_point + team2_event_point != 0
+group by 1, 2
+) a
+join
+(
+select
+team,
+sum(team1_event_point + team2_event_point) as points
+from plays_201819
+where team1_event_point + team2_event_point != 0
+group by 1
+) b
+on a.team = b.team
+and a.pointer <= 3
+order by 1, 2;
+
+
+- Who are the top 10 players by layups made ?
+
+Answer:
+-------
+select player1, count(*) as total_layups from plays_201819 where action = 'makes' and action_what like '%layup%' group by 1 order by 2 desc limit 10;
+
+
+- Who are the top 10 player combo for blocks made ? (player1 blocking player2)
+
+Answer:
+-------
+select player1, player2, count(*) as num_blocks from plays_201819 where action = 'blocks' group by 1, 2 order by 3 desc limit 10
+
+
+The data only includes the playoff games until 05/05/2019. But the process can be run to obtain data for all the games in the season. There are some very minor inconsistencies in the data due to the type in the commentary onthe site. Though there are means to correct them and clean the data, cretain edge cases still need to be addressed.
+
+There is pg_dump file (nba_pg_dump.pgsql) for the postgres db containing the mentioned games in the main folder 
+
+Directories:
+------------
+
+scripts => has the scripts used to extract and process the data
+
+html_files => has the extracted html files for each game
+
+html_scoreboard_files => scoecard html file by date
+
+parsed_data => the data pasres and processed form the raw html files. The sub directory "plays_processed" has the final processed falt file for each game which is used to insert into the DB
+
+
+
+
+
+

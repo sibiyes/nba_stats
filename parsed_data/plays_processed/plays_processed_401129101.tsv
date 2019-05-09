@@ -1,0 +1,456 @@
+game_id	quarter	q_time	q_time_remaining	team	event	score	team1_score	team2_score	team1_event_point	team2_event_point	player1	player2	action	action_what	foot_value	free_throw	point_info	player_secondary	action_secondary	team_action
+401129101	1	00:00	12:00	phi	Marc Gasol vs. Joel Embiid (Ben Simmons gains possession)	0 - 0	0	0	0	0	Marc Gasol	Joel Embiid	vs.					Ben Simmons	gains possession	
+401129101	1	00:16	11:44	phi	Joel Embiid lost ball turnover (Pascal Siakam steals)	0 - 0	0	0	0	0	Joel Embiid		turnover					Pascal Siakam	steals	
+401129101	1	00:21	11:39	tor	Kyle Lowry misses driving layup	0 - 0	0	0	0	0	Kyle Lowry		misses	driving layup						
+401129101	1	00:23	11:37	tor	Kawhi Leonard offensive rebound	0 - 0	0	0	0	0	Kawhi Leonard		offensive rebound							
+401129101	1	00:24	11:36	tor	Tobias Harris blocks Kawhi Leonard 's 3-foot layup	0 - 0	0	0	0	0	Tobias Harris	Kawhi Leonard	blocks	layup	3					
+401129101	1	00:24	11:36	phi	76ers defensive team rebound	0 - 0	0	0	0	0			defensive rebound	team						76ers
+401129101	1	00:43	11:17	phi	Tobias Harris makes pullup jump shot	0 - 2	0	2	0	2	Tobias Harris		makes	pullup jump shot						
+401129101	1	01:01	10:59	tor	Marc Gasol misses 17-foot jumper	0 - 2	0	2	0	0	Marc Gasol		misses	jumper	17					
+401129101	1	01:03	10:57	phi	Jimmy Butler defensive rebound	0 - 2	0	2	0	0	Jimmy Butler		defensive rebound							
+401129101	1	01:12	10:48	tor	Marc Gasol shooting foul	0 - 2	0	2	0	0	Marc Gasol		foul							
+401129101	1	01:12	10:48	phi	Joel Embiid makes free throw 1 of 2	0 - 3	0	3	0	1	Joel Embiid		makes	free throw		1-2				
+401129101	1	01:12	10:48	phi	Joel Embiid makes free throw 2 of 2	0 - 4	0	4	0	1	Joel Embiid		makes	free throw		2-2				
+401129101	1	01:24	10:36	tor	Marc Gasol traveling	0 - 4	0	4	0	0	Marc Gasol		traveling							
+401129101	1	01:35	10:25	phi	Ben Simmons misses driving layup	0 - 4	0	4	0	0	Ben Simmons		misses	driving layup						
+401129101	1	01:35	10:25	tor	Kawhi Leonard defensive rebound	0 - 4	0	4	0	0	Kawhi Leonard		defensive rebound							
+401129101	1	01:40	10:20	tor	Kawhi Leonard makes 27-foot three pointer	3 - 4	3	4	3	0	Kawhi Leonard		makes	er	27		three			
+401129101	1	01:59	10:01	phi	Ben Simmons makes layup	3 - 6	3	6	0	2	Ben Simmons		makes	layup						
+401129101	1	02:15	9:45	tor	Pascal Siakam misses driving floating jump shot	3 - 6	3	6	0	0	Pascal Siakam		misses	driving floating jump shot						
+401129101	1	02:16	9:44	phi	Jimmy Butler defensive rebound	3 - 6	3	6	0	0	Jimmy Butler		defensive rebound							
+401129101	1	02:32	9:28	phi	Joel Embiid makes 28-foot step back jumpshot (Tobias Harris assists)	3 - 9	3	9	0	3	Joel Embiid		makes	step back jumpshot	28			Tobias Harris	assists	
+401129101	1	02:52	9:08	tor	Kawhi Leonard makes 9-foot two point shot	5 - 9	5	9	2	0	Kawhi Leonard		makes	shot	9		two			
+401129101	1	03:11	8:49	phi	Joel Embiid makes layup	5 - 11	5	11	0	2	Joel Embiid		makes	layup						
+401129101	1	03:24	8:36	tor	Kawhi Leonard makes 14-foot jumper	7 - 11	7	11	2	0	Kawhi Leonard		makes	jumper	14					
+401129101	1	03:38	8:22	phi	Joel Embiid misses two point shot	7 - 11	7	11	0	0	Joel Embiid		misses	shot			two			
+401129101	1	03:39	8:21	phi	Joel Embiid offensive rebound	7 - 11	7	11	0	0	Joel Embiid		offensive rebound							
+401129101	1	03:39	8:21	phi	Joel Embiid misses tip shot	7 - 11	7	11	0	0	Joel Embiid		misses	tip shot						
+401129101	1	03:41	8:19	tor	Kyle Lowry defensive rebound	7 - 11	7	11	0	0	Kyle Lowry		defensive rebound							
+401129101	1	03:49	8:11	tor	Pascal Siakam makes layup (Kawhi Leonard assists)	9 - 11	9	11	2	0	Pascal Siakam		makes	layup				Kawhi Leonard	assists	
+401129101	1	04:07	7:53	phi	Joel Embiid misses 14-foot jumper	9 - 11	9	11	0	0	Joel Embiid		misses	jumper	14					
+401129101	1	04:10	7:50	phi	Ben Simmons offensive rebound	9 - 11	9	11	0	0	Ben Simmons		offensive rebound							
+401129101	1	04:10	7:50	phi	Ben Simmons makes tip shot	9 - 13	9	13	0	2	Ben Simmons		makes	tip shot						
+401129101	1	04:21	7:39	tor	Pascal Siakam makes 3-foot two point shot	11 - 13	11	13	2	0	Pascal Siakam		makes	shot	3		two			
+401129101	1	04:36	7:24	phi	Jimmy Butler misses 11-foot two point shot	11 - 13	11	13	0	0	Jimmy Butler		misses	shot	11		two			
+401129101	1	04:36	7:24	tor	Kyle Lowry defensive rebound	11 - 13	11	13	0	0	Kyle Lowry		defensive rebound							
+401129101	1	04:45	7:15	tor	Joel Embiid blocks Kawhi Leonard 's 3-foot two point shot	11 - 13	11	13	0	0	Joel Embiid	Kawhi Leonard	blocks	shot	3		two			
+401129101	1	04:48	7:12	phi	Tobias Harris defensive rebound	11 - 13	11	13	0	0	Tobias Harris		defensive rebound							
+401129101	1	04:56	7:04	phi	Tobias Harris makes 24-foot three point jumper (Joel Embiid assists)	11 - 16	11	16	0	3	Tobias Harris		makes	jumper	24		three	Joel Embiid	assists	
+401129101	1	05:18	6:42	phi	Tobias Harris shooting foul	11 - 16	11	16	0	0	Tobias Harris		foul							
+401129101	1	05:18	6:42	phi	76ers Full timeout	11 - 16	11	16	0	0			full timeout							76ers
+401129101	1	05:18	6:42	phi	Greg Monroe enters the game for JJ Redick	11 - 16	11	16	0	0	Greg Monroe	JJ Redick	enters the game for							
+401129101	1	05:18	6:42	phi	James Ennis III enters the game for Joel Embiid	11 - 16	11	16	0	0	James Ennis III	Joel Embiid	enters the game for							
+401129101	1	05:18	6:42	tor	Pascal Siakam makes free throw 1 of 2	12 - 16	12	16	1	0	Pascal Siakam		makes	free throw		1-2				
+401129101	1	05:18	6:42	tor	Pascal Siakam makes free throw 2 of 2	13 - 16	13	16	1	0	Pascal Siakam		makes	free throw		2-2				
+401129101	1	05:40	6:20	phi	Jimmy Butler makes 15-foot step back jumpshot (James Ennis III assists)	13 - 18	13	18	0	2	Jimmy Butler		makes	step back jumpshot	15			James Ennis III	assists	
+401129101	1	05:50	6:10	tor	Kyle Lowry misses 25-foot three point jumper	13 - 18	13	18	0	0	Kyle Lowry		misses	jumper	25		three			
+401129101	1	05:53	6:07	phi	Tobias Harris defensive rebound	13 - 18	13	18	0	0	Tobias Harris		defensive rebound							
+401129101	1	06:03	5:57	phi	Jimmy Butler makes jumper (Greg Monroe assists)	13 - 20	13	20	0	2	Jimmy Butler		makes	jumper				Greg Monroe	assists	
+401129101	1	06:21	5:39	tor	Danny Green makes 27-foot three point jumper (Marc Gasol assists)	16 - 20	16	20	3	0	Danny Green		makes	jumper	27		three	Marc Gasol	assists	
+401129101	1	06:44	5:16	phi	Greg Monroe makes driving layup (Tobias Harris assists)	16 - 22	16	22	0	2	Greg Monroe		makes	driving layup				Tobias Harris	assists	
+401129101	1	06:54	5:06	tor	Danny Green misses two point shot	16 - 22	16	22	0	0	Danny Green		misses	shot			two			
+401129101	1	06:56	5:04	phi	Greg Monroe defensive rebound	16 - 22	16	22	0	0	Greg Monroe		defensive rebound							
+401129101	1	06:59	5:01	phi	Tobias Harris misses 27-foot three point jumper	16 - 22	16	22	0	0	Tobias Harris		misses	jumper	27		three			
+401129101	1	07:02	4:58	tor	Pascal Siakam defensive rebound	16 - 22	16	22	0	0	Pascal Siakam		defensive rebound							
+401129101	1	07:06	4:54	phi	James Ennis III shooting foul	16 - 22	16	22	0	0	James Ennis III		foul							
+401129101	1	07:06	4:54	tor	Pascal Siakam makes free throw 1 of 2	17 - 22	17	22	1	0	Pascal Siakam		makes	free throw		1-2				
+401129101	1	07:06	4:54	phi	Mike Scott enters the game for Jimmy Butler	17 - 22	17	22	0	0	Mike Scott	Jimmy Butler	enters the game for							
+401129101	1	07:06	4:54	tor	Serge Ibaka enters the game for Marc Gasol	17 - 22	17	22	0	0	Serge Ibaka	Marc Gasol	enters the game for							
+401129101	1	07:06	4:54	tor	Pascal Siakam makes free throw 2 of 2	18 - 22	18	22	1	0	Pascal Siakam		makes	free throw		2-2				
+401129101	1	07:22	4:38	tor	Danny Green shooting foul	18 - 22	18	22	0	0	Danny Green		foul							
+401129101	1	07:22	4:38	phi	Tobias Harris makes free throw 1 of 2	18 - 23	18	23	0	1	Tobias Harris		makes	free throw		1-2				
+401129101	1	07:22	4:38	phi	Tobias Harris misses free throw 2 of 2	18 - 23	18	23	0	0	Tobias Harris		misses	free throw		2-2				
+401129101	1	07:25	4:35	tor	Serge Ibaka defensive rebound	18 - 23	18	23	0	0	Serge Ibaka		defensive rebound							
+401129101	1	07:40	4:20	tor	Kawhi Leonard misses 17-foot pullup jump shot	18 - 23	18	23	0	0	Kawhi Leonard		misses	pullup jump shot	17					
+401129101	1	07:42	4:18	tor	Pascal Siakam offensive rebound	18 - 23	18	23	0	0	Pascal Siakam		offensive rebound							
+401129101	1	07:44	4:16	tor	Kawhi Leonard makes 16-foot pullup jump shot (Pascal Siakam assists)	20 - 23	20	23	2	0	Kawhi Leonard		makes	pullup jump shot	16			Pascal Siakam	assists	
+401129101	1	08:09	3:51	phi	Ben Simmons misses 4-foot two point shot	20 - 23	20	23	0	0	Ben Simmons		misses	shot	4		two			
+401129101	1	08:11	3:49	tor	Danny Green defensive rebound	20 - 23	20	23	0	0	Danny Green		defensive rebound							
+401129101	1	08:22	3:38	tor	Serge Ibaka misses 15-foot jumper	20 - 23	20	23	0	0	Serge Ibaka		misses	jumper	15					
+401129101	1	08:26	3:34	phi	Greg Monroe defensive rebound	20 - 23	20	23	0	0	Greg Monroe		defensive rebound							
+401129101	1	08:45	3:15	phi	Mike Scott misses 7-foot two point shot	20 - 23	20	23	0	0	Mike Scott		misses	shot	7		two			
+401129101	1	08:48	3:12	phi	James Ennis III offensive rebound	20 - 23	20	23	0	0	James Ennis III		offensive rebound							
+401129101	1	09:01	2:59	phi	Tobias Harris misses 25-foot three point pullup jump shot	20 - 23	20	23	0	0	Tobias Harris		misses	pullup jump shot	25		three			
+401129101	1	09:03	2:57	tor	Serge Ibaka defensive rebound	20 - 23	20	23	0	0	Serge Ibaka		defensive rebound							
+401129101	1	09:12	2:48	tor	Serge Ibaka makes layup (Kyle Lowry assists)	22 - 23	22	23	2	0	Serge Ibaka		makes	layup				Kyle Lowry	assists	
+401129101	1	09:14	2:46	tor	Raptors delay of game violation	22 - 23	22	23	0	0			delay of game violation							raptors
+401129101	1	09:32	2:28	phi	Mike Scott makes 27-foot three point jumper (Ben Simmons assists)	22 - 26	22	26	0	3	Mike Scott		makes	jumper	27		three	Ben Simmons	assists	
+401129101	1	09:39	2:21	tor	Raptors Full timeout	22 - 26	22	26	0	0			full timeout							raptors
+401129101	1	09:39	2:21	phi	JJ Redick enters the game for James Ennis III	22 - 26	22	26	0	0	JJ Redick	James Ennis III	enters the game for							
+401129101	1	09:39	2:21	phi	Joel Embiid enters the game for Tobias Harris	22 - 26	22	26	0	0	Joel Embiid	Tobias Harris	enters the game for							
+401129101	1	09:39	2:21	phi	Jimmy Butler enters the game for Greg Monroe	22 - 26	22	26	0	0	Jimmy Butler	Greg Monroe	enters the game for							
+401129101	1	09:39	2:21	tor	Fred VanVleet enters the game for Kawhi Leonard	22 - 26	22	26	0	0	Fred VanVleet	Kawhi Leonard	enters the game for							
+401129101	1	09:39	2:21	tor	Norman Powell enters the game for Kyle Lowry	22 - 26	22	26	0	0	Norman Powell	Kyle Lowry	enters the game for							
+401129101	1	09:46	2:14	tor	Danny Green makes 26-foot three point jumper (Fred VanVleet assists)	25 - 26	25	26	3	0	Danny Green		makes	jumper	26		three	Fred VanVleet	assists	
+401129101	1	10:02	1:58	tor	Serge Ibaka flagrant foul type 1	25 - 26	25	26	0	0	Serge Ibaka		foul	type 1						
+401129101	1	10:02	1:58	phi	JJ Redick makes free throw flagrant 1 of 2	25 - 27	25	27	0	1	JJ Redick		makes	free throw flagrant 1 of 2						
+401129101	1	10:02	1:58	phi	JJ Redick misses free throw flagrant 2 of 2	25 - 27	25	27	0	0	JJ Redick		misses	free throw flagrant 2 of 2						
+401129101	1	10:02	1:58	phi	76ers offensive team rebound	25 - 27	25	27	0	0			offensive rebound	team						76ers
+401129101	1	10:02	1:58	phi	James Ennis III enters the game for Ben Simmons	25 - 27	25	27	0	0	James Ennis III	Ben Simmons	enters the game for							
+401129101	1	10:12	1:48	phi	Joel Embiid traveling	25 - 27	25	27	0	0	Joel Embiid		traveling							
+401129101	1	10:26	1:34	tor	Pascal Siakam misses 25-foot three point jumper	25 - 27	25	27	0	0	Pascal Siakam		misses	jumper	25		three			
+401129101	1	10:30	1:30	phi	Jimmy Butler defensive rebound	25 - 27	25	27	0	0	Jimmy Butler		defensive rebound							
+401129101	1	10:47	1:13	phi	JJ Redick misses 26-foot three point jumper	25 - 27	25	27	0	0	JJ Redick		misses	jumper	26		three			
+401129101	1	10:50	1:10	tor	Danny Green defensive rebound	25 - 27	25	27	0	0	Danny Green		defensive rebound							
+401129101	1	10:53	1:07	tor	Fred VanVleet misses two point shot	25 - 27	25	27	0	0	Fred VanVleet		misses	shot			two			
+401129101	1	10:59	1:01	phi	James Ennis III defensive rebound	25 - 27	25	27	0	0	James Ennis III		defensive rebound							
+401129101	1	11:00	1:00	phi	JJ Redick makes 26-foot three point jumper (Jimmy Butler assists)	25 - 30	25	30	0	3	JJ Redick		makes	jumper	26		three	Jimmy Butler	assists	
+401129101	1	11:16	43.6	tor	Danny Green makes 27-foot three point jumper (Norman Powell assists)	28 - 30	28	30	3	0	Danny Green		makes	jumper	27		three	Norman Powell	assists	
+401129101	1	11:30	29.4	phi	Joel Embiid makes 7-foot driving floating jump shot (Jimmy Butler assists)	28 - 32	28	32	0	2	Joel Embiid		makes	driving floating jump shot	7			Jimmy Butler	assists	
+401129101	1	11:45	14.1	phi	Mike Scott shooting foul	28 - 32	28	32	0	0	Mike Scott		foul							
+401129101	1	11:45	14.1	tor	Pascal Siakam misses free throw 1 of 2	28 - 32	28	32	0	0	Pascal Siakam		misses	free throw		1-2				
+401129101	1	11:45	14.1	tor	Raptors offensive team rebound	28 - 32	28	32	0	0			offensive rebound	team						raptors
+401129101	1	11:45	14.1	tor	Pascal Siakam makes free throw 2 of 2	29 - 32	29	32	1	0	Pascal Siakam		makes	free throw		2-2				
+401129101	1	11:59	0.4	phi	Jimmy Butler misses 13-foot two point shot	29 - 32	29	32	0	0	Jimmy Butler		misses	shot	13		two			
+401129101	1	11:59	0.1	phi	76ers offensive team rebound	29 - 32	29	32	0	0			offensive rebound	team						76ers
+401129101	1	12:00	0.0	phi	End of the 1st Quarter	29 - 32	29	32	0	0			end of the 1st quarter							
+401129101	2	00:00	12:00	phi	Tobias Harris enters the game for Mike Scott	29 - 32	29	32	0	0	Tobias Harris	Mike Scott	enters the game for							
+401129101	2	00:00	12:00	tor	Kyle Lowry enters the game for Danny Green	29 - 32	29	32	0	0	Kyle Lowry	Danny Green	enters the game for							
+401129101	2	00:10	11:50	tor	Pascal Siakam misses 16-foot pullup jump shot	29 - 32	29	32	0	0	Pascal Siakam		misses	pullup jump shot	16					
+401129101	2	00:13	11:47	phi	Joel Embiid defensive rebound	29 - 32	29	32	0	0	Joel Embiid		defensive rebound							
+401129101	2	00:31	11:29	phi	Joel Embiid misses 16-foot step back jumpshot	29 - 32	29	32	0	0	Joel Embiid		misses	step back jumpshot	16					
+401129101	2	00:33	11:27	tor	Serge Ibaka defensive rebound	29 - 32	29	32	0	0	Serge Ibaka		defensive rebound							
+401129101	2	00:42	11:18	tor	Kyle Lowry misses three point jumper	29 - 32	29	32	0	0	Kyle Lowry		misses	jumper			three			
+401129101	2	00:45	11:15	phi	Joel Embiid defensive rebound	29 - 32	29	32	0	0	Joel Embiid		defensive rebound							
+401129101	2	00:53	11:07	phi	Tobias Harris makes 5-foot two point shot (JJ Redick assists)	29 - 34	29	34	0	2	Tobias Harris		makes	shot	5		two	JJ Redick	assists	
+401129101	2	01:03	10:57	tor	Fred VanVleet misses 28-foot three point jumper	29 - 34	29	34	0	0	Fred VanVleet		misses	jumper	28		three			
+401129101	2	01:06	10:54	phi	Joel Embiid defensive rebound	29 - 34	29	34	0	0	Joel Embiid		defensive rebound							
+401129101	2	01:12	10:48	phi	Jimmy Butler makes two point shot	29 - 36	29	36	0	2	Jimmy Butler		makes	shot			two			
+401129101	2	01:24	10:36	tor	Serge Ibaka out of bounds bad pass turnover	29 - 36	29	36	0	0	Serge Ibaka		turnover							
+401129101	2	01:38	10:22	phi	JJ Redick misses 25-foot three point pullup jump shot	29 - 36	29	36	0	0	JJ Redick		misses	pullup jump shot	25		three			
+401129101	2	01:45	10:15	phi	James Ennis III offensive rebound	29 - 36	29	36	0	0	James Ennis III		offensive rebound							
+401129101	2	01:45	10:15	phi	James Ennis III makes tip shot	29 - 38	29	38	0	2	James Ennis III		makes	tip shot						
+401129101	2	01:47	10:13	tor	Raptors Full timeout	29 - 38	29	38	0	0			full timeout							raptors
+401129101	2	01:47	10:13	tor	Marc Gasol enters the game for Serge Ibaka	29 - 38	29	38	0	0	Marc Gasol	Serge Ibaka	enters the game for							
+401129101	2	01:47	10:13	tor	Kawhi Leonard enters the game for Pascal Siakam	29 - 38	29	38	0	0	Kawhi Leonard	Pascal Siakam	enters the game for							
+401129101	2	01:47	10:13	phi	Ben Simmons enters the game for James Ennis III	29 - 38	29	38	0	0	Ben Simmons	James Ennis III	enters the game for							
+401129101	2	02:02	9:58	tor	Marc Gasol misses 24-foot three point jumper	29 - 38	29	38	0	0	Marc Gasol		misses	jumper	24		three			
+401129101	2	02:05	9:55	phi	Jimmy Butler defensive rebound	29 - 38	29	38	0	0	Jimmy Butler		defensive rebound							
+401129101	2	02:20	9:40	phi	Marc Gasol blocks Ben Simmons 's 2-foot layup	29 - 38	29	38	0	0	Marc Gasol	Ben Simmons	blocks	layup	2					
+401129101	2	02:20	9:40	phi	Ben Simmons offensive rebound	29 - 38	29	38	0	0	Ben Simmons		offensive rebound							
+401129101	2	02:20	9:40	phi	Ben Simmons misses tip shot	29 - 38	29	38	0	0	Ben Simmons		misses	tip shot						
+401129101	2	02:20	9:40	phi	Joel Embiid offensive rebound	29 - 38	29	38	0	0	Joel Embiid		offensive rebound							
+401129101	2	02:20	9:40	tor	Fred VanVleet shooting foul	29 - 38	29	38	0	0	Fred VanVleet		foul							
+401129101	2	02:20	9:40	phi	Joel Embiid makes free throw 1 of 2	29 - 39	29	39	0	1	Joel Embiid		makes	free throw		1-2				
+401129101	2	02:20	9:40	phi	Joel Embiid makes free throw 2 of 2	29 - 40	29	40	0	1	Joel Embiid		makes	free throw		2-2				
+401129101	2	02:36	9:24	tor	Marc Gasol makes 9-foot two point shot	31 - 40	31	40	2	0	Marc Gasol		makes	shot	9		two			
+401129101	2	02:59	9:01	phi	Ben Simmons misses 8-foot two point shot	31 - 40	31	40	0	0	Ben Simmons		misses	shot	8		two			
+401129101	2	03:02	8:58	tor	Marc Gasol defensive rebound	31 - 40	31	40	0	0	Marc Gasol		defensive rebound							
+401129101	2	03:04	8:56	tor	Kyle Lowry misses 26-foot three point pullup jump shot	31 - 40	31	40	0	0	Kyle Lowry		misses	pullup jump shot	26		three			
+401129101	2	03:08	8:52	phi	Jimmy Butler defensive rebound	31 - 40	31	40	0	0	Jimmy Butler		defensive rebound							
+401129101	2	03:19	8:41	phi	Tobias Harris misses 10-foot two point shot	31 - 40	31	40	0	0	Tobias Harris		misses	shot	10		two			
+401129101	2	03:21	8:39	tor	Fred VanVleet defensive rebound	31 - 40	31	40	0	0	Fred VanVleet		defensive rebound							
+401129101	2	03:30	8:30	tor	Norman Powell makes 24-foot three point jumper (Kawhi Leonard assists)	34 - 40	34	40	3	0	Norman Powell		makes	jumper	24		three	Kawhi Leonard	assists	
+401129101	2	03:44	8:16	phi	Ben Simmons makes dunk (Jimmy Butler assists)	34 - 42	34	42	0	2	Ben Simmons		makes	dunk				Jimmy Butler	assists	
+401129101	2	04:04	7:56	tor	Kawhi Leonard misses 12-foot pullup jump shot	34 - 42	34	42	0	0	Kawhi Leonard		misses	pullup jump shot	12					
+401129101	2	04:06	7:54	phi	Joel Embiid defensive rebound	34 - 42	34	42	0	0	Joel Embiid		defensive rebound							
+401129101	2	04:12	7:48	phi	Jimmy Butler bad pass (Marc Gasol steals)	34 - 42	34	42	0	0	Jimmy Butler		bad pass					Marc Gasol	steals	
+401129101	2	04:17	7:43	tor	Norman Powell misses two point shot	34 - 42	34	42	0	0	Norman Powell		misses	shot			two			
+401129101	2	04:20	7:40	phi	Jimmy Butler defensive rebound	34 - 42	34	42	0	0	Jimmy Butler		defensive rebound							
+401129101	2	04:27	7:33	phi	Joel Embiid makes 27-foot three point jumper (Jimmy Butler assists)	34 - 45	34	45	0	3	Joel Embiid		makes	jumper	27		three	Jimmy Butler	assists	
+401129101	2	04:50	7:10	tor	Tobias Harris blocks Fred VanVleet 's 26-foot three point pullup jump shot	34 - 45	34	45	0	0	Tobias Harris	Fred VanVleet	blocks	pullup jump shot	26		three			
+401129101	2	04:52	7:08	phi	Ben Simmons defensive rebound	34 - 45	34	45	0	0	Ben Simmons		defensive rebound							
+401129101	2	05:00	7:00	phi	JJ Redick bad pass (Fred VanVleet steals)	34 - 45	34	45	0	0	JJ Redick		bad pass					Fred VanVleet	steals	
+401129101	2	05:13	6:47	phi	Ben Simmons shooting foul	34 - 45	34	45	0	0	Ben Simmons		foul							
+401129101	2	05:13	6:47	tor	Marc Gasol misses free throw 1 of 2	34 - 45	34	45	0	0	Marc Gasol		misses	free throw		1-2				
+401129101	2	05:13	6:47	tor	Raptors offensive team rebound	34 - 45	34	45	0	0			offensive rebound	team						raptors
+401129101	2	05:13	6:47	phi	Greg Monroe enters the game for Joel Embiid	34 - 45	34	45	0	0	Greg Monroe	Joel Embiid	enters the game for							
+401129101	2	05:13	6:47	phi	James Ennis III enters the game for Jimmy Butler	34 - 45	34	45	0	0	James Ennis III	Jimmy Butler	enters the game for							
+401129101	2	05:13	6:47	tor	Marc Gasol makes free throw 2 of 2	35 - 45	35	45	1	0	Marc Gasol		makes	free throw		2-2				
+401129101	2	05:33	6:27	phi	Greg Monroe misses 5-foot two point shot	35 - 45	35	45	0	0	Greg Monroe		misses	shot	5		two			
+401129101	2	05:35	6:25	tor	Marc Gasol defensive rebound	35 - 45	35	45	0	0	Marc Gasol		defensive rebound							
+401129101	2	05:36	6:24	phi	James Ennis III shooting foul	35 - 45	35	45	0	0	James Ennis III		foul							
+401129101	2	05:36	6:24	tor	Kyle Lowry makes free throw 1 of 2	36 - 45	36	45	1	0	Kyle Lowry		makes	free throw		1-2				
+401129101	2	05:36	6:24	tor	Danny Green enters the game for Norman Powell	36 - 45	36	45	0	0	Danny Green	Norman Powell	enters the game for							
+401129101	2	05:36	6:24	tor	Kyle Lowry misses free throw 2 of 2	36 - 45	36	45	0	0	Kyle Lowry		misses	free throw		2-2				
+401129101	2	05:41	6:19	tor	Kawhi Leonard offensive rebound	36 - 45	36	45	0	0	Kawhi Leonard		offensive rebound							
+401129101	2	05:45	6:15	tor	Fred VanVleet misses 28-foot three point jumper	36 - 45	36	45	0	0	Fred VanVleet		misses	jumper	28		three			
+401129101	2	05:48	6:12	phi	Ben Simmons defensive rebound	36 - 45	36	45	0	0	Ben Simmons		defensive rebound							
+401129101	2	06:01	5:59	phi	Marc Gasol blocks Ben Simmons 's 3-foot driving layup	36 - 45	36	45	0	0	Marc Gasol	Ben Simmons	blocks	driving layup	3					
+401129101	2	06:01	5:59	tor	Raptors defensive team rebound	36 - 45	36	45	0	0			defensive rebound	team						raptors
+401129101	2	06:07	5:53	tor	Kawhi Leonard makes 7-foot pullup jump shot	38 - 45	38	45	2	0	Kawhi Leonard		makes	pullup jump shot	7					
+401129101	2	06:19	5:41	tor	Fred VanVleet personal foul	38 - 45	38	45	0	0	Fred VanVleet		foul							
+401129101	2	06:19	5:41	tor	Pascal Siakam enters the game for Fred VanVleet	38 - 45	38	45	0	0	Pascal Siakam	Fred VanVleet	enters the game for							
+401129101	2	06:27	5:33	tor	Kyle Lowry shooting foul	38 - 45	38	45	0	0	Kyle Lowry		foul							
+401129101	2	06:27	5:33	phi	James Ennis III makes free throw 1 of 2	38 - 46	38	46	0	1	James Ennis III		makes	free throw		1-2				
+401129101	2	06:27	5:33	phi	Jimmy Butler enters the game for JJ Redick	38 - 46	38	46	0	0	Jimmy Butler	JJ Redick	enters the game for							
+401129101	2	06:27	5:33	phi	James Ennis III makes free throw 2 of 2	38 - 47	38	47	0	1	James Ennis III		makes	free throw		2-2				
+401129101	2	06:53	5:07	tor	Kawhi Leonard makes driving dunk	40 - 47	40	47	2	0	Kawhi Leonard		makes	driving dunk						
+401129101	2	07:07	4:53	phi	Tobias Harris makes 25-foot three point jumper (Jimmy Butler assists)	40 - 50	40	50	0	3	Tobias Harris		makes	jumper	25		three	Jimmy Butler	assists	
+401129101	2	07:14	4:46	phi	James Ennis III personal foul	40 - 50	40	50	0	0	James Ennis III		foul							
+401129101	2	07:14	4:46	tor	Serge Ibaka enters the game for Marc Gasol	40 - 50	40	50	0	0	Serge Ibaka	Marc Gasol	enters the game for							
+401129101	2	07:14	4:46	phi	Mike Scott enters the game for James Ennis III	40 - 50	40	50	0	0	Mike Scott	James Ennis III	enters the game for							
+401129101	2	07:26	4:34	tor	Pascal Siakam makes 5-foot driving floating jump shot (Kyle Lowry assists)	42 - 50	42	50	2	0	Pascal Siakam		makes	driving floating jump shot	5			Kyle Lowry	assists	
+401129101	2	07:43	4:17	phi	Jimmy Butler offensive foul	42 - 50	42	50	0	0	Jimmy Butler		foul							
+401129101	2	07:43	4:17	phi	Jimmy Butler turnover	42 - 50	42	50	0	0	Jimmy Butler		turnover							
+401129101	2	07:57	4:03	tor	Kawhi Leonard lost ball turnover (Greg Monroe steals)	42 - 50	42	50	0	0	Kawhi Leonard		turnover					Greg Monroe	steals	
+401129101	2	08:02	3:58	phi	Jimmy Butler makes dunk (Ben Simmons assists)	42 - 52	42	52	0	2	Jimmy Butler		makes	dunk				Ben Simmons	assists	
+401129101	2	08:19	3:41	tor	Kawhi Leonard makes 13-foot two point shot	44 - 52	44	52	2	0	Kawhi Leonard		makes	shot	13		two			
+401129101	2	08:32	3:28	phi	Tobias Harris lost ball turnover (Kyle Lowry steals)	44 - 52	44	52	0	0	Tobias Harris		turnover					Kyle Lowry	steals	
+401129101	2	08:37	3:23	tor	Kyle Lowry makes two point shot	46 - 52	46	52	2	0	Kyle Lowry		makes	shot			two			
+401129101	2	08:38	3:22	phi	76ers Full timeout	46 - 52	46	52	0	0			full timeout							76ers
+401129101	2	08:38	3:22	phi	JJ Redick enters the game for Jimmy Butler	46 - 52	46	52	0	0	JJ Redick	Jimmy Butler	enters the game for							
+401129101	2	08:38	3:22	phi	Joel Embiid enters the game for Greg Monroe	46 - 52	46	52	0	0	Joel Embiid	Greg Monroe	enters the game for							
+401129101	2	08:38	3:22	tor	Marc Gasol enters the game for Serge Ibaka	46 - 52	46	52	0	0	Marc Gasol	Serge Ibaka	enters the game for							
+401129101	2	08:54	3:06	phi	Joel Embiid out of bounds lost ball turnover	46 - 52	46	52	0	0	Joel Embiid		turnover							
+401129101	2	09:10	2:50	phi	Joel Embiid personal foul	46 - 52	46	52	0	0	Joel Embiid		foul							
+401129101	2	09:10	2:50	tor	Kawhi Leonard offensive foul	46 - 52	46	52	0	0	Kawhi Leonard		foul							
+401129101	2	09:10	2:50	tor	Kawhi Leonard turnover	46 - 52	46	52	0	0	Kawhi Leonard		turnover							
+401129101	2	09:10	2:50	phi	Jimmy Butler enters the game for Mike Scott	46 - 52	46	52	0	0	Jimmy Butler	Mike Scott	enters the game for							
+401129101	2	09:23	2:37	tor	Kawhi Leonard shooting foul	46 - 52	46	52	0	0	Kawhi Leonard		foul							
+401129101	2	09:23	2:37	phi	Joel Embiid makes free throw 1 of 2	46 - 53	46	53	0	1	Joel Embiid		makes	free throw		1-2				
+401129101	2	09:23	2:37	phi	Joel Embiid makes free throw 2 of 2	46 - 54	46	54	0	1	Joel Embiid		makes	free throw		2-2				
+401129101	2	09:32	2:28	tor	Kawhi Leonard misses two point shot	46 - 54	46	54	0	0	Kawhi Leonard		misses	shot			two			
+401129101	2	09:34	2:26	phi	Joel Embiid defensive rebound	46 - 54	46	54	0	0	Joel Embiid		defensive rebound							
+401129101	2	09:39	2:21	phi	Ben Simmons makes layup (Tobias Harris assists)	46 - 56	46	56	0	2	Ben Simmons		makes	layup				Tobias Harris	assists	
+401129101	2	09:55	2:05	tor	Pascal Siakam makes 2-foot layup (Kyle Lowry assists)	48 - 56	48	56	2	0	Pascal Siakam		makes	layup	2			Kyle Lowry	assists	
+401129101	2	10:03	1:57	phi	JJ Redick makes 24-foot three point jumper (Ben Simmons assists)	48 - 59	48	59	0	3	JJ Redick		makes	jumper	24		three	Ben Simmons	assists	
+401129101	2	10:10	1:50	tor	Kawhi Leonard misses running pullup jump shot	48 - 59	48	59	0	0	Kawhi Leonard		misses	running pullup jump shot						
+401129101	2	10:13	1:47	phi	Jimmy Butler defensive rebound	48 - 59	48	59	0	0	Jimmy Butler		defensive rebound							
+401129101	2	10:27	1:33	phi	Tobias Harris misses 10-foot two point shot	48 - 59	48	59	0	0	Tobias Harris		misses	shot	10		two			
+401129101	2	10:29	1:31	phi	Ben Simmons offensive rebound	48 - 59	48	59	0	0	Ben Simmons		offensive rebound							
+401129101	2	10:32	1:28	phi	Jimmy Butler makes 26-foot three point jumper (Joel Embiid assists)	48 - 62	48	62	0	3	Jimmy Butler		makes	jumper	26		three	Joel Embiid	assists	
+401129101	2	10:42	1:18	tor	Raptors Full timeout	48 - 62	48	62	0	0			full timeout							raptors
+401129101	2	10:58	1:02	phi	Joel Embiid shooting foul	48 - 62	48	62	0	0	Joel Embiid		foul							
+401129101	2	10:58	1:02	tor	Kyle Lowry makes free throw 1 of 3	49 - 62	49	62	1	0	Kyle Lowry		makes	free throw		1-3				
+401129101	2	10:58	1:02	tor	Kyle Lowry misses free throw 2 of 3	49 - 62	49	62	0	0	Kyle Lowry		misses	free throw		2-3				
+401129101	2	10:58	1:02	tor	Raptors offensive team rebound	49 - 62	49	62	0	0			offensive rebound	team						raptors
+401129101	2	10:58	1:02	tor	Kyle Lowry makes free throw 3 of 3	50 - 62	50	62	1	0	Kyle Lowry		makes	free throw		3-3				
+401129101	2	11:17	43.0	phi	JJ Redick misses 23-foot jumper	50 - 62	50	62	0	0	JJ Redick		misses	jumper	23					
+401129101	2	11:17	42.8	phi	76ers offensive team rebound	50 - 62	50	62	0	0			offensive rebound	team						76ers
+401129101	2	11:20	39.8	phi	Jimmy Butler misses 23-foot three point jumper	50 - 62	50	62	0	0	Jimmy Butler		misses	jumper	23		three			
+401129101	2	11:22	37.7	tor	Kyle Lowry defensive rebound	50 - 62	50	62	0	0	Kyle Lowry		defensive rebound							
+401129101	2	11:25	34.6	phi	Tobias Harris shooting foul	50 - 62	50	62	0	0	Tobias Harris		foul							
+401129101	2	11:25	34.6	tor	Kawhi Leonard makes free throw 1 of 2	51 - 62	51	62	1	0	Kawhi Leonard		makes	free throw		1-2				
+401129101	2	11:25	34.6	tor	Kawhi Leonard makes free throw 2 of 2	52 - 62	52	62	1	0	Kawhi Leonard		makes	free throw		2-2				
+401129101	2	11:33	26.5	tor	Marc Gasol personal foul	52 - 62	52	62	0	0	Marc Gasol		foul							
+401129101	2	11:33	26.5	phi	Joel Embiid makes free throw 1 of 2	52 - 63	52	63	0	1	Joel Embiid		makes	free throw		1-2				
+401129101	2	11:33	26.5	phi	Mike Scott enters the game for Tobias Harris	52 - 63	52	63	0	0	Mike Scott	Tobias Harris	enters the game for							
+401129101	2	11:33	26.5	phi	Joel Embiid makes free throw 2 of 2	52 - 64	52	64	0	1	Joel Embiid		makes	free throw		2-2				
+401129101	2	11:55	4.7	tor	Joel Embiid blocks Kawhi Leonard 's 5-foot driving dunk	52 - 64	52	64	0	0	Joel Embiid	Kawhi Leonard	blocks	driving dunk	5					
+401129101	2	11:55	4.2	tor	Pascal Siakam offensive rebound	52 - 64	52	64	0	0	Pascal Siakam		offensive rebound							
+401129101	2	11:55	4.2	phi	Ben Simmons shooting foul	52 - 64	52	64	0	0	Ben Simmons		foul							
+401129101	2	11:55	4.2	tor	Pascal Siakam misses free throw 1 of 2	52 - 64	52	64	0	0	Pascal Siakam		misses	free throw		1-2				
+401129101	2	11:55	4.2	tor	Raptors offensive team rebound	52 - 64	52	64	0	0			offensive rebound	team						raptors
+401129101	2	11:55	4.2	phi	Tobias Harris enters the game for Mike Scott	52 - 64	52	64	0	0	Tobias Harris	Mike Scott	enters the game for							
+401129101	2	11:55	4.2	tor	Serge Ibaka enters the game for Marc Gasol	52 - 64	52	64	0	0	Serge Ibaka	Marc Gasol	enters the game for							
+401129101	2	11:55	4.2	tor	Pascal Siakam makes free throw 2 of 2	53 - 64	53	64	1	0	Pascal Siakam		makes	free throw		2-2				
+401129101	2	11:57	2.2	phi	JJ Redick misses 32-foot three point jumper	53 - 64	53	64	0	0	JJ Redick		misses	jumper	32		three			
+401129101	2	11:57	2.2	phi	76ers offensive team rebound	53 - 64	53	64	0	0			offensive rebound	team						76ers
+401129101	2	12:00	0.0	phi	End of the 2nd Quarter	53 - 64	53	64	0	0			end of the 2nd quarter							
+401129101	3	00:00	12:00	tor	Marc Gasol enters the game for Serge Ibaka	53 - 64	53	64	0	0	Marc Gasol	Serge Ibaka	enters the game for							
+401129101	3	00:10	11:50	phi	Tobias Harris shooting foul	53 - 64	53	64	0	0	Tobias Harris		foul							
+401129101	3	00:10	11:50	tor	Marc Gasol makes free throw 1 of 2	54 - 64	54	64	1	0	Marc Gasol		makes	free throw		1-2				
+401129101	3	00:10	11:50	tor	Marc Gasol makes free throw 2 of 2	55 - 64	55	64	1	0	Marc Gasol		makes	free throw		2-2				
+401129101	3	00:22	11:38	phi	Kawhi Leonard blocks Ben Simmons 's 7-foot layup	55 - 64	55	64	0	0	Kawhi Leonard	Ben Simmons	blocks	layup	7					
+401129101	3	00:27	11:33	tor	Danny Green defensive rebound	55 - 64	55	64	0	0	Danny Green		defensive rebound							
+401129101	3	00:31	11:29	tor	Kyle Lowry misses driving layup	55 - 64	55	64	0	0	Kyle Lowry		misses	driving layup						
+401129101	3	00:34	11:26	tor	Kawhi Leonard offensive rebound	55 - 64	55	64	0	0	Kawhi Leonard		offensive rebound							
+401129101	3	00:44	11:16	phi	Ben Simmons personal foul	55 - 64	55	64	0	0	Ben Simmons		foul							
+401129101	3	00:51	11:09	tor	Marc Gasol misses 3-foot two point shot	55 - 64	55	64	0	0	Marc Gasol		misses	shot	3		two			
+401129101	3	00:53	11:07	phi	Tobias Harris defensive rebound	55 - 64	55	64	0	0	Tobias Harris		defensive rebound							
+401129101	3	01:10	10:50	tor	Danny Green personal foul	55 - 64	55	64	0	0	Danny Green		foul							
+401129101	3	01:10	10:50	tor	delay techfoul	55 - 64	55	64	0	0			foul							
+401129101	3	01:10	10:50	phi	JJ Redick makes technical free throw	55 - 65	55	65	0	1	JJ Redick		makes	technical free throw						
+401129101	3	01:10	10:50	tor	Raptors delay of game violation	55 - 65	55	65	0	0			delay of game violation							raptors
+401129101	3	01:12	10:48	phi	JJ Redick makes two point shot (Jimmy Butler assists)	55 - 67	55	67	0	2	JJ Redick		makes	shot			two	Jimmy Butler	assists	
+401129101	3	01:26	10:34	tor	Kyle Lowry misses 3-foot two point shot	55 - 67	55	67	0	0	Kyle Lowry		misses	shot	3		two			
+401129101	3	01:28	10:32	phi	Joel Embiid defensive rebound	55 - 67	55	67	0	0	Joel Embiid		defensive rebound							
+401129101	3	01:36	10:24	phi	JJ Redick makes 27-foot three pointer	55 - 70	55	70	0	3	JJ Redick		makes	er	27		three			
+401129101	3	02:04	9:56	tor	Joel Embiid blocks Pascal Siakam's layup	55 - 70	55	70	0	0	Joel Embiid	Pascal Siakam	blocks	layup						
+401129101	3	02:07	9:53	phi	Tobias Harris defensive rebound	55 - 70	55	70	0	0	Tobias Harris		defensive rebound							
+401129101	3	02:16	9:44	tor	Pascal Siakam shooting foul	55 - 70	55	70	0	0	Pascal Siakam		foul							
+401129101	3	02:16	9:44	phi	Joel Embiid misses free throw 1 of 2	55 - 70	55	70	0	0	Joel Embiid		misses	free throw		1-2				
+401129101	3	02:16	9:44	phi	76ers offensive team rebound	55 - 70	55	70	0	0			offensive rebound	team						76ers
+401129101	3	02:16	9:44	phi	Joel Embiid makes free throw 2 of 2	55 - 71	55	71	0	1	Joel Embiid		makes	free throw		2-2				
+401129101	3	02:42	9:18	tor	Danny Green makes 9-foot two point shot (Kyle Lowry assists)	57 - 71	57	71	2	0	Danny Green		makes	shot	9		two	Kyle Lowry	assists	
+401129101	3	02:50	9:10	phi	76ers Full timeout	57 - 71	57	71	0	0			full timeout							76ers
+401129101	3	02:50	9:10	phi	James Ennis III enters the game for JJ Redick	57 - 71	57	71	0	0	James Ennis III	JJ Redick	enters the game for							
+401129101	3	02:58	9:02	phi	Jimmy Butler misses 26-foot step back jumpshot	57 - 71	57	71	0	0	Jimmy Butler		misses	step back jumpshot	26					
+401129101	3	03:02	8:58	phi	Joel Embiid offensive rebound	57 - 71	57	71	0	0	Joel Embiid		offensive rebound							
+401129101	3	03:03	8:57	phi	Joel Embiid makes two point shot	57 - 73	57	73	0	2	Joel Embiid		makes	shot			two			
+401129101	3	03:23	8:37	tor	Danny Green misses 25-foot three point jumper	57 - 73	57	73	0	0	Danny Green		misses	jumper	25		three			
+401129101	3	03:26	8:34	phi	Joel Embiid defensive rebound	57 - 73	57	73	0	0	Joel Embiid		defensive rebound							
+401129101	3	03:39	8:21	phi	Pascal Siakam blocks Joel Embiid 's 7-foot two point shot	57 - 73	57	73	0	0	Pascal Siakam	Joel Embiid	blocks	shot	7		two			
+401129101	3	03:39	8:21	phi	76ers offensive team rebound	57 - 73	57	73	0	0			offensive rebound	team						76ers
+401129101	3	03:39	8:21	phi	JJ Redick enters the game for James Ennis III	57 - 73	57	73	0	0	JJ Redick	James Ennis III	enters the game for							
+401129101	3	03:46	8:14	phi	Jimmy Butler makes driving floating jump shot (Joel Embiid assists)	57 - 75	57	75	0	2	Jimmy Butler		makes	driving floating jump shot				Joel Embiid	assists	
+401129101	3	04:02	7:58	tor	Kawhi Leonard makes 20-foot pullup jump shot	59 - 75	59	75	2	0	Kawhi Leonard		makes	pullup jump shot	20					
+401129101	3	04:26	7:34	phi	Joel Embiid misses 14-foot jumper	59 - 75	59	75	0	0	Joel Embiid		misses	jumper	14					
+401129101	3	04:29	7:31	tor	Danny Green defensive rebound	59 - 75	59	75	0	0	Danny Green		defensive rebound							
+401129101	3	04:44	7:16	phi	Tobias Harris defensive 3-seconds (technical foul)	59 - 75	59	75	0	0	Tobias Harris		defensive 3-seconds							
+401129101	3	04:44	7:16	tor	Kawhi Leonard makes technical free throw	60 - 75	60	75	1	0	Kawhi Leonard		makes	technical free throw						
+401129101	3	04:44	7:16	phi	Greg Monroe enters the game for Joel Embiid	60 - 75	60	75	0	0	Greg Monroe	Joel Embiid	enters the game for							
+401129101	3	04:44	7:16	phi	James Ennis III enters the game for JJ Redick	60 - 75	60	75	0	0	James Ennis III	JJ Redick	enters the game for							
+401129101	3	04:53	7:07	tor	Marc Gasol makes 9-foot two point shot	62 - 75	62	75	2	0	Marc Gasol		makes	shot	9		two			
+401129101	3	05:20	6:40	phi	Ben Simmons makes 11-foot two point shot (Tobias Harris assists)	62 - 77	62	77	0	2	Ben Simmons		makes	shot	11		two	Tobias Harris	assists	
+401129101	3	05:32	6:28	tor	Kawhi Leonard makes 1-foot driving dunk	64 - 77	64	77	2	0	Kawhi Leonard		makes	driving dunk	1					
+401129101	3	05:49	6:11	phi	Tobias Harris misses 28-foot three point jumper	64 - 77	64	77	0	0	Tobias Harris		misses	jumper	28		three			
+401129101	3	05:51	6:09	tor	Kyle Lowry defensive rebound	64 - 77	64	77	0	0	Kyle Lowry		defensive rebound							
+401129101	3	05:54	6:06	tor	Kyle Lowry bad pass (Jimmy Butler steals)	64 - 77	64	77	0	0	Kyle Lowry		bad pass					Jimmy Butler	steals	
+401129101	3	06:05	5:55	phi	James Ennis III makes 19-foot pullup jump shot (Ben Simmons assists)	64 - 79	64	79	0	2	James Ennis III		makes	pullup jump shot	19			Ben Simmons	assists	
+401129101	3	06:27	5:33	tor	Marc Gasol misses two point shot	64 - 79	64	79	0	0	Marc Gasol		misses	shot			two			
+401129101	3	06:29	5:31	phi	Tobias Harris defensive rebound	64 - 79	64	79	0	0	Tobias Harris		defensive rebound							
+401129101	3	06:33	5:27	phi	Jimmy Butler misses 24-foot three point jumper	64 - 79	64	79	0	0	Jimmy Butler		misses	jumper	24		three			
+401129101	3	06:33	5:27	tor	Marc Gasol defensive rebound	64 - 79	64	79	0	0	Marc Gasol		defensive rebound							
+401129101	3	06:39	5:21	tor	Kyle Lowry makes two point shot (Marc Gasol assists)	66 - 79	66	79	2	0	Kyle Lowry		makes	shot			two	Marc Gasol	assists	
+401129101	3	06:53	5:07	phi	Ben Simmons lost ball turnover (Marc Gasol steals)	66 - 79	66	79	0	0	Ben Simmons		turnover					Marc Gasol	steals	
+401129101	3	06:57	5:03	tor	Pascal Siakam makes dunk (Danny Green assists)	68 - 79	68	79	2	0	Pascal Siakam		makes	dunk				Danny Green	assists	
+401129101	3	07:00	5:00	phi	76ers Full timeout	68 - 79	68	79	0	0			full timeout							76ers
+401129101	3	07:00	5:00	phi	Mike Scott enters the game for Tobias Harris	68 - 79	68	79	0	0	Mike Scott	Tobias Harris	enters the game for							
+401129101	3	07:25	4:35	phi	James Ennis III makes layup (Ben Simmons assists)	68 - 81	68	81	0	2	James Ennis III		makes	layup				Ben Simmons	assists	
+401129101	3	07:39	4:21	tor	Kawhi Leonard makes 16-foot pullup jump shot	70 - 81	70	81	2	0	Kawhi Leonard		makes	pullup jump shot	16					
+401129101	3	08:00	4:00	phi	Ben Simmons misses 9-foot two point shot	70 - 81	70	81	0	0	Ben Simmons		misses	shot	9		two			
+401129101	3	08:02	3:58	tor	Danny Green defensive rebound	70 - 81	70	81	0	0	Danny Green		defensive rebound							
+401129101	3	08:21	3:39	tor	Pascal Siakam makes dunk (Kyle Lowry assists)	72 - 81	72	81	2	0	Pascal Siakam		makes	dunk				Kyle Lowry	assists	
+401129101	3	08:48	3:12	phi	Mike Scott makes two point shot (Jimmy Butler assists)	72 - 83	72	83	0	2	Mike Scott		makes	shot			two	Jimmy Butler	assists	
+401129101	3	09:01	2:59	phi	James Ennis III personal foul	72 - 83	72	83	0	0	James Ennis III		foul							
+401129101	3	09:01	2:59	phi	Joel Embiid enters the game for James Ennis III	72 - 83	72	83	0	0	Joel Embiid	James Ennis III	enters the game for							
+401129101	3	09:01	2:59	phi	JJ Redick enters the game for Jimmy Butler	72 - 83	72	83	0	0	JJ Redick	Jimmy Butler	enters the game for							
+401129101	3	09:01	2:59	phi	Tobias Harris enters the game for Greg Monroe	72 - 83	72	83	0	0	Tobias Harris	Greg Monroe	enters the game for							
+401129101	3	09:01	2:59	tor	Fred VanVleet enters the game for Kyle Lowry	72 - 83	72	83	0	0	Fred VanVleet	Kyle Lowry	enters the game for							
+401129101	3	09:01	2:59	tor	Serge Ibaka enters the game for Marc Gasol	72 - 83	72	83	0	0	Serge Ibaka	Marc Gasol	enters the game for							
+401129101	3	09:12	2:48	tor	Kawhi Leonard out of bounds bad pass turnover	72 - 83	72	83	0	0	Kawhi Leonard		turnover							
+401129101	3	09:23	2:37	phi	Tobias Harris makes 17-foot pullup jump shot	72 - 85	72	85	0	2	Tobias Harris		makes	pullup jump shot	17					
+401129101	3	09:48	2:12	tor	Kawhi Leonard makes 16-foot two point shot	74 - 85	74	85	2	0	Kawhi Leonard		makes	shot	16		two			
+401129101	3	10:06	1:54	phi	JJ Redick makes 20-foot pullup jump shot (Tobias Harris assists)	74 - 87	74	87	0	2	JJ Redick		makes	pullup jump shot	20			Tobias Harris	assists	
+401129101	3	10:22	1:38	tor	Kawhi Leonard makes 26-foot three point jumper	77 - 87	77	87	3	0	Kawhi Leonard		makes	jumper	26		three			
+401129101	3	10:38	1:22	phi	Tobias Harris bad pass (Serge Ibaka steals)	77 - 87	77	87	0	0	Tobias Harris		bad pass					Serge Ibaka	steals	
+401129101	3	10:42	1:18	tor	Pascal Siakam makes dunk (Kawhi Leonard assists)	79 - 87	79	87	2	0	Pascal Siakam		makes	dunk				Kawhi Leonard	assists	
+401129101	3	11:06	53.8	phi	Joel Embiid makes 15-foot jumper	79 - 89	79	89	0	2	Joel Embiid		makes	jumper	15					
+401129101	3	11:25	34.8	tor	Kawhi Leonard makes 15-foot pullup jump shot	81 - 89	81	89	2	0	Kawhi Leonard		makes	pullup jump shot	15					
+401129101	3	11:32	27.5	tor	Norman Powell enters the game for Danny Green	81 - 89	81	89	0	0	Norman Powell	Danny Green	enters the game for							
+401129101	3	11:32	27.5	phi	Mike Scott offensive foul	81 - 89	81	89	0	0	Mike Scott		foul							
+401129101	3	11:32	27.5	phi	Mike Scott turnover	81 - 89	81	89	0	0	Mike Scott		turnover							
+401129101	3	11:52	7.5	tor	Kawhi Leonard out of bounds bad pass turnover	81 - 89	81	89	0	0	Kawhi Leonard		turnover							
+401129101	3	11:55	4.6	tor	Pascal Siakam personal foul	81 - 89	81	89	0	0	Pascal Siakam		foul							
+401129101	3	11:56	3.4	phi	Mike Scott steps out of bounds turnover	81 - 89	81	89	0	0	Mike Scott		turnover							
+401129101	3	12:00	0.0	tor	Pascal Siakam misses 27-foot three point jumper	81 - 89	81	89	0	0	Pascal Siakam		misses	jumper	27		three			
+401129101	3	12:00	0.0	tor	Raptors offensive team rebound	81 - 89	81	89	0	0			offensive rebound	team						raptors
+401129101	3	12:00	0.0	phi	End of the 3rd Quarter	81 - 89	81	89	0	0			end of the 3rd quarter							
+401129101	4	00:00	12:00	phi	James Ennis III enters the game for Mike Scott	81 - 89	81	89	0	0	James Ennis III	Mike Scott	enters the game for							
+401129101	4	00:00	12:00	phi	Jimmy Butler enters the game for Ben Simmons	81 - 89	81	89	0	0	Jimmy Butler	Ben Simmons	enters the game for							
+401129101	4	00:00	12:00	tor	Kyle Lowry enters the game for Kawhi Leonard	81 - 89	81	89	0	0	Kyle Lowry	Kawhi Leonard	enters the game for							
+401129101	4	00:00	12:00	tor	Marc Gasol enters the game for Serge Ibaka	81 - 89	81	89	0	0	Marc Gasol	Serge Ibaka	enters the game for							
+401129101	4	00:00	12:00	phi	Ben Simmons technical foul (1st technical foul)	81 - 89	81	89	0	0	Ben Simmons		foul							
+401129101	4	00:00	12:00	tor	Fred VanVleet makes technical free throw	82 - 89	82	89	1	0	Fred VanVleet		makes	technical free throw						
+401129101	4	00:12	11:48	tor	Kyle Lowry shooting foul	82 - 89	82	89	0	0	Kyle Lowry		foul							
+401129101	4	00:12	11:48	phi	Jimmy Butler makes free throw 1 of 2	82 - 90	82	90	0	1	Jimmy Butler		makes	free throw		1-2				
+401129101	4	00:12	11:48	phi	Jimmy Butler makes free throw 2 of 2	82 - 91	82	91	0	1	Jimmy Butler		makes	free throw		2-2				
+401129101	4	00:33	11:27	tor	Pascal Siakam misses 24-foot three point jumper	82 - 91	82	91	0	0	Pascal Siakam		misses	jumper	24		three			
+401129101	4	00:37	11:23	phi	James Ennis III defensive rebound	82 - 91	82	91	0	0	James Ennis III		defensive rebound							
+401129101	4	00:48	11:12	phi	Joel Embiid misses driving floating jump shot	82 - 91	82	91	0	0	Joel Embiid		misses	driving floating jump shot						
+401129101	4	00:50	11:10	tor	Raptors defensive team rebound	82 - 91	82	91	0	0			defensive rebound	team						raptors
+401129101	4	01:01	10:59	tor	Kyle Lowry misses 20-foot pullup jump shot	82 - 91	82	91	0	0	Kyle Lowry		misses	pullup jump shot	20					
+401129101	4	01:05	10:55	phi	JJ Redick defensive rebound	82 - 91	82	91	0	0	JJ Redick		defensive rebound							
+401129101	4	01:16	10:44	phi	Joel Embiid makes 27-foot three point jumper (Jimmy Butler assists)	82 - 94	82	94	0	3	Joel Embiid		makes	jumper	27		three	Jimmy Butler	assists	
+401129101	4	01:42	10:18	tor	Norman Powell misses 19-foot pullup jump shot	82 - 94	82	94	0	0	Norman Powell		misses	pullup jump shot	19					
+401129101	4	01:45	10:15	tor	Marc Gasol offensive rebound	82 - 94	82	94	0	0	Marc Gasol		offensive rebound							
+401129101	4	01:55	10:05	tor	Joel Embiid blocks Pascal Siakam 's 6-foot driving layup	82 - 94	82	94	0	0	Joel Embiid	Pascal Siakam	blocks	driving layup	6					
+401129101	4	01:55	10:05	phi	76ers defensive team rebound	82 - 94	82	94	0	0			defensive rebound	team						76ers
+401129101	4	01:55	10:05	tor	Pascal Siakam flagrant foul type 1	82 - 94	82	94	0	0	Pascal Siakam		foul	type 1						
+401129101	4	01:55	10:05	phi	Joel Embiid makes free throw flagrant 1 of 2	82 - 95	82	95	0	1	Joel Embiid		makes	free throw flagrant 1 of 2						
+401129101	4	01:55	10:05	phi	Joel Embiid makes free throw flagrant 2 of 2	82 - 96	82	96	0	1	Joel Embiid		makes	free throw flagrant 2 of 2						
+401129101	4	02:05	9:55	phi	Jimmy Butler makes driving layup	82 - 98	82	98	0	2	Jimmy Butler		makes	driving layup						
+401129101	4	02:20	9:40	tor	Joel Embiid blocks Pascal Siakam 's 1-foot dunk	82 - 98	82	98	0	0	Joel Embiid	Pascal Siakam	blocks	dunk	1					
+401129101	4	02:20	9:40	phi	Jimmy Butler defensive rebound	82 - 98	82	98	0	0	Jimmy Butler		defensive rebound							
+401129101	4	02:23	9:37	tor	Kyle Lowry personal take foul	82 - 98	82	98	0	0	Kyle Lowry		foul							
+401129101	4	02:23	9:37	tor	Kawhi Leonard enters the game for Pascal Siakam	82 - 98	82	98	0	0	Kawhi Leonard	Pascal Siakam	enters the game for							
+401129101	4	02:30	9:30	tor	Kawhi Leonard enters the game for	82 - 98	82	98	0	0	Kawhi Leonard		enters the game for							
+401129101	4	02:37	9:23	phi	Joel Embiid misses two point shot	82 - 98	82	98	0	0	Joel Embiid		misses	shot			two			
+401129101	4	02:41	9:19	tor	Marc Gasol defensive rebound	82 - 98	82	98	0	0	Marc Gasol		defensive rebound							
+401129101	4	02:57	9:03	tor	Kyle Lowry bad pass (Jimmy Butler steals)	82 - 98	82	98	0	0	Kyle Lowry		bad pass					Jimmy Butler	steals	
+401129101	4	02:59	9:01	phi	Jimmy Butler makes 2-foot dunk	82 - 100	82	100	0	2	Jimmy Butler		makes	dunk	2					
+401129101	4	02:59	9:01	tor	Raptors Full timeout	82 - 100	82	100	0	0			full timeout							raptors
+401129101	4	02:59	9:01	phi	Ben Simmons enters the game for JJ Redick	82 - 100	82	100	0	0	Ben Simmons	JJ Redick	enters the game for							
+401129101	4	02:59	9:01	phi	Greg Monroe enters the game for Joel Embiid	82 - 100	82	100	0	0	Greg Monroe	Joel Embiid	enters the game for							
+401129101	4	02:59	9:01	tor	Serge Ibaka enters the game for Norman Powell	82 - 100	82	100	0	0	Serge Ibaka	Norman Powell	enters the game for							
+401129101	4	02:59	9:01	tor	Danny Green enters the game for Marc Gasol	82 - 100	82	100	0	0	Danny Green	Marc Gasol	enters the game for							
+401129101	4	03:11	8:49	tor	Serge Ibaka misses 17-foot two point shot	82 - 100	82	100	0	0	Serge Ibaka		misses	shot	17		two			
+401129101	4	03:14	8:46	phi	Tobias Harris defensive rebound	82 - 100	82	100	0	0	Tobias Harris		defensive rebound							
+401129101	4	03:21	8:39	phi	Jimmy Butler misses 27-foot three point pullup jump shot	82 - 100	82	100	0	0	Jimmy Butler		misses	pullup jump shot	27		three			
+401129101	4	03:25	8:35	tor	Serge Ibaka defensive rebound	82 - 100	82	100	0	0	Serge Ibaka		defensive rebound							
+401129101	4	03:47	8:13	tor	Danny Green makes 12-foot jump bank shot	84 - 100	84	100	2	0	Danny Green		makes	jump bank shot	12					
+401129101	4	04:09	7:51	phi	James Ennis III misses 23-foot three point jumper	84 - 100	84	100	0	0	James Ennis III		misses	jumper	23		three			
+401129101	4	04:12	7:48	tor	Kyle Lowry defensive rebound	84 - 100	84	100	0	0	Kyle Lowry		defensive rebound							
+401129101	4	04:16	7:44	tor	Danny Green misses 27-foot three point jumper	84 - 100	84	100	0	0	Danny Green		misses	jumper	27		three			
+401129101	4	04:20	7:40	phi	Tobias Harris defensive rebound	84 - 100	84	100	0	0	Tobias Harris		defensive rebound							
+401129101	4	04:41	7:19	phi	Tobias Harris misses 5-foot jumper	84 - 100	84	100	0	0	Tobias Harris		misses	jumper	5					
+401129101	4	04:43	7:17	phi	Greg Monroe offensive rebound	84 - 100	84	100	0	0	Greg Monroe		offensive rebound							
+401129101	4	04:43	7:17	phi	Greg Monroe makes tip shot	84 - 102	84	102	0	2	Greg Monroe		makes	tip shot						
+401129101	4	04:43	7:17	tor	Serge Ibaka defensive goaltending violation	84 - 102	84	102	0	0	Serge Ibaka		defensive goaltending violation							
+401129101	4	04:59	7:01	tor	Jimmy Butler blocks Fred VanVleet 's 26-foot three point jumper	84 - 102	84	102	0	0	Jimmy Butler	Fred VanVleet	blocks	jumper	26		three			
+401129101	4	05:04	6:56	phi	Ben Simmons defensive rebound	84 - 102	84	102	0	0	Ben Simmons		defensive rebound							
+401129101	4	05:19	6:41	phi	Greg Monroe misses layup	84 - 102	84	102	0	0	Greg Monroe		misses	layup						
+401129101	4	05:22	6:38	tor	Serge Ibaka defensive rebound	84 - 102	84	102	0	0	Serge Ibaka		defensive rebound							
+401129101	4	05:24	6:36	tor	Danny Green misses running pullup jump shot	84 - 102	84	102	0	0	Danny Green		misses	running pullup jump shot						
+401129101	4	05:29	6:31	tor	Danny Green offensive rebound	84 - 102	84	102	0	0	Danny Green		offensive rebound							
+401129101	4	05:40	6:20	tor	Kawhi Leonard misses 28-foot three point jumper	84 - 102	84	102	0	0	Kawhi Leonard		misses	jumper	28		three			
+401129101	4	05:43	6:17	phi	Tobias Harris defensive rebound	84 - 102	84	102	0	0	Tobias Harris		defensive rebound							
+401129101	4	05:46	6:14	phi	76ers Full timeout	84 - 102	84	102	0	0			full timeout							76ers
+401129101	4	05:46	6:14	phi	Joel Embiid enters the game for Tobias Harris	84 - 102	84	102	0	0	Joel Embiid	Tobias Harris	enters the game for							
+401129101	4	05:46	6:14	phi	Mike Scott enters the game for Greg Monroe	84 - 102	84	102	0	0	Mike Scott	Greg Monroe	enters the game for							
+401129101	4	05:46	6:14	tor	Marc Gasol enters the game for Serge Ibaka	84 - 102	84	102	0	0	Marc Gasol	Serge Ibaka	enters the game for							
+401129101	4	05:46	6:14	tor	Patrick McCaw enters the game for Fred VanVleet	84 - 102	84	102	0	0	Patrick McCaw	Fred VanVleet	enters the game for							
+401129101	4	05:54	6:06	phi	Joel Embiid makes layup (Jimmy Butler assists)	84 - 104	84	104	0	2	Joel Embiid		makes	layup				Jimmy Butler	assists	
+401129101	4	05:54	6:06	tor	Kyle Lowry shooting foul	84 - 104	84	104	0	0	Kyle Lowry		foul							
+401129101	4	05:54	6:06	phi	Joel Embiid makes free throw 1 of 1	84 - 105	84	105	0	1	Joel Embiid		makes	free throw		1-1				
+401129101	4	06:05	5:55	tor	Kawhi Leonard misses 15-foot pullup jump shot	84 - 105	84	105	0	0	Kawhi Leonard		misses	pullup jump shot	15					
+401129101	4	06:08	5:52	phi	Ben Simmons defensive rebound	84 - 105	84	105	0	0	Ben Simmons		defensive rebound							
+401129101	4	06:09	5:51	phi	Jimmy Butler makes dunk (Ben Simmons assists)	84 - 107	84	107	0	2	Jimmy Butler		makes	dunk				Ben Simmons	assists	
+401129101	4	06:09	5:51	tor	Marc Gasol shooting foul	84 - 107	84	107	0	0	Marc Gasol		foul							
+401129101	4	06:09	5:51	phi	Jimmy Butler makes free throw 1 of 1	84 - 108	84	108	0	1	Jimmy Butler		makes	free throw		1-1				
+401129101	4	06:19	5:41	tor	Kawhi Leonard bad pass (Jimmy Butler steals)	84 - 108	84	108	0	0	Kawhi Leonard		bad pass					Jimmy Butler	steals	
+401129101	4	06:29	5:31	phi	Joel Embiid makes driving dunk (Ben Simmons assists)	84 - 110	84	110	0	2	Joel Embiid		makes	driving dunk				Ben Simmons	assists	
+401129101	4	06:44	5:16	tor	Kyle Lowry misses 27-foot three point pullup jump shot	84 - 110	84	110	0	0	Kyle Lowry		misses	pullup jump shot	27		three			
+401129101	4	06:47	5:13	phi	Jimmy Butler defensive rebound	84 - 110	84	110	0	0	Jimmy Butler		defensive rebound							
+401129101	4	06:54	5:06	phi	Joel Embiid misses 26-foot three point jumper	84 - 110	84	110	0	0	Joel Embiid		misses	jumper	26		three			
+401129101	4	06:57	5:03	tor	Marc Gasol defensive rebound	84 - 110	84	110	0	0	Marc Gasol		defensive rebound							
+401129101	4	06:59	5:01	phi	Joel Embiid shooting foul	84 - 110	84	110	0	0	Joel Embiid		foul							
+401129101	4	06:59	5:01	tor	Kawhi Leonard makes free throw 1 of 2	85 - 110	85	110	1	0	Kawhi Leonard		makes	free throw		1-2				
+401129101	4	06:59	5:01	phi	Jonah Bolden enters the game for Joel Embiid	85 - 110	85	110	0	0	Jonah Bolden	Joel Embiid	enters the game for							
+401129101	4	06:59	5:01	tor	Norman Powell enters the game for Danny Green	85 - 110	85	110	0	0	Norman Powell	Danny Green	enters the game for							
+401129101	4	06:59	5:01	phi	Jonathon Simmons enters the game for Jimmy Butler	85 - 110	85	110	0	0	Jonathon Simmons	Jimmy Butler	enters the game for							
+401129101	4	06:59	5:01	phi	T.J. McConnell enters the game for Ben Simmons	85 - 110	85	110	0	0	T.J. McConnell	Ben Simmons	enters the game for							
+401129101	4	06:59	5:01	tor	Serge Ibaka enters the game for Kyle Lowry	85 - 110	85	110	0	0	Serge Ibaka	Kyle Lowry	enters the game for							
+401129101	4	06:59	5:01	tor	Fred VanVleet enters the game for Marc Gasol	85 - 110	85	110	0	0	Fred VanVleet	Marc Gasol	enters the game for							
+401129101	4	06:59	5:01	tor	Kawhi Leonard makes free throw 2 of 2	86 - 110	86	110	1	0	Kawhi Leonard		makes	free throw		2-2				
+401129101	4	07:12	4:48	phi	Jonah Bolden offensive foul	86 - 110	86	110	0	0	Jonah Bolden		foul							
+401129101	4	07:12	4:48	phi	Jonah Bolden turnover	86 - 110	86	110	0	0	Jonah Bolden		turnover							
+401129101	4	07:12	4:48	tor	Jodie Meeks enters the game for Kawhi Leonard	86 - 110	86	110	0	0	Jodie Meeks	Kawhi Leonard	enters the game for							
+401129101	4	07:30	4:30	tor	Serge Ibaka makes 18-foot two point shot	88 - 110	88	110	2	0	Serge Ibaka		makes	shot	18		two			
+401129101	4	07:32	4:28	phi	76ers Full timeout	88 - 110	88	110	0	0			full timeout							76ers
+401129101	4	07:32	4:28	phi	Amir Johnson enters the game for Mike Scott	88 - 110	88	110	0	0	Amir Johnson	Mike Scott	enters the game for							
+401129101	4	07:55	4:05	phi	James Ennis III misses 27-foot step back jumpshot	88 - 110	88	110	0	0	James Ennis III		misses	step back jumpshot	27					
+401129101	4	07:57	4:03	tor	Fred VanVleet defensive rebound	88 - 110	88	110	0	0	Fred VanVleet		defensive rebound							
+401129101	4	08:06	3:54	tor	Serge Ibaka misses 7-foot two point shot	88 - 110	88	110	0	0	Serge Ibaka		misses	shot	7		two			
+401129101	4	08:08	3:52	phi	T.J. McConnell defensive rebound	88 - 110	88	110	0	0	T.J. McConnell		defensive rebound							
+401129101	4	08:17	3:43	phi	Jonathon Simmons misses driving floating jump shot	88 - 110	88	110	0	0	Jonathon Simmons		misses	driving floating jump shot						
+401129101	4	08:19	3:41	tor	Jodie Meeks defensive rebound	88 - 110	88	110	0	0	Jodie Meeks		defensive rebound							
+401129101	4	08:26	3:34	tor	Jodie Meeks makes driving floating jump shot	90 - 110	90	110	2	0	Jodie Meeks		makes	driving floating jump shot						
+401129101	4	08:42	3:18	phi	James Ennis III makes two point shot (Jonah Bolden assists)	90 - 112	90	112	0	2	James Ennis III		makes	shot			two	Jonah Bolden	assists	
+401129101	4	09:01	2:59	tor	Serge Ibaka misses 19-foot jumper	90 - 112	90	112	0	0	Serge Ibaka		misses	jumper	19					
+401129101	4	09:03	2:57	phi	James Ennis III defensive rebound	90 - 112	90	112	0	0	James Ennis III		defensive rebound							
+401129101	4	09:09	2:51	phi	76ers Full timeout	90 - 112	90	112	0	0			full timeout							76ers
+401129101	4	09:09	2:51	tor	Eric Moreland enters the game for Serge Ibaka	90 - 112	90	112	0	0	Eric Moreland	Serge Ibaka	enters the game for							
+401129101	4	09:09	2:51	phi	Boban Marjanovic enters the game for James Ennis III	90 - 112	90	112	0	0	Boban Marjanovic	James Ennis III	enters the game for							
+401129101	4	09:24	2:36	phi	Jonathon Simmons misses two point shot	90 - 112	90	112	0	0	Jonathon Simmons		misses	shot			two			
+401129101	4	09:28	2:32	tor	Eric Moreland defensive rebound	90 - 112	90	112	0	0	Eric Moreland		defensive rebound							
+401129101	4	09:36	2:24	tor	Fred VanVleet misses pullup jump shot	90 - 112	90	112	0	0	Fred VanVleet		misses	pullup jump shot						
+401129101	4	09:40	2:20	phi	Boban Marjanovic defensive rebound	90 - 112	90	112	0	0	Boban Marjanovic		defensive rebound							
+401129101	4	09:57	2:03	phi	Amir Johnson makes alley oop layup (Boban Marjanovic assists)	90 - 114	90	114	0	2	Amir Johnson		makes	alley oop layup				Boban Marjanovic	assists	
+401129101	4	10:24	1:36	tor	Norman Powell misses 28-foot three point jumper	90 - 114	90	114	0	0	Norman Powell		misses	jumper	28		three			
+401129101	4	10:30	1:30	tor	Fred VanVleet offensive rebound	90 - 114	90	114	0	0	Fred VanVleet		offensive rebound							
+401129101	4	10:32	1:28	tor	Fred VanVleet misses 28-foot three point jumper	90 - 114	90	114	0	0	Fred VanVleet		misses	jumper	28		three			
+401129101	4	10:33	1:27	phi	76ers defensive team rebound	90 - 114	90	114	0	0			defensive rebound	team						76ers
+401129101	4	10:33	1:27	tor	Malcolm Miller enters the game for Fred VanVleet	90 - 114	90	114	0	0	Malcolm Miller	Fred VanVleet	enters the game for							
+401129101	4	10:43	1:17	phi	Amir Johnson makes driving layup	90 - 116	90	116	0	2	Amir Johnson		makes	driving layup						
+401129101	4	10:54	1:06	tor	Jodie Meeks makes 16-foot driving floating jump shot (Norman Powell assists)	92 - 116	92	116	2	0	Jodie Meeks		makes	driving floating jump shot	16			Norman Powell	assists	
+401129101	4	11:05	54.7	phi	T.J. McConnell misses 12-foot two point shot	92 - 116	92	116	0	0	T.J. McConnell		misses	shot	12		two			
+401129101	4	11:07	52.5	tor	Malcolm Miller defensive rebound	92 - 116	92	116	0	0	Malcolm Miller		defensive rebound							
+401129101	4	11:14	45.5	tor	Jodie Meeks misses 27-foot three point jumper	92 - 116	92	116	0	0	Jodie Meeks		misses	jumper	27		three			
+401129101	4	11:18	41.7	phi	76ers defensive team rebound	92 - 116	92	116	0	0			defensive rebound	team						76ers
+401129101	4	11:28	31.3	phi	Amir Johnson bad pass (Jodie Meeks steals)	92 - 116	92	116	0	0	Amir Johnson		bad pass					Jodie Meeks	steals	
+401129101	4	11:32	27.3	tor	Norman Powell makes 26-foot three point jumper	95 - 116	95	116	3	0	Norman Powell		makes	jumper	26		three			
+401129101	4	12:00	0.0	phi	End of the 4th Quarter	95 - 116	95	116	0	0			end of the 4th quarter							
+401129101	4	12:00	0.0	phi	End of Game	95 - 116	95	116	0	0			end of game							

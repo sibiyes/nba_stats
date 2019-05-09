@@ -1,0 +1,23 @@
+create table if not exists plays_201819 (
+game_id text,
+quarter int,
+q_time text,
+q_time_remaining text,
+team text,
+event text,
+score text,
+team1_score int,
+team2_score int,
+team1_event_point int,
+team2_event_point int,
+player1 text,
+player2 text,
+action text,
+action_what text,
+foot_value text,
+free_throw text,
+point_info text,
+player_secondary text,
+action_secondary text,
+team_action text
+);

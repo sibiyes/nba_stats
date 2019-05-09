@@ -1,0 +1,497 @@
+game_id	quarter	q_time	q_time_remaining	team	event	score	team1_score	team2_score	team1_event_point	team2_event_point	player1	player2	action	action_what	foot_value	free_throw	point_info	player_secondary	action_secondary	team_action
+401129363	1	00:00	12:00	den	Paul Millsap vs. Enes Kanter (Nikola Jokic gains possession)	0 - 0	0	0	0	0	Paul Millsap	Enes Kanter	vs.					Nikola Jokic	gains possession	
+401129363	1	00:15	11:45	den	Nikola Jokic misses 21-foot jumper	0 - 0	0	0	0	0	Nikola Jokic		misses	jumper	21					
+401129363	1	00:18	11:42	por	Al-Farouq Aminu defensive rebound	0 - 0	0	0	0	0	Al-Farouq Aminu		defensive rebound							
+401129363	1	00:27	11:33	por	Enes Kanter makes 14-foot two point shot (Damian Lillard assists)	0 - 2	0	2	0	2	Enes Kanter		makes	shot	14		two	Damian Lillard	assists	
+401129363	1	00:53	11:07	den	Jamal Murray makes 9-foot driving floating jump shot	2 - 2	2	2	2	0	Jamal Murray		makes	driving floating jump shot	9					
+401129363	1	01:17	10:43	por	CJ McCollum makes 25-foot three pointer	2 - 5	2	5	0	3	CJ McCollum		makes	er	25		three			
+401129363	1	01:32	10:28	den	Nikola Jokic misses 4-foot two point shot	2 - 5	2	5	0	0	Nikola Jokic		misses	shot	4		two			
+401129363	1	01:35	10:25	den	Nikola Jokic offensive rebound	2 - 5	2	5	0	0	Nikola Jokic		offensive rebound							
+401129363	1	01:43	10:17	den	Gary Harris misses driving floating jump shot	2 - 5	2	5	0	0	Gary Harris		misses	driving floating jump shot						
+401129363	1	01:44	10:16	por	Enes Kanter defensive rebound	2 - 5	2	5	0	0	Enes Kanter		defensive rebound							
+401129363	1	01:50	10:10	den	Gary Harris shooting foul	2 - 5	2	5	0	0	Gary Harris		foul							
+401129363	1	01:50	10:10	por	CJ McCollum makes free throw 1 of 2	2 - 6	2	6	0	1	CJ McCollum		makes	free throw		1-2				
+401129363	1	01:50	10:10	por	CJ McCollum makes free throw 2 of 2	2 - 7	2	7	0	1	CJ McCollum		makes	free throw		2-2				
+401129363	1	02:01	9:59	den	Torrey Craig makes 23-foot three point jumper (Jamal Murray assists)	5 - 7	5	7	3	0	Torrey Craig		makes	jumper	23		three	Jamal Murray	assists	
+401129363	1	02:21	9:39	por	Al-Farouq Aminu misses 25-foot three point jumper	5 - 7	5	7	0	0	Al-Farouq Aminu		misses	jumper	25		three			
+401129363	1	02:24	9:36	den	Nikola Jokic defensive rebound	5 - 7	5	7	0	0	Nikola Jokic		defensive rebound							
+401129363	1	02:33	9:27	por	Maurice Harkless shooting foul	5 - 7	5	7	0	0	Maurice Harkless		foul							
+401129363	1	02:33	9:27	den	Paul Millsap makes free throw 1 of 2	6 - 7	6	7	1	0	Paul Millsap		makes	free throw		1-2				
+401129363	1	02:33	9:27	den	Paul Millsap misses free throw 2 of 2	6 - 7	6	7	0	0	Paul Millsap		misses	free throw		2-2				
+401129363	1	02:35	9:25	por	Maurice Harkless defensive rebound	6 - 7	6	7	0	0	Maurice Harkless		defensive rebound							
+401129363	1	02:46	9:14	por	Maurice Harkless misses two point shot	6 - 7	6	7	0	0	Maurice Harkless		misses	shot			two			
+401129363	1	02:48	9:12	den	Paul Millsap defensive rebound	6 - 7	6	7	0	0	Paul Millsap		defensive rebound							
+401129363	1	02:55	9:05	den	Jamal Murray makes driving layup	8 - 7	8	7	2	0	Jamal Murray		makes	driving layup						
+401129363	1	03:14	8:46	por	Paul Millsap blocks Al-Farouq Aminu 's 2-foot driving layup	8 - 7	8	7	0	0	Paul Millsap	Al-Farouq Aminu	blocks	driving layup	2					
+401129363	1	03:16	8:44	den	Paul Millsap defensive rebound	8 - 7	8	7	0	0	Paul Millsap		defensive rebound							
+401129363	1	03:20	8:40	den	Gary Harris misses 24-foot three point jumper	8 - 7	8	7	0	0	Gary Harris		misses	jumper	24		three			
+401129363	1	03:26	8:34	den	Paul Millsap offensive rebound	8 - 7	8	7	0	0	Paul Millsap		offensive rebound							
+401129363	1	03:26	8:34	den	Paul Millsap makes two point shot	10 - 7	10	7	2	0	Paul Millsap		makes	shot			two			
+401129363	1	03:36	8:24	den	Paul Millsap shooting foul	10 - 7	10	7	0	0	Paul Millsap		foul							
+401129363	1	03:36	8:24	por	Al-Farouq Aminu misses free throw 1 of 2	10 - 7	10	7	0	0	Al-Farouq Aminu		misses	free throw		1-2				
+401129363	1	03:36	8:24	por	Trail Blazers offensive team rebound	10 - 7	10	7	0	0			offensive rebound	team						trail blazers
+401129363	1	03:36	8:24	por	Al-Farouq Aminu makes free throw 2 of 2	10 - 8	10	8	0	1	Al-Farouq Aminu		makes	free throw		2-2				
+401129363	1	03:50	8:10	den	Jamal Murray out of bounds lost ball turnover	10 - 8	10	8	0	0	Jamal Murray		turnover							
+401129363	1	03:58	8:02	den	Torrey Craig personal foul	10 - 8	10	8	0	0	Torrey Craig		foul							
+401129363	1	04:06	7:54	por	Maurice Harkless misses 27-foot three point jumper	10 - 8	10	8	0	0	Maurice Harkless		misses	jumper	27		three			
+401129363	1	04:11	7:49	den	Torrey Craig defensive rebound	10 - 8	10	8	0	0	Torrey Craig		defensive rebound							
+401129363	1	04:18	7:42	den	Jamal Murray makes 25-foot three pointer	13 - 8	13	8	3	0	Jamal Murray		makes	er	25		three			
+401129363	1	04:38	7:22	por	Maurice Harkless misses driving layup	13 - 8	13	8	0	0	Maurice Harkless		misses	driving layup						
+401129363	1	04:39	7:21	por	Enes Kanter offensive rebound	13 - 8	13	8	0	0	Enes Kanter		offensive rebound							
+401129363	1	04:39	7:21	por	Enes Kanter misses tip shot	13 - 8	13	8	0	0	Enes Kanter		misses	tip shot						
+401129363	1	04:39	7:21	por	Enes Kanter offensive rebound	13 - 8	13	8	0	0	Enes Kanter		offensive rebound							
+401129363	1	04:39	7:21	por	Enes Kanter misses tip shot	13 - 8	13	8	0	0	Enes Kanter		misses	tip shot						
+401129363	1	04:39	7:21	por	Maurice Harkless offensive rebound	13 - 8	13	8	0	0	Maurice Harkless		offensive rebound							
+401129363	1	04:39	7:21	den	Nikola Jokic shooting foul	13 - 8	13	8	0	0	Nikola Jokic		foul							
+401129363	1	04:39	7:21	por	Maurice Harkless makes free throw 1 of 2	13 - 9	13	9	0	1	Maurice Harkless		makes	free throw		1-2				
+401129363	1	04:39	7:21	por	Maurice Harkless makes free throw 2 of 2	13 - 10	13	10	0	1	Maurice Harkless		makes	free throw		2-2				
+401129363	1	04:47	7:13	den	Nikola Jokic lost ball turnover (Maurice Harkless steals)	13 - 10	13	10	0	0	Nikola Jokic		turnover					Maurice Harkless	steals	
+401129363	1	04:54	7:06	por	Maurice Harkless out of bounds lost ball turnover	13 - 10	13	10	0	0	Maurice Harkless		turnover							
+401129363	1	05:11	6:49	den	Nikola Jokic makes 12-foot driving floating jump shot (Jamal Murray assists)	15 - 10	15	10	2	0	Nikola Jokic		makes	driving floating jump shot	12			Jamal Murray	assists	
+401129363	1	05:13	6:47	por	Trail Blazers Full timeout	15 - 10	15	10	0	0			full timeout							trail blazers
+401129363	1	05:40	6:20	por	Gary Harris blocks CJ McCollum 's 16-foot pullup jump shot	15 - 10	15	10	0	0	Gary Harris	CJ McCollum	blocks	pullup jump shot	16					
+401129363	1	05:40	6:20	den	Jamal Murray defensive rebound	15 - 10	15	10	0	0	Jamal Murray		defensive rebound							
+401129363	1	05:41	6:19	por	CJ McCollum personal foul	15 - 10	15	10	0	0	CJ McCollum		foul							
+401129363	1	05:49	6:11	den	Jamal Murray makes 2-foot driving dunk	17 - 10	17	10	2	0	Jamal Murray		makes	driving dunk	2					
+401129363	1	06:01	5:59	por	Al-Farouq Aminu makes driving layup (Damian Lillard assists)	17 - 12	17	12	0	2	Al-Farouq Aminu		makes	driving layup				Damian Lillard	assists	
+401129363	1	06:20	5:40	den	Nikola Jokic bad pass (Damian Lillard steals)	17 - 12	17	12	0	0	Nikola Jokic		bad pass					Damian Lillard	steals	
+401129363	1	06:23	5:37	por	Damian Lillard makes 1-foot dunk	17 - 14	17	14	0	2	Damian Lillard		makes	dunk	1					
+401129363	1	06:40	5:20	por	Enes Kanter personal foul	17 - 14	17	14	0	0	Enes Kanter		foul							
+401129363	1	06:49	5:11	den	Gary Harris misses two point shot	17 - 14	17	14	0	0	Gary Harris		misses	shot			two			
+401129363	1	06:51	5:09	por	Enes Kanter defensive rebound	17 - 14	17	14	0	0	Enes Kanter		defensive rebound							
+401129363	1	06:59	5:01	por	Enes Kanter out of bounds lost ball turnover	17 - 14	17	14	0	0	Enes Kanter		turnover							
+401129363	1	07:01	4:59	den	Nikola Jokic bad pass (Damian Lillard steals)	17 - 14	17	14	0	0	Nikola Jokic		bad pass					Damian Lillard	steals	
+401129363	1	07:07	4:53	por	CJ McCollum makes 11-foot driving floating jump shot	17 - 16	17	16	0	2	CJ McCollum		makes	driving floating jump shot	11					
+401129363	1	07:09	4:51	por	Rodney Hood enters the game for Maurice Harkless	17 - 16	17	16	0	0	Rodney Hood	Maurice Harkless	enters the game for							
+401129363	1	07:09	4:51	den	Nuggets Full timeout	17 - 16	17	16	0	0			full timeout							nuggets
+401129363	1	07:26	4:34	den	Paul Millsap makes 5-foot two point shot	19 - 16	19	16	2	0	Paul Millsap		makes	shot	5		two			
+401129363	1	07:39	4:21	den	Torrey Craig shooting foul	19 - 16	19	16	0	0	Torrey Craig		foul							
+401129363	1	07:39	4:21	por	Damian Lillard makes free throw 1 of 2	19 - 17	19	17	0	1	Damian Lillard		makes	free throw		1-2				
+401129363	1	07:39	4:21	den	Malik Beasley enters the game for Torrey Craig	19 - 17	19	17	0	0	Malik Beasley	Torrey Craig	enters the game for							
+401129363	1	07:39	4:21	por	Damian Lillard makes free throw 2 of 2	19 - 18	19	18	0	1	Damian Lillard		makes	free throw		2-2				
+401129363	1	07:50	4:10	por	Rodney Hood shooting foul	19 - 18	19	18	0	0	Rodney Hood		foul							
+401129363	1	07:50	4:10	den	Jamal Murray makes free throw 1 of 2	20 - 18	20	18	1	0	Jamal Murray		makes	free throw		1-2				
+401129363	1	07:50	4:10	den	Jamal Murray makes free throw 2 of 2	21 - 18	21	18	1	0	Jamal Murray		makes	free throw		2-2				
+401129363	1	08:08	3:52	por	Damian Lillard makes 21-foot two point shot (Rodney Hood assists)	21 - 20	21	20	0	2	Damian Lillard		makes	shot	21		two	Rodney Hood	assists	
+401129363	1	08:24	3:36	den	Gary Harris makes driving layup	23 - 20	23	20	2	0	Gary Harris		makes	driving layup						
+401129363	1	08:50	3:10	por	Enes Kanter misses 6-foot two point shot	23 - 20	23	20	0	0	Enes Kanter		misses	shot	6		two			
+401129363	1	08:50	3:10	den	Nuggets defensive team rebound	23 - 20	23	20	0	0			defensive rebound	team						nuggets
+401129363	1	09:02	2:58	por	Enes Kanter shooting foul	23 - 20	23	20	0	0	Enes Kanter		foul							
+401129363	1	09:02	2:58	den	Nikola Jokic makes free throw 1 of 2	24 - 20	24	20	1	0	Nikola Jokic		makes	free throw		1-2				
+401129363	1	09:02	2:58	por	Seth Curry enters the game for Enes Kanter	24 - 20	24	20	0	0	Seth Curry	Enes Kanter	enters the game for							
+401129363	1	09:02	2:58	por	Zach Collins enters the game for CJ McCollum	24 - 20	24	20	0	0	Zach Collins	CJ McCollum	enters the game for							
+401129363	1	09:02	2:58	den	Nikola Jokic makes free throw 2 of 2	25 - 20	25	20	1	0	Nikola Jokic		makes	free throw		2-2				
+401129363	1	09:18	2:42	por	Al-Farouq Aminu makes 1-foot dunk (Damian Lillard assists)	25 - 22	25	22	0	2	Al-Farouq Aminu		makes	dunk	1			Damian Lillard	assists	
+401129363	1	09:30	2:30	den	Malik Beasley misses driving layup	25 - 22	25	22	0	0	Malik Beasley		misses	driving layup						
+401129363	1	09:31	2:29	den	Malik Beasley offensive rebound	25 - 22	25	22	0	0	Malik Beasley		offensive rebound							
+401129363	1	09:32	2:28	den	Zach Collins blocks Malik Beasley 's 2-foot two point shot	25 - 22	25	22	0	0	Zach Collins	Malik Beasley	blocks	shot	2		two			
+401129363	1	09:32	2:28	por	Rodney Hood defensive rebound	25 - 22	25	22	0	0	Rodney Hood		defensive rebound							
+401129363	1	09:34	2:26	den	Gary Harris personal foul	25 - 22	25	22	0	0	Gary Harris		foul							
+401129363	1	09:34	2:26	por	Al-Farouq Aminu makes free throw 1 of 2	25 - 23	25	23	0	1	Al-Farouq Aminu		makes	free throw		1-2				
+401129363	1	09:34	2:26	den	Will Barton enters the game for Paul Millsap	25 - 23	25	23	0	0	Will Barton	Paul Millsap	enters the game for							
+401129363	1	09:34	2:26	den	Mason Plumlee enters the game for	25 - 23	25	23	0	0	Mason Plumlee		enters the game for							
+401129363	1	09:34	2:26	por	Al-Farouq Aminu makes free throw 2 of 2	25 - 24	25	24	0	1	Al-Farouq Aminu		makes	free throw		2-2				
+401129363	1	09:34	2:26	den	enters the game for Gary Harris	25 - 24	25	24	0	0		Gary Harris	enters the game for gary harris							
+401129363	1	09:50	2:10	den	Malik Beasley misses 26-foot three point jumper	25 - 24	25	24	0	0	Malik Beasley		misses	jumper	26		three			
+401129363	1	09:52	2:08	por	Rodney Hood defensive rebound	25 - 24	25	24	0	0	Rodney Hood		defensive rebound							
+401129363	1	10:03	1:57	por	Damian Lillard makes 26-foot three pointer (Zach Collins assists)	25 - 27	25	27	0	3	Damian Lillard		makes	er	26		three	Zach Collins	assists	
+401129363	1	10:03	1:57	den	Will Barton shooting foul	25 - 27	25	27	0	0	Will Barton		foul							
+401129363	1	10:03	1:57	por	Damian Lillard makes free throw 1 of 1	25 - 28	25	28	0	1	Damian Lillard		makes	free throw		1-1				
+401129363	1	10:23	1:37	den	Jamal Murray makes driving floating jump shot (Nikola Jokic assists)	27 - 28	27	28	2	0	Jamal Murray		makes	driving floating jump shot				Nikola Jokic	assists	
+401129363	1	10:37	1:23	por	Damian Lillard misses 20-foot step back jumpshot	27 - 28	27	28	0	0	Damian Lillard		misses	step back jumpshot	20					
+401129363	1	10:38	1:22	por	Seth Curry offensive rebound	27 - 28	27	28	0	0	Seth Curry		offensive rebound							
+401129363	1	10:40	1:20	por	Seth Curry makes two point shot	27 - 30	27	30	0	2	Seth Curry		makes	shot			two			
+401129363	1	11:00	59.3	den	Nikola Jokic misses 11-foot two point shot	27 - 30	27	30	0	0	Nikola Jokic		misses	shot	11		two			
+401129363	1	11:01	58.7	den	Nikola Jokic offensive rebound	27 - 30	27	30	0	0	Nikola Jokic		offensive rebound							
+401129363	1	11:02	57.1	den	Nikola Jokic misses two point shot	27 - 30	27	30	0	0	Nikola Jokic		misses	shot			two			
+401129363	1	11:04	55.5	den	Nikola Jokic offensive rebound	27 - 30	27	30	0	0	Nikola Jokic		offensive rebound							
+401129363	1	11:05	55.0	den	Nikola Jokic makes 3-foot two point shot	29 - 30	29	30	2	0	Nikola Jokic		makes	shot	3		two			
+401129363	1	11:27	32.3	por	Al-Farouq Aminu makes 24-foot three point jumper (Damian Lillard assists)	29 - 33	29	33	0	3	Al-Farouq Aminu		makes	jumper	24		three	Damian Lillard	assists	
+401129363	1	11:51	8.1	den	Will Barton misses 24-foot three point jumper	29 - 33	29	33	0	0	Will Barton		misses	jumper	24		three			
+401129363	1	11:55	4.9	por	Seth Curry defensive rebound	29 - 33	29	33	0	0	Seth Curry		defensive rebound							
+401129363	1	11:57	2.9	por	Rodney Hood lost ball turnover (Mason Plumlee steals)	29 - 33	29	33	0	0	Rodney Hood		turnover					Mason Plumlee	steals	
+401129363	1	12:00	0.0	den	Jamal Murray misses three point pullup jump shot	29 - 33	29	33	0	0	Jamal Murray		misses	pullup jump shot			three			
+401129363	1	12:00	0.0	den	Nuggets offensive team rebound	29 - 33	29	33	0	0			offensive rebound	team						nuggets
+401129363	1	12:00	0.0	por	End of the 1st Quarter	29 - 33	29	33	0	0			end of the 1st quarter							
+401129363	2	00:00	12:00	por	CJ McCollum enters the game for Damian Lillard	29 - 33	29	33	0	0	CJ McCollum	Damian Lillard	enters the game for							
+401129363	2	00:00	12:00	por	Evan Turner enters the game for Al-Farouq Aminu	29 - 33	29	33	0	0	Evan Turner	Al-Farouq Aminu	enters the game for							
+401129363	2	00:00	12:00	den	Monte Morris enters the game for Nikola Jokic	29 - 33	29	33	0	0	Monte Morris	Nikola Jokic	enters the game for							
+401129363	2	00:00	12:00	den	Paul Millsap enters the game for Jamal Murray	29 - 33	29	33	0	0	Paul Millsap	Jamal Murray	enters the game for							
+401129363	2	00:20	11:40	por	Rodney Hood makes 8-foot two point shot	29 - 35	29	35	0	2	Rodney Hood		makes	shot	8		two			
+401129363	2	00:33	11:27	den	Will Barton makes driving floating jump shot (Monte Morris assists)	31 - 35	31	35	2	0	Will Barton		makes	driving floating jump shot				Monte Morris	assists	
+401129363	2	00:52	11:08	por	CJ McCollum misses 11-foot step back jumpshot	31 - 35	31	35	0	0	CJ McCollum		misses	step back jumpshot	11					
+401129363	2	00:53	11:07	por	Trail Blazers offensive team rebound	31 - 35	31	35	0	0			offensive rebound	team						trail blazers
+401129363	2	00:53	11:07	por	Zach Collins offensive foul	31 - 35	31	35	0	0	Zach Collins		foul							
+401129363	2	00:53	11:07	por	Zach Collins turnover	31 - 35	31	35	0	0	Zach Collins		turnover							
+401129363	2	01:07	10:53	den	Monte Morris misses two point shot	31 - 35	31	35	0	0	Monte Morris		misses	shot			two			
+401129363	2	01:09	10:51	den	Mason Plumlee offensive rebound	31 - 35	31	35	0	0	Mason Plumlee		offensive rebound							
+401129363	2	01:22	10:38	den	Mason Plumlee misses 21-foot two point shot	31 - 35	31	35	0	0	Mason Plumlee		misses	shot	21		two			
+401129363	2	01:22	10:38	den	shot clock turnover	31 - 35	31	35	0	0			turnover							
+401129363	2	01:22	10:38	den	Nuggets offensive team rebound	31 - 35	31	35	0	0			offensive rebound	team						nuggets
+401129363	2	01:36	10:24	por	Zach Collins misses driving layup	31 - 35	31	35	0	0	Zach Collins		misses	driving layup						
+401129363	2	01:38	10:22	por	Evan Turner offensive rebound	31 - 35	31	35	0	0	Evan Turner		offensive rebound							
+401129363	2	01:38	10:22	por	Evan Turner misses tip shot	31 - 35	31	35	0	0	Evan Turner		misses	tip shot						
+401129363	2	01:39	10:21	den	Malik Beasley defensive rebound	31 - 35	31	35	0	0	Malik Beasley		defensive rebound							
+401129363	2	01:45	10:15	den	Malik Beasley makes 5-foot driving floating jump shot	33 - 35	33	35	2	0	Malik Beasley		makes	driving floating jump shot	5					
+401129363	2	01:45	10:15	por	Seth Curry shooting foul	33 - 35	33	35	0	0	Seth Curry		foul							
+401129363	2	01:45	10:15	den	Malik Beasley makes free throw 1 of 1	34 - 35	34	35	1	0	Malik Beasley		makes	free throw		1-1				
+401129363	2	01:59	10:01	por	Paul Millsap blocks CJ McCollum 's 9-foot driving floating jump shot	34 - 35	34	35	0	0	Paul Millsap	CJ McCollum	blocks	driving floating jump shot	9					
+401129363	2	01:59	10:01	por	Trail Blazers offensive team rebound	34 - 35	34	35	0	0			offensive rebound	team						trail blazers
+401129363	2	02:04	9:56	por	Seth Curry bad pass (Will Barton steals)	34 - 35	34	35	0	0	Seth Curry		bad pass					Will Barton	steals	
+401129363	2	02:09	9:51	den	Monte Morris makes 16-foot pullup jump shot (Will Barton assists)	36 - 35	36	35	2	0	Monte Morris		makes	pullup jump shot	16			Will Barton	assists	
+401129363	2	02:27	9:33	por	CJ McCollum bad pass (Monte Morris steals)	36 - 35	36	35	0	0	CJ McCollum		bad pass					Monte Morris	steals	
+401129363	2	02:33	9:27	por	Seth Curry personal foul	36 - 35	36	35	0	0	Seth Curry		foul							
+401129363	2	02:37	9:23	den	Will Barton makes 25-foot three point jumper (Malik Beasley assists)	39 - 35	39	35	3	0	Will Barton		makes	jumper	25		three	Malik Beasley	assists	
+401129363	2	02:37	9:23	por	Trail Blazers Full timeout	39 - 35	39	35	0	0			full timeout							trail blazers
+401129363	2	02:52	9:08	por	CJ McCollum makes 23-foot three point jumper (Zach Collins assists)	39 - 38	39	38	0	3	CJ McCollum		makes	jumper	23		three	Zach Collins	assists	
+401129363	2	03:10	8:50	den	Paul Millsap misses driving floating jump shot	39 - 38	39	38	0	0	Paul Millsap		misses	driving floating jump shot						
+401129363	2	03:13	8:47	por	Zach Collins defensive rebound	39 - 38	39	38	0	0	Zach Collins		defensive rebound							
+401129363	2	03:28	8:32	den	Malik Beasley shooting foul	39 - 38	39	38	0	0	Malik Beasley		foul							
+401129363	2	03:28	8:32	por	CJ McCollum makes free throw 1 of 2	39 - 39	39	39	0	1	CJ McCollum		makes	free throw		1-2				
+401129363	2	03:28	8:32	por	CJ McCollum makes free throw 2 of 2	39 - 40	39	40	0	1	CJ McCollum		makes	free throw		2-2				
+401129363	2	03:39	8:21	den	Will Barton misses driving layup	39 - 40	39	40	0	0	Will Barton		misses	driving layup						
+401129363	2	03:40	8:20	por	Evan Turner defensive rebound	39 - 40	39	40	0	0	Evan Turner		defensive rebound							
+401129363	2	03:49	8:11	por	Seth Curry makes two point shot	39 - 42	39	42	0	2	Seth Curry		makes	shot			two			
+401129363	2	03:49	8:11	den	Nuggets Full timeout	39 - 42	39	42	0	0			full timeout							nuggets
+401129363	2	03:49	8:11	den	Gary Harris enters the game for Malik Beasley	39 - 42	39	42	0	0	Gary Harris	Malik Beasley	enters the game for							
+401129363	2	04:03	7:57	den	Monte Morris misses 17-foot two point shot	39 - 42	39	42	0	0	Monte Morris		misses	shot	17		two			
+401129363	2	04:05	7:55	por	CJ McCollum defensive rebound	39 - 42	39	42	0	0	CJ McCollum		defensive rebound							
+401129363	2	04:16	7:44	por	Zach Collins makes 17-foot jumper (CJ McCollum assists)	39 - 44	39	44	0	2	Zach Collins		makes	jumper	17			CJ McCollum	assists	
+401129363	2	04:41	7:19	den	Monte Morris misses driving layup	39 - 44	39	44	0	0	Monte Morris		misses	driving layup						
+401129363	2	04:42	7:18	den	Will Barton offensive rebound	39 - 44	39	44	0	0	Will Barton		offensive rebound							
+401129363	2	04:43	7:17	den	Will Barton misses two point shot	39 - 44	39	44	0	0	Will Barton		misses	shot			two			
+401129363	2	04:43	7:17	den	Nuggets offensive team rebound	39 - 44	39	44	0	0			offensive rebound	team						nuggets
+401129363	2	04:43	7:17	den	shot clock turnover	39 - 44	39	44	0	0			turnover							
+401129363	2	04:43	7:17	den	Nikola Jokic enters the game for Paul Millsap	39 - 44	39	44	0	0	Nikola Jokic	Paul Millsap	enters the game for							
+401129363	2	04:43	7:17	den	Jamal Murray enters the game for Monte Morris	39 - 44	39	44	0	0	Jamal Murray	Monte Morris	enters the game for							
+401129363	2	04:50	7:10	den	Nikola Jokic personal foul	39 - 44	39	44	0	0	Nikola Jokic		foul							
+401129363	2	04:50	7:10	por	Enes Kanter enters the game for Rodney Hood	39 - 44	39	44	0	0	Enes Kanter	Rodney Hood	enters the game for							
+401129363	2	04:57	7:03	por	Seth Curry misses 27-foot three point jumper	39 - 44	39	44	0	0	Seth Curry		misses	jumper	27		three			
+401129363	2	04:59	7:01	den	Will Barton defensive rebound	39 - 44	39	44	0	0	Will Barton		defensive rebound							
+401129363	2	05:15	6:45	por	Zach Collins personal foul	39 - 44	39	44	0	0	Zach Collins		foul							
+401129363	2	05:19	6:41	den	Will Barton misses alley oop layup	39 - 44	39	44	0	0	Will Barton		misses	alley oop layup						
+401129363	2	05:21	6:39	por	CJ McCollum defensive rebound	39 - 44	39	44	0	0	CJ McCollum		defensive rebound							
+401129363	2	05:34	6:26	por	CJ McCollum misses driving floating jump shot	39 - 44	39	44	0	0	CJ McCollum		misses	driving floating jump shot						
+401129363	2	05:37	6:23	den	Mason Plumlee defensive rebound	39 - 44	39	44	0	0	Mason Plumlee		defensive rebound							
+401129363	2	05:42	6:18	den	Mason Plumlee makes alley oop layup (Will Barton assists)	41 - 44	41	44	2	0	Mason Plumlee		makes	alley oop layup				Will Barton	assists	
+401129363	2	06:01	5:59	por	Seth Curry makes 23-foot three point jumper (Evan Turner assists)	41 - 47	41	47	0	3	Seth Curry		makes	jumper	23		three	Evan Turner	assists	
+401129363	2	06:15	5:45	den	Nikola Jokic makes 26-foot three point jumper (Will Barton assists)	44 - 47	44	47	3	0	Nikola Jokic		makes	jumper	26		three	Will Barton	assists	
+401129363	2	06:29	5:31	por	Seth Curry makes 28-foot step back jumpshot	44 - 50	44	50	0	3	Seth Curry		makes	step back jumpshot	28					
+401129363	2	06:43	5:17	den	Jamal Murray makes pullup jump shot	46 - 50	46	50	2	0	Jamal Murray		makes	pullup jump shot						
+401129363	2	07:02	4:58	por	Seth Curry makes 30-foot three point jumper (Evan Turner assists)	46 - 53	46	53	0	3	Seth Curry		makes	jumper	30		three	Evan Turner	assists	
+401129363	2	07:03	4:57	den	Nuggets Full timeout	46 - 53	46	53	0	0			full timeout							nuggets
+401129363	2	07:03	4:57	por	Damian Lillard enters the game for Evan Turner	46 - 53	46	53	0	0	Damian Lillard	Evan Turner	enters the game for							
+401129363	2	07:03	4:57	por	Maurice Harkless enters the game for CJ McCollum	46 - 53	46	53	0	0	Maurice Harkless	CJ McCollum	enters the game for							
+401129363	2	07:03	4:57	por	Al-Farouq Aminu enters the game for Zach Collins	46 - 53	46	53	0	0	Al-Farouq Aminu	Zach Collins	enters the game for							
+401129363	2	07:03	4:57	den	Torrey Craig enters the game for Will Barton	46 - 53	46	53	0	0	Torrey Craig	Will Barton	enters the game for							
+401129363	2	07:03	4:57	den	Paul Millsap enters the game for Mason Plumlee	46 - 53	46	53	0	0	Paul Millsap	Mason Plumlee	enters the game for							
+401129363	2	07:20	4:40	den	Nikola Jokic misses 15-foot jumper	46 - 53	46	53	0	0	Nikola Jokic		misses	jumper	15					
+401129363	2	07:24	4:36	den	Gary Harris offensive rebound	46 - 53	46	53	0	0	Gary Harris		offensive rebound							
+401129363	2	07:27	4:33	den	Gary Harris misses driving layup	46 - 53	46	53	0	0	Gary Harris		misses	driving layup						
+401129363	2	07:29	4:31	por	Enes Kanter defensive rebound	46 - 53	46	53	0	0	Enes Kanter		defensive rebound							
+401129363	2	07:41	4:19	por	Enes Kanter makes 1-foot layup (Maurice Harkless assists)	46 - 55	46	55	0	2	Enes Kanter		makes	layup	1			Maurice Harkless	assists	
+401129363	2	07:53	4:07	den	Torrey Craig misses three point jumper	46 - 55	46	55	0	0	Torrey Craig		misses	jumper			three			
+401129363	2	07:57	4:03	den	Nikola Jokic offensive rebound	46 - 55	46	55	0	0	Nikola Jokic		offensive rebound							
+401129363	2	07:57	4:03	den	Nikola Jokic makes tip shot	48 - 55	48	55	2	0	Nikola Jokic		makes	tip shot						
+401129363	2	08:17	3:43	por	Al-Farouq Aminu misses 25-foot three point jumper	48 - 55	48	55	0	0	Al-Farouq Aminu		misses	jumper	25		three			
+401129363	2	08:20	3:40	den	Nikola Jokic defensive rebound	48 - 55	48	55	0	0	Nikola Jokic		defensive rebound							
+401129363	2	08:22	3:38	por	Al-Farouq Aminu personal foul	48 - 55	48	55	0	0	Al-Farouq Aminu		foul							
+401129363	2	08:28	3:32	por	Maurice Harkless personal foul	48 - 55	48	55	0	0	Maurice Harkless		foul							
+401129363	2	08:28	3:32	den	Paul Millsap makes free throw 1 of 2	49 - 55	49	55	1	0	Paul Millsap		makes	free throw		1-2				
+401129363	2	08:28	3:32	den	Paul Millsap makes free throw 2 of 2	50 - 55	50	55	1	0	Paul Millsap		makes	free throw		2-2				
+401129363	2	08:42	3:18	por	Damian Lillard misses 18-foot step back jumpshot	50 - 55	50	55	0	0	Damian Lillard		misses	step back jumpshot	18					
+401129363	2	08:47	3:13	den	Nikola Jokic defensive rebound	50 - 55	50	55	0	0	Nikola Jokic		defensive rebound							
+401129363	2	08:52	3:08	den	Al-Farouq Aminu blocks Gary Harris 's 2-foot driving layup	50 - 55	50	55	0	0	Al-Farouq Aminu	Gary Harris	blocks	driving layup	2					
+401129363	2	08:55	3:05	por	Seth Curry defensive rebound	50 - 55	50	55	0	0	Seth Curry		defensive rebound							
+401129363	2	08:58	3:02	por	Maurice Harkless misses 25-foot three point jumper	50 - 55	50	55	0	0	Maurice Harkless		misses	jumper	25		three			
+401129363	2	09:00	3:00	por	Al-Farouq Aminu offensive rebound	50 - 55	50	55	0	0	Al-Farouq Aminu		offensive rebound							
+401129363	2	09:00	3:00	por	Al-Farouq Aminu makes two point shot	50 - 57	50	57	0	2	Al-Farouq Aminu		makes	shot			two			
+401129363	2	09:00	3:00	den	Paul Millsap shooting foul	50 - 57	50	57	0	0	Paul Millsap		foul							
+401129363	2	09:00	3:00	por	Al-Farouq Aminu makes free throw 1 of 1	50 - 58	50	58	0	1	Al-Farouq Aminu		makes	free throw		1-1				
+401129363	2	09:11	2:49	den	Nikola Jokic makes 18-foot jump bank shot (Jamal Murray assists)	52 - 58	52	58	2	0	Nikola Jokic		makes	jump bank shot	18			Jamal Murray	assists	
+401129363	2	09:35	2:25	por	Damian Lillard misses 11-foot two point shot	52 - 58	52	58	0	0	Damian Lillard		misses	shot	11		two			
+401129363	2	09:38	2:22	por	Maurice Harkless offensive rebound	52 - 58	52	58	0	0	Maurice Harkless		offensive rebound							
+401129363	2	09:39	2:21	por	Maurice Harkless makes two point shot	52 - 60	52	60	0	2	Maurice Harkless		makes	shot			two			
+401129363	2	09:50	2:10	den	Gary Harris misses 22-foot three point jumper	52 - 60	52	60	0	0	Gary Harris		misses	jumper	22		three			
+401129363	2	09:52	2:08	den	Gary Harris offensive rebound	52 - 60	52	60	0	0	Gary Harris		offensive rebound							
+401129363	2	09:56	2:04	den	Paul Millsap makes 25-foot three point jumper (Nikola Jokic assists)	55 - 60	55	60	3	0	Paul Millsap		makes	jumper	25		three	Nikola Jokic	assists	
+401129363	2	10:14	1:46	por	Maurice Harkless traveling	55 - 60	55	60	0	0	Maurice Harkless		traveling							
+401129363	2	10:31	1:29	den	Jamal Murray misses driving layup	55 - 60	55	60	0	0	Jamal Murray		misses	driving layup						
+401129363	2	10:31	1:29	por	Trail Blazers defensive team rebound	55 - 60	55	60	0	0			defensive rebound	team						trail blazers
+401129363	2	10:31	1:29	por	CJ McCollum enters the game for Maurice Harkless	55 - 60	55	60	0	0	CJ McCollum	Maurice Harkless	enters the game for							
+401129363	2	10:41	1:19	por	Damian Lillard misses 21-foot pullup jump shot	55 - 60	55	60	0	0	Damian Lillard		misses	pullup jump shot	21					
+401129363	2	10:44	1:16	por	Al-Farouq Aminu offensive rebound	55 - 60	55	60	0	0	Al-Farouq Aminu		offensive rebound							
+401129363	2	10:48	1:12	por	CJ McCollum misses 23-foot three point jumper	55 - 60	55	60	0	0	CJ McCollum		misses	jumper	23		three			
+401129363	2	10:50	1:10	den	Gary Harris defensive rebound	55 - 60	55	60	0	0	Gary Harris		defensive rebound							
+401129363	2	10:56	1:04	den	Torrey Craig misses two point shot	55 - 60	55	60	0	0	Torrey Craig		misses	shot			two			
+401129363	2	10:57	1:03	por	Enes Kanter defensive rebound	55 - 60	55	60	0	0	Enes Kanter		defensive rebound							
+401129363	2	11:02	57.9	por	Seth Curry misses 26-foot three point jumper	55 - 60	55	60	0	0	Seth Curry		misses	jumper	26		three			
+401129363	2	11:05	54.6	den	Paul Millsap defensive rebound	55 - 60	55	60	0	0	Paul Millsap		defensive rebound							
+401129363	2	11:29	30.9	den	Jamal Murray misses driving floating jump shot	55 - 60	55	60	0	0	Jamal Murray		misses	driving floating jump shot						
+401129363	2	11:31	28.9	den	Torrey Craig offensive rebound	55 - 60	55	60	0	0	Torrey Craig		offensive rebound							
+401129363	2	11:31	28.9	den	Al-Farouq Aminu blocks Torrey Craig 's 3-foot two point shot	55 - 60	55	60	0	0	Al-Farouq Aminu	Torrey Craig	blocks	shot	3		two			
+401129363	2	11:31	28.9	den	Nuggets offensive team rebound	55 - 60	55	60	0	0			offensive rebound	team						nuggets
+401129363	2	11:31	28.9	por	Maurice Harkless enters the game for Seth Curry	55 - 60	55	60	0	0	Maurice Harkless	Seth Curry	enters the game for							
+401129363	2	11:31	28.9	den	Will Barton enters the game for Torrey Craig	55 - 60	55	60	0	0	Will Barton	Torrey Craig	enters the game for							
+401129363	2	11:34	25.5	por	Maurice Harkless shooting foul	55 - 60	55	60	0	0	Maurice Harkless		foul							
+401129363	2	11:34	25.5	den	Jamal Murray makes free throw 1 of 2	56 - 60	56	60	1	0	Jamal Murray		makes	free throw		1-2				
+401129363	2	11:34	25.5	por	Seth Curry enters the game for Maurice Harkless	56 - 60	56	60	0	0	Seth Curry	Maurice Harkless	enters the game for							
+401129363	2	11:34	25.5	den	Malik Beasley enters the game for Gary Harris	56 - 60	56	60	0	0	Malik Beasley	Gary Harris	enters the game for							
+401129363	2	11:34	25.5	den	Mason Plumlee enters the game for Nikola Jokic	56 - 60	56	60	0	0	Mason Plumlee	Nikola Jokic	enters the game for							
+401129363	2	11:34	25.5	den	Jamal Murray makes free throw 2 of 2	57 - 60	57	60	1	0	Jamal Murray		makes	free throw		2-2				
+401129363	2	11:49	11.0	den	Malik Beasley personal foul	57 - 60	57	60	0	0	Malik Beasley		foul							
+401129363	2	11:49	11.0	por	Rodney Hood enters the game for Al-Farouq Aminu	57 - 60	57	60	0	0	Rodney Hood	Al-Farouq Aminu	enters the game for							
+401129363	2	12:00	0.0	por	Seth Curry makes 25-foot three point shot (Damian Lillard assists)	57 - 63	57	63	0	3	Seth Curry		makes	shot	25		three	Damian Lillard	assists	
+401129363	2	12:00	0.0	por	End of the 2nd Quarter	57 - 63	57	63	0	0			end of the 2nd quarter							
+401129363	3	00:00	12:00	por	Maurice Harkless enters the game for Seth Curry	57 - 63	57	63	0	0	Maurice Harkless	Seth Curry	enters the game for							
+401129363	3	00:00	12:00	por	Al-Farouq Aminu enters the game for Rodney Hood	57 - 63	57	63	0	0	Al-Farouq Aminu	Rodney Hood	enters the game for							
+401129363	3	00:00	12:00	den	Nikola Jokic enters the game for Will Barton	57 - 63	57	63	0	0	Nikola Jokic	Will Barton	enters the game for							
+401129363	3	00:00	12:00	den	Gary Harris enters the game for Mason Plumlee	57 - 63	57	63	0	0	Gary Harris	Mason Plumlee	enters the game for							
+401129363	3	00:00	12:00	den	Torrey Craig enters the game for Malik Beasley	57 - 63	57	63	0	0	Torrey Craig	Malik Beasley	enters the game for							
+401129363	3	00:16	11:44	por	Damian Lillard misses 23-foot three point jumper	57 - 63	57	63	0	0	Damian Lillard		misses	jumper	23		three			
+401129363	3	00:19	11:41	den	Paul Millsap defensive rebound	57 - 63	57	63	0	0	Paul Millsap		defensive rebound							
+401129363	3	00:25	11:35	den	Paul Millsap makes layup (Nikola Jokic assists)	59 - 63	59	63	2	0	Paul Millsap		makes	layup				Nikola Jokic	assists	
+401129363	3	00:43	11:17	por	CJ McCollum makes two point shot (Maurice Harkless assists)	59 - 65	59	65	0	2	CJ McCollum		makes	shot			two	Maurice Harkless	assists	
+401129363	3	00:55	11:05	den	Jamal Murray makes 25-foot three point jumper (Nikola Jokic assists)	62 - 65	62	65	3	0	Jamal Murray		makes	jumper	25		three	Nikola Jokic	assists	
+401129363	3	01:13	10:47	por	Damian Lillard misses 25-foot three point jumper	62 - 65	62	65	0	0	Damian Lillard		misses	jumper	25		three			
+401129363	3	01:15	10:45	den	Nikola Jokic defensive rebound	62 - 65	62	65	0	0	Nikola Jokic		defensive rebound							
+401129363	3	01:24	10:36	den	Gary Harris makes driving layup	64 - 65	64	65	2	0	Gary Harris		makes	driving layup						
+401129363	3	01:24	10:36	por	Damian Lillard shooting foul	64 - 65	64	65	0	0	Damian Lillard		foul							
+401129363	3	01:24	10:36	den	Gary Harris makes free throw 1 of 1	65 - 65	65	65	1	0	Gary Harris		makes	free throw		1-1				
+401129363	3	01:39	10:21	por	Enes Kanter offensive foul	65 - 65	65	65	0	0	Enes Kanter		foul							
+401129363	3	01:39	10:21	por	Enes Kanter turnover	65 - 65	65	65	0	0	Enes Kanter		turnover							
+401129363	3	01:54	10:06	den	Jamal Murray makes 9-foot driving floating jump shot (Nikola Jokic assists)	67 - 65	67	65	2	0	Jamal Murray		makes	driving floating jump shot	9			Nikola Jokic	assists	
+401129363	3	02:06	9:54	por	Damian Lillard makes driving layup	67 - 67	67	67	0	2	Damian Lillard		makes	driving layup						
+401129363	3	02:14	9:46	den	Jamal Murray misses running pullup jump shot	67 - 67	67	67	0	0	Jamal Murray		misses	running pullup jump shot						
+401129363	3	02:15	9:45	por	Enes Kanter defensive rebound	67 - 67	67	67	0	0	Enes Kanter		defensive rebound							
+401129363	3	02:25	9:35	por	Damian Lillard lost ball turnover (Paul Millsap steals)	67 - 67	67	67	0	0	Damian Lillard		turnover					Paul Millsap	steals	
+401129363	3	02:49	9:11	den	Jamal Murray misses 22-foot step back jumpshot	67 - 67	67	67	0	0	Jamal Murray		misses	step back jumpshot	22					
+401129363	3	02:51	9:09	por	Maurice Harkless defensive rebound	67 - 67	67	67	0	0	Maurice Harkless		defensive rebound							
+401129363	3	02:57	9:03	por	CJ McCollum misses 25-foot three point pullup jump shot	67 - 67	67	67	0	0	CJ McCollum		misses	pullup jump shot	25		three			
+401129363	3	02:58	9:02	den	Jamal Murray defensive rebound	67 - 67	67	67	0	0	Jamal Murray		defensive rebound							
+401129363	3	03:11	8:49	den	Paul Millsap traveling	67 - 67	67	67	0	0	Paul Millsap		traveling							
+401129363	3	03:28	8:32	por	CJ McCollum makes pullup jump shot (Damian Lillard assists)	67 - 69	67	69	0	2	CJ McCollum		makes	pullup jump shot				Damian Lillard	assists	
+401129363	3	03:43	8:17	den	Gary Harris makes driving layup	69 - 69	69	69	2	0	Gary Harris		makes	driving layup						
+401129363	3	03:56	8:04	por	CJ McCollum makes driving layup	69 - 71	69	71	0	2	CJ McCollum		makes	driving layup						
+401129363	3	04:17	7:43	por	Damian Lillard shooting foul	69 - 71	69	71	0	0	Damian Lillard		foul							
+401129363	3	04:17	7:43	den	Paul Millsap makes free throw 1 of 2	70 - 71	70	71	1	0	Paul Millsap		makes	free throw		1-2				
+401129363	3	04:17	7:43	den	Will Barton enters the game for Torrey Craig	70 - 71	70	71	0	0	Will Barton	Torrey Craig	enters the game for							
+401129363	3	04:17	7:43	den	Paul Millsap makes free throw 2 of 2	71 - 71	71	71	1	0	Paul Millsap		makes	free throw		2-2				
+401129363	3	04:28	7:32	por	Damian Lillard misses 25-foot three point pullup jump shot	71 - 71	71	71	0	0	Damian Lillard		misses	pullup jump shot	25		three			
+401129363	3	04:30	7:30	por	Al-Farouq Aminu offensive rebound	71 - 71	71	71	0	0	Al-Farouq Aminu		offensive rebound							
+401129363	3	04:30	7:30	por	Damian Lillard misses 25-foot three point jumper	71 - 71	71	71	0	0	Damian Lillard		misses	jumper	25		three			
+401129363	3	04:32	7:28	den	Jamal Murray defensive rebound	71 - 71	71	71	0	0	Jamal Murray		defensive rebound							
+401129363	3	04:48	7:12	den	Jamal Murray misses driving floating jump shot	71 - 71	71	71	0	0	Jamal Murray		misses	driving floating jump shot						
+401129363	3	04:49	7:11	por	Enes Kanter defensive rebound	71 - 71	71	71	0	0	Enes Kanter		defensive rebound							
+401129363	3	04:56	7:04	por	CJ McCollum misses 25-foot three point pullup jump shot	71 - 71	71	71	0	0	CJ McCollum		misses	pullup jump shot	25		three			
+401129363	3	04:57	7:03	den	Nikola Jokic defensive rebound	71 - 71	71	71	0	0	Nikola Jokic		defensive rebound							
+401129363	3	05:05	6:55	den	Will Barton misses 26-foot three point jumper	71 - 71	71	71	0	0	Will Barton		misses	jumper	26		three			
+401129363	3	05:06	6:54	por	CJ McCollum defensive rebound	71 - 71	71	71	0	0	CJ McCollum		defensive rebound							
+401129363	3	05:26	6:34	por	Damian Lillard bad pass (Gary Harris steals)	71 - 71	71	71	0	0	Damian Lillard		bad pass					Gary Harris	steals	
+401129363	3	05:28	6:32	den	Gary Harris makes 2-foot dunk	73 - 71	73	71	2	0	Gary Harris		makes	dunk	2					
+401129363	3	05:46	6:14	den	Nikola Jokic shooting foul	73 - 71	73	71	0	0	Nikola Jokic		foul							
+401129363	3	05:46	6:14	por	Trail Blazers Full timeout	73 - 71	73	71	0	0			full timeout							trail blazers
+401129363	3	05:46	6:14	por	Enes Kanter makes free throw 1 of 2	73 - 72	73	72	0	1	Enes Kanter		makes	free throw		1-2				
+401129363	3	05:46	6:14	por	Enes Kanter misses free throw 2 of 2	73 - 72	73	72	0	0	Enes Kanter		misses	free throw		2-2				
+401129363	3	05:47	6:13	den	Jamal Murray defensive rebound	73 - 72	73	72	0	0	Jamal Murray		defensive rebound							
+401129363	3	06:05	5:55	den	Gary Harris misses 17-foot two point shot	73 - 72	73	72	0	0	Gary Harris		misses	shot	17		two			
+401129363	3	06:06	5:54	por	Enes Kanter defensive rebound	73 - 72	73	72	0	0	Enes Kanter		defensive rebound							
+401129363	3	06:19	5:41	por	Damian Lillard misses 14-foot step back jumpshot	73 - 72	73	72	0	0	Damian Lillard		misses	step back jumpshot	14					
+401129363	3	06:20	5:40	den	Paul Millsap defensive rebound	73 - 72	73	72	0	0	Paul Millsap		defensive rebound							
+401129363	3	06:30	5:30	den	Nikola Jokic misses two point shot	73 - 72	73	72	0	0	Nikola Jokic		misses	shot			two			
+401129363	3	06:31	5:29	por	Maurice Harkless defensive rebound	73 - 72	73	72	0	0	Maurice Harkless		defensive rebound							
+401129363	3	06:48	5:12	por	Enes Kanter bad pass (Nikola Jokic steals)	73 - 72	73	72	0	0	Enes Kanter		bad pass					Nikola Jokic	steals	
+401129363	3	06:48	5:12	por	Maurice Harkless personal foul	73 - 72	73	72	0	0	Maurice Harkless		foul							
+401129363	3	06:48	5:12	por	Rodney Hood enters the game for Maurice Harkless	73 - 72	73	72	0	0	Rodney Hood	Maurice Harkless	enters the game for							
+401129363	3	07:02	4:58	den	Paul Millsap makes 12-foot two point shot	75 - 72	75	72	2	0	Paul Millsap		makes	shot	12		two			
+401129363	3	07:22	4:38	por	CJ McCollum misses driving floating jump shot	75 - 72	75	72	0	0	CJ McCollum		misses	driving floating jump shot						
+401129363	3	07:24	4:36	por	CJ McCollum offensive rebound	75 - 72	75	72	0	0	CJ McCollum		offensive rebound							
+401129363	3	07:32	4:28	den	Gary Harris personal foul	75 - 72	75	72	0	0	Gary Harris		foul							
+401129363	3	07:37	4:23	por	Al-Farouq Aminu offensive foul	75 - 72	75	72	0	0	Al-Farouq Aminu		foul							
+401129363	3	07:37	4:23	por	Al-Farouq Aminu turnover	75 - 72	75	72	0	0	Al-Farouq Aminu		turnover							
+401129363	3	07:49	4:11	den	Enes Kanter blocks Nikola Jokic 's 2-foot driving layup	75 - 72	75	72	0	0	Enes Kanter	Nikola Jokic	blocks	driving layup	2					
+401129363	3	07:51	4:09	por	Damian Lillard defensive rebound	75 - 72	75	72	0	0	Damian Lillard		defensive rebound							
+401129363	3	08:02	3:58	por	Enes Kanter offensive foul	75 - 72	75	72	0	0	Enes Kanter		foul							
+401129363	3	08:02	3:58	por	Enes Kanter turnover	75 - 72	75	72	0	0	Enes Kanter		turnover							
+401129363	3	08:02	3:58	por	Zach Collins enters the game for Enes Kanter	75 - 72	75	72	0	0	Zach Collins	Enes Kanter	enters the game for							
+401129363	3	08:16	3:44	den	Paul Millsap makes 26-foot three point jumper (Nikola Jokic assists)	78 - 72	78	72	3	0	Paul Millsap		makes	jumper	26		three	Nikola Jokic	assists	
+401129363	3	08:34	3:26	por	Zach Collins misses 2-foot two point shot	78 - 72	78	72	0	0	Zach Collins		misses	shot	2		two			
+401129363	3	08:35	3:25	den	Paul Millsap defensive rebound	78 - 72	78	72	0	0	Paul Millsap		defensive rebound							
+401129363	3	08:55	3:05	por	Damian Lillard personal foul	78 - 72	78	72	0	0	Damian Lillard		foul							
+401129363	3	09:05	2:55	den	Jamal Murray out of bounds lost ball turnover	78 - 72	78	72	0	0	Jamal Murray		turnover							
+401129363	3	09:05	2:55	den	Nuggets Full timeout	78 - 72	78	72	0	0			full timeout							nuggets
+401129363	3	09:05	2:55	por	Seth Curry enters the game for CJ McCollum	78 - 72	78	72	0	0	Seth Curry	CJ McCollum	enters the game for							
+401129363	3	09:20	2:40	por	Zach Collins misses 20-foot pullup jump shot	78 - 72	78	72	0	0	Zach Collins		misses	pullup jump shot	20					
+401129363	3	09:21	2:39	den	Paul Millsap defensive rebound	78 - 72	78	72	0	0	Paul Millsap		defensive rebound							
+401129363	3	09:45	2:15	den	Nikola Jokic makes two point shot (Jamal Murray assists)	80 - 72	80	72	2	0	Nikola Jokic		makes	shot			two	Jamal Murray	assists	
+401129363	3	10:09	1:51	por	Al-Farouq Aminu misses 24-foot three point jumper	80 - 72	80	72	0	0	Al-Farouq Aminu		misses	jumper	24		three			
+401129363	3	10:10	1:50	por	Trail Blazers offensive team rebound	80 - 72	80	72	0	0			offensive rebound	team						trail blazers
+401129363	3	10:10	1:50	den	Mason Plumlee enters the game for Paul Millsap	80 - 72	80	72	0	0	Mason Plumlee	Paul Millsap	enters the game for							
+401129363	3	10:10	1:50	den	Monte Morris enters the game for Jamal Murray	80 - 72	80	72	0	0	Monte Morris	Jamal Murray	enters the game for							
+401129363	3	10:14	1:46	por	Mason Plumlee blocks Rodney Hood's dunk	80 - 72	80	72	0	0	Mason Plumlee	Rodney Hood	blocks	dunk						
+401129363	3	10:14	1:46	por	Al-Farouq Aminu offensive rebound	80 - 72	80	72	0	0	Al-Farouq Aminu		offensive rebound							
+401129363	3	10:14	1:46	den	Mason Plumlee shooting foul	80 - 72	80	72	0	0	Mason Plumlee		foul							
+401129363	3	10:14	1:46	por	Al-Farouq Aminu makes free throw 1 of 2	80 - 73	80	73	0	1	Al-Farouq Aminu		makes	free throw		1-2				
+401129363	3	10:14	1:46	por	Al-Farouq Aminu makes free throw 2 of 2	80 - 74	80	74	0	1	Al-Farouq Aminu		makes	free throw		2-2				
+401129363	3	10:26	1:34	den	Will Barton misses driving layup	80 - 74	80	74	0	0	Will Barton		misses	driving layup						
+401129363	3	10:28	1:32	por	Al-Farouq Aminu defensive rebound	80 - 74	80	74	0	0	Al-Farouq Aminu		defensive rebound							
+401129363	3	10:50	1:10	por	Zach Collins makes 1-foot dunk (Seth Curry assists)	80 - 76	80	76	0	2	Zach Collins		makes	dunk	1			Seth Curry	assists	
+401129363	3	11:04	55.6	den	Gary Harris misses driving layup	80 - 76	80	76	0	0	Gary Harris		misses	driving layup						
+401129363	3	11:06	53.8	por	Rodney Hood defensive rebound	80 - 76	80	76	0	0	Rodney Hood		defensive rebound							
+401129363	3	11:07	52.5	por	Rodney Hood lost ball turnover (Nikola Jokic steals)	80 - 76	80	76	0	0	Rodney Hood		turnover					Nikola Jokic	steals	
+401129363	3	11:19	41.0	den	Nikola Jokic makes 3-foot two point shot	82 - 76	82	76	2	0	Nikola Jokic		makes	shot	3		two			
+401129363	3	11:24	35.7	den	Gary Harris personal foul	82 - 76	82	76	0	0	Gary Harris		foul							
+401129363	3	11:24	35.7	por	Damian Lillard misses free throw 1 of 2	82 - 76	82	76	0	0	Damian Lillard		misses	free throw		1-2				
+401129363	3	11:24	35.7	por	Trail Blazers offensive team rebound	82 - 76	82	76	0	0			offensive rebound	team						trail blazers
+401129363	3	11:24	35.7	den	Malik Beasley enters the game for Gary Harris	82 - 76	82	76	0	0	Malik Beasley	Gary Harris	enters the game for							
+401129363	3	11:24	35.7	por	Damian Lillard makes free throw 2 of 2	82 - 77	82	77	0	1	Damian Lillard		makes	free throw		2-2				
+401129363	3	11:31	28.7	den	Monte Morris misses two point shot	82 - 77	82	77	0	0	Monte Morris		misses	shot			two			
+401129363	3	11:31	28.7	den	Mason Plumlee offensive rebound	82 - 77	82	77	0	0	Mason Plumlee		offensive rebound							
+401129363	3	11:34	26.0	den	Mason Plumlee makes dunk	84 - 77	84	77	2	0	Mason Plumlee		makes	dunk						
+401129363	3	11:55	4.5	por	Damian Lillard misses two point shot	84 - 77	84	77	0	0	Damian Lillard		misses	shot			two			
+401129363	3	11:57	2.7	den	Will Barton defensive rebound	84 - 77	84	77	0	0	Will Barton		defensive rebound							
+401129363	3	12:00	0.0	den	Will Barton misses running pullup jump shot	84 - 77	84	77	0	0	Will Barton		misses	running pullup jump shot						
+401129363	3	12:00	0.0	den	Nuggets offensive team rebound	84 - 77	84	77	0	0			offensive rebound	team						nuggets
+401129363	3	12:00	0.0	por	End of the 3rd Quarter	84 - 77	84	77	0	0			end of the 3rd quarter							
+401129363	4	00:00	12:00	por	Evan Turner enters the game for Damian Lillard	84 - 77	84	77	0	0	Evan Turner	Damian Lillard	enters the game for							
+401129363	4	00:00	12:00	por	CJ McCollum enters the game for Al-Farouq Aminu	84 - 77	84	77	0	0	CJ McCollum	Al-Farouq Aminu	enters the game for							
+401129363	4	00:00	12:00	den	Paul Millsap enters the game for Nikola Jokic	84 - 77	84	77	0	0	Paul Millsap	Nikola Jokic	enters the game for							
+401129363	4	00:17	11:43	den	Paul Millsap misses 3-foot two point shot	84 - 77	84	77	0	0	Paul Millsap		misses	shot	3		two			
+401129363	4	00:21	11:39	den	Mason Plumlee offensive rebound	84 - 77	84	77	0	0	Mason Plumlee		offensive rebound							
+401129363	4	00:23	11:37	den	Malik Beasley makes 26-foot three point jumper (Mason Plumlee assists)	87 - 77	87	77	3	0	Malik Beasley		makes	jumper	26		three	Mason Plumlee	assists	
+401129363	4	00:39	11:21	den	Mason Plumlee kicked ball violation	87 - 77	87	77	0	0	Mason Plumlee		kicked ball violation							
+401129363	4	00:49	11:11	den	Paul Millsap personal foul	87 - 77	87	77	0	0	Paul Millsap		foul							
+401129363	4	01:03	10:57	por	Rodney Hood makes driving layup	87 - 79	87	79	0	2	Rodney Hood		makes	driving layup						
+401129363	4	01:18	10:42	den	Malik Beasley misses 18-foot pullup jump shot	87 - 79	87	79	0	0	Malik Beasley		misses	pullup jump shot	18					
+401129363	4	01:19	10:41	por	Evan Turner defensive rebound	87 - 79	87	79	0	0	Evan Turner		defensive rebound							
+401129363	4	01:35	10:25	por	CJ McCollum makes 25-foot three point jumper (Rodney Hood assists)	87 - 82	87	82	0	3	CJ McCollum		makes	jumper	25		three	Rodney Hood	assists	
+401129363	4	01:57	10:03	por	Zach Collins shooting foul	87 - 82	87	82	0	0	Zach Collins		foul							
+401129363	4	01:57	10:03	den	Mason Plumlee misses free throw 1 of 2	87 - 82	87	82	0	0	Mason Plumlee		misses	free throw		1-2				
+401129363	4	01:57	10:03	den	Nuggets offensive team rebound	87 - 82	87	82	0	0			offensive rebound	team						nuggets
+401129363	4	01:57	10:03	den	Mason Plumlee misses free throw 2 of 2	87 - 82	87	82	0	0	Mason Plumlee		misses	free throw		2-2				
+401129363	4	01:59	10:01	por	Evan Turner defensive rebound	87 - 82	87	82	0	0	Evan Turner		defensive rebound							
+401129363	4	02:14	9:46	por	Evan Turner misses driving floating jump shot	87 - 82	87	82	0	0	Evan Turner		misses	driving floating jump shot						
+401129363	4	02:16	9:44	den	Mason Plumlee defensive rebound	87 - 82	87	82	0	0	Mason Plumlee		defensive rebound							
+401129363	4	02:28	9:32	den	Paul Millsap misses three point jumper	87 - 82	87	82	0	0	Paul Millsap		misses	jumper			three			
+401129363	4	02:30	9:30	por	CJ McCollum defensive rebound	87 - 82	87	82	0	0	CJ McCollum		defensive rebound							
+401129363	4	02:37	9:23	por	CJ McCollum makes 26-foot step back jumpshot	87 - 85	87	85	0	3	CJ McCollum		makes	step back jumpshot	26					
+401129363	4	02:51	9:09	den	Malik Beasley offensive foul	87 - 85	87	85	0	0	Malik Beasley		foul							
+401129363	4	02:51	9:09	den	Malik Beasley turnover	87 - 85	87	85	0	0	Malik Beasley		turnover							
+401129363	4	03:04	8:56	por	CJ McCollum misses 25-foot three point pullup jump shot	87 - 85	87	85	0	0	CJ McCollum		misses	pullup jump shot	25		three			
+401129363	4	03:06	8:54	den	Will Barton defensive rebound	87 - 85	87	85	0	0	Will Barton		defensive rebound							
+401129363	4	03:14	8:46	den	Will Barton misses 25-foot three point pullup jump shot	87 - 85	87	85	0	0	Will Barton		misses	pullup jump shot	25		three			
+401129363	4	03:16	8:44	den	Paul Millsap offensive rebound	87 - 85	87	85	0	0	Paul Millsap		offensive rebound							
+401129363	4	03:28	8:32	den	Zach Collins blocks Monte Morris 's 3-foot driving layup	87 - 85	87	85	0	0	Zach Collins	Monte Morris	blocks	driving layup	3					
+401129363	4	03:30	8:30	por	Rodney Hood defensive rebound	87 - 85	87	85	0	0	Rodney Hood		defensive rebound							
+401129363	4	03:38	8:22	por	Seth Curry misses 20-foot step back jumpshot	87 - 85	87	85	0	0	Seth Curry		misses	step back jumpshot	20					
+401129363	4	03:40	8:20	den	Paul Millsap defensive rebound	87 - 85	87	85	0	0	Paul Millsap		defensive rebound							
+401129363	4	03:47	8:13	por	Evan Turner shooting foul	87 - 85	87	85	0	0	Evan Turner		foul							
+401129363	4	03:47	8:13	den	Paul Millsap makes free throw 1 of 2	88 - 85	88	85	1	0	Paul Millsap		makes	free throw		1-2				
+401129363	4	03:47	8:13	den	Jamal Murray enters the game for Monte Morris	88 - 85	88	85	0	0	Jamal Murray	Monte Morris	enters the game for							
+401129363	4	03:47	8:13	den	Nikola Jokic enters the game for Mason Plumlee	88 - 85	88	85	0	0	Nikola Jokic	Mason Plumlee	enters the game for							
+401129363	4	03:47	8:13	den	Paul Millsap makes free throw 2 of 2	89 - 85	89	85	1	0	Paul Millsap		makes	free throw		2-2				
+401129363	4	04:00	8:00	por	CJ McCollum makes 3-foot driving floating jump shot	89 - 87	89	87	0	2	CJ McCollum		makes	driving floating jump shot	3					
+401129363	4	04:21	7:39	den	Jamal Murray misses driving floating jump shot	89 - 87	89	87	0	0	Jamal Murray		misses	driving floating jump shot						
+401129363	4	04:23	7:37	den	Nikola Jokic offensive rebound	89 - 87	89	87	0	0	Nikola Jokic		offensive rebound							
+401129363	4	04:25	7:35	den	Jamal Murray makes layup (Nikola Jokic assists)	91 - 87	91	87	2	0	Jamal Murray		makes	layup				Nikola Jokic	assists	
+401129363	4	04:41	7:19	den	Nikola Jokic shooting foul	91 - 87	91	87	0	0	Nikola Jokic		foul							
+401129363	4	04:41	7:19	por	CJ McCollum misses free throw 1 of 2	91 - 87	91	87	0	0	CJ McCollum		misses	free throw		1-2				
+401129363	4	04:41	7:19	por	Trail Blazers offensive team rebound	91 - 87	91	87	0	0			offensive rebound	team						trail blazers
+401129363	4	04:41	7:19	den	Gary Harris enters the game for Malik Beasley	91 - 87	91	87	0	0	Gary Harris	Malik Beasley	enters the game for							
+401129363	4	04:41	7:19	por	CJ McCollum makes free throw 2 of 2	91 - 88	91	88	0	1	CJ McCollum		makes	free throw		2-2				
+401129363	4	04:50	7:10	den	Jamal Murray makes 25-foot three pointer	94 - 88	94	88	3	0	Jamal Murray		makes	er	25		three			
+401129363	4	04:50	7:10	por	Trail Blazers Full timeout	94 - 88	94	88	0	0			full timeout							trail blazers
+401129363	4	04:50	7:10	por	Damian Lillard enters the game for Evan Turner	94 - 88	94	88	0	0	Damian Lillard	Evan Turner	enters the game for							
+401129363	4	04:50	7:10	por	Al-Farouq Aminu enters the game for Seth Curry	94 - 88	94	88	0	0	Al-Farouq Aminu	Seth Curry	enters the game for							
+401129363	4	05:05	6:55	por	CJ McCollum misses 8-foot two point shot	94 - 88	94	88	0	0	CJ McCollum		misses	shot	8		two			
+401129363	4	05:09	6:51	den	Gary Harris defensive rebound	94 - 88	94	88	0	0	Gary Harris		defensive rebound							
+401129363	4	05:21	6:39	den	Jamal Murray misses 23-foot step back jumpshot	94 - 88	94	88	0	0	Jamal Murray		misses	step back jumpshot	23					
+401129363	4	05:23	6:37	den	Gary Harris offensive rebound	94 - 88	94	88	0	0	Gary Harris		offensive rebound							
+401129363	4	05:34	6:26	den	Paul Millsap misses 9-foot two point shot	94 - 88	94	88	0	0	Paul Millsap		misses	shot	9		two			
+401129363	4	05:36	6:24	por	Al-Farouq Aminu defensive rebound	94 - 88	94	88	0	0	Al-Farouq Aminu		defensive rebound							
+401129363	4	05:44	6:16	por	Damian Lillard makes 30-foot three pointer	94 - 91	94	91	0	3	Damian Lillard		makes	er	30		three			
+401129363	4	06:03	5:57	por	Zach Collins personal foul	94 - 91	94	91	0	0	Zach Collins		foul							
+401129363	4	06:12	5:48	por	Zach Collins kicked ball violation	94 - 91	94	91	0	0	Zach Collins		kicked ball violation							
+401129363	4	06:18	5:42	den	Will Barton misses driving floating jump shot	94 - 91	94	91	0	0	Will Barton		misses	driving floating jump shot						
+401129363	4	06:20	5:40	den	Nikola Jokic offensive rebound	94 - 91	94	91	0	0	Nikola Jokic		offensive rebound							
+401129363	4	06:22	5:38	den	Nikola Jokic makes two point shot	96 - 91	96	91	2	0	Nikola Jokic		makes	shot			two			
+401129363	4	06:32	5:28	por	Damian Lillard makes driving layup	96 - 93	96	93	0	2	Damian Lillard		makes	driving layup						
+401129363	4	06:44	5:16	por	Zach Collins shooting foul	96 - 93	96	93	0	0	Zach Collins		foul							
+401129363	4	06:44	5:16	por	Zach Collins technical foul (1st technical foul)	96 - 93	96	93	0	0	Zach Collins		foul							
+401129363	4	06:44	5:16	den	Jamal Murray makes technical free throw	97 - 93	97	93	1	0	Jamal Murray		makes	technical free throw						
+401129363	4	06:44	5:16	den	Nikola Jokic makes free throw 1 of 2	98 - 93	98	93	1	0	Nikola Jokic		makes	free throw		1-2				
+401129363	4	06:44	5:16	por	Enes Kanter enters the game for Zach Collins	98 - 93	98	93	0	0	Enes Kanter	Zach Collins	enters the game for							
+401129363	4	06:44	5:16	den	Nikola Jokic makes free throw 2 of 2	99 - 93	99	93	1	0	Nikola Jokic		makes	free throw		2-2				
+401129363	4	06:52	5:08	por	Damian Lillard misses driving layup	99 - 93	99	93	0	0	Damian Lillard		misses	driving layup						
+401129363	4	06:54	5:06	den	Jamal Murray defensive rebound	99 - 93	99	93	0	0	Jamal Murray		defensive rebound							
+401129363	4	07:17	4:43	den	Jamal Murray misses 9-foot two point shot	99 - 93	99	93	0	0	Jamal Murray		misses	shot	9		two			
+401129363	4	07:19	4:41	por	Damian Lillard defensive rebound	99 - 93	99	93	0	0	Damian Lillard		defensive rebound							
+401129363	4	07:25	4:35	den	Jamal Murray shooting foul	99 - 93	99	93	0	0	Jamal Murray		foul							
+401129363	4	07:25	4:35	por	Damian Lillard makes free throw 1 of 2	99 - 94	99	94	0	1	Damian Lillard		makes	free throw		1-2				
+401129363	4	07:25	4:35	por	Seth Curry enters the game for Rodney Hood	99 - 94	99	94	0	0	Seth Curry	Rodney Hood	enters the game for							
+401129363	4	07:25	4:35	por	Damian Lillard misses free throw 2 of 2	99 - 94	99	94	0	0	Damian Lillard		misses	free throw		2-2				
+401129363	4	07:26	4:34	den	Will Barton defensive rebound	99 - 94	99	94	0	0	Will Barton		defensive rebound							
+401129363	4	07:42	4:18	den	Paul Millsap bad pass (CJ McCollum steals)	99 - 94	99	94	0	0	Paul Millsap		bad pass					CJ McCollum	steals	
+401129363	4	07:46	4:14	por	Damian Lillard misses two point shot	99 - 94	99	94	0	0	Damian Lillard		misses	shot			two			
+401129363	4	07:48	4:12	por	Al-Farouq Aminu offensive rebound	99 - 94	99	94	0	0	Al-Farouq Aminu		offensive rebound							
+401129363	4	07:48	4:12	por	Al-Farouq Aminu makes tip shot	99 - 96	99	96	0	2	Al-Farouq Aminu		makes	tip shot						
+401129363	4	07:48	4:12	den	Nuggets Full timeout	99 - 96	99	96	0	0			full timeout							nuggets
+401129363	4	08:12	3:48	den	Jamal Murray misses 27-foot three point pullup jump shot	99 - 96	99	96	0	0	Jamal Murray		misses	pullup jump shot	27		three			
+401129363	4	08:14	3:46	por	Damian Lillard defensive rebound	99 - 96	99	96	0	0	Damian Lillard		defensive rebound							
+401129363	4	08:32	3:28	den	Paul Millsap personal foul	99 - 96	99	96	0	0	Paul Millsap		foul							
+401129363	4	08:32	3:28	por	Trail Blazers Full timeout	99 - 96	99	96	0	0			full timeout							trail blazers
+401129363	4	08:34	3:26	den	Paul Millsap personal foul	99 - 96	99	96	0	0	Paul Millsap		foul							
+401129363	4	08:34	3:26	por	Damian Lillard makes free throw 1 of 2	99 - 97	99	97	0	1	Damian Lillard		makes	free throw		1-2				
+401129363	4	08:34	3:26	por	Damian Lillard makes free throw 2 of 2	99 - 98	99	98	0	1	Damian Lillard		makes	free throw		2-2				
+401129363	4	08:58	3:02	den	Will Barton makes 23-foot three point jumper (Nikola Jokic assists)	102 - 98	102	98	3	0	Will Barton		makes	jumper	23		three	Nikola Jokic	assists	
+401129363	4	09:13	2:47	por	Damian Lillard makes driving layup	102 - 100	102	100	0	2	Damian Lillard		makes	driving layup						
+401129363	4	09:40	2:20	den	Gary Harris makes 21-foot pullup jump shot (Nikola Jokic assists)	104 - 100	104	100	2	0	Gary Harris		makes	pullup jump shot	21			Nikola Jokic	assists	
+401129363	4	09:53	2:07	por	Damian Lillard makes 19-foot step back jumpshot	104 - 102	104	102	0	2	Damian Lillard		makes	step back jumpshot	19					
+401129363	4	10:17	1:43	den	Will Barton makes 25-foot three point jumper (Nikola Jokic assists)	107 - 102	107	102	3	0	Will Barton		makes	jumper	25		three	Nikola Jokic	assists	
+401129363	4	10:33	1:27	por	Al-Farouq Aminu makes driving floating jump shot (Damian Lillard assists)	107 - 104	107	104	0	2	Al-Farouq Aminu		makes	driving floating jump shot				Damian Lillard	assists	
+401129363	4	10:57	1:03	den	Gary Harris makes 1-foot layup (Nikola Jokic assists)	109 - 104	109	104	2	0	Gary Harris		makes	layup	1			Nikola Jokic	assists	
+401129363	4	10:57	1:03	por	Seth Curry shooting foul	109 - 104	109	104	0	0	Seth Curry		foul							
+401129363	4	10:57	1:03	por	Rodney Hood enters the game for Seth Curry	109 - 104	109	104	0	0	Rodney Hood	Seth Curry	enters the game for							
+401129363	4	10:57	1:03	den	Torrey Craig enters the game for Nikola Jokic	109 - 104	109	104	0	0	Torrey Craig	Nikola Jokic	enters the game for							
+401129363	4	10:57	1:03	por	Seth Curry enters the game for Al-Farouq Aminu	109 - 104	109	104	0	0	Seth Curry	Al-Farouq Aminu	enters the game for							
+401129363	4	10:57	1:03	den	Gary Harris makes free throw 1 of 1	110 - 104	110	104	1	0	Gary Harris		makes	free throw		1-1				
+401129363	4	11:07	52.3	por	Rodney Hood makes 24-foot step back jumpshot	110 - 107	110	107	0	3	Rodney Hood		makes	step back jumpshot	24					
+401129363	4	11:12	47.9	den	Nuggets Full timeout	110 - 107	110	107	0	0			full timeout							nuggets
+401129363	4	11:12	47.9	den	Nikola Jokic enters the game for Torrey Craig	110 - 107	110	107	0	0	Nikola Jokic	Torrey Craig	enters the game for							
+401129363	4	11:12	47.9	por	Al-Farouq Aminu enters the game for Seth Curry	110 - 107	110	107	0	0	Al-Farouq Aminu	Seth Curry	enters the game for							
+401129363	4	11:29	30.6	den	Will Barton misses 25-foot three point pullup jump shot	110 - 107	110	107	0	0	Will Barton		misses	pullup jump shot	25		three			
+401129363	4	11:31	28.4	por	Enes Kanter defensive rebound	110 - 107	110	107	0	0	Enes Kanter		defensive rebound							
+401129363	4	11:32	27.1	den	Mason Plumlee enters the game for Jamal Murray	110 - 107	110	107	0	0	Mason Plumlee	Jamal Murray	enters the game for							
+401129363	4	11:32	27.1	den	Torrey Craig enters the game for Nikola Jokic	110 - 107	110	107	0	0	Torrey Craig	Nikola Jokic	enters the game for							
+401129363	4	11:32	27.1	por	Seth Curry enters the game for Al-Farouq Aminu	110 - 107	110	107	0	0	Seth Curry	Al-Farouq Aminu	enters the game for							
+401129363	4	11:39	20.3	den	Gary Harris shooting foul	110 - 107	110	107	0	0	Gary Harris		foul							
+401129363	4	11:39	20.3	por	Damian Lillard misses free throw 1 of 2	110 - 107	110	107	0	0	Damian Lillard		misses	free throw		1-2				
+401129363	4	11:39	20.3	den	Nikola Jokic enters the game for Mason Plumlee	110 - 107	110	107	0	0	Nikola Jokic	Mason Plumlee	enters the game for							
+401129363	4	11:39	20.3	den	Jamal Murray enters the game for Torrey Craig	110 - 107	110	107	0	0	Jamal Murray	Torrey Craig	enters the game for							
+401129363	4	11:39	20.3	por	Trail Blazers offensive team rebound	110 - 107	110	107	0	0			offensive rebound	team						trail blazers
+401129363	4	11:39	20.3	por	Damian Lillard makes free throw 2 of 2	110 - 108	110	108	0	1	Damian Lillard		makes	free throw		2-2				
+401129363	4	11:39	20.3	por	Al-Farouq Aminu enters the game for Seth Curry	110 - 108	110	108	0	0	Al-Farouq Aminu	Seth Curry	enters the game for							
+401129363	4	11:46	13.2	por	Al-Farouq Aminu personal take foul	110 - 108	110	108	0	0	Al-Farouq Aminu		foul							
+401129363	4	11:46	13.2	den	Jamal Murray makes free throw 1 of 2	111 - 108	111	108	1	0	Jamal Murray		makes	free throw		1-2				
+401129363	4	11:46	13.2	den	Jamal Murray makes free throw 2 of 2	112 - 108	112	108	1	0	Jamal Murray		makes	free throw		2-2				
+401129363	4	11:46	13.2	por	Trail Blazers Full timeout	112 - 108	112	108	0	0			full timeout							trail blazers
+401129363	4	11:46	13.2	por	Seth Curry enters the game for Enes Kanter	112 - 108	112	108	0	0	Seth Curry	Enes Kanter	enters the game for							
+401129363	4	11:46	13.2	den	Torrey Craig enters the game for Nikola Jokic	112 - 108	112	108	0	0	Torrey Craig	Nikola Jokic	enters the game for							
+401129363	4	11:52	7.7	por	Damian Lillard makes driving layup	112 - 110	112	110	0	2	Damian Lillard		makes	driving layup						
+401129363	4	11:52	7.7	den	Nuggets Full timeout	112 - 110	112	110	0	0			full timeout							nuggets
+401129363	4	11:52	7.7	den	Nikola Jokic enters the game for Torrey Craig	112 - 110	112	110	0	0	Nikola Jokic	Torrey Craig	enters the game for							
+401129363	4	11:53	6.7	por	Rodney Hood personal take foul	112 - 110	112	110	0	0	Rodney Hood		foul							
+401129363	4	11:53	6.7	den	Jamal Murray makes free throw 1 of 2	113 - 110	113	110	1	0	Jamal Murray		makes	free throw		1-2				
+401129363	4	11:53	6.7	por	Enes Kanter enters the game for Seth Curry	113 - 110	113	110	0	0	Enes Kanter	Seth Curry	enters the game for							
+401129363	4	11:53	6.7	den	Jamal Murray makes free throw 2 of 2	114 - 110	114	110	1	0	Jamal Murray		makes	free throw		2-2				
+401129363	4	11:53	6.7	por	Trail Blazers Full timeout	114 - 110	114	110	0	0			full timeout							trail blazers
+401129363	4	11:53	6.7	por	Seth Curry enters the game for Al-Farouq Aminu	114 - 110	114	110	0	0	Seth Curry	Al-Farouq Aminu	enters the game for							
+401129363	4	11:53	6.7	den	Torrey Craig enters the game for Nikola Jokic	114 - 110	114	110	0	0	Torrey Craig	Nikola Jokic	enters the game for							
+401129363	4	11:55	4.4	por	CJ McCollum makes 20-foot jumper (Rodney Hood assists)	114 - 112	114	112	0	2	CJ McCollum		makes	jumper	20			Rodney Hood	assists	
+401129363	4	11:56	3.4	por	Rodney Hood personal take foul	114 - 112	114	112	0	0	Rodney Hood		foul							
+401129363	4	11:56	3.4	den	Jamal Murray makes free throw 1 of 2	115 - 112	115	112	1	0	Jamal Murray		makes	free throw		1-2				
+401129363	4	11:56	3.4	den	Jamal Murray makes free throw 2 of 2	116 - 112	116	112	1	0	Jamal Murray		makes	free throw		2-2				
+401129363	4	11:59	0.3	por	Damian Lillard misses 46-foot three point pullup jump shot	116 - 112	116	112	0	0	Damian Lillard		misses	pullup jump shot	46		three			
+401129363	4	11:59	0.3	por	Trail Blazers offensive team rebound	116 - 112	116	112	0	0			offensive rebound	team						trail blazers
+401129363	4	12:00	0.0	por	End of the 4th Quarter	116 - 112	116	112	0	0			end of the 4th quarter							
+401129363	4	12:00	0.0	por	End of Game	116 - 112	116	112	0	0			end of game							

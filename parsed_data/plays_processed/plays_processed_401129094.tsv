@@ -1,0 +1,489 @@
+game_id	quarter	q_time	q_time_remaining	team	event	score	team1_score	team2_score	team1_event_point	team2_event_point	player1	player2	action	action_what	foot_value	free_throw	point_info	player_secondary	action_secondary	team_action
+401129094	1	00:00	12:00	mil	Al Horford vs. Brook Lopez (Giannis Antetokounmpo gains possession)	0 - 0	0	0	0	0	Al Horford	Brook Lopez	vs.					Giannis Antetokounmpo	gains possession	
+401129094	1	00:18	11:42	mil	Eric Bledsoe bad pass (Jayson Tatum steals)	0 - 0	0	0	0	0	Eric Bledsoe		bad pass					Jayson Tatum	steals	
+401129094	1	00:22	11:38	bos	Jayson Tatum makes dunk	2 - 0	2	0	2	0	Jayson Tatum		makes	dunk						
+401129094	1	00:36	11:24	mil	Eric Bledsoe misses 27-foot three point jumper	2 - 0	2	0	0	0	Eric Bledsoe		misses	jumper	27		three			
+401129094	1	00:39	11:21	bos	Marcus Morris defensive rebound	2 - 0	2	0	0	0	Marcus Morris		defensive rebound							
+401129094	1	00:57	11:03	bos	Jaylen Brown misses 9-foot two point shot	2 - 0	2	0	0	0	Jaylen Brown		misses	shot	9		two			
+401129094	1	01:00	11:00	mil	Brook Lopez defensive rebound	2 - 0	2	0	0	0	Brook Lopez		defensive rebound							
+401129094	1	01:07	10:53	mil	Nikola Mirotic misses 29-foot three point jumper	2 - 0	2	0	0	0	Nikola Mirotic		misses	jumper	29		three			
+401129094	1	01:10	10:50	bos	Kyrie Irving defensive rebound	2 - 0	2	0	0	0	Kyrie Irving		defensive rebound							
+401129094	1	01:26	10:34	bos	Jayson Tatum misses 17-foot two point shot	2 - 0	2	0	0	0	Jayson Tatum		misses	shot	17		two			
+401129094	1	01:29	10:31	mil	Khris Middleton defensive rebound	2 - 0	2	0	0	0	Khris Middleton		defensive rebound							
+401129094	1	01:42	10:18	mil	Brook Lopez makes 30-foot three point jumper (Giannis Antetokounmpo assists)	2 - 3	2	3	0	3	Brook Lopez		makes	jumper	30		three	Giannis Antetokounmpo	assists	
+401129094	1	02:10	9:50	bos	Marcus Morris makes 21-foot jumper	4 - 3	4	3	2	0	Marcus Morris		makes	jumper	21					
+401129094	1	02:18	9:42	mil	Eric Bledsoe out of bounds lost ball turnover	4 - 3	4	3	0	0	Eric Bledsoe		turnover							
+401129094	1	02:31	9:29	bos	Eric Bledsoe blocks Kyrie Irving 's 5-foot alley oop layup	4 - 3	4	3	0	0	Eric Bledsoe	Kyrie Irving	blocks	alley oop layup	5					
+401129094	1	02:34	9:26	mil	Giannis Antetokounmpo defensive rebound	4 - 3	4	3	0	0	Giannis Antetokounmpo		defensive rebound							
+401129094	1	02:41	9:19	mil	Nikola Mirotic misses 29-foot three point jumper	4 - 3	4	3	0	0	Nikola Mirotic		misses	jumper	29		three			
+401129094	1	02:43	9:17	bos	Al Horford defensive rebound	4 - 3	4	3	0	0	Al Horford		defensive rebound							
+401129094	1	02:53	9:07	mil	Nikola Mirotic shooting foul	4 - 3	4	3	0	0	Nikola Mirotic		foul							
+401129094	1	02:53	9:07	bos	Jaylen Brown makes free throw 1 of 3	5 - 3	5	3	1	0	Jaylen Brown		makes	free throw		1-3				
+401129094	1	02:53	9:07	bos	Jaylen Brown makes free throw 2 of 3	6 - 3	6	3	1	0	Jaylen Brown		makes	free throw		2-3				
+401129094	1	02:53	9:07	bos	Jaylen Brown makes free throw 3 of 3	7 - 3	7	3	1	0	Jaylen Brown		makes	free throw		3-3				
+401129094	1	03:09	8:51	bos	Jayson Tatum shooting foul	7 - 3	7	3	0	0	Jayson Tatum		foul							
+401129094	1	03:09	8:51	mil	Giannis Antetokounmpo makes free throw 1 of 2	7 - 4	7	4	0	1	Giannis Antetokounmpo		makes	free throw		1-2				
+401129094	1	03:09	8:51	mil	Giannis Antetokounmpo makes free throw 2 of 2	7 - 5	7	5	0	1	Giannis Antetokounmpo		makes	free throw		2-2				
+401129094	1	03:17	8:43	mil	Nikola Mirotic shooting foul	7 - 5	7	5	0	0	Nikola Mirotic		foul							
+401129094	1	03:17	8:43	bos	Jaylen Brown makes free throw 1 of 2	8 - 5	8	5	1	0	Jaylen Brown		makes	free throw		1-2				
+401129094	1	03:17	8:43	mil	Pat Connaughton enters the game for Nikola Mirotic	8 - 5	8	5	0	0	Pat Connaughton	Nikola Mirotic	enters the game for							
+401129094	1	03:17	8:43	bos	Jaylen Brown makes free throw 2 of 2	9 - 5	9	5	1	0	Jaylen Brown		makes	free throw		2-2				
+401129094	1	03:33	8:27	mil	Khris Middleton misses 20-foot jumper	9 - 5	9	5	0	0	Khris Middleton		misses	jumper	20					
+401129094	1	03:33	8:27	bos	Jayson Tatum defensive rebound	9 - 5	9	5	0	0	Jayson Tatum		defensive rebound							
+401129094	1	03:42	8:18	bos	Al Horford makes 28-foot three point jumper (Jayson Tatum assists)	12 - 5	12	5	3	0	Al Horford		makes	jumper	28		three	Jayson Tatum	assists	
+401129094	1	03:43	8:17	mil	Bucks Full timeout	12 - 5	12	5	0	0			full timeout							bucks
+401129094	1	03:57	8:03	mil	Khris Middleton makes driving layup	12 - 7	12	7	0	2	Khris Middleton		makes	driving layup						
+401129094	1	03:57	8:03	bos	Jaylen Brown shooting foul	12 - 7	12	7	0	0	Jaylen Brown		foul							
+401129094	1	03:57	8:03	mil	Khris Middleton makes free throw 1 of 1	12 - 8	12	8	0	1	Khris Middleton		makes	free throw		1-1				
+401129094	1	04:17	7:43	mil	Khris Middleton shooting foul	12 - 8	12	8	0	0	Khris Middleton		foul							
+401129094	1	04:17	7:43	bos	Jayson Tatum misses free throw 1 of 2	12 - 8	12	8	0	0	Jayson Tatum		misses	free throw		1-2				
+401129094	1	04:17	7:43	bos	Celtics offensive team rebound	12 - 8	12	8	0	0			offensive rebound	team						celtics
+401129094	1	04:17	7:43	bos	Aron Baynes enters the game for Al Horford	12 - 8	12	8	0	0	Aron Baynes	Al Horford	enters the game for							
+401129094	1	04:17	7:43	bos	Jayson Tatum makes free throw 2 of 2	13 - 8	13	8	1	0	Jayson Tatum		makes	free throw		2-2				
+401129094	1	04:35	7:25	mil	Eric Bledsoe misses driving floating jump shot	13 - 8	13	8	0	0	Eric Bledsoe		misses	driving floating jump shot						
+401129094	1	04:38	7:22	bos	Jaylen Brown defensive rebound	13 - 8	13	8	0	0	Jaylen Brown		defensive rebound							
+401129094	1	04:46	7:14	bos	Kyrie Irving bad pass (Giannis Antetokounmpo steals)	13 - 8	13	8	0	0	Kyrie Irving		bad pass					Giannis Antetokounmpo	steals	
+401129094	1	04:48	7:12	mil	Giannis Antetokounmpo lost ball turnover (Kyrie Irving steals)	13 - 8	13	8	0	0	Giannis Antetokounmpo		turnover					Kyrie Irving	steals	
+401129094	1	04:48	7:12	mil	Giannis Antetokounmpo personal take foul	13 - 8	13	8	0	0	Giannis Antetokounmpo		foul							
+401129094	1	04:48	7:12	mil	Ersan Ilyasova enters the game for Brook Lopez	13 - 8	13	8	0	0	Ersan Ilyasova	Brook Lopez	enters the game for							
+401129094	1	05:04	6:56	bos	Kyrie Irving misses pullup jump shot	13 - 8	13	8	0	0	Kyrie Irving		misses	pullup jump shot						
+401129094	1	05:07	6:53	mil	Ersan Ilyasova defensive rebound	13 - 8	13	8	0	0	Ersan Ilyasova		defensive rebound							
+401129094	1	05:10	6:50	bos	Aron Baynes shooting foul	13 - 8	13	8	0	0	Aron Baynes		foul							
+401129094	1	05:10	6:50	mil	Giannis Antetokounmpo makes free throw 1 of 2	13 - 9	13	9	0	1	Giannis Antetokounmpo		makes	free throw		1-2				
+401129094	1	05:10	6:50	bos	Gordon Hayward enters the game for Jayson Tatum	13 - 9	13	9	0	0	Gordon Hayward	Jayson Tatum	enters the game for							
+401129094	1	05:10	6:50	mil	Giannis Antetokounmpo makes free throw 2 of 2	13 - 10	13	10	0	1	Giannis Antetokounmpo		makes	free throw		2-2				
+401129094	1	05:32	6:28	bos	Kyrie Irving misses 8-foot two point shot	13 - 10	13	10	0	0	Kyrie Irving		misses	shot	8		two			
+401129094	1	05:35	6:25	bos	Marcus Morris offensive rebound	13 - 10	13	10	0	0	Marcus Morris		offensive rebound							
+401129094	1	05:35	6:25	bos	Marcus Morris makes tip shot	15 - 10	15	10	2	0	Marcus Morris		makes	tip shot						
+401129094	1	05:45	6:15	mil	Giannis Antetokounmpo misses 29-foot three point jumper	15 - 10	15	10	0	0	Giannis Antetokounmpo		misses	jumper	29		three			
+401129094	1	05:46	6:14	bos	Celtics defensive team rebound	15 - 10	15	10	0	0			defensive rebound	team						celtics
+401129094	1	05:59	6:01	bos	Aron Baynes misses 27-foot three point jumper	15 - 10	15	10	0	0	Aron Baynes		misses	jumper	27		three			
+401129094	1	06:04	5:56	mil	Khris Middleton defensive rebound	15 - 10	15	10	0	0	Khris Middleton		defensive rebound							
+401129094	1	06:11	5:49	mil	Pat Connaughton makes 24-foot three point jumper (Eric Bledsoe assists)	15 - 13	15	13	0	3	Pat Connaughton		makes	jumper	24		three	Eric Bledsoe	assists	
+401129094	1	06:31	5:29	bos	Kyrie Irving misses driving floating jump shot	15 - 13	15	13	0	0	Kyrie Irving		misses	driving floating jump shot						
+401129094	1	06:34	5:26	mil	Giannis Antetokounmpo defensive rebound	15 - 13	15	13	0	0	Giannis Antetokounmpo		defensive rebound							
+401129094	1	06:41	5:19	mil	Khris Middleton makes three point jumper (Ersan Ilyasova assists)	15 - 16	15	16	0	3	Khris Middleton		makes	jumper			three	Ersan Ilyasova	assists	
+401129094	1	06:58	5:02	bos	Kyrie Irving misses 29-foot three point jumper	15 - 16	15	16	0	0	Kyrie Irving		misses	jumper	29		three			
+401129094	1	07:01	4:59	mil	Khris Middleton defensive rebound	15 - 16	15	16	0	0	Khris Middleton		defensive rebound							
+401129094	1	07:04	4:56	bos	Aron Baynes shooting foul	15 - 16	15	16	0	0	Aron Baynes		foul							
+401129094	1	07:04	4:56	mil	Giannis Antetokounmpo makes free throw 1 of 2	15 - 17	15	17	0	1	Giannis Antetokounmpo		makes	free throw		1-2				
+401129094	1	07:04	4:56	mil	George Hill enters the game for Eric Bledsoe	15 - 17	15	17	0	0	George Hill	Eric Bledsoe	enters the game for							
+401129094	1	07:04	4:56	bos	Al Horford enters the game for Jaylen Brown	15 - 17	15	17	0	0	Al Horford	Jaylen Brown	enters the game for							
+401129094	1	07:04	4:56	bos	Terry Rozier enters the game for Aron Baynes	15 - 17	15	17	0	0	Terry Rozier	Aron Baynes	enters the game for							
+401129094	1	07:04	4:56	mil	Giannis Antetokounmpo misses free throw 2 of 2	15 - 17	15	17	0	0	Giannis Antetokounmpo		misses	free throw		2-2				
+401129094	1	07:08	4:52	bos	Al Horford defensive rebound	15 - 17	15	17	0	0	Al Horford		defensive rebound							
+401129094	1	07:25	4:35	bos	Al Horford misses 5-foot two point shot	15 - 17	15	17	0	0	Al Horford		misses	shot	5		two			
+401129094	1	07:28	4:32	mil	Giannis Antetokounmpo defensive rebound	15 - 17	15	17	0	0	Giannis Antetokounmpo		defensive rebound							
+401129094	1	07:40	4:20	mil	Giannis Antetokounmpo misses driving floating jump shot	15 - 17	15	17	0	0	Giannis Antetokounmpo		misses	driving floating jump shot						
+401129094	1	07:42	4:18	mil	Giannis Antetokounmpo offensive rebound	15 - 17	15	17	0	0	Giannis Antetokounmpo		offensive rebound							
+401129094	1	07:45	4:15	mil	Giannis Antetokounmpo misses two point shot	15 - 17	15	17	0	0	Giannis Antetokounmpo		misses	shot			two			
+401129094	1	07:48	4:12	bos	Marcus Morris defensive rebound	15 - 17	15	17	0	0	Marcus Morris		defensive rebound							
+401129094	1	08:00	4:00	bos	Marcus Morris makes 25-foot three point jumper (Gordon Hayward assists)	18 - 17	18	17	3	0	Marcus Morris		makes	jumper	25		three	Gordon Hayward	assists	
+401129094	1	08:14	3:46	bos	Terry Rozier personal foul	18 - 17	18	17	0	0	Terry Rozier		foul							
+401129094	1	08:14	3:46	mil	Giannis Antetokounmpo misses free throw 1 of 2	18 - 17	18	17	0	0	Giannis Antetokounmpo		misses	free throw		1-2				
+401129094	1	08:14	3:46	mil	Bucks offensive team rebound	18 - 17	18	17	0	0			offensive rebound	team						bucks
+401129094	1	08:14	3:46	mil	Brook Lopez enters the game for Ersan Ilyasova	18 - 17	18	17	0	0	Brook Lopez	Ersan Ilyasova	enters the game for							
+401129094	1	08:14	3:46	mil	Giannis Antetokounmpo misses free throw 2 of 2	18 - 17	18	17	0	0	Giannis Antetokounmpo		misses	free throw		2-2				
+401129094	1	08:17	3:43	bos	Al Horford defensive rebound	18 - 17	18	17	0	0	Al Horford		defensive rebound							
+401129094	1	08:31	3:29	bos	Al Horford makes 2-foot hook shot (Terry Rozier assists)	20 - 17	20	17	2	0	Al Horford		makes	hook shot	2			Terry Rozier	assists	
+401129094	1	08:44	3:16	mil	Khris Middleton misses 25-foot three point jumper	20 - 17	20	17	0	0	Khris Middleton		misses	jumper	25		three			
+401129094	1	08:44	3:16	bos	Terry Rozier defensive rebound	20 - 17	20	17	0	0	Terry Rozier		defensive rebound							
+401129094	1	08:44	3:16	mil	Pat Connaughton personal foul	20 - 17	20	17	0	0	Pat Connaughton		foul							
+401129094	1	08:44	3:16	bos	Terry Rozier makes free throw 1 of 2	21 - 17	21	17	1	0	Terry Rozier		makes	free throw		1-2				
+401129094	1	08:44	3:16	mil	Ersan Ilyasova enters the game for Giannis Antetokounmpo	21 - 17	21	17	0	0	Ersan Ilyasova	Giannis Antetokounmpo	enters the game for							
+401129094	1	08:44	3:16	bos	Terry Rozier makes free throw 2 of 2	22 - 17	22	17	1	0	Terry Rozier		makes	free throw		2-2				
+401129094	1	08:58	3:02	mil	George Hill misses two point shot	22 - 17	22	17	0	0	George Hill		misses	shot			two			
+401129094	1	09:01	2:59	bos	Al Horford defensive rebound	22 - 17	22	17	0	0	Al Horford		defensive rebound							
+401129094	1	09:05	2:55	bos	Gordon Hayward misses two point shot	22 - 17	22	17	0	0	Gordon Hayward		misses	shot			two			
+401129094	1	09:08	2:52	mil	Khris Middleton defensive rebound	22 - 17	22	17	0	0	Khris Middleton		defensive rebound							
+401129094	1	09:16	2:44	mil	Brook Lopez makes 28-foot three point jumper (George Hill assists)	22 - 20	22	20	0	3	Brook Lopez		makes	jumper	28		three	George Hill	assists	
+401129094	1	09:23	2:37	bos	Celtics Full timeout	22 - 20	22	20	0	0			full timeout							celtics
+401129094	1	09:23	2:37	bos	Jayson Tatum enters the game for Marcus Morris	22 - 20	22	20	0	0	Jayson Tatum	Marcus Morris	enters the game for							
+401129094	1	09:35	2:25	bos	Kyrie Irving misses two point shot	22 - 20	22	20	0	0	Kyrie Irving		misses	shot			two			
+401129094	1	09:38	2:22	mil	Khris Middleton defensive rebound	22 - 20	22	20	0	0	Khris Middleton		defensive rebound							
+401129094	1	09:42	2:18	mil	Khris Middleton makes 28-foot three point shot	22 - 23	22	23	0	3	Khris Middleton		makes	shot	28		three			
+401129094	1	09:57	2:03	bos	Al Horford offensive foul	22 - 23	22	23	0	0	Al Horford		foul							
+401129094	1	09:57	2:03	bos	Al Horford turnover	22 - 23	22	23	0	0	Al Horford		turnover							
+401129094	1	09:57	2:03	mil	Sterling Brown enters the game for Ersan Ilyasova	22 - 23	22	23	0	0	Sterling Brown	Ersan Ilyasova	enters the game for							
+401129094	1	10:10	1:50	mil	Khris Middleton misses 23-foot jumper	22 - 23	22	23	0	0	Khris Middleton		misses	jumper	23					
+401129094	1	10:10	1:50	bos	Jayson Tatum defensive rebound	22 - 23	22	23	0	0	Jayson Tatum		defensive rebound							
+401129094	1	10:23	1:37	bos	Jayson Tatum misses driving layup	22 - 23	22	23	0	0	Jayson Tatum		misses	driving layup						
+401129094	1	10:23	1:37	mil	Pat Connaughton defensive rebound	22 - 23	22	23	0	0	Pat Connaughton		defensive rebound							
+401129094	1	10:34	1:26	mil	Sterling Brown misses three point jumper	22 - 23	22	23	0	0	Sterling Brown		misses	jumper			three			
+401129094	1	10:37	1:23	bos	Terry Rozier defensive rebound	22 - 23	22	23	0	0	Terry Rozier		defensive rebound							
+401129094	1	10:45	1:15	bos	Al Horford makes 16-foot jumper (Kyrie Irving assists)	24 - 23	24	23	2	0	Al Horford		makes	jumper	16			Kyrie Irving	assists	
+401129094	1	11:01	58.7	mil	Khris Middleton lost ball turnover (Terry Rozier steals)	24 - 23	24	23	0	0	Khris Middleton		turnover					Terry Rozier	steals	
+401129094	1	11:03	56.1	bos	Terry Rozier makes two point shot (Al Horford assists)	26 - 23	26	23	2	0	Terry Rozier		makes	shot			two	Al Horford	assists	
+401129094	1	11:03	56.1	mil	Sterling Brown shooting foul	26 - 23	26	23	0	0	Sterling Brown		foul							
+401129094	1	11:03	56.1	mil	Eric Bledsoe enters the game for Khris Middleton	26 - 23	26	23	0	0	Eric Bledsoe	Khris Middleton	enters the game for							
+401129094	1	11:03	56.1	bos	Jaylen Brown enters the game for Kyrie Irving	26 - 23	26	23	0	0	Jaylen Brown	Kyrie Irving	enters the game for							
+401129094	1	11:03	56.1	bos	Terry Rozier makes free throw 1 of 1	27 - 23	27	23	1	0	Terry Rozier		makes	free throw		1-1				
+401129094	1	11:17	42.7	mil	Brook Lopez misses 28-foot three point jumper	27 - 23	27	23	0	0	Brook Lopez		misses	jumper	28		three			
+401129094	1	11:19	40.2	bos	Jayson Tatum defensive rebound	27 - 23	27	23	0	0	Jayson Tatum		defensive rebound							
+401129094	1	11:32	27.8	bos	Gordon Hayward makes 24-foot three point jumper (Al Horford assists)	30 - 23	30	23	3	0	Gordon Hayward		makes	jumper	24		three	Al Horford	assists	
+401129094	1	11:51	9.0	mil	Eric Bledsoe makes layup	30 - 25	30	25	0	2	Eric Bledsoe		makes	layup						
+401129094	1	11:57	2.7	bos	Terry Rozier misses 27-foot three point jumper	30 - 25	30	25	0	0	Terry Rozier		misses	jumper	27		three			
+401129094	1	11:57	2.7	mil	Pat Connaughton defensive rebound	30 - 25	30	25	0	0	Pat Connaughton		defensive rebound							
+401129094	1	12:00	0.0	mil	End of the 1st Quarter	30 - 25	30	25	0	0			end of the 1st quarter							
+401129094	2	00:00	12:00	mil	Giannis Antetokounmpo enters the game for Brook Lopez	30 - 25	30	25	0	0	Giannis Antetokounmpo	Brook Lopez	enters the game for							
+401129094	2	00:00	12:00	mil	Nikola Mirotic enters the game for Pat Connaughton	30 - 25	30	25	0	0	Nikola Mirotic	Pat Connaughton	enters the game for							
+401129094	2	00:16	11:44	mil	Sterling Brown shooting foul	30 - 25	30	25	0	0	Sterling Brown		foul							
+401129094	2	00:16	11:44	bos	Gordon Hayward makes free throw 1 of 2	31 - 25	31	25	1	0	Gordon Hayward		makes	free throw		1-2				
+401129094	2	00:16	11:44	bos	Gordon Hayward makes free throw 2 of 2	32 - 25	32	25	1	0	Gordon Hayward		makes	free throw		2-2				
+401129094	2	00:35	11:25	mil	Eric Bledsoe makes 27-foot three point jumper	32 - 28	32	28	0	3	Eric Bledsoe		makes	jumper	27		three			
+401129094	2	00:54	11:06	bos	Terry Rozier misses 25-foot three point jumper	32 - 28	32	28	0	0	Terry Rozier		misses	jumper	25		three			
+401129094	2	00:58	11:02	mil	Sterling Brown defensive rebound	32 - 28	32	28	0	0	Sterling Brown		defensive rebound							
+401129094	2	01:00	11:00	mil	Sterling Brown traveling	32 - 28	32	28	0	0	Sterling Brown		traveling							
+401129094	2	01:20	10:40	bos	Jaylen Brown bad pass (Nikola Mirotic steals)	32 - 28	32	28	0	0	Jaylen Brown		bad pass					Nikola Mirotic	steals	
+401129094	2	01:26	10:34	bos	Jayson Tatum shooting foul	32 - 28	32	28	0	0	Jayson Tatum		foul							
+401129094	2	01:26	10:34	mil	Giannis Antetokounmpo makes free throw 1 of 2	32 - 29	32	29	0	1	Giannis Antetokounmpo		makes	free throw		1-2				
+401129094	2	01:26	10:34	mil	Pat Connaughton enters the game for George Hill	32 - 29	32	29	0	0	Pat Connaughton	George Hill	enters the game for							
+401129094	2	01:26	10:34	mil	Giannis Antetokounmpo makes free throw 2 of 2	32 - 30	32	30	0	1	Giannis Antetokounmpo		makes	free throw		2-2				
+401129094	2	01:26	10:34	mil	Eric Bledsoe personal foul	32 - 30	32	30	0	0	Eric Bledsoe		foul							
+401129094	2	01:35	10:25	bos	Nikola Mirotic blocks Jaylen Brown 's 4-foot driving layup	32 - 30	32	30	0	0	Nikola Mirotic	Jaylen Brown	blocks	driving layup	4					
+401129094	2	01:35	10:25	bos	Celtics offensive team rebound	32 - 30	32	30	0	0			offensive rebound	team						celtics
+401129094	2	01:37	10:23	mil	Sterling Brown personal foul	32 - 30	32	30	0	0	Sterling Brown		foul							
+401129094	2	01:51	10:09	bos	Jayson Tatum makes 12-foot two point shot	34 - 30	34	30	2	0	Jayson Tatum		makes	shot	12		two			
+401129094	2	02:01	9:59	mil	Eric Bledsoe makes 2-foot two point shot	34 - 32	34	32	0	2	Eric Bledsoe		makes	shot	2		two			
+401129094	2	02:20	9:40	bos	Al Horford makes 2-foot driving dunk	36 - 32	36	32	2	0	Al Horford		makes	driving dunk	2					
+401129094	2	02:33	9:27	mil	Pat Connaughton misses 28-foot three point jumper	36 - 32	36	32	0	0	Pat Connaughton		misses	jumper	28		three			
+401129094	2	02:36	9:24	bos	Terry Rozier defensive rebound	36 - 32	36	32	0	0	Terry Rozier		defensive rebound							
+401129094	2	02:45	9:15	bos	Giannis Antetokounmpo blocks Jayson Tatum's layup	36 - 32	36	32	0	0	Giannis Antetokounmpo	Jayson Tatum	blocks	layup						
+401129094	2	02:49	9:11	mil	Sterling Brown defensive rebound	36 - 32	36	32	0	0	Sterling Brown		defensive rebound							
+401129094	2	02:54	9:06	mil	Sterling Brown misses 25-foot three point jumper	36 - 32	36	32	0	0	Sterling Brown		misses	jumper	25		three			
+401129094	2	02:56	9:04	mil	Eric Bledsoe offensive rebound	36 - 32	36	32	0	0	Eric Bledsoe		offensive rebound							
+401129094	2	03:03	8:57	mil	Giannis Antetokounmpo makes driving dunk	36 - 34	36	34	0	2	Giannis Antetokounmpo		makes	driving dunk						
+401129094	2	03:29	8:31	bos	Jaylen Brown makes 9-foot two point shot	38 - 34	38	34	2	0	Jaylen Brown		makes	shot	9		two			
+401129094	2	03:47	8:13	bos	Terry Rozier personal foul	38 - 34	38	34	0	0	Terry Rozier		foul							
+401129094	2	03:47	8:13	mil	Khris Middleton enters the game for Sterling Brown	38 - 34	38	34	0	0	Khris Middleton	Sterling Brown	enters the game for							
+401129094	2	03:47	8:13	bos	Aron Baynes enters the game for Terry Rozier	38 - 34	38	34	0	0	Aron Baynes	Terry Rozier	enters the game for							
+401129094	2	03:47	8:13	bos	Kyrie Irving enters the game for Al Horford	38 - 34	38	34	0	0	Kyrie Irving	Al Horford	enters the game for							
+401129094	2	03:47	8:13	mil	Bucks Full timeout	38 - 34	38	34	0	0			full timeout							bucks
+401129094	2	03:54	8:06	bos	Jayson Tatum shooting foul	38 - 34	38	34	0	0	Jayson Tatum		foul							
+401129094	2	03:54	8:06	mil	Nikola Mirotic makes free throw 1 of 2	38 - 35	38	35	0	1	Nikola Mirotic		makes	free throw		1-2				
+401129094	2	03:54	8:06	mil	Nikola Mirotic makes free throw 2 of 2	38 - 36	38	36	0	1	Nikola Mirotic		makes	free throw		2-2				
+401129094	2	04:02	7:58	mil	Eric Bledsoe personal foul	38 - 36	38	36	0	0	Eric Bledsoe		foul							
+401129094	2	04:02	7:58	mil	George Hill enters the game for Eric Bledsoe	38 - 36	38	36	0	0	George Hill	Eric Bledsoe	enters the game for							
+401129094	2	04:18	7:42	bos	Kyrie Irving misses driving layup	38 - 36	38	36	0	0	Kyrie Irving		misses	driving layup						
+401129094	2	04:21	7:39	mil	Pat Connaughton defensive rebound	38 - 36	38	36	0	0	Pat Connaughton		defensive rebound							
+401129094	2	04:26	7:34	mil	Khris Middleton makes 26-foot three point jumper (Pat Connaughton assists)	38 - 39	38	39	0	3	Khris Middleton		makes	jumper	26		three	Pat Connaughton	assists	
+401129094	2	04:41	7:19	bos	Jayson Tatum misses three point jumper	38 - 39	38	39	0	0	Jayson Tatum		misses	jumper			three			
+401129094	2	04:44	7:16	mil	Pat Connaughton defensive rebound	38 - 39	38	39	0	0	Pat Connaughton		defensive rebound							
+401129094	2	04:50	7:10	mil	Khris Middleton makes 27-foot step back jumpshot	38 - 42	38	42	0	3	Khris Middleton		makes	step back jumpshot	27					
+401129094	2	04:50	7:10	bos	Celtics Full timeout	38 - 42	38	42	0	0			full timeout							celtics
+401129094	2	04:50	7:10	mil	Brook Lopez enters the game for Nikola Mirotic	38 - 42	38	42	0	0	Brook Lopez	Nikola Mirotic	enters the game for							
+401129094	2	04:50	7:10	bos	Marcus Morris enters the game for Jayson Tatum	38 - 42	38	42	0	0	Marcus Morris	Jayson Tatum	enters the game for							
+401129094	2	05:08	6:52	bos	Jaylen Brown misses 14-foot pullup jump shot	38 - 42	38	42	0	0	Jaylen Brown		misses	pullup jump shot	14					
+401129094	2	05:11	6:49	mil	Brook Lopez defensive rebound	38 - 42	38	42	0	0	Brook Lopez		defensive rebound							
+401129094	2	05:23	6:37	mil	Giannis Antetokounmpo makes two point shot	38 - 44	38	44	0	2	Giannis Antetokounmpo		makes	shot			two			
+401129094	2	05:38	6:22	bos	Kyrie Irving makes 10-foot two point shot	40 - 44	40	44	2	0	Kyrie Irving		makes	shot	10		two			
+401129094	2	05:49	6:11	mil	Giannis Antetokounmpo misses 27-foot three point jumper	40 - 44	40	44	0	0	Giannis Antetokounmpo		misses	jumper	27		three			
+401129094	2	05:52	6:08	bos	Kyrie Irving defensive rebound	40 - 44	40	44	0	0	Kyrie Irving		defensive rebound							
+401129094	2	06:06	5:54	bos	Aron Baynes makes 7-foot two point shot (Marcus Morris assists)	42 - 44	42	44	2	0	Aron Baynes		makes	shot	7		two	Marcus Morris	assists	
+401129094	2	06:25	5:35	mil	Kyrie Irving blocks Khris Middleton 's 4-foot driving layup	42 - 44	42	44	0	0	Kyrie Irving	Khris Middleton	blocks	driving layup	4					
+401129094	2	06:25	5:35	mil	Bucks offensive team rebound	42 - 44	42	44	0	0			offensive rebound	team						bucks
+401129094	2	06:28	5:32	mil	Khris Middleton makes two point shot (Giannis Antetokounmpo assists)	42 - 46	42	46	0	2	Khris Middleton		makes	shot			two	Giannis Antetokounmpo	assists	
+401129094	2	06:48	5:12	bos	Marcus Morris misses 16-foot pullup jump shot	42 - 46	42	46	0	0	Marcus Morris		misses	pullup jump shot	16					
+401129094	2	06:51	5:09	mil	Pat Connaughton defensive rebound	42 - 46	42	46	0	0	Pat Connaughton		defensive rebound							
+401129094	2	06:57	5:03	mil	Brook Lopez misses 27-foot three point jumper	42 - 46	42	46	0	0	Brook Lopez		misses	jumper	27		three			
+401129094	2	07:00	5:00	bos	Marcus Morris defensive rebound	42 - 46	42	46	0	0	Marcus Morris		defensive rebound							
+401129094	2	07:09	4:51	bos	Kyrie Irving misses 16-foot two point shot	42 - 46	42	46	0	0	Kyrie Irving		misses	shot	16		two			
+401129094	2	07:10	4:50	mil	Brook Lopez defensive rebound	42 - 46	42	46	0	0	Brook Lopez		defensive rebound							
+401129094	2	07:23	4:37	mil	Brook Lopez misses 29-foot three point jumper	42 - 46	42	46	0	0	Brook Lopez		misses	jumper	29		three			
+401129094	2	07:26	4:34	bos	Kyrie Irving defensive rebound	42 - 46	42	46	0	0	Kyrie Irving		defensive rebound							
+401129094	2	07:32	4:28	bos	Kyrie Irving makes 32-foot three point jumper (Jaylen Brown assists)	45 - 46	45	46	3	0	Kyrie Irving		makes	jumper	32		three	Jaylen Brown	assists	
+401129094	2	07:52	4:08	mil	Khris Middleton misses 28-foot three point jumper	45 - 46	45	46	0	0	Khris Middleton		misses	jumper	28		three			
+401129094	2	07:55	4:05	bos	Marcus Morris defensive rebound	45 - 46	45	46	0	0	Marcus Morris		defensive rebound							
+401129094	2	08:02	3:58	bos	Marcus Morris makes 26-foot three point jumper (Kyrie Irving assists)	48 - 46	48	46	3	0	Marcus Morris		makes	jumper	26		three	Kyrie Irving	assists	
+401129094	2	08:04	3:56	mil	Bucks Full timeout	48 - 46	48	46	0	0			full timeout							bucks
+401129094	2	08:04	3:56	mil	Nikola Mirotic enters the game for Giannis Antetokounmpo	48 - 46	48	46	0	0	Nikola Mirotic	Giannis Antetokounmpo	enters the game for							
+401129094	2	08:04	3:56	bos	Al Horford enters the game for Aron Baynes	48 - 46	48	46	0	0	Al Horford	Aron Baynes	enters the game for							
+401129094	2	08:21	3:39	mil	Brook Lopez misses 12-foot two point shot	48 - 46	48	46	0	0	Brook Lopez		misses	shot	12		two			
+401129094	2	08:23	3:37	bos	Jaylen Brown defensive rebound	48 - 46	48	46	0	0	Jaylen Brown		defensive rebound							
+401129094	2	08:33	3:27	bos	Kyrie Irving misses 27-foot three point jumper	48 - 46	48	46	0	0	Kyrie Irving		misses	jumper	27		three			
+401129094	2	08:36	3:24	mil	Nikola Mirotic defensive rebound	48 - 46	48	46	0	0	Nikola Mirotic		defensive rebound							
+401129094	2	08:48	3:12	mil	George Hill misses 27-foot three point jumper	48 - 46	48	46	0	0	George Hill		misses	jumper	27		three			
+401129094	2	08:52	3:08	bos	Kyrie Irving defensive rebound	48 - 46	48	46	0	0	Kyrie Irving		defensive rebound							
+401129094	2	09:06	2:54	bos	Al Horford makes 28-foot three point jumper (Jaylen Brown assists)	51 - 46	51	46	3	0	Al Horford		makes	jumper	28		three	Jaylen Brown	assists	
+401129094	2	09:24	2:36	mil	Nikola Mirotic misses 26-foot three point jumper	51 - 46	51	46	0	0	Nikola Mirotic		misses	jumper	26		three			
+401129094	2	09:24	2:36	mil	Bucks offensive team rebound	51 - 46	51	46	0	0			offensive rebound	team						bucks
+401129094	2	09:24	2:36	bos	Kyrie Irving loose ball foul	51 - 46	51	46	0	0	Kyrie Irving		foul							
+401129094	2	09:24	2:36	mil	Eric Bledsoe enters the game for Brook Lopez	51 - 46	51	46	0	0	Eric Bledsoe	Brook Lopez	enters the game for							
+401129094	2	09:24	2:36	mil	Giannis Antetokounmpo enters the game for Pat Connaughton	51 - 46	51	46	0	0	Giannis Antetokounmpo	Pat Connaughton	enters the game for							
+401129094	2	09:37	2:23	mil	Giannis Antetokounmpo makes two point shot (Eric Bledsoe assists)	51 - 48	51	48	0	2	Giannis Antetokounmpo		makes	shot			two	Eric Bledsoe	assists	
+401129094	2	09:57	2:03	bos	Al Horford out of bounds bad pass turnover	51 - 48	51	48	0	0	Al Horford		turnover							
+401129094	2	10:17	1:43	mil	Giannis Antetokounmpo misses two point shot	51 - 48	51	48	0	0	Giannis Antetokounmpo		misses	shot			two			
+401129094	2	10:21	1:39	mil	George Hill offensive rebound	51 - 48	51	48	0	0	George Hill		offensive rebound							
+401129094	2	10:21	1:39	mil	George Hill makes tip shot	51 - 50	51	50	0	2	George Hill		makes	tip shot						
+401129094	2	10:37	1:23	bos	Kyrie Irving misses 30-foot three point jumper	51 - 50	51	50	0	0	Kyrie Irving		misses	jumper	30		three			
+401129094	2	10:41	1:19	mil	Nikola Mirotic defensive rebound	51 - 50	51	50	0	0	Nikola Mirotic		defensive rebound							
+401129094	2	10:47	1:13	mil	Khris Middleton makes 23-foot three point jumper (Eric Bledsoe assists)	51 - 53	51	53	0	3	Khris Middleton		makes	jumper	23		three	Eric Bledsoe	assists	
+401129094	2	11:00	1:00	bos	Al Horford misses 27-foot three point jumper	51 - 53	51	53	0	0	Al Horford		misses	jumper	27		three			
+401129094	2	11:00	59.4	bos	Jaylen Brown offensive rebound	51 - 53	51	53	0	0	Jaylen Brown		offensive rebound							
+401129094	2	11:00	59.4	bos	Jaylen Brown makes two point shot	53 - 53	53	53	2	0	Jaylen Brown		makes	shot			two			
+401129094	2	11:09	50.9	mil	Eric Bledsoe misses two point shot	53 - 53	53	53	0	0	Eric Bledsoe		misses	shot			two			
+401129094	2	11:11	48.6	bos	Marcus Morris defensive rebound	53 - 53	53	53	0	0	Marcus Morris		defensive rebound							
+401129094	2	11:15	44.6	bos	Marcus Morris misses 26-foot three point jumper	53 - 53	53	53	0	0	Marcus Morris		misses	jumper	26		three			
+401129094	2	11:19	40.9	mil	Nikola Mirotic defensive rebound	53 - 53	53	53	0	0	Nikola Mirotic		defensive rebound							
+401129094	2	11:28	31.2	mil	Eric Bledsoe makes 28-foot three point jumper (Nikola Mirotic assists)	53 - 56	53	56	0	3	Eric Bledsoe		makes	jumper	28		three	Nikola Mirotic	assists	
+401129094	2	11:52	7.3	bos	Al Horford misses 17-foot jumper	53 - 56	53	56	0	0	Al Horford		misses	jumper	17					
+401129094	2	11:54	5.7	bos	Jaylen Brown offensive rebound	53 - 56	53	56	0	0	Jaylen Brown		offensive rebound							
+401129094	2	11:54	5.7	bos	Jaylen Brown makes two point shot	55 - 56	55	56	2	0	Jaylen Brown		makes	shot			two			
+401129094	2	11:58	2.0	mil	George Hill makes 26-foot three point jumper (Nikola Mirotic assists)	55 - 59	55	59	0	3	George Hill		makes	jumper	26		three	Nikola Mirotic	assists	
+401129094	2	12:00	0.0	bos	Jaylen Brown misses 56-foot three point jumper	55 - 59	55	59	0	0	Jaylen Brown		misses	jumper	56		three			
+401129094	2	12:00	0.0	bos	Celtics offensive team rebound	55 - 59	55	59	0	0			offensive rebound	team						celtics
+401129094	2	12:00	0.0	mil	End of the 2nd Quarter	55 - 59	55	59	0	0			end of the 2nd quarter							
+401129094	3	00:00	12:00	mil	Brook Lopez enters the game for George Hill	55 - 59	55	59	0	0	Brook Lopez	George Hill	enters the game for							
+401129094	3	00:00	12:00	bos	Jayson Tatum enters the game for Gordon Hayward	55 - 59	55	59	0	0	Jayson Tatum	Gordon Hayward	enters the game for							
+401129094	3	00:15	11:45	bos	Jayson Tatum misses 8-foot two point shot	55 - 59	55	59	0	0	Jayson Tatum		misses	shot	8		two			
+401129094	3	00:17	11:43	mil	Giannis Antetokounmpo defensive rebound	55 - 59	55	59	0	0	Giannis Antetokounmpo		defensive rebound							
+401129094	3	00:18	11:42	mil	Eric Bledsoe offensive charge	55 - 59	55	59	0	0	Eric Bledsoe		offensive charge							
+401129094	3	00:18	11:42	mil	Eric Bledsoe turnover	55 - 59	55	59	0	0	Eric Bledsoe		turnover							
+401129094	3	00:29	11:31	bos	Kyrie Irving makes driving layup	57 - 59	57	59	2	0	Kyrie Irving		makes	driving layup						
+401129094	3	00:39	11:21	mil	Eric Bledsoe makes two point shot (Brook Lopez assists)	57 - 61	57	61	0	2	Eric Bledsoe		makes	shot			two	Brook Lopez	assists	
+401129094	3	01:00	11:00	bos	Jayson Tatum misses 26-foot three point jumper	57 - 61	57	61	0	0	Jayson Tatum		misses	jumper	26		three			
+401129094	3	01:03	10:57	mil	Giannis Antetokounmpo defensive rebound	57 - 61	57	61	0	0	Giannis Antetokounmpo		defensive rebound							
+401129094	3	01:06	10:54	mil	Giannis Antetokounmpo makes two point shot	57 - 63	57	63	0	2	Giannis Antetokounmpo		makes	shot			two			
+401129094	3	01:27	10:33	bos	Jaylen Brown makes driving layup (Kyrie Irving assists)	59 - 63	59	63	2	0	Jaylen Brown		makes	driving layup				Kyrie Irving	assists	
+401129094	3	01:34	10:26	bos	Kyrie Irving personal foul	59 - 63	59	63	0	0	Kyrie Irving		foul							
+401129094	3	01:48	10:12	mil	Brook Lopez makes 25-foot three point jumper (Giannis Antetokounmpo assists)	59 - 66	59	66	0	3	Brook Lopez		makes	jumper	25		three	Giannis Antetokounmpo	assists	
+401129094	3	02:00	10:00	bos	Al Horford makes 28-foot three point jumper (Kyrie Irving assists)	62 - 66	62	66	3	0	Al Horford		makes	jumper	28		three	Kyrie Irving	assists	
+401129094	3	02:11	9:49	bos	Marcus Morris personal foul	62 - 66	62	66	0	0	Marcus Morris		foul							
+401129094	3	02:19	9:41	mil	Brook Lopez misses driving floating jump shot	62 - 66	62	66	0	0	Brook Lopez		misses	driving floating jump shot						
+401129094	3	02:22	9:38	bos	Jayson Tatum defensive rebound	62 - 66	62	66	0	0	Jayson Tatum		defensive rebound							
+401129094	3	02:31	9:29	bos	Kyrie Irving bad pass (Nikola Mirotic steals)	62 - 66	62	66	0	0	Kyrie Irving		bad pass					Nikola Mirotic	steals	
+401129094	3	02:38	9:22	mil	Khris Middleton makes 23-foot three point shot (Eric Bledsoe assists)	62 - 69	62	69	0	3	Khris Middleton		makes	shot	23		three	Eric Bledsoe	assists	
+401129094	3	02:52	9:08	bos	Al Horford lost ball turnover (Nikola Mirotic steals)	62 - 69	62	69	0	0	Al Horford		turnover					Nikola Mirotic	steals	
+401129094	3	02:56	9:04	mil	Nikola Mirotic makes two point shot	62 - 71	62	71	0	2	Nikola Mirotic		makes	shot			two			
+401129094	3	03:20	8:40	mil	Nikola Mirotic shooting foul	62 - 71	62	71	0	0	Nikola Mirotic		foul							
+401129094	3	03:20	8:40	bos	Marcus Morris makes free throw 1 of 2	63 - 71	63	71	1	0	Marcus Morris		makes	free throw		1-2				
+401129094	3	03:20	8:40	bos	Marcus Morris makes free throw 2 of 2	64 - 71	64	71	1	0	Marcus Morris		makes	free throw		2-2				
+401129094	3	03:38	8:22	mil	Khris Middleton makes 25-foot three point jumper (Eric Bledsoe assists)	64 - 74	64	74	0	3	Khris Middleton		makes	jumper	25		three	Eric Bledsoe	assists	
+401129094	3	03:56	8:04	bos	Marcus Morris makes 28-foot three point jumper (Al Horford assists)	67 - 74	67	74	3	0	Marcus Morris		makes	jumper	28		three	Al Horford	assists	
+401129094	3	04:05	7:55	mil	Giannis Antetokounmpo misses driving layup	67 - 74	67	74	0	0	Giannis Antetokounmpo		misses	driving layup						
+401129094	3	04:08	7:52	bos	Jaylen Brown defensive rebound	67 - 74	67	74	0	0	Jaylen Brown		defensive rebound							
+401129094	3	04:13	7:47	bos	Kyrie Irving makes two point shot	69 - 74	69	74	2	0	Kyrie Irving		makes	shot			two			
+401129094	3	04:19	7:41	mil	Bucks Full timeout	69 - 74	69	74	0	0			full timeout							bucks
+401129094	3	04:19	7:41	mil	Pat Connaughton enters the game for Nikola Mirotic	69 - 74	69	74	0	0	Pat Connaughton	Nikola Mirotic	enters the game for							
+401129094	3	04:29	7:31	mil	Khris Middleton misses 11-foot two point shot	69 - 74	69	74	0	0	Khris Middleton		misses	shot	11		two			
+401129094	3	04:32	7:28	bos	Marcus Morris defensive rebound	69 - 74	69	74	0	0	Marcus Morris		defensive rebound							
+401129094	3	04:37	7:23	bos	Kyrie Irving misses 20-foot jumper	69 - 74	69	74	0	0	Kyrie Irving		misses	jumper	20					
+401129094	3	04:40	7:20	mil	Eric Bledsoe defensive rebound	69 - 74	69	74	0	0	Eric Bledsoe		defensive rebound							
+401129094	3	04:45	7:15	mil	Eric Bledsoe bad pass (Marcus Morris steals)	69 - 74	69	74	0	0	Eric Bledsoe		bad pass					Marcus Morris	steals	
+401129094	3	04:54	7:06	bos	Marcus Morris makes 14-foot pullup jump shot (Jaylen Brown assists)	71 - 74	71	74	2	0	Marcus Morris		makes	pullup jump shot	14			Jaylen Brown	assists	
+401129094	3	05:08	6:52	bos	Kyrie Irving shooting foul	71 - 74	71	74	0	0	Kyrie Irving		foul							
+401129094	3	05:08	6:52	mil	Giannis Antetokounmpo makes free throw 1 of 2	71 - 75	71	75	0	1	Giannis Antetokounmpo		makes	free throw		1-2				
+401129094	3	05:08	6:52	mil	Ersan Ilyasova enters the game for Eric Bledsoe	71 - 75	71	75	0	0	Ersan Ilyasova	Eric Bledsoe	enters the game for							
+401129094	3	05:08	6:52	mil	George Hill enters the game for Brook Lopez	71 - 75	71	75	0	0	George Hill	Brook Lopez	enters the game for							
+401129094	3	05:08	6:52	bos	Gordon Hayward enters the game for Jayson Tatum	71 - 75	71	75	0	0	Gordon Hayward	Jayson Tatum	enters the game for							
+401129094	3	05:08	6:52	mil	Giannis Antetokounmpo makes free throw 2 of 2	71 - 76	71	76	0	1	Giannis Antetokounmpo		makes	free throw		2-2				
+401129094	3	05:26	6:34	bos	Kyrie Irving misses 31-foot three point jumper	71 - 76	71	76	0	0	Kyrie Irving		misses	jumper	31		three			
+401129094	3	05:29	6:31	mil	Khris Middleton defensive rebound	71 - 76	71	76	0	0	Khris Middleton		defensive rebound							
+401129094	3	05:39	6:21	mil	Khris Middleton misses 22-foot three point jumper	71 - 76	71	76	0	0	Khris Middleton		misses	jumper	22		three			
+401129094	3	05:42	6:18	bos	Jaylen Brown defensive rebound	71 - 76	71	76	0	0	Jaylen Brown		defensive rebound							
+401129094	3	05:45	6:15	bos	Jaylen Brown misses 31-foot three point jumper	71 - 76	71	76	0	0	Jaylen Brown		misses	jumper	31		three			
+401129094	3	05:47	6:13	mil	Giannis Antetokounmpo defensive rebound	71 - 76	71	76	0	0	Giannis Antetokounmpo		defensive rebound							
+401129094	3	06:01	5:59	mil	Pat Connaughton makes layup (Khris Middleton assists)	71 - 78	71	78	0	2	Pat Connaughton		makes	layup				Khris Middleton	assists	
+401129094	3	06:13	5:47	bos	Gordon Hayward misses 29-foot three point jumper	71 - 78	71	78	0	0	Gordon Hayward		misses	jumper	29		three			
+401129094	3	06:16	5:44	mil	Pat Connaughton defensive rebound	71 - 78	71	78	0	0	Pat Connaughton		defensive rebound							
+401129094	3	06:27	5:33	mil	Giannis Antetokounmpo makes 26-foot three point jumper (Ersan Ilyasova assists)	71 - 81	71	81	0	3	Giannis Antetokounmpo		makes	jumper	26		three	Ersan Ilyasova	assists	
+401129094	3	06:27	5:33	bos	Celtics Full timeout	71 - 81	71	81	0	0			full timeout							celtics
+401129094	3	06:44	5:16	bos	Al Horford lost ball turnover (Ersan Ilyasova steals)	71 - 81	71	81	0	0	Al Horford		turnover					Ersan Ilyasova	steals	
+401129094	3	06:46	5:14	mil	Pat Connaughton out of bounds lost ball turnover	71 - 81	71	81	0	0	Pat Connaughton		turnover							
+401129094	3	07:01	4:59	bos	Gordon Hayward offensive charge	71 - 81	71	81	0	0	Gordon Hayward		offensive charge							
+401129094	3	07:01	4:59	bos	Gordon Hayward turnover	71 - 81	71	81	0	0	Gordon Hayward		turnover							
+401129094	3	07:01	4:59	bos	Aron Baynes enters the game for Al Horford	71 - 81	71	81	0	0	Aron Baynes	Al Horford	enters the game for							
+401129094	3	07:09	4:51	bos	Aron Baynes kicked ball violation	71 - 81	71	81	0	0	Aron Baynes		kicked ball violation							
+401129094	3	07:26	4:34	mil	Ersan Ilyasova makes jumper (Giannis Antetokounmpo assists)	71 - 83	71	83	0	2	Ersan Ilyasova		makes	jumper				Giannis Antetokounmpo	assists	
+401129094	3	07:43	4:17	bos	Jaylen Brown bad pass (Giannis Antetokounmpo steals)	71 - 83	71	83	0	0	Jaylen Brown		bad pass					Giannis Antetokounmpo	steals	
+401129094	3	07:50	4:10	mil	Giannis Antetokounmpo misses two point shot	71 - 83	71	83	0	0	Giannis Antetokounmpo		misses	shot			two			
+401129094	3	07:54	4:06	mil	Giannis Antetokounmpo offensive rebound	71 - 83	71	83	0	0	Giannis Antetokounmpo		offensive rebound							
+401129094	3	07:54	4:06	mil	Giannis Antetokounmpo makes tip shot	71 - 85	71	85	0	2	Giannis Antetokounmpo		makes	tip shot						
+401129094	3	07:59	4:01	mil	Giannis Antetokounmpo personal foul	71 - 85	71	85	0	0	Giannis Antetokounmpo		foul							
+401129094	3	07:59	4:01	mil	Nikola Mirotic enters the game for Khris Middleton	71 - 85	71	85	0	0	Nikola Mirotic	Khris Middleton	enters the game for							
+401129094	3	07:59	4:01	bos	Terry Rozier enters the game for Jaylen Brown	71 - 85	71	85	0	0	Terry Rozier	Jaylen Brown	enters the game for							
+401129094	3	08:11	3:49	bos	Kyrie Irving misses 13-foot two point shot	71 - 85	71	85	0	0	Kyrie Irving		misses	shot	13		two			
+401129094	3	08:14	3:46	mil	Giannis Antetokounmpo defensive rebound	71 - 85	71	85	0	0	Giannis Antetokounmpo		defensive rebound							
+401129094	3	08:17	3:43	mil	Aron Baynes blocks Giannis Antetokounmpo's driving layup	71 - 85	71	85	0	0	Aron Baynes	Giannis Antetokounmpo	blocks	driving layup						
+401129094	3	08:18	3:42	mil	Giannis Antetokounmpo offensive rebound	71 - 85	71	85	0	0	Giannis Antetokounmpo		offensive rebound							
+401129094	3	08:19	3:41	bos	Aron Baynes shooting foul	71 - 85	71	85	0	0	Aron Baynes		foul							
+401129094	3	08:19	3:41	mil	Giannis Antetokounmpo makes free throw 1 of 2	71 - 86	71	86	0	1	Giannis Antetokounmpo		makes	free throw		1-2				
+401129094	3	08:19	3:41	bos	Jayson Tatum enters the game for Marcus Morris	71 - 86	71	86	0	0	Jayson Tatum	Marcus Morris	enters the game for							
+401129094	3	08:19	3:41	mil	Giannis Antetokounmpo misses free throw 2 of 2	71 - 86	71	86	0	0	Giannis Antetokounmpo		misses	free throw		2-2				
+401129094	3	08:22	3:38	bos	Jayson Tatum defensive rebound	71 - 86	71	86	0	0	Jayson Tatum		defensive rebound							
+401129094	3	08:34	3:26	bos	Kyrie Irving out of bounds bad pass turnover	71 - 86	71	86	0	0	Kyrie Irving		turnover							
+401129094	3	08:48	3:12	mil	Pat Connaughton misses 26-foot three point jumper	71 - 86	71	86	0	0	Pat Connaughton		misses	jumper	26		three			
+401129094	3	08:51	3:09	bos	Terry Rozier defensive rebound	71 - 86	71	86	0	0	Terry Rozier		defensive rebound							
+401129094	3	09:02	2:58	bos	Terry Rozier misses 21-foot jumper	71 - 86	71	86	0	0	Terry Rozier		misses	jumper	21					
+401129094	3	09:06	2:54	bos	Kyrie Irving offensive rebound	71 - 86	71	86	0	0	Kyrie Irving		offensive rebound							
+401129094	3	09:11	2:49	bos	Jayson Tatum misses driving layup	71 - 86	71	86	0	0	Jayson Tatum		misses	driving layup						
+401129094	3	09:15	2:45	bos	Aron Baynes offensive rebound	71 - 86	71	86	0	0	Aron Baynes		offensive rebound							
+401129094	3	09:15	2:45	bos	Aron Baynes makes tip shot	73 - 86	73	86	2	0	Aron Baynes		makes	tip shot						
+401129094	3	09:22	2:38	mil	Giannis Antetokounmpo makes 26-foot three point jumper (Pat Connaughton assists)	73 - 89	73	89	0	3	Giannis Antetokounmpo		makes	jumper	26		three	Pat Connaughton	assists	
+401129094	3	09:37	2:23	bos	Gordon Hayward misses driving floating jump shot	73 - 89	73	89	0	0	Gordon Hayward		misses	driving floating jump shot						
+401129094	3	09:39	2:21	mil	Pat Connaughton defensive rebound	73 - 89	73	89	0	0	Pat Connaughton		defensive rebound							
+401129094	3	09:42	2:18	bos	Aron Baynes shooting foul	73 - 89	73	89	0	0	Aron Baynes		foul							
+401129094	3	09:42	2:18	mil	Giannis Antetokounmpo makes free throw 1 of 2	73 - 90	73	90	0	1	Giannis Antetokounmpo		makes	free throw		1-2				
+401129094	3	09:42	2:18	mil	Giannis Antetokounmpo makes free throw 2 of 2	73 - 91	73	91	0	1	Giannis Antetokounmpo		makes	free throw		2-2				
+401129094	3	09:43	2:17	mil	Pat Connaughton personal take foul	73 - 91	73	91	0	0	Pat Connaughton		foul							
+401129094	3	09:43	2:17	mil	Eric Bledsoe enters the game for Pat Connaughton	73 - 91	73	91	0	0	Eric Bledsoe	Pat Connaughton	enters the game for							
+401129094	3	09:43	2:17	mil	Khris Middleton enters the game for Giannis Antetokounmpo	73 - 91	73	91	0	0	Khris Middleton	Giannis Antetokounmpo	enters the game for							
+401129094	3	09:57	2:03	bos	Terry Rozier misses 28-foot three point jumper	73 - 91	73	91	0	0	Terry Rozier		misses	jumper	28		three			
+401129094	3	10:00	2:00	mil	Nikola Mirotic defensive rebound	73 - 91	73	91	0	0	Nikola Mirotic		defensive rebound							
+401129094	3	10:04	1:56	bos	Jayson Tatum shooting foul	73 - 91	73	91	0	0	Jayson Tatum		foul							
+401129094	3	10:04	1:56	mil	Eric Bledsoe makes free throw 1 of 2	73 - 92	73	92	0	1	Eric Bledsoe		makes	free throw		1-2				
+401129094	3	10:04	1:56	bos	Al Horford enters the game for Kyrie Irving	73 - 92	73	92	0	0	Al Horford	Kyrie Irving	enters the game for							
+401129094	3	10:04	1:56	bos	Jaylen Brown enters the game for Aron Baynes	73 - 92	73	92	0	0	Jaylen Brown	Aron Baynes	enters the game for							
+401129094	3	10:04	1:56	mil	Eric Bledsoe makes free throw 2 of 2	73 - 93	73	93	0	1	Eric Bledsoe		makes	free throw		2-2				
+401129094	3	10:18	1:42	bos	Terry Rozier misses 19-foot pullup jump shot	73 - 93	73	93	0	0	Terry Rozier		misses	pullup jump shot	19					
+401129094	3	10:22	1:38	mil	Nikola Mirotic defensive rebound	73 - 93	73	93	0	0	Nikola Mirotic		defensive rebound							
+401129094	3	10:40	1:20	mil	Eric Bledsoe makes 28-foot three point jumper	73 - 96	73	96	0	3	Eric Bledsoe		makes	jumper	28		three			
+401129094	3	10:59	1:01	bos	Jaylen Brown misses two point shot	73 - 96	73	96	0	0	Jaylen Brown		misses	shot			two			
+401129094	3	11:01	58.4	mil	Khris Middleton defensive rebound	73 - 96	73	96	0	0	Khris Middleton		defensive rebound							
+401129094	3	11:05	55.0	mil	Eric Bledsoe misses 28-foot three point jumper	73 - 96	73	96	0	0	Eric Bledsoe		misses	jumper	28		three			
+401129094	3	11:08	51.4	bos	Al Horford defensive rebound	73 - 96	73	96	0	0	Al Horford		defensive rebound							
+401129094	3	11:11	48.9	bos	Al Horford traveling	73 - 96	73	96	0	0	Al Horford		traveling							
+401129094	3	11:11	48.9	mil	Brook Lopez enters the game for Nikola Mirotic	73 - 96	73	96	0	0	Brook Lopez	Nikola Mirotic	enters the game for							
+401129094	3	11:11	48.9	mil	Pat Connaughton enters the game for Ersan Ilyasova	73 - 96	73	96	0	0	Pat Connaughton	Ersan Ilyasova	enters the game for							
+401129094	3	11:23	36.3	bos	Jaylen Brown shooting foul	73 - 96	73	96	0	0	Jaylen Brown		foul							
+401129094	3	11:23	36.3	mil	Eric Bledsoe makes free throw 1 of 2	73 - 97	73	97	0	1	Eric Bledsoe		makes	free throw		1-2				
+401129094	3	11:23	36.3	mil	Eric Bledsoe makes free throw 2 of 2	73 - 98	73	98	0	1	Eric Bledsoe		makes	free throw		2-2				
+401129094	3	11:38	21.3	bos	Jayson Tatum out of bounds bad pass turnover	73 - 98	73	98	0	0	Jayson Tatum		turnover							
+401129094	3	11:59	0.9	mil	Eric Bledsoe misses 10-foot two point shot	73 - 98	73	98	0	0	Eric Bledsoe		misses	shot	10		two			
+401129094	3	11:59	0.9	bos	Al Horford defensive rebound	73 - 98	73	98	0	0	Al Horford		defensive rebound							
+401129094	3	12:00	0.0	mil	End of the 3rd Quarter	73 - 98	73	98	0	0			end of the 3rd quarter							
+401129094	4	00:22	11:38	bos	Gordon Hayward shooting foul	73 - 98	73	98	0	0	Gordon Hayward		foul							
+401129094	4	00:22	11:38	mil	George Hill makes free throw 1 of 2	73 - 99	73	99	0	1	George Hill		makes	free throw		1-2				
+401129094	4	00:22	11:38	mil	George Hill makes free throw 2 of 2	73 - 100	73	100	0	1	George Hill		makes	free throw		2-2				
+401129094	4	00:37	11:23	bos	Gordon Hayward misses 26-foot three point jumper	73 - 100	73	100	0	0	Gordon Hayward		misses	jumper	26		three			
+401129094	4	00:40	11:20	bos	Terry Rozier offensive rebound	73 - 100	73	100	0	0	Terry Rozier		offensive rebound							
+401129094	4	00:41	11:19	bos	Terry Rozier misses two point shot	73 - 100	73	100	0	0	Terry Rozier		misses	shot			two			
+401129094	4	00:44	11:16	mil	Pat Connaughton defensive rebound	73 - 100	73	100	0	0	Pat Connaughton		defensive rebound							
+401129094	4	00:53	11:07	mil	Khris Middleton makes 13-foot two point shot	73 - 102	73	102	0	2	Khris Middleton		makes	shot	13		two			
+401129094	4	01:09	10:51	bos	Jaylen Brown makes 11-foot two point shot	75 - 102	75	102	2	0	Jaylen Brown		makes	shot	11		two			
+401129094	4	01:22	10:38	bos	Terry Rozier shooting foul	75 - 102	75	102	0	0	Terry Rozier		foul							
+401129094	4	01:22	10:38	mil	Brook Lopez misses free throw 1 of 2	75 - 102	75	102	0	0	Brook Lopez		misses	free throw		1-2				
+401129094	4	01:22	10:38	mil	Bucks offensive team rebound	75 - 102	75	102	0	0			offensive rebound	team						bucks
+401129094	4	01:22	10:38	mil	Nikola Mirotic enters the game for George Hill	75 - 102	75	102	0	0	Nikola Mirotic	George Hill	enters the game for							
+401129094	4	01:22	10:38	bos	Semi Ojeleye enters the game for Jayson Tatum	75 - 102	75	102	0	0	Semi Ojeleye	Jayson Tatum	enters the game for							
+401129094	4	01:22	10:38	mil	Brook Lopez makes free throw 2 of 2	75 - 103	75	103	0	1	Brook Lopez		makes	free throw		2-2				
+401129094	4	01:35	10:25	mil	Pat Connaughton personal foul	75 - 103	75	103	0	0	Pat Connaughton		foul							
+401129094	4	01:48	10:12	bos	Terry Rozier misses 20-foot jumper	75 - 103	75	103	0	0	Terry Rozier		misses	jumper	20					
+401129094	4	01:50	10:10	mil	Pat Connaughton defensive rebound	75 - 103	75	103	0	0	Pat Connaughton		defensive rebound							
+401129094	4	02:03	9:57	mil	Khris Middleton misses 18-foot jumper	75 - 103	75	103	0	0	Khris Middleton		misses	jumper	18					
+401129094	4	02:07	9:53	bos	Al Horford defensive rebound	75 - 103	75	103	0	0	Al Horford		defensive rebound							
+401129094	4	02:13	9:47	bos	Al Horford misses 28-foot three point jumper	75 - 103	75	103	0	0	Al Horford		misses	jumper	28		three			
+401129094	4	02:17	9:43	mil	Eric Bledsoe defensive rebound	75 - 103	75	103	0	0	Eric Bledsoe		defensive rebound							
+401129094	4	02:23	9:37	mil	Eric Bledsoe makes two point shot	75 - 105	75	105	0	2	Eric Bledsoe		makes	shot			two			
+401129094	4	02:45	9:15	bos	Jaylen Brown misses 6-foot two point shot	75 - 105	75	105	0	0	Jaylen Brown		misses	shot	6		two			
+401129094	4	02:48	9:12	mil	Nikola Mirotic defensive rebound	75 - 105	75	105	0	0	Nikola Mirotic		defensive rebound							
+401129094	4	02:56	9:04	mil	Nikola Mirotic misses 28-foot three point jumper	75 - 105	75	105	0	0	Nikola Mirotic		misses	jumper	28		three			
+401129094	4	02:56	9:04	bos	Al Horford defensive rebound	75 - 105	75	105	0	0	Al Horford		defensive rebound							
+401129094	4	03:01	8:59	mil	Pat Connaughton shooting foul	75 - 105	75	105	0	0	Pat Connaughton		foul							
+401129094	4	03:01	8:59	bos	Jaylen Brown misses free throw 1 of 2	75 - 105	75	105	0	0	Jaylen Brown		misses	free throw		1-2				
+401129094	4	03:01	8:59	bos	Celtics offensive team rebound	75 - 105	75	105	0	0			offensive rebound	team						celtics
+401129094	4	03:01	8:59	mil	Giannis Antetokounmpo enters the game for Khris Middleton	75 - 105	75	105	0	0	Giannis Antetokounmpo	Khris Middleton	enters the game for							
+401129094	4	03:01	8:59	bos	Robert Williams III enters the game for Al Horford	75 - 105	75	105	0	0	Robert Williams III	Al Horford	enters the game for							
+401129094	4	03:01	8:59	bos	Jaylen Brown makes free throw 2 of 2	76 - 105	76	105	1	0	Jaylen Brown		makes	free throw		2-2				
+401129094	4	03:15	8:45	mil	Brook Lopez misses 27-foot three point jumper	76 - 105	76	105	0	0	Brook Lopez		misses	jumper	27		three			
+401129094	4	03:18	8:42	bos	Robert Williams III defensive rebound	76 - 105	76	105	0	0	Robert Williams III		defensive rebound							
+401129094	4	03:23	8:37	mil	Brook Lopez personal foul	76 - 105	76	105	0	0	Brook Lopez		foul							
+401129094	4	03:23	8:37	bos	Kyrie Irving enters the game for Jaylen Brown	76 - 105	76	105	0	0	Kyrie Irving	Jaylen Brown	enters the game for							
+401129094	4	03:35	8:25	bos	Semi Ojeleye makes 27-foot three point jumper (Gordon Hayward assists)	79 - 105	79	105	3	0	Semi Ojeleye		makes	jumper	27		three	Gordon Hayward	assists	
+401129094	4	03:56	8:04	mil	Giannis Antetokounmpo misses 16-foot two point shot	79 - 105	79	105	0	0	Giannis Antetokounmpo		misses	shot	16		two			
+401129094	4	04:00	8:00	bos	Terry Rozier defensive rebound	79 - 105	79	105	0	0	Terry Rozier		defensive rebound							
+401129094	4	04:03	7:57	bos	Eric Bledsoe blocks Kyrie Irving 's 3-foot two point shot	79 - 105	79	105	0	0	Eric Bledsoe	Kyrie Irving	blocks	shot	3		two			
+401129094	4	04:07	7:53	mil	Brook Lopez defensive rebound	79 - 105	79	105	0	0	Brook Lopez		defensive rebound							
+401129094	4	04:18	7:42	bos	Gordon Hayward shooting foul	79 - 105	79	105	0	0	Gordon Hayward		foul							
+401129094	4	04:18	7:42	mil	Giannis Antetokounmpo makes free throw 1 of 2	79 - 106	79	106	0	1	Giannis Antetokounmpo		makes	free throw		1-2				
+401129094	4	04:18	7:42	mil	George Hill enters the game for Eric Bledsoe	79 - 106	79	106	0	0	George Hill	Eric Bledsoe	enters the game for							
+401129094	4	04:18	7:42	mil	Giannis Antetokounmpo misses free throw 2 of 2	79 - 106	79	106	0	0	Giannis Antetokounmpo		misses	free throw		2-2				
+401129094	4	04:18	7:42	bos	Celtics defensive team rebound	79 - 106	79	106	0	0			defensive rebound	team						celtics
+401129094	4	04:18	7:42	mil	Nikola Mirotic loose ball foul	79 - 106	79	106	0	0	Nikola Mirotic		foul							
+401129094	4	04:40	7:20	bos	Terry Rozier makes 19-foot jumper (Gordon Hayward assists)	81 - 106	81	106	2	0	Terry Rozier		makes	jumper	19			Gordon Hayward	assists	
+401129094	4	04:51	7:09	mil	Brook Lopez misses 26-foot three point jumper	81 - 106	81	106	0	0	Brook Lopez		misses	jumper	26		three			
+401129094	4	04:51	7:09	mil	Pat Connaughton offensive rebound	81 - 106	81	106	0	0	Pat Connaughton		offensive rebound							
+401129094	4	04:56	7:04	mil	Nikola Mirotic makes 29-foot three point jumper (Pat Connaughton assists)	81 - 109	81	109	0	3	Nikola Mirotic		makes	jumper	29		three	Pat Connaughton	assists	
+401129094	4	04:56	7:04	bos	Celtics Full timeout	81 - 109	81	109	0	0			full timeout							celtics
+401129094	4	04:56	7:04	mil	Ersan Ilyasova enters the game for Brook Lopez	81 - 109	81	109	0	0	Ersan Ilyasova	Brook Lopez	enters the game for							
+401129094	4	04:56	7:04	mil	Sterling Brown enters the game for Giannis Antetokounmpo	81 - 109	81	109	0	0	Sterling Brown	Giannis Antetokounmpo	enters the game for							
+401129094	4	04:56	7:04	bos	Jayson Tatum enters the game for Kyrie Irving	81 - 109	81	109	0	0	Jayson Tatum	Kyrie Irving	enters the game for							
+401129094	4	04:56	7:04	bos	Brad Wanamaker enters the game for Gordon Hayward	81 - 109	81	109	0	0	Brad Wanamaker	Gordon Hayward	enters the game for							
+401129094	4	05:12	6:48	bos	Jayson Tatum misses 19-foot jumper	81 - 109	81	109	0	0	Jayson Tatum		misses	jumper	19					
+401129094	4	05:15	6:45	mil	Pat Connaughton defensive rebound	81 - 109	81	109	0	0	Pat Connaughton		defensive rebound							
+401129094	4	05:30	6:30	mil	George Hill makes 27-foot step back jumpshot	81 - 112	81	112	0	3	George Hill		makes	step back jumpshot	27					
+401129094	4	05:47	6:13	bos	Semi Ojeleye misses driving layup	81 - 112	81	112	0	0	Semi Ojeleye		misses	driving layup						
+401129094	4	05:49	6:11	mil	Ersan Ilyasova defensive rebound	81 - 112	81	112	0	0	Ersan Ilyasova		defensive rebound							
+401129094	4	06:07	5:53	mil	George Hill misses 28-foot three point jumper	81 - 112	81	112	0	0	George Hill		misses	jumper	28		three			
+401129094	4	06:11	5:49	bos	Robert Williams III defensive rebound	81 - 112	81	112	0	0	Robert Williams III		defensive rebound							
+401129094	4	06:17	5:43	bos	Robert Williams III makes alley oop dunk shot (Terry Rozier assists)	83 - 112	83	112	2	0	Robert Williams III		makes	alley oop dunk shot				Terry Rozier	assists	
+401129094	4	06:28	5:32	mil	Nikola Mirotic misses layup	83 - 112	83	112	0	0	Nikola Mirotic		misses	layup						
+401129094	4	06:29	5:31	mil	Nikola Mirotic offensive rebound	83 - 112	83	112	0	0	Nikola Mirotic		offensive rebound							
+401129094	4	06:30	5:30	mil	Nikola Mirotic misses tip shot	83 - 112	83	112	0	0	Nikola Mirotic		misses	tip shot						
+401129094	4	06:31	5:29	mil	Nikola Mirotic misses tip shot	83 - 112	83	112	0	0	Nikola Mirotic		misses	tip shot						
+401129094	4	06:31	5:29	mil	Nikola Mirotic offensive rebound	83 - 112	83	112	0	0	Nikola Mirotic		offensive rebound							
+401129094	4	06:32	5:28	mil	Nikola Mirotic offensive rebound	83 - 112	83	112	0	0	Nikola Mirotic		offensive rebound							
+401129094	4	06:33	5:27	mil	Nikola Mirotic makes tip shot	83 - 114	83	114	0	2	Nikola Mirotic		makes	tip shot						
+401129094	4	06:38	5:22	mil	George Hill personal take foul	83 - 114	83	114	0	0	George Hill		foul							
+401129094	4	06:38	5:22	mil	Tony Snell enters the game for George Hill	83 - 114	83	114	0	0	Tony Snell	George Hill	enters the game for							
+401129094	4	06:38	5:22	mil	Tim Frazier enters the game for Pat Connaughton	83 - 114	83	114	0	0	Tim Frazier	Pat Connaughton	enters the game for							
+401129094	4	06:38	5:22	mil	D.J. Wilson enters the game for Nikola Mirotic	83 - 114	83	114	0	0	D.J. Wilson	Nikola Mirotic	enters the game for							
+401129094	4	06:38	5:22	bos	Terry Rozier makes free throw 1 of 2	84 - 114	84	114	1	0	Terry Rozier		makes	free throw		1-2				
+401129094	4	06:38	5:22	bos	Guerschon Yabusele enters the game for Jayson Tatum	84 - 114	84	114	0	0	Guerschon Yabusele	Jayson Tatum	enters the game for							
+401129094	4	06:38	5:22	bos	Terry Rozier makes free throw 2 of 2	85 - 114	85	114	1	0	Terry Rozier		makes	free throw		2-2				
+401129094	4	06:50	5:10	mil	D.J. Wilson bad pass (Brad Wanamaker steals)	85 - 114	85	114	0	0	D.J. Wilson		bad pass					Brad Wanamaker	steals	
+401129094	4	06:52	5:08	bos	Guerschon Yabusele makes dunk	87 - 114	87	114	2	0	Guerschon Yabusele		makes	dunk						
+401129094	4	06:52	5:08	mil	Ersan Ilyasova shooting foul	87 - 114	87	114	0	0	Ersan Ilyasova		foul							
+401129094	4	06:52	5:08	bos	Guerschon Yabusele makes free throw 1 of 1	88 - 114	88	114	1	0	Guerschon Yabusele		makes	free throw		1-1				
+401129094	4	07:08	4:52	mil	Tim Frazier traveling	88 - 114	88	114	0	0	Tim Frazier		traveling							
+401129094	4	07:18	4:42	bos	Brad Wanamaker misses driving floating jump shot	88 - 114	88	114	0	0	Brad Wanamaker		misses	driving floating jump shot						
+401129094	4	07:21	4:39	mil	D.J. Wilson defensive rebound	88 - 114	88	114	0	0	D.J. Wilson		defensive rebound							
+401129094	4	07:31	4:29	mil	D.J. Wilson misses 26-foot three point jumper	88 - 114	88	114	0	0	D.J. Wilson		misses	jumper	26		three			
+401129094	4	07:32	4:28	mil	Ersan Ilyasova offensive rebound	88 - 114	88	114	0	0	Ersan Ilyasova		offensive rebound							
+401129094	4	07:41	4:19	bos	Robert Williams III shooting foul	88 - 114	88	114	0	0	Robert Williams III		foul							
+401129094	4	07:41	4:19	mil	Ersan Ilyasova makes free throw 1 of 2	88 - 115	88	115	0	1	Ersan Ilyasova		makes	free throw		1-2				
+401129094	4	07:41	4:19	mil	Ersan Ilyasova makes free throw 2 of 2	88 - 116	88	116	0	1	Ersan Ilyasova		makes	free throw		2-2				
+401129094	4	07:58	4:02	bos	Brad Wanamaker makes 17-foot jumper	90 - 116	90	116	2	0	Brad Wanamaker		makes	jumper	17					
+401129094	4	08:16	3:44	mil	D.J. Wilson makes 2-foot layup (Tim Frazier assists)	90 - 118	90	118	0	2	D.J. Wilson		makes	layup	2			Tim Frazier	assists	
+401129094	4	08:33	3:27	bos	Guerschon Yabusele makes driving layup (Brad Wanamaker assists)	92 - 118	92	118	2	0	Guerschon Yabusele		makes	driving layup				Brad Wanamaker	assists	
+401129094	4	08:44	3:16	mil	D.J. Wilson misses 22-foot three point jumper	92 - 118	92	118	0	0	D.J. Wilson		misses	jumper	22		three			
+401129094	4	08:48	3:12	bos	Robert Williams III defensive rebound	92 - 118	92	118	0	0	Robert Williams III		defensive rebound							
+401129094	4	08:55	3:05	mil	Tony Snell personal foul	92 - 118	92	118	0	0	Tony Snell		foul							
+401129094	4	08:55	3:05	bos	Guerschon Yabusele makes free throw 1 of 2	93 - 118	93	118	1	0	Guerschon Yabusele		makes	free throw		1-2				
+401129094	4	08:55	3:05	bos	Guerschon Yabusele misses free throw 2 of 2	93 - 118	93	118	0	0	Guerschon Yabusele		misses	free throw		2-2				
+401129094	4	08:58	3:02	mil	D.J. Wilson defensive rebound	93 - 118	93	118	0	0	D.J. Wilson		defensive rebound							
+401129094	4	09:06	2:54	mil	Sterling Brown misses 23-foot three point jumper	93 - 118	93	118	0	0	Sterling Brown		misses	jumper	23		three			
+401129094	4	09:09	2:51	bos	Robert Williams III defensive rebound	93 - 118	93	118	0	0	Robert Williams III		defensive rebound							
+401129094	4	09:14	2:46	mil	Tim Frazier personal foul	93 - 118	93	118	0	0	Tim Frazier		foul							
+401129094	4	09:14	2:46	mil	Bucks Full timeout	93 - 118	93	118	0	0			full timeout							bucks
+401129094	4	09:14	2:46	bos	Brad Wanamaker makes free throw 1 of 2	94 - 118	94	118	1	0	Brad Wanamaker		makes	free throw		1-2				
+401129094	4	09:14	2:46	bos	Brad Wanamaker makes free throw 2 of 2	95 - 118	95	118	1	0	Brad Wanamaker		makes	free throw		2-2				
+401129094	4	09:28	2:32	mil	Tony Snell makes 26-foot three point jumper (Sterling Brown assists)	95 - 121	95	121	0	3	Tony Snell		makes	jumper	26		three	Sterling Brown	assists	
+401129094	4	09:47	2:13	bos	Terry Rozier misses 25-foot three point jumper	95 - 121	95	121	0	0	Terry Rozier		misses	jumper	25		three			
+401129094	4	09:47	2:13	bos	Celtics offensive team rebound	95 - 121	95	121	0	0			offensive rebound	team						celtics
+401129094	4	09:47	2:13	mil	D.J. Wilson loose ball foul	95 - 121	95	121	0	0	D.J. Wilson		foul							
+401129094	4	09:47	2:13	bos	Semi Ojeleye makes free throw 1 of 2	96 - 121	96	121	1	0	Semi Ojeleye		makes	free throw		1-2				
+401129094	4	09:47	2:13	bos	Semi Ojeleye makes free throw 2 of 2	97 - 121	97	121	1	0	Semi Ojeleye		makes	free throw		2-2				
+401129094	4	10:05	1:55	mil	D.J. Wilson steps out of bounds turnover	97 - 121	97	121	0	0	D.J. Wilson		turnover							
+401129094	4	10:19	1:41	bos	Brad Wanamaker makes 28-foot three point jumper (Guerschon Yabusele assists)	100 - 121	100	121	3	0	Brad Wanamaker		makes	jumper	28		three	Guerschon Yabusele	assists	
+401129094	4	10:33	1:27	mil	Ersan Ilyasova misses 26-foot three point jumper	100 - 121	100	121	0	0	Ersan Ilyasova		misses	jumper	26		three			
+401129094	4	10:36	1:24	bos	Terry Rozier defensive rebound	100 - 121	100	121	0	0	Terry Rozier		defensive rebound							
+401129094	4	10:43	1:17	bos	Brad Wanamaker misses two point shot	100 - 121	100	121	0	0	Brad Wanamaker		misses	shot			two			
+401129094	4	10:45	1:15	bos	Robert Williams III offensive rebound	100 - 121	100	121	0	0	Robert Williams III		offensive rebound							
+401129094	4	10:46	1:14	bos	Robert Williams III misses two point shot	100 - 121	100	121	0	0	Robert Williams III		misses	shot			two			
+401129094	4	10:49	1:11	mil	Tim Frazier defensive rebound	100 - 121	100	121	0	0	Tim Frazier		defensive rebound							
+401129094	4	10:54	1:06	mil	Tim Frazier misses 27-foot three point jumper	100 - 121	100	121	0	0	Tim Frazier		misses	jumper	27		three			
+401129094	4	10:58	1:02	mil	Ersan Ilyasova offensive rebound	100 - 121	100	121	0	0	Ersan Ilyasova		offensive rebound							
+401129094	4	10:59	1:01	mil	Ersan Ilyasova misses 2-foot tip shot	100 - 121	100	121	0	0	Ersan Ilyasova		misses	tip shot	2					
+401129094	4	11:02	57.8	bos	Terry Rozier defensive rebound	100 - 121	100	121	0	0	Terry Rozier		defensive rebound							
+401129094	4	11:03	56.6	bos	Guerschon Yabusele offensive foul	100 - 121	100	121	0	0	Guerschon Yabusele		foul							
+401129094	4	11:03	56.6	bos	Guerschon Yabusele turnover	100 - 121	100	121	0	0	Guerschon Yabusele		turnover							
+401129094	4	11:16	43.3	mil	Guerschon Yabusele blocks Ersan Ilyasova 's 18-foot pullup jump shot	100 - 121	100	121	0	0	Guerschon Yabusele	Ersan Ilyasova	blocks	pullup jump shot	18					
+401129094	4	11:16	43.3	mil	Bucks offensive team rebound	100 - 121	100	121	0	0			offensive rebound	team						bucks
+401129094	4	11:25	34.6	mil	Tim Frazier makes layup (D.J. Wilson assists)	100 - 123	100	123	0	2	Tim Frazier		makes	layup				D.J. Wilson	assists	
+401129094	4	11:32	27.1	mil	Tim Frazier shooting foul	100 - 123	100	123	0	0	Tim Frazier		foul							
+401129094	4	11:32	27.1	bos	Robert Williams III makes free throw 1 of 2	101 - 123	101	123	1	0	Robert Williams III		makes	free throw		1-2				
+401129094	4	11:32	27.1	bos	Robert Williams III makes free throw 2 of 2	102 - 123	102	123	1	0	Robert Williams III		makes	free throw		2-2				
+401129094	4	11:56	3.1	mil	shot clock turnover	102 - 123	102	123	0	0			turnover							
+401129094	4	12:00	0.0	mil	End of the 4th Quarter	102 - 123	102	123	0	0			end of the 4th quarter							
+401129094	4	12:00	0.0	mil	End of Game	102 - 123	102	123	0	0			end of game							

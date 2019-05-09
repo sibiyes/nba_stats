@@ -1,0 +1,511 @@
+game_id	quarter	q_time	q_time_remaining	team	event	score	team1_score	team2_score	team1_event_point	team2_event_point	player1	player2	action	action_what	foot_value	free_throw	point_info	player_secondary	action_secondary	team_action
+401126817	1	00:00	12:00	det	Brook Lopez vs. Andre Drummond (Reggie Jackson gains possession)	0 - 0	0	0	0	0	Brook Lopez	Andre Drummond	vs.					Reggie Jackson	gains possession	
+401126817	1	00:25	11:35	det	Luke Kennard makes 14-foot jump bank shot (Reggie Jackson assists)	0 - 2	0	2	0	2	Luke Kennard		makes	jump bank shot	14			Reggie Jackson	assists	
+401126817	1	00:42	11:18	mil	Giannis Antetokounmpo lost ball turnover (Wayne Ellington steals)	0 - 2	0	2	0	0	Giannis Antetokounmpo		turnover					Wayne Ellington	steals	
+401126817	1	00:55	11:05	det	Andre Drummond out of bounds bad pass turnover	0 - 2	0	2	0	0	Andre Drummond		turnover							
+401126817	1	01:09	10:51	mil	Eric Bledsoe misses 27-foot step back jumpshot	0 - 2	0	2	0	0	Eric Bledsoe		misses	step back jumpshot	27					
+401126817	1	01:13	10:47	det	Luke Kennard defensive rebound	0 - 2	0	2	0	0	Luke Kennard		defensive rebound							
+401126817	1	01:17	10:43	det	Reggie Jackson makes 26-foot running pullup jump shot	0 - 5	0	5	0	3	Reggie Jackson		makes	running pullup jump shot	26					
+401126817	1	01:34	10:26	mil	Eric Bledsoe out of bounds bad pass turnover	0 - 5	0	5	0	0	Eric Bledsoe		turnover							
+401126817	1	01:41	10:19	det	Reggie Jackson bad pass (Eric Bledsoe steals)	0 - 5	0	5	0	0	Reggie Jackson		bad pass					Eric Bledsoe	steals	
+401126817	1	01:47	10:13	mil	Eric Bledsoe makes layup (Giannis Antetokounmpo assists)	2 - 5	2	5	2	0	Eric Bledsoe		makes	layup				Giannis Antetokounmpo	assists	
+401126817	1	01:55	10:05	det	Luke Kennard makes driving layup (Reggie Jackson assists)	2 - 7	2	7	0	2	Luke Kennard		makes	driving layup				Reggie Jackson	assists	
+401126817	1	02:05	9:55	mil	Khris Middleton misses driving floating jump shot	2 - 7	2	7	0	0	Khris Middleton		misses	driving floating jump shot						
+401126817	1	02:08	9:52	det	Luke Kennard defensive rebound	2 - 7	2	7	0	0	Luke Kennard		defensive rebound							
+401126817	1	02:14	9:46	det	Brook Lopez blocks Andre Drummond's hook shot	2 - 7	2	7	0	0	Brook Lopez	Andre Drummond	blocks	hook shot						
+401126817	1	02:16	9:44	det	Reggie Jackson offensive rebound	2 - 7	2	7	0	0	Reggie Jackson		offensive rebound							
+401126817	1	02:20	9:40	det	Reggie Jackson misses 26-foot three point jumper	2 - 7	2	7	0	0	Reggie Jackson		misses	jumper	26		three			
+401126817	1	02:23	9:37	mil	Brook Lopez defensive rebound	2 - 7	2	7	0	0	Brook Lopez		defensive rebound							
+401126817	1	02:29	9:31	mil	Brook Lopez makes three point jumper (Eric Bledsoe assists)	5 - 7	5	7	3	0	Brook Lopez		makes	jumper			three	Eric Bledsoe	assists	
+401126817	1	02:51	9:09	det	Brook Lopez blocks Andre Drummond's layup	5 - 7	5	7	0	0	Brook Lopez	Andre Drummond	blocks	layup						
+401126817	1	02:54	9:06	det	Andre Drummond offensive rebound	5 - 7	5	7	0	0	Andre Drummond		offensive rebound							
+401126817	1	02:55	9:05	det	Andre Drummond misses 3-foot jumper	5 - 7	5	7	0	0	Andre Drummond		misses	jumper	3					
+401126817	1	02:55	9:05	det	Andre Drummond offensive rebound	5 - 7	5	7	0	0	Andre Drummond		offensive rebound							
+401126817	1	02:55	9:05	det	Reggie Jackson out of bounds bad pass turnover	5 - 7	5	7	0	0	Reggie Jackson		turnover							
+401126817	1	03:12	8:48	det	Blake Griffin personal foul	5 - 7	5	7	0	0	Blake Griffin		foul							
+401126817	1	03:15	8:45	mil	Eric Bledsoe makes driving layup	7 - 7	7	7	2	0	Eric Bledsoe		makes	driving layup						
+401126817	1	03:15	8:45	det	Andre Drummond shooting foul	7 - 7	7	7	0	0	Andre Drummond		foul							
+401126817	1	03:15	8:45	mil	Eric Bledsoe makes free throw 1 of 1	8 - 7	8	7	1	0	Eric Bledsoe		makes	free throw		1-1				
+401126817	1	03:29	8:31	det	Blake Griffin misses 26-foot step back jumpshot	8 - 7	8	7	0	0	Blake Griffin		misses	step back jumpshot	26					
+401126817	1	03:31	8:29	det	Andre Drummond offensive rebound	8 - 7	8	7	0	0	Andre Drummond		offensive rebound							
+401126817	1	03:33	8:27	det	Andre Drummond misses layup	8 - 7	8	7	0	0	Andre Drummond		misses	layup						
+401126817	1	03:38	8:22	mil	Sterling Brown defensive rebound	8 - 7	8	7	0	0	Sterling Brown		defensive rebound							
+401126817	1	03:43	8:17	mil	Khris Middleton misses 16-foot pullup jump shot	8 - 7	8	7	0	0	Khris Middleton		misses	pullup jump shot	16					
+401126817	1	03:43	8:17	det	Pistons defensive team rebound	8 - 7	8	7	0	0			defensive rebound	team						pistons
+401126817	1	03:43	8:17	mil	Giannis Antetokounmpo personal foul	8 - 7	8	7	0	0	Giannis Antetokounmpo		foul							
+401126817	1	03:59	8:01	det	Luke Kennard misses 16-foot pullup jump shot	8 - 7	8	7	0	0	Luke Kennard		misses	pullup jump shot	16					
+401126817	1	04:01	7:59	mil	Sterling Brown defensive rebound	8 - 7	8	7	0	0	Sterling Brown		defensive rebound							
+401126817	1	04:06	7:54	mil	Eric Bledsoe makes driving layup (Sterling Brown assists)	10 - 7	10	7	2	0	Eric Bledsoe		makes	driving layup				Sterling Brown	assists	
+401126817	1	04:19	7:41	det	Brook Lopez blocks Andre Drummond's layup	10 - 7	10	7	0	0	Brook Lopez	Andre Drummond	blocks	layup						
+401126817	1	04:19	7:41	det	Pistons offensive team rebound	10 - 7	10	7	0	0			offensive rebound	team						pistons
+401126817	1	04:19	7:41	mil	Pat Connaughton enters the game for Sterling Brown	10 - 7	10	7	0	0	Pat Connaughton	Sterling Brown	enters the game for							
+401126817	1	04:27	7:33	det	Reggie Jackson makes 24-foot three point jumper (Andre Drummond assists)	10 - 10	10	10	0	3	Reggie Jackson		makes	jumper	24		three	Andre Drummond	assists	
+401126817	1	04:34	7:26	mil	Giannis Antetokounmpo misses three point pullup jump shot	10 - 10	10	10	0	0	Giannis Antetokounmpo		misses	pullup jump shot			three			
+401126817	1	04:38	7:22	det	Reggie Jackson defensive rebound	10 - 10	10	10	0	0	Reggie Jackson		defensive rebound							
+401126817	1	04:44	7:16	det	Wayne Ellington makes 23-foot three point jumper (Blake Griffin assists)	10 - 13	10	13	0	3	Wayne Ellington		makes	jumper	23		three	Blake Griffin	assists	
+401126817	1	04:44	7:16	mil	Bucks Full timeout	10 - 13	10	13	0	0			full timeout							bucks
+401126817	1	04:44	7:16	mil	Ersan Ilyasova enters the game for Brook Lopez	10 - 13	10	13	0	0	Ersan Ilyasova	Brook Lopez	enters the game for							
+401126817	1	05:05	6:55	mil	Ersan Ilyasova makes 23-foot three point jumper (Eric Bledsoe assists)	13 - 13	13	13	3	0	Ersan Ilyasova		makes	jumper	23		three	Eric Bledsoe	assists	
+401126817	1	05:32	6:28	det	Blake Griffin misses 2-foot two point shot	13 - 13	13	13	0	0	Blake Griffin		misses	shot	2		two			
+401126817	1	05:36	6:24	det	Blake Griffin offensive rebound	13 - 13	13	13	0	0	Blake Griffin		offensive rebound							
+401126817	1	05:36	6:24	det	Blake Griffin makes tip shot	13 - 15	13	15	0	2	Blake Griffin		makes	tip shot						
+401126817	1	05:42	6:18	mil	Eric Bledsoe back court turnover	13 - 15	13	15	0	0	Eric Bledsoe		turnover							
+401126817	1	05:42	6:18	mil	George Hill enters the game for Eric Bledsoe	13 - 15	13	15	0	0	George Hill	Eric Bledsoe	enters the game for							
+401126817	1	05:59	6:01	det	Andre Drummond misses two point shot	13 - 15	13	15	0	0	Andre Drummond		misses	shot			two			
+401126817	1	06:01	5:59	mil	Giannis Antetokounmpo defensive rebound	13 - 15	13	15	0	0	Giannis Antetokounmpo		defensive rebound							
+401126817	1	06:03	5:57	mil	Andre Drummond blocks George Hill 's 27-foot three point jumper	13 - 15	13	15	0	0	Andre Drummond	George Hill	blocks	jumper	27		three			
+401126817	1	06:08	5:52	det	Luke Kennard defensive rebound	13 - 15	13	15	0	0	Luke Kennard		defensive rebound							
+401126817	1	06:21	5:39	det	Wayne Ellington makes 27-foot three point jumper (Blake Griffin assists)	13 - 18	13	18	0	3	Wayne Ellington		makes	jumper	27		three	Blake Griffin	assists	
+401126817	1	06:37	5:23	mil	Ersan Ilyasova makes 27-foot three point jumper (Khris Middleton assists)	16 - 18	16	18	3	0	Ersan Ilyasova		makes	jumper	27		three	Khris Middleton	assists	
+401126817	1	06:52	5:08	det	Blake Griffin makes driving layup	16 - 20	16	20	0	2	Blake Griffin		makes	driving layup						
+401126817	1	07:05	4:55	mil	Ersan Ilyasova makes 24-foot three point jumper (Khris Middleton assists)	19 - 20	19	20	3	0	Ersan Ilyasova		makes	jumper	24		three	Khris Middleton	assists	
+401126817	1	07:21	4:39	det	Andre Drummond makes 1-foot dunk (Blake Griffin assists)	19 - 22	19	22	0	2	Andre Drummond		makes	dunk	1			Blake Griffin	assists	
+401126817	1	07:30	4:30	mil	Ersan Ilyasova out of bounds bad pass turnover	19 - 22	19	22	0	0	Ersan Ilyasova		turnover							
+401126817	1	07:30	4:30	det	Bruce Brown enters the game for Reggie Jackson	19 - 22	19	22	0	0	Bruce Brown	Reggie Jackson	enters the game for							
+401126817	1	07:30	4:30	det	Ish Smith enters the game for Blake Griffin	19 - 22	19	22	0	0	Ish Smith	Blake Griffin	enters the game for							
+401126817	1	07:30	4:30	mil	Brook Lopez enters the game for Giannis Antetokounmpo	19 - 22	19	22	0	0	Brook Lopez	Giannis Antetokounmpo	enters the game for							
+401126817	1	07:45	4:15	det	Ish Smith misses 26-foot three point jumper	19 - 22	19	22	0	0	Ish Smith		misses	jumper	26		three			
+401126817	1	07:48	4:12	mil	Khris Middleton defensive rebound	19 - 22	19	22	0	0	Khris Middleton		defensive rebound							
+401126817	1	07:54	4:06	mil	Khris Middleton makes 27-foot three pointer	22 - 22	22	22	3	0	Khris Middleton		makes	er	27		three			
+401126817	1	07:59	4:01	det	Langston Galloway enters the game for Wayne Ellington	22 - 22	22	22	0	0	Langston Galloway	Wayne Ellington	enters the game for							
+401126817	1	07:59	4:01	mil	Sterling Brown enters the game for Khris Middleton	22 - 22	22	22	0	0	Sterling Brown	Khris Middleton	enters the game for							
+401126817	1	08:04	3:56	det	Pistons Full timeout	22 - 22	22	22	0	0			full timeout							pistons
+401126817	1	08:13	3:47	det	Luke Kennard misses 11-foot pullup jump shot	22 - 22	22	22	0	0	Luke Kennard		misses	pullup jump shot	11					
+401126817	1	08:16	3:44	mil	Brook Lopez defensive rebound	22 - 22	22	22	0	0	Brook Lopez		defensive rebound							
+401126817	1	08:26	3:34	mil	Ersan Ilyasova misses two point shot	22 - 22	22	22	0	0	Ersan Ilyasova		misses	shot			two			
+401126817	1	08:29	3:31	mil	George Hill offensive rebound	22 - 22	22	22	0	0	George Hill		offensive rebound							
+401126817	1	08:29	3:31	mil	George Hill makes tip shot	24 - 22	24	22	2	0	George Hill		makes	tip shot						
+401126817	1	08:44	3:16	det	Andre Drummond 3 second turnover	24 - 22	24	22	0	0	Andre Drummond		turnover							
+401126817	1	09:08	2:52	mil	Pat Connaughton makes 9-foot pullup jump shot (George Hill assists)	26 - 22	26	22	2	0	Pat Connaughton		makes	pullup jump shot	9			George Hill	assists	
+401126817	1	09:26	2:34	det	Bruce Brown misses 25-foot three point jumper	26 - 22	26	22	0	0	Bruce Brown		misses	jumper	25		three			
+401126817	1	09:28	2:32	mil	Sterling Brown defensive rebound	26 - 22	26	22	0	0	Sterling Brown		defensive rebound							
+401126817	1	09:32	2:28	mil	Brook Lopez misses 29-foot three point jumper	26 - 22	26	22	0	0	Brook Lopez		misses	jumper	29		three			
+401126817	1	09:36	2:24	det	Bruce Brown defensive rebound	26 - 22	26	22	0	0	Bruce Brown		defensive rebound							
+401126817	1	09:42	2:18	mil	George Hill shooting foul	26 - 22	26	22	0	0	George Hill		foul							
+401126817	1	09:42	2:18	det	Double technical foul: Andre Drummond and Sterling Brown	26 - 22	26	22	0	0		Sterling Brown	foul	: andre drummond and sterling brown						
+401126817	1	09:42	2:18	det	Bruce Brown makes free throw 1 of 2	26 - 23	26	23	0	1	Bruce Brown		makes	free throw		1-2				
+401126817	1	09:42	2:18	det	Thon Maker enters the game for Luke Kennard	26 - 23	26	23	0	0	Thon Maker	Luke Kennard	enters the game for							
+401126817	1	09:42	2:18	det	Bruce Brown makes free throw 2 of 2	26 - 24	26	24	0	1	Bruce Brown		makes	free throw		2-2				
+401126817	1	09:42	2:18	det	Blake Griffin enters the game for Andre Drummond	26 - 24	26	24	0	0	Blake Griffin	Andre Drummond	enters the game for							
+401126817	1	09:42	2:18	mil	Eric Bledsoe enters the game for Pat Connaughton	26 - 24	26	24	0	0	Eric Bledsoe	Pat Connaughton	enters the game for							
+401126817	1	09:58	2:02	mil	Brook Lopez makes 3-foot driving dunk (George Hill assists)	28 - 24	28	24	2	0	Brook Lopez		makes	driving dunk	3			George Hill	assists	
+401126817	1	10:18	1:42	det	Sterling Brown blocks Bruce Brown 's 6-foot driving layup	28 - 24	28	24	0	0	Sterling Brown	Bruce Brown	blocks	driving layup	6					
+401126817	1	10:24	1:36	mil	George Hill defensive rebound	28 - 24	28	24	0	0	George Hill		defensive rebound							
+401126817	1	10:24	1:36	mil	Eric Bledsoe misses 27-foot three point pullup jump shot	28 - 24	28	24	0	0	Eric Bledsoe		misses	pullup jump shot	27		three			
+401126817	1	10:30	1:30	det	Blake Griffin defensive rebound	28 - 24	28	24	0	0	Blake Griffin		defensive rebound							
+401126817	1	10:33	1:27	det	Blake Griffin misses 26-foot three point pullup jump shot	28 - 24	28	24	0	0	Blake Griffin		misses	pullup jump shot	26		three			
+401126817	1	10:34	1:26	mil	Brook Lopez defensive rebound	28 - 24	28	24	0	0	Brook Lopez		defensive rebound							
+401126817	1	10:49	1:11	mil	Eric Bledsoe misses two point shot	28 - 24	28	24	0	0	Eric Bledsoe		misses	shot			two			
+401126817	1	10:49	1:11	mil	George Hill offensive rebound	28 - 24	28	24	0	0	George Hill		offensive rebound							
+401126817	1	10:53	1:07	mil	George Hill makes tip shot	30 - 24	30	24	2	0	George Hill		makes	tip shot						
+401126817	1	11:03	56.2	det	Langston Galloway misses 24-foot three point jumper	30 - 24	30	24	0	0	Langston Galloway		misses	jumper	24		three			
+401126817	1	11:03	56.2	det	Pistons offensive team rebound	30 - 24	30	24	0	0			offensive rebound	team						pistons
+401126817	1	11:03	56.2	mil	Sterling Brown personal foul	30 - 24	30	24	0	0	Sterling Brown		foul							
+401126817	1	11:03	56.2	mil	Giannis Antetokounmpo enters the game for Ersan Ilyasova	30 - 24	30	24	0	0	Giannis Antetokounmpo	Ersan Ilyasova	enters the game for							
+401126817	1	11:03	56.2	mil	Bucks delay of game violation	30 - 24	30	24	0	0			delay of game violation							bucks
+401126817	1	11:15	45.0	det	Blake Griffin misses driving layup	30 - 24	30	24	0	0	Blake Griffin		misses	driving layup						
+401126817	1	11:17	42.8	mil	Giannis Antetokounmpo defensive rebound	30 - 24	30	24	0	0	Giannis Antetokounmpo		defensive rebound							
+401126817	1	11:17	42.1	det	Thon Maker personal foul	30 - 24	30	24	0	0	Thon Maker		foul							
+401126817	1	11:33	27.0	mil	Brook Lopez makes 11-foot two point shot (George Hill assists)	32 - 24	32	24	2	0	Brook Lopez		makes	shot	11		two	George Hill	assists	
+401126817	1	11:56	3.1	det	Ish Smith misses 26-foot three point jumper	32 - 24	32	24	0	0	Ish Smith		misses	jumper	26		three			
+401126817	1	11:56	3.1	mil	Bucks defensive team rebound	32 - 24	32	24	0	0			defensive rebound	team						bucks
+401126817	1	11:59	0.5	mil	Giannis Antetokounmpo misses 16-foot two point shot	32 - 24	32	24	0	0	Giannis Antetokounmpo		misses	shot	16		two			
+401126817	1	11:59	0.1	mil	Bucks offensive team rebound	32 - 24	32	24	0	0			offensive rebound	team						bucks
+401126817	1	12:00	0.0	det	End of the 1st Quarter	32 - 24	32	24	0	0			end of the 1st quarter							
+401126817	2	00:00	12:00	det	Reggie Jackson enters the game for Bruce Brown	32 - 24	32	24	0	0	Reggie Jackson	Bruce Brown	enters the game for							
+401126817	2	00:00	12:00	det	Wayne Ellington enters the game for Ish Smith	32 - 24	32	24	0	0	Wayne Ellington	Ish Smith	enters the game for							
+401126817	2	00:00	12:00	mil	D.J. Wilson enters the game for George Hill	32 - 24	32	24	0	0	D.J. Wilson	George Hill	enters the game for							
+401126817	2	00:00	12:00	mil	Nikola Mirotic enters the game for Brook Lopez	32 - 24	32	24	0	0	Nikola Mirotic	Brook Lopez	enters the game for							
+401126817	2	00:13	11:47	mil	Eric Bledsoe misses pullup jump shot	32 - 24	32	24	0	0	Eric Bledsoe		misses	pullup jump shot						
+401126817	2	00:16	11:44	det	Reggie Jackson defensive rebound	32 - 24	32	24	0	0	Reggie Jackson		defensive rebound							
+401126817	2	00:26	11:34	det	Blake Griffin misses layup	32 - 24	32	24	0	0	Blake Griffin		misses	layup						
+401126817	2	00:26	11:34	mil	Bucks defensive team rebound	32 - 24	32	24	0	0			defensive rebound	team						bucks
+401126817	2	00:26	11:34	det	Blake Griffin loose ball foul	32 - 24	32	24	0	0	Blake Griffin		foul							
+401126817	2	00:40	11:20	mil	Nikola Mirotic makes 23-foot three point jumper (Eric Bledsoe assists)	35 - 24	35	24	3	0	Nikola Mirotic		makes	jumper	23		three	Eric Bledsoe	assists	
+401126817	2	00:57	11:03	det	Blake Griffin makes layup	35 - 26	35	26	0	2	Blake Griffin		makes	layup						
+401126817	2	00:57	11:03	mil	D.J. Wilson shooting foul	35 - 26	35	26	0	0	D.J. Wilson		foul							
+401126817	2	00:57	11:03	det	Blake Griffin makes free throw 1 of 1	35 - 27	35	27	0	1	Blake Griffin		makes	free throw		1-1				
+401126817	2	01:12	10:48	mil	D.J. Wilson misses 23-foot three point jumper	35 - 27	35	27	0	0	D.J. Wilson		misses	jumper	23		three			
+401126817	2	01:14	10:46	det	Reggie Jackson defensive rebound	35 - 27	35	27	0	0	Reggie Jackson		defensive rebound							
+401126817	2	01:23	10:37	det	Reggie Jackson bad pass (Sterling Brown steals)	35 - 27	35	27	0	0	Reggie Jackson		bad pass					Sterling Brown	steals	
+401126817	2	01:27	10:33	mil	Nikola Mirotic misses 30-foot three point jumper	35 - 27	35	27	0	0	Nikola Mirotic		misses	jumper	30		three			
+401126817	2	01:32	10:28	det	Blake Griffin defensive rebound	35 - 27	35	27	0	0	Blake Griffin		defensive rebound							
+401126817	2	01:42	10:18	det	Langston Galloway makes 23-foot three point jumper (Reggie Jackson assists)	35 - 30	35	30	0	3	Langston Galloway		makes	jumper	23		three	Reggie Jackson	assists	
+401126817	2	01:56	10:04	mil	Giannis Antetokounmpo makes 16-foot pullup jump shot	37 - 30	37	30	2	0	Giannis Antetokounmpo		makes	pullup jump shot	16					
+401126817	2	02:03	9:57	det	Blake Griffin makes layup (Reggie Jackson assists)	37 - 32	37	32	0	2	Blake Griffin		makes	layup				Reggie Jackson	assists	
+401126817	2	02:03	9:57	mil	D.J. Wilson shooting foul	37 - 32	37	32	0	0	D.J. Wilson		foul							
+401126817	2	02:03	9:57	mil	Pat Connaughton enters the game for Sterling Brown	37 - 32	37	32	0	0	Pat Connaughton	Sterling Brown	enters the game for							
+401126817	2	02:03	9:57	det	Blake Griffin makes free throw 1 of 1	37 - 33	37	33	0	1	Blake Griffin		makes	free throw		1-1				
+401126817	2	02:23	9:37	mil	Giannis Antetokounmpo makes driving layup (D.J. Wilson assists)	39 - 33	39	33	2	0	Giannis Antetokounmpo		makes	driving layup				D.J. Wilson	assists	
+401126817	2	02:33	9:27	det	Blake Griffin makes three pointer (Reggie Jackson assists)	39 - 36	39	36	0	3	Blake Griffin		makes	er			three	Reggie Jackson	assists	
+401126817	2	02:46	9:14	mil	Pat Connaughton misses 23-foot three point jumper	39 - 36	39	36	0	0	Pat Connaughton		misses	jumper	23		three			
+401126817	2	02:49	9:11	mil	D.J. Wilson offensive rebound	39 - 36	39	36	0	0	D.J. Wilson		offensive rebound							
+401126817	2	02:50	9:10	det	Reggie Jackson personal foul	39 - 36	39	36	0	0	Reggie Jackson		foul							
+401126817	2	02:50	9:10	mil	Ersan Ilyasova enters the game for D.J. Wilson	39 - 36	39	36	0	0	Ersan Ilyasova	D.J. Wilson	enters the game for							
+401126817	2	02:56	9:04	mil	Giannis Antetokounmpo lost ball turnover (Blake Griffin steals)	39 - 36	39	36	0	0	Giannis Antetokounmpo		turnover					Blake Griffin	steals	
+401126817	2	02:56	9:04	mil	Ersan Ilyasova personal foul	39 - 36	39	36	0	0	Ersan Ilyasova		foul							
+401126817	2	02:56	9:04	det	Andre Drummond enters the game for Thon Maker	39 - 36	39	36	0	0	Andre Drummond	Thon Maker	enters the game for							
+401126817	2	02:56	9:04	det	Bruce Brown enters the game for Blake Griffin	39 - 36	39	36	0	0	Bruce Brown	Blake Griffin	enters the game for							
+401126817	2	03:02	8:58	det	Reggie Jackson makes 17-foot pullup jump shot (Bruce Brown assists)	39 - 38	39	38	0	2	Reggie Jackson		makes	pullup jump shot	17			Bruce Brown	assists	
+401126817	2	03:12	8:48	det	Reggie Jackson personal foul	39 - 38	39	38	0	0	Reggie Jackson		foul							
+401126817	2	03:20	8:40	mil	Giannis Antetokounmpo misses 28-foot three point pullup jump shot	39 - 38	39	38	0	0	Giannis Antetokounmpo		misses	pullup jump shot	28		three			
+401126817	2	03:26	8:34	mil	Giannis Antetokounmpo offensive rebound	39 - 38	39	38	0	0	Giannis Antetokounmpo		offensive rebound							
+401126817	2	03:27	8:33	mil	Giannis Antetokounmpo makes two point shot	41 - 38	41	38	2	0	Giannis Antetokounmpo		makes	shot			two			
+401126817	2	03:42	8:18	det	Wayne Ellington makes 11-foot jumper (Andre Drummond assists)	41 - 40	41	40	0	2	Wayne Ellington		makes	jumper	11			Andre Drummond	assists	
+401126817	2	03:53	8:07	mil	Langston Galloway blocks Eric Bledsoe 's 2-foot driving layup	41 - 40	41	40	0	0	Langston Galloway	Eric Bledsoe	blocks	driving layup	2					
+401126817	2	03:57	8:03	mil	Eric Bledsoe offensive rebound	41 - 40	41	40	0	0	Eric Bledsoe		offensive rebound							
+401126817	2	03:59	8:01	mil	Pat Connaughton misses 8-foot two point shot	41 - 40	41	40	0	0	Pat Connaughton		misses	shot	8		two			
+401126817	2	03:59	8:01	det	Langston Galloway defensive rebound	41 - 40	41	40	0	0	Langston Galloway		defensive rebound							
+401126817	2	04:13	7:47	det	Wayne Ellington misses 27-foot three point jumper	41 - 40	41	40	0	0	Wayne Ellington		misses	jumper	27		three			
+401126817	2	04:16	7:44	mil	Pat Connaughton defensive rebound	41 - 40	41	40	0	0	Pat Connaughton		defensive rebound							
+401126817	2	04:20	7:40	mil	Pat Connaughton misses 29-foot three point jumper	41 - 40	41	40	0	0	Pat Connaughton		misses	jumper	29		three			
+401126817	2	04:23	7:37	det	Andre Drummond defensive rebound	41 - 40	41	40	0	0	Andre Drummond		defensive rebound							
+401126817	2	04:42	7:18	det	Andre Drummond misses 11-foot two point shot	41 - 40	41	40	0	0	Andre Drummond		misses	shot	11		two			
+401126817	2	04:44	7:16	mil	Giannis Antetokounmpo defensive rebound	41 - 40	41	40	0	0	Giannis Antetokounmpo		defensive rebound							
+401126817	2	04:44	7:16	mil	Bucks Full timeout	41 - 40	41	40	0	0			full timeout							bucks
+401126817	2	04:44	7:16	det	Luke Kennard enters the game for Reggie Jackson	41 - 40	41	40	0	0	Luke Kennard	Reggie Jackson	enters the game for							
+401126817	2	04:44	7:16	det	Ish Smith enters the game for Langston Galloway	41 - 40	41	40	0	0	Ish Smith	Langston Galloway	enters the game for							
+401126817	2	04:44	7:16	mil	George Hill enters the game for Eric Bledsoe	41 - 40	41	40	0	0	George Hill	Eric Bledsoe	enters the game for							
+401126817	2	04:44	7:16	mil	Brook Lopez enters the game for Giannis Antetokounmpo	41 - 40	41	40	0	0	Brook Lopez	Giannis Antetokounmpo	enters the game for							
+401126817	2	04:44	7:16	mil	Khris Middleton enters the game for Nikola Mirotic	41 - 40	41	40	0	0	Khris Middleton	Nikola Mirotic	enters the game for							
+401126817	2	04:58	7:02	mil	Ersan Ilyasova makes layup (Brook Lopez assists)	43 - 40	43	40	2	0	Ersan Ilyasova		makes	layup				Brook Lopez	assists	
+401126817	2	05:20	6:40	det	Andre Drummond out of bounds lost ball turnover	43 - 40	43	40	0	0	Andre Drummond		turnover							
+401126817	2	05:33	6:27	mil	Brook Lopez makes 26-foot three point jumper (Khris Middleton assists)	46 - 40	46	40	3	0	Brook Lopez		makes	jumper	26		three	Khris Middleton	assists	
+401126817	2	05:52	6:08	det	Andre Drummond misses 5-foot two point shot	46 - 40	46	40	0	0	Andre Drummond		misses	shot	5		two			
+401126817	2	05:54	6:06	mil	George Hill defensive rebound	46 - 40	46	40	0	0	George Hill		defensive rebound							
+401126817	2	05:58	6:02	det	Ish Smith personal foul	46 - 40	46	40	0	0	Ish Smith		foul							
+401126817	2	06:03	5:57	mil	George Hill makes 24-foot three point jumper (Pat Connaughton assists)	49 - 40	49	40	3	0	George Hill		makes	jumper	24		three	Pat Connaughton	assists	
+401126817	2	06:04	5:56	det	Pistons Full timeout	49 - 40	49	40	0	0			full timeout							pistons
+401126817	2	06:21	5:39	det	Ish Smith misses driving layup	49 - 40	49	40	0	0	Ish Smith		misses	driving layup						
+401126817	2	06:22	5:38	det	Andre Drummond offensive rebound	49 - 40	49	40	0	0	Andre Drummond		offensive rebound							
+401126817	2	06:24	5:36	mil	George Hill shooting foul	49 - 40	49	40	0	0	George Hill		foul							
+401126817	2	06:24	5:36	det	Andre Drummond misses free throw 1 of 2	49 - 40	49	40	0	0	Andre Drummond		misses	free throw		1-2				
+401126817	2	06:24	5:36	det	Pistons offensive team rebound	49 - 40	49	40	0	0			offensive rebound	team						pistons
+401126817	2	06:24	5:36	det	Andre Drummond misses free throw 2 of 2	49 - 40	49	40	0	0	Andre Drummond		misses	free throw		2-2				
+401126817	2	06:28	5:32	mil	Brook Lopez defensive rebound	49 - 40	49	40	0	0	Brook Lopez		defensive rebound							
+401126817	2	06:38	5:22	mil	Khris Middleton lost ball turnover (Andre Drummond steals)	49 - 40	49	40	0	0	Khris Middleton		turnover					Andre Drummond	steals	
+401126817	2	06:55	5:05	det	Ish Smith misses 18-foot pullup jump shot	49 - 40	49	40	0	0	Ish Smith		misses	pullup jump shot	18					
+401126817	2	06:58	5:02	mil	Pat Connaughton defensive rebound	49 - 40	49	40	0	0	Pat Connaughton		defensive rebound							
+401126817	2	07:08	4:52	det	Andre Drummond personal foul	49 - 40	49	40	0	0	Andre Drummond		foul							
+401126817	2	07:08	4:52	mil	George Hill makes free throw 1 of 2	50 - 40	50	40	1	0	George Hill		makes	free throw		1-2				
+401126817	2	07:08	4:52	det	Blake Griffin enters the game for Bruce Brown	50 - 40	50	40	0	0	Blake Griffin	Bruce Brown	enters the game for							
+401126817	2	07:08	4:52	mil	George Hill makes free throw 2 of 2	51 - 40	51	40	1	0	George Hill		makes	free throw		2-2				
+401126817	2	07:31	4:29	det	Andre Drummond makes 2-foot dunk (Blake Griffin assists)	51 - 42	51	42	0	2	Andre Drummond		makes	dunk	2			Blake Griffin	assists	
+401126817	2	07:46	4:14	mil	George Hill misses 26-foot three point jumper	51 - 42	51	42	0	0	George Hill		misses	jumper	26		three			
+401126817	2	07:50	4:10	det	Wayne Ellington defensive rebound	51 - 42	51	42	0	0	Wayne Ellington		defensive rebound							
+401126817	2	07:56	4:04	det	Blake Griffin misses two point shot	51 - 42	51	42	0	0	Blake Griffin		misses	shot			two			
+401126817	2	07:59	4:01	mil	Brook Lopez defensive rebound	51 - 42	51	42	0	0	Brook Lopez		defensive rebound							
+401126817	2	08:03	3:57	mil	Brook Lopez makes 27-foot three point jumper (Khris Middleton assists)	54 - 42	54	42	3	0	Brook Lopez		makes	jumper	27		three	Khris Middleton	assists	
+401126817	2	08:26	3:34	det	Luke Kennard makes 9-foot driving floating jump shot (Blake Griffin assists)	54 - 44	54	44	0	2	Luke Kennard		makes	driving floating jump shot	9			Blake Griffin	assists	
+401126817	2	08:26	3:34	mil	Ersan Ilyasova shooting foul	54 - 44	54	44	0	0	Ersan Ilyasova		foul							
+401126817	2	08:26	3:34	mil	Eric Bledsoe enters the game for Pat Connaughton	54 - 44	54	44	0	0	Eric Bledsoe	Pat Connaughton	enters the game for							
+401126817	2	08:26	3:34	mil	Giannis Antetokounmpo enters the game for Ersan Ilyasova	54 - 44	54	44	0	0	Giannis Antetokounmpo	Ersan Ilyasova	enters the game for							
+401126817	2	08:26	3:34	det	Luke Kennard makes free throw 1 of 1	54 - 45	54	45	0	1	Luke Kennard		makes	free throw		1-1				
+401126817	2	08:26	3:34	det	Reggie Jackson enters the game for Ish Smith	54 - 45	54	45	0	0	Reggie Jackson	Ish Smith	enters the game for							
+401126817	2	08:42	3:18	mil	Khris Middleton makes 18-foot pullup jump shot	56 - 45	56	45	2	0	Khris Middleton		makes	pullup jump shot	18					
+401126817	2	08:42	3:18	det	Andre Drummond shooting foul	56 - 45	56	45	0	0	Andre Drummond		foul							
+401126817	2	08:42	3:18	det	Thon Maker enters the game for Andre Drummond	56 - 45	56	45	0	0	Thon Maker	Andre Drummond	enters the game for							
+401126817	2	08:42	3:18	mil	Khris Middleton makes free throw 1 of 1	57 - 45	57	45	1	0	Khris Middleton		makes	free throw		1-1				
+401126817	2	08:56	3:04	det	Blake Griffin lost ball turnover (Khris Middleton steals)	57 - 45	57	45	0	0	Blake Griffin		turnover					Khris Middleton	steals	
+401126817	2	09:03	2:57	mil	Eric Bledsoe makes driving layup	59 - 45	59	45	2	0	Eric Bledsoe		makes	driving layup						
+401126817	2	09:10	2:50	mil	Nikola Mirotic enters the game for George Hill	59 - 45	59	45	0	0	Nikola Mirotic	George Hill	enters the game for							
+401126817	2	09:28	2:32	det	Reggie Jackson misses 21-foot pullup jump shot	59 - 45	59	45	0	0	Reggie Jackson		misses	pullup jump shot	21					
+401126817	2	09:31	2:29	mil	Khris Middleton defensive rebound	59 - 45	59	45	0	0	Khris Middleton		defensive rebound							
+401126817	2	09:33	2:27	mil	Khris Middleton misses running pullup jump shot	59 - 45	59	45	0	0	Khris Middleton		misses	running pullup jump shot						
+401126817	2	09:34	2:26	mil	Bucks offensive team rebound	59 - 45	59	45	0	0			offensive rebound	team						bucks
+401126817	2	09:34	2:26	det	Reggie Jackson loose ball foul	59 - 45	59	45	0	0	Reggie Jackson		foul							
+401126817	2	09:34	2:26	mil	Giannis Antetokounmpo makes free throw 1 of 2	60 - 45	60	45	1	0	Giannis Antetokounmpo		makes	free throw		1-2				
+401126817	2	09:34	2:26	det	Ish Smith enters the game for Reggie Jackson	60 - 45	60	45	0	0	Ish Smith	Reggie Jackson	enters the game for							
+401126817	2	09:34	2:26	mil	Giannis Antetokounmpo misses free throw 2 of 2	60 - 45	60	45	0	0	Giannis Antetokounmpo		misses	free throw		2-2				
+401126817	2	09:37	2:23	det	Ish Smith defensive rebound	60 - 45	60	45	0	0	Ish Smith		defensive rebound							
+401126817	2	09:55	2:05	det	Wayne Ellington makes 27-foot step back jumpshot	60 - 48	60	48	0	3	Wayne Ellington		makes	step back jumpshot	27					
+401126817	2	10:08	1:52	mil	Brook Lopez makes driving layup	62 - 48	62	48	2	0	Brook Lopez		makes	driving layup						
+401126817	2	10:24	1:36	mil	Giannis Antetokounmpo shooting foul	62 - 48	62	48	0	0	Giannis Antetokounmpo		foul							
+401126817	2	10:24	1:36	det	Blake Griffin makes free throw 1 of 2	62 - 49	62	49	0	1	Blake Griffin		makes	free throw		1-2				
+401126817	2	10:24	1:36	det	Blake Griffin makes free throw 2 of 2	62 - 50	62	50	0	1	Blake Griffin		makes	free throw		2-2				
+401126817	2	10:45	1:15	mil	Giannis Antetokounmpo misses 4-foot jumper	62 - 50	62	50	0	0	Giannis Antetokounmpo		misses	jumper	4					
+401126817	2	10:48	1:12	mil	Giannis Antetokounmpo offensive rebound	62 - 50	62	50	0	0	Giannis Antetokounmpo		offensive rebound							
+401126817	2	10:49	1:11	mil	Thon Maker blocks Giannis Antetokounmpo 's 6-foot hook shot	62 - 50	62	50	0	0	Thon Maker	Giannis Antetokounmpo	blocks	hook shot	6					
+401126817	2	10:52	1:08	mil	Giannis Antetokounmpo offensive rebound	62 - 50	62	50	0	0	Giannis Antetokounmpo		offensive rebound							
+401126817	2	10:54	1:06	mil	Brook Lopez misses 26-foot three point jumper	62 - 50	62	50	0	0	Brook Lopez		misses	jumper	26		three			
+401126817	2	10:55	1:05	mil	Eric Bledsoe offensive rebound	62 - 50	62	50	0	0	Eric Bledsoe		offensive rebound							
+401126817	2	10:55	1:05	det	Thon Maker personal foul	62 - 50	62	50	0	0	Thon Maker		foul							
+401126817	2	10:55	1:05	mil	Giannis Antetokounmpo makes free throw 1 of 2	63 - 50	63	50	1	0	Giannis Antetokounmpo		makes	free throw		1-2				
+401126817	2	10:55	1:05	mil	Ersan Ilyasova enters the game for Brook Lopez	63 - 50	63	50	0	0	Ersan Ilyasova	Brook Lopez	enters the game for							
+401126817	2	10:55	1:05	mil	Giannis Antetokounmpo misses free throw 2 of 2	63 - 50	63	50	0	0	Giannis Antetokounmpo		misses	free throw		2-2				
+401126817	2	10:58	1:02	det	Luke Kennard defensive rebound	63 - 50	63	50	0	0	Luke Kennard		defensive rebound							
+401126817	2	11:14	45.6	mil	Khris Middleton personal foul	63 - 50	63	50	0	0	Khris Middleton		foul							
+401126817	2	11:14	45.6	det	Thon Maker makes free throw 1 of 2	63 - 51	63	51	0	1	Thon Maker		makes	free throw		1-2				
+401126817	2	11:14	45.6	mil	Brook Lopez enters the game for Giannis Antetokounmpo	63 - 51	63	51	0	0	Brook Lopez	Giannis Antetokounmpo	enters the game for							
+401126817	2	11:14	45.6	det	Thon Maker makes free throw 2 of 2	63 - 52	63	52	0	1	Thon Maker		makes	free throw		2-2				
+401126817	2	11:30	29.1	mil	Khris Middleton makes 16-foot two point shot (Eric Bledsoe assists)	65 - 52	65	52	2	0	Khris Middleton		makes	shot	16		two	Eric Bledsoe	assists	
+401126817	2	11:40	19.2	det	Thon Maker makes 2-foot dunk (Ish Smith assists)	65 - 54	65	54	0	2	Thon Maker		makes	dunk	2			Ish Smith	assists	
+401126817	2	11:55	4.3	det	Ish Smith shooting foul	65 - 54	65	54	0	0	Ish Smith		foul							
+401126817	2	11:55	4.3	mil	Eric Bledsoe makes free throw 1 of 2	66 - 54	66	54	1	0	Eric Bledsoe		makes	free throw		1-2				
+401126817	2	11:55	4.3	mil	George Hill enters the game for Nikola Mirotic	66 - 54	66	54	0	0	George Hill	Nikola Mirotic	enters the game for							
+401126817	2	11:55	4.3	mil	D.J. Wilson enters the game for Ersan Ilyasova	66 - 54	66	54	0	0	D.J. Wilson	Ersan Ilyasova	enters the game for							
+401126817	2	11:55	4.3	det	Langston Galloway enters the game for Thon Maker	66 - 54	66	54	0	0	Langston Galloway	Thon Maker	enters the game for							
+401126817	2	11:55	4.3	mil	Pat Connaughton enters the game for Brook Lopez	66 - 54	66	54	0	0	Pat Connaughton	Brook Lopez	enters the game for							
+401126817	2	11:55	4.3	mil	Eric Bledsoe makes free throw 2 of 2	67 - 54	67	54	1	0	Eric Bledsoe		makes	free throw		2-2				
+401126817	2	11:59	0.5	det	Blake Griffin misses 27-foot three point jumper	67 - 54	67	54	0	0	Blake Griffin		misses	jumper	27		three			
+401126817	2	11:59	0.1	det	Pistons offensive team rebound	67 - 54	67	54	0	0			offensive rebound	team						pistons
+401126817	2	12:00	0.0	det	End of the 2nd Quarter	67 - 54	67	54	0	0			end of the 2nd quarter							
+401126817	3	00:00	12:00	det	Andre Drummond enters the game for Langston Galloway	67 - 54	67	54	0	0	Andre Drummond	Langston Galloway	enters the game for							
+401126817	3	00:00	12:00	det	Reggie Jackson enters the game for Ish Smith	67 - 54	67	54	0	0	Reggie Jackson	Ish Smith	enters the game for							
+401126817	3	00:00	12:00	mil	Sterling Brown enters the game for George Hill	67 - 54	67	54	0	0	Sterling Brown	George Hill	enters the game for							
+401126817	3	00:00	12:00	mil	Giannis Antetokounmpo enters the game for D.J. Wilson	67 - 54	67	54	0	0	Giannis Antetokounmpo	D.J. Wilson	enters the game for							
+401126817	3	00:00	12:00	mil	Brook Lopez enters the game for Pat Connaughton	67 - 54	67	54	0	0	Brook Lopez	Pat Connaughton	enters the game for							
+401126817	3	00:12	11:48	mil	Giannis Antetokounmpo bad pass (Wayne Ellington steals)	67 - 54	67	54	0	0	Giannis Antetokounmpo		bad pass					Wayne Ellington	steals	
+401126817	3	00:17	11:43	det	Wayne Ellington misses 27-foot three point pullup jump shot	67 - 54	67	54	0	0	Wayne Ellington		misses	pullup jump shot	27		three			
+401126817	3	00:19	11:41	det	Andre Drummond offensive rebound	67 - 54	67	54	0	0	Andre Drummond		offensive rebound							
+401126817	3	00:25	11:35	det	Reggie Jackson misses 24-foot three point jumper	67 - 54	67	54	0	0	Reggie Jackson		misses	jumper	24		three			
+401126817	3	00:28	11:32	mil	Khris Middleton defensive rebound	67 - 54	67	54	0	0	Khris Middleton		defensive rebound							
+401126817	3	00:36	11:24	mil	Brook Lopez misses 18-foot step back jumpshot	67 - 54	67	54	0	0	Brook Lopez		misses	step back jumpshot	18					
+401126817	3	00:38	11:22	det	Blake Griffin defensive rebound	67 - 54	67	54	0	0	Blake Griffin		defensive rebound							
+401126817	3	00:48	11:12	det	Blake Griffin misses layup	67 - 54	67	54	0	0	Blake Griffin		misses	layup						
+401126817	3	00:50	11:10	mil	Giannis Antetokounmpo defensive rebound	67 - 54	67	54	0	0	Giannis Antetokounmpo		defensive rebound							
+401126817	3	00:55	11:05	mil	Sterling Brown offensive charge	67 - 54	67	54	0	0	Sterling Brown		offensive charge							
+401126817	3	00:55	11:05	mil	Sterling Brown turnover	67 - 54	67	54	0	0	Sterling Brown		turnover							
+401126817	3	01:09	10:51	det	Andre Drummond bad pass (Eric Bledsoe steals)	67 - 54	67	54	0	0	Andre Drummond		bad pass					Eric Bledsoe	steals	
+401126817	3	01:14	10:46	mil	Eric Bledsoe misses 26-foot three point pullup jump shot	67 - 54	67	54	0	0	Eric Bledsoe		misses	pullup jump shot	26		three			
+401126817	3	01:17	10:43	det	Wayne Ellington defensive rebound	67 - 54	67	54	0	0	Wayne Ellington		defensive rebound							
+401126817	3	01:24	10:36	mil	Giannis Antetokounmpo shooting foul	67 - 54	67	54	0	0	Giannis Antetokounmpo		foul							
+401126817	3	01:24	10:36	det	Andre Drummond makes free throw 1 of 2	67 - 55	67	55	0	1	Andre Drummond		makes	free throw		1-2				
+401126817	3	01:24	10:36	det	Andre Drummond makes free throw 2 of 2	67 - 56	67	56	0	1	Andre Drummond		makes	free throw		2-2				
+401126817	3	01:35	10:25	mil	Eric Bledsoe misses 25-foot three point pullup jump shot	67 - 56	67	56	0	0	Eric Bledsoe		misses	pullup jump shot	25		three			
+401126817	3	01:38	10:22	mil	Sterling Brown offensive rebound	67 - 56	67	56	0	0	Sterling Brown		offensive rebound							
+401126817	3	01:39	10:21	det	Luke Kennard personal foul	67 - 56	67	56	0	0	Luke Kennard		foul							
+401126817	3	01:49	10:11	mil	Giannis Antetokounmpo makes driving layup	69 - 56	69	56	2	0	Giannis Antetokounmpo		makes	driving layup						
+401126817	3	02:05	9:55	det	Luke Kennard misses layup	69 - 56	69	56	0	0	Luke Kennard		misses	layup						
+401126817	3	02:08	9:52	mil	Khris Middleton defensive rebound	69 - 56	69	56	0	0	Khris Middleton		defensive rebound							
+401126817	3	02:12	9:48	mil	Eric Bledsoe misses layup	69 - 56	69	56	0	0	Eric Bledsoe		misses	layup						
+401126817	3	02:14	9:46	mil	Eric Bledsoe offensive rebound	69 - 56	69	56	0	0	Eric Bledsoe		offensive rebound							
+401126817	3	02:19	9:41	det	Andre Drummond personal foul	69 - 56	69	56	0	0	Andre Drummond		foul							
+401126817	3	02:19	9:41	det	Zaza Pachulia enters the game for Andre Drummond	69 - 56	69	56	0	0	Zaza Pachulia	Andre Drummond	enters the game for							
+401126817	3	02:29	9:31	mil	Brook Lopez makes hook shot	71 - 56	71	56	2	0	Brook Lopez		makes	hook shot						
+401126817	3	02:47	9:13	det	Blake Griffin makes driving layup	71 - 58	71	58	0	2	Blake Griffin		makes	driving layup						
+401126817	3	02:50	9:10	det	Zaza Pachulia personal foul	71 - 58	71	58	0	0	Zaza Pachulia		foul							
+401126817	3	02:52	9:08	mil	Eric Bledsoe misses 16-foot jumper	71 - 58	71	58	0	0	Eric Bledsoe		misses	jumper	16					
+401126817	3	02:56	9:04	det	Wayne Ellington defensive rebound	71 - 58	71	58	0	0	Wayne Ellington		defensive rebound							
+401126817	3	03:11	8:49	det	Blake Griffin misses 26-foot three point jumper	71 - 58	71	58	0	0	Blake Griffin		misses	jumper	26		three			
+401126817	3	03:14	8:46	mil	Giannis Antetokounmpo defensive rebound	71 - 58	71	58	0	0	Giannis Antetokounmpo		defensive rebound							
+401126817	3	03:17	8:43	det	Luke Kennard shooting foul	71 - 58	71	58	0	0	Luke Kennard		foul							
+401126817	3	03:17	8:43	mil	Khris Middleton misses free throw 1 of 3	71 - 58	71	58	0	0	Khris Middleton		misses	free throw		1-3				
+401126817	3	03:17	8:43	mil	Khris Middleton makes free throw 2 of 3	72 - 58	72	58	1	0	Khris Middleton		makes	free throw		2-3				
+401126817	3	03:17	8:43	mil	Khris Middleton makes free throw 3 of 3	74 - 58	74	58	2	0	Khris Middleton		makes	free throw		3-3				
+401126817	3	03:17	8:43	mil	Bucks offensive team rebound	73 - 58	74	58	0	0			offensive rebound	team						bucks
+401126817	3	03:35	8:25	det	Reggie Jackson makes 2-foot layup (Blake Griffin assists)	73 - 60	73	60	0	2	Reggie Jackson		makes	layup	2			Blake Griffin	assists	
+401126817	3	03:49	8:11	mil	Brook Lopez misses 33-foot three point jumper	73 - 60	73	60	0	0	Brook Lopez		misses	jumper	33		three			
+401126817	3	03:52	8:08	det	Blake Griffin defensive rebound	73 - 60	73	60	0	0	Blake Griffin		defensive rebound							
+401126817	3	03:54	8:06	mil	Giannis Antetokounmpo personal foul	73 - 60	73	60	0	0	Giannis Antetokounmpo		foul							
+401126817	3	03:54	8:06	mil	Ersan Ilyasova enters the game for Giannis Antetokounmpo	73 - 60	73	60	0	0	Ersan Ilyasova	Giannis Antetokounmpo	enters the game for							
+401126817	3	04:08	7:52	det	Blake Griffin misses 10-foot two point shot	73 - 60	73	60	0	0	Blake Griffin		misses	shot	10		two			
+401126817	3	04:11	7:49	mil	Eric Bledsoe defensive rebound	73 - 60	73	60	0	0	Eric Bledsoe		defensive rebound							
+401126817	3	04:17	7:43	mil	Eric Bledsoe makes 2-foot driving dunk	75 - 60	75	60	2	0	Eric Bledsoe		makes	driving dunk	2					
+401126817	3	04:23	7:37	det	Pistons Full timeout	75 - 60	75	60	0	0			full timeout							pistons
+401126817	3	04:23	7:37	det	Langston Galloway enters the game for Zaza Pachulia	75 - 60	75	60	0	0	Langston Galloway	Zaza Pachulia	enters the game for							
+401126817	3	04:23	7:37	mil	Pat Connaughton enters the game for Sterling Brown	75 - 60	75	60	0	0	Pat Connaughton	Sterling Brown	enters the game for							
+401126817	3	04:36	7:24	det	Reggie Jackson misses 24-foot three point jumper	75 - 60	75	60	0	0	Reggie Jackson		misses	jumper	24		three			
+401126817	3	04:40	7:20	mil	Khris Middleton defensive rebound	75 - 60	75	60	0	0	Khris Middleton		defensive rebound							
+401126817	3	04:48	7:12	mil	Eric Bledsoe makes dunk (Pat Connaughton assists)	77 - 60	77	60	2	0	Eric Bledsoe		makes	dunk				Pat Connaughton	assists	
+401126817	3	05:01	6:59	det	Blake Griffin makes 26-foot three point jumper (Reggie Jackson assists)	77 - 63	77	63	0	3	Blake Griffin		makes	jumper	26		three	Reggie Jackson	assists	
+401126817	3	05:17	6:43	mil	Langston Galloway blocks Eric Bledsoe 's 4-foot driving layup	77 - 63	77	63	0	0	Langston Galloway	Eric Bledsoe	blocks	driving layup	4					
+401126817	3	05:21	6:39	mil	Eric Bledsoe offensive rebound	77 - 63	77	63	0	0	Eric Bledsoe		offensive rebound							
+401126817	3	05:22	6:38	mil	Eric Bledsoe makes two point shot	79 - 63	79	63	2	0	Eric Bledsoe		makes	shot			two			
+401126817	3	05:28	6:32	det	Blake Griffin misses 27-foot three point pullup jump shot	79 - 63	79	63	0	0	Blake Griffin		misses	pullup jump shot	27		three			
+401126817	3	05:30	6:30	mil	Pat Connaughton defensive rebound	79 - 63	79	63	0	0	Pat Connaughton		defensive rebound							
+401126817	3	05:35	6:25	mil	Khris Middleton bad pass (Blake Griffin steals)	79 - 63	79	63	0	0	Khris Middleton		bad pass					Blake Griffin	steals	
+401126817	3	05:46	6:14	det	Blake Griffin makes driving layup	79 - 65	79	65	0	2	Blake Griffin		makes	driving layup						
+401126817	3	05:46	6:14	mil	Brook Lopez shooting foul	79 - 65	79	65	0	0	Brook Lopez		foul							
+401126817	3	05:46	6:14	det	Blake Griffin makes free throw 1 of 1	79 - 66	79	66	0	1	Blake Griffin		makes	free throw		1-1				
+401126817	3	06:01	5:59	mil	Khris Middleton makes 26-foot three pointer	82 - 66	82	66	3	0	Khris Middleton		makes	er	26		three			
+401126817	3	06:11	5:49	det	Langston Galloway misses 23-foot three point jumper	82 - 66	82	66	0	0	Langston Galloway		misses	jumper	23		three			
+401126817	3	06:15	5:45	mil	Khris Middleton defensive rebound	82 - 66	82	66	0	0	Khris Middleton		defensive rebound							
+401126817	3	06:21	5:39	mil	Brook Lopez misses 25-foot three point jumper	82 - 66	82	66	0	0	Brook Lopez		misses	jumper	25		three			
+401126817	3	06:24	5:36	det	Langston Galloway defensive rebound	82 - 66	82	66	0	0	Langston Galloway		defensive rebound							
+401126817	3	06:35	5:25	det	Langston Galloway misses 24-foot three point jumper	82 - 66	82	66	0	0	Langston Galloway		misses	jumper	24		three			
+401126817	3	06:38	5:22	mil	Pat Connaughton defensive rebound	82 - 66	82	66	0	0	Pat Connaughton		defensive rebound							
+401126817	3	06:42	5:18	mil	Eric Bledsoe bad pass (Reggie Jackson steals)	82 - 66	82	66	0	0	Eric Bledsoe		bad pass					Reggie Jackson	steals	
+401126817	3	06:51	5:09	det	Luke Kennard misses driving layup	82 - 66	82	66	0	0	Luke Kennard		misses	driving layup						
+401126817	3	06:53	5:07	mil	Ersan Ilyasova defensive rebound	82 - 66	82	66	0	0	Ersan Ilyasova		defensive rebound							
+401126817	3	07:07	4:53	mil	Khris Middleton makes 26-foot three pointer	85 - 66	85	66	3	0	Khris Middleton		makes	er	26		three			
+401126817	3	07:13	4:47	mil	Khris Middleton personal foul	85 - 66	85	66	0	0	Khris Middleton		foul							
+401126817	3	07:13	4:47	det	Pistons Full timeout	85 - 66	85	66	0	0			full timeout							pistons
+401126817	3	07:13	4:47	det	Ish Smith enters the game for Reggie Jackson	85 - 66	85	66	0	0	Ish Smith	Reggie Jackson	enters the game for							
+401126817	3	07:13	4:47	det	Zaza Pachulia enters the game for Blake Griffin	85 - 66	85	66	0	0	Zaza Pachulia	Blake Griffin	enters the game for							
+401126817	3	07:13	4:47	mil	Nikola Mirotic enters the game for Eric Bledsoe	85 - 66	85	66	0	0	Nikola Mirotic	Eric Bledsoe	enters the game for							
+401126817	3	07:13	4:47	mil	George Hill enters the game for Brook Lopez	85 - 66	85	66	0	0	George Hill	Brook Lopez	enters the game for							
+401126817	3	07:32	4:28	det	Wayne Ellington misses 28-foot three point pullup jump shot	85 - 66	85	66	0	0	Wayne Ellington		misses	pullup jump shot	28		three			
+401126817	3	07:33	4:27	det	Langston Galloway offensive rebound	85 - 66	85	66	0	0	Langston Galloway		offensive rebound							
+401126817	3	07:33	4:27	mil	Ersan Ilyasova personal foul	85 - 66	85	66	0	0	Ersan Ilyasova		foul							
+401126817	3	07:33	4:27	det	Wayne Ellington makes free throw 1 of 2	85 - 67	85	67	0	1	Wayne Ellington		makes	free throw		1-2				
+401126817	3	07:33	4:27	det	Wayne Ellington makes free throw 2 of 2	85 - 68	85	68	0	1	Wayne Ellington		makes	free throw		2-2				
+401126817	3	07:47	4:13	mil	Khris Middleton misses 27-foot three point pullup jump shot	85 - 68	85	68	0	0	Khris Middleton		misses	pullup jump shot	27		three			
+401126817	3	08:00	4:00	mil	Pat Connaughton vs. Langston Galloway (Nikola Mirotic gains possession)	85 - 68	85	68	0	0	Pat Connaughton	Langston Galloway	vs.					Nikola Mirotic	gains possession	
+401126817	3	08:00	4:00	mil	Bucks offensive team rebound	85 - 68	85	68	0	0			offensive rebound	team						bucks
+401126817	3	08:05	3:55	det	Langston Galloway shooting foul	85 - 68	85	68	0	0	Langston Galloway		foul							
+401126817	3	08:05	3:55	mil	Ersan Ilyasova makes free throw 1 of 2	86 - 68	86	68	1	0	Ersan Ilyasova		makes	free throw		1-2				
+401126817	3	08:05	3:55	mil	Ersan Ilyasova makes free throw 2 of 2	87 - 68	87	68	1	0	Ersan Ilyasova		makes	free throw		2-2				
+401126817	3	08:21	3:39	det	Ish Smith misses driving layup	87 - 68	87	68	0	0	Ish Smith		misses	driving layup						
+401126817	3	08:23	3:37	det	Wayne Ellington offensive rebound	87 - 68	87	68	0	0	Wayne Ellington		offensive rebound							
+401126817	3	08:27	3:33	det	Wayne Ellington misses 26-foot three point pullup jump shot	87 - 68	87	68	0	0	Wayne Ellington		misses	pullup jump shot	26		three			
+401126817	3	08:30	3:30	mil	Nikola Mirotic defensive rebound	87 - 68	87	68	0	0	Nikola Mirotic		defensive rebound							
+401126817	3	08:40	3:20	mil	Khris Middleton misses two point shot	87 - 68	87	68	0	0	Khris Middleton		misses	shot			two			
+401126817	3	08:42	3:18	det	Luke Kennard defensive rebound	87 - 68	87	68	0	0	Luke Kennard		defensive rebound							
+401126817	3	08:51	3:09	det	Langston Galloway misses two point shot	87 - 68	87	68	0	0	Langston Galloway		misses	shot			two			
+401126817	3	08:54	3:06	mil	Khris Middleton defensive rebound	87 - 68	87	68	0	0	Khris Middleton		defensive rebound							
+401126817	3	08:59	3:01	mil	Khris Middleton misses 26-foot three point jumper	87 - 68	87	68	0	0	Khris Middleton		misses	jumper	26		three			
+401126817	3	09:04	2:56	det	Wayne Ellington defensive rebound	87 - 68	87	68	0	0	Wayne Ellington		defensive rebound							
+401126817	3	09:10	2:50	det	Langston Galloway misses 24-foot three point jumper	87 - 68	87	68	0	0	Langston Galloway		misses	jumper	24		three			
+401126817	3	09:12	2:48	mil	George Hill defensive rebound	87 - 68	87	68	0	0	George Hill		defensive rebound							
+401126817	3	09:14	2:46	mil	Bucks Full timeout	87 - 68	87	68	0	0			full timeout							bucks
+401126817	3	09:14	2:46	det	Andre Drummond enters the game for Wayne Ellington	87 - 68	87	68	0	0	Andre Drummond	Wayne Ellington	enters the game for							
+401126817	3	09:14	2:46	det	Bruce Brown enters the game for Zaza Pachulia	87 - 68	87	68	0	0	Bruce Brown	Zaza Pachulia	enters the game for							
+401126817	3	09:14	2:46	mil	Brook Lopez enters the game for Ersan Ilyasova	87 - 68	87	68	0	0	Brook Lopez	Ersan Ilyasova	enters the game for							
+401126817	3	09:25	2:35	mil	Nikola Mirotic makes 25-foot three point jumper (George Hill assists)	90 - 68	90	68	3	0	Nikola Mirotic		makes	jumper	25		three	George Hill	assists	
+401126817	3	09:39	2:21	det	Bruce Brown makes driving layup	90 - 70	90	70	0	2	Bruce Brown		makes	driving layup						
+401126817	3	09:55	2:05	det	Andre Drummond shooting foul	90 - 70	90	70	0	0	Andre Drummond		foul							
+401126817	3	09:55	2:05	mil	George Hill makes free throw 1 of 2	91 - 70	91	70	1	0	George Hill		makes	free throw		1-2				
+401126817	3	09:55	2:05	det	Thon Maker enters the game for Andre Drummond	91 - 70	91	70	0	0	Thon Maker	Andre Drummond	enters the game for							
+401126817	3	09:55	2:05	mil	Sterling Brown enters the game for Khris Middleton	91 - 70	91	70	0	0	Sterling Brown	Khris Middleton	enters the game for							
+401126817	3	09:55	2:05	mil	George Hill makes free throw 2 of 2	92 - 70	92	70	1	0	George Hill		makes	free throw		2-2				
+401126817	3	10:08	1:52	det	Ish Smith makes 7-foot two point shot	92 - 72	92	72	0	2	Ish Smith		makes	shot	7		two			
+401126817	3	10:19	1:41	det	Bruce Brown shooting foul	92 - 72	92	72	0	0	Bruce Brown		foul							
+401126817	3	10:19	1:41	mil	Nikola Mirotic makes free throw 1 of 3	93 - 72	93	72	1	0	Nikola Mirotic		makes	free throw		1-3				
+401126817	3	10:19	1:41	mil	Nikola Mirotic makes free throw 2 of 3	94 - 72	94	72	1	0	Nikola Mirotic		makes	free throw		2-3				
+401126817	3	10:19	1:41	mil	Nikola Mirotic makes free throw 3 of 3	95 - 72	95	72	1	0	Nikola Mirotic		makes	free throw		3-3				
+401126817	3	10:31	1:29	mil	Brook Lopez shooting foul	95 - 72	95	72	0	0	Brook Lopez		foul							
+401126817	3	10:31	1:29	det	Ish Smith makes free throw 1 of 2	95 - 73	95	73	0	1	Ish Smith		makes	free throw		1-2				
+401126817	3	10:31	1:29	mil	Giannis Antetokounmpo enters the game for Brook Lopez	95 - 73	95	73	0	0	Giannis Antetokounmpo	Brook Lopez	enters the game for							
+401126817	3	10:31	1:29	det	Ish Smith makes free throw 2 of 2	95 - 74	95	74	0	1	Ish Smith		makes	free throw		2-2				
+401126817	3	10:46	1:14	mil	George Hill misses 9-foot jump bank shot	95 - 74	95	74	0	0	George Hill		misses	jump bank shot	9					
+401126817	3	10:49	1:11	mil	Giannis Antetokounmpo offensive rebound	95 - 74	95	74	0	0	Giannis Antetokounmpo		offensive rebound							
+401126817	3	10:53	1:07	mil	Nikola Mirotic misses 27-foot three point jumper	95 - 74	95	74	0	0	Nikola Mirotic		misses	jumper	27		three			
+401126817	3	10:53	1:07	det	Luke Kennard defensive rebound	95 - 74	95	74	0	0	Luke Kennard		defensive rebound							
+401126817	3	11:02	57.8	mil	George Hill personal foul	95 - 74	95	74	0	0	George Hill		foul							
+401126817	3	11:02	57.8	det	Thon Maker makes free throw 1 of 2	95 - 75	95	75	0	1	Thon Maker		makes	free throw		1-2				
+401126817	3	11:02	57.8	mil	Eric Bledsoe enters the game for Pat Connaughton	95 - 75	95	75	0	0	Eric Bledsoe	Pat Connaughton	enters the game for							
+401126817	3	11:02	57.8	det	Thon Maker makes free throw 2 of 2	95 - 76	95	76	0	1	Thon Maker		makes	free throw		2-2				
+401126817	3	11:17	42.6	det	Thon Maker shooting foul	95 - 76	95	76	0	0	Thon Maker		foul							
+401126817	3	11:17	42.6	mil	Giannis Antetokounmpo makes free throw 1 of 2	96 - 76	96	76	1	0	Giannis Antetokounmpo		makes	free throw		1-2				
+401126817	3	11:17	42.6	mil	Giannis Antetokounmpo makes free throw 2 of 2	97 - 76	97	76	1	0	Giannis Antetokounmpo		makes	free throw		2-2				
+401126817	3	11:28	32.0	det	Ish Smith makes 19-foot pullup jump shot	97 - 78	97	78	0	2	Ish Smith		makes	pullup jump shot	19					
+401126817	3	11:43	16.4	mil	Sterling Brown makes 23-foot three point jumper (Giannis Antetokounmpo assists)	100 - 78	100	78	3	0	Sterling Brown		makes	jumper	23		three	Giannis Antetokounmpo	assists	
+401126817	3	11:59	0.8	det	Ish Smith misses 18-foot pullup jump shot	100 - 78	100	78	0	0	Ish Smith		misses	pullup jump shot	18					
+401126817	3	11:59	0.1	det	Pistons offensive team rebound	100 - 78	100	78	0	0			offensive rebound	team						pistons
+401126817	3	12:00	0.0	det	End of the 3rd Quarter	100 - 78	100	78	0	0			end of the 3rd quarter							
+401126817	4	00:00	12:00	det	Andre Drummond enters the game for Luke Kennard	100 - 78	100	78	0	0	Andre Drummond	Luke Kennard	enters the game for							
+401126817	4	00:00	12:00	det	Blake Griffin enters the game for Bruce Brown	100 - 78	100	78	0	0	Blake Griffin	Bruce Brown	enters the game for							
+401126817	4	00:00	12:00	det	Wayne Ellington enters the game for Thon Maker	100 - 78	100	78	0	0	Wayne Ellington	Thon Maker	enters the game for							
+401126817	4	00:00	12:00	mil	Ersan Ilyasova enters the game for Nikola Mirotic	100 - 78	100	78	0	0	Ersan Ilyasova	Nikola Mirotic	enters the game for							
+401126817	4	00:16	11:44	det	Blake Griffin misses 4-foot two point shot	100 - 78	100	78	0	0	Blake Griffin		misses	shot	4		two			
+401126817	4	00:18	11:42	det	Andre Drummond offensive rebound	100 - 78	100	78	0	0	Andre Drummond		offensive rebound							
+401126817	4	00:18	11:42	mil	Ersan Ilyasova shooting foul	100 - 78	100	78	0	0	Ersan Ilyasova		foul							
+401126817	4	00:18	11:42	det	Andre Drummond misses free throw 1 of 2	100 - 78	100	78	0	0	Andre Drummond		misses	free throw		1-2				
+401126817	4	00:18	11:42	det	Pistons offensive team rebound	100 - 78	100	78	0	0			offensive rebound	team						pistons
+401126817	4	00:18	11:42	det	Andre Drummond misses free throw 2 of 2	100 - 78	100	78	0	0	Andre Drummond		misses	free throw		2-2				
+401126817	4	00:21	11:39	mil	Ersan Ilyasova defensive rebound	100 - 78	100	78	0	0	Ersan Ilyasova		defensive rebound							
+401126817	4	00:38	11:22	mil	Brook Lopez enters the game for Ersan Ilyasova	100 - 78	100	78	0	0	Brook Lopez	Ersan Ilyasova	enters the game for							
+401126817	4	00:43	11:17	mil	shot clock turnover	100 - 78	100	78	0	0			turnover							
+401126817	4	00:59	11:01	det	Blake Griffin lost ball turnover (Giannis Antetokounmpo steals)	100 - 78	100	78	0	0	Blake Griffin		turnover					Giannis Antetokounmpo	steals	
+401126817	4	01:03	10:57	mil	Sterling Brown makes 2-foot dunk (George Hill assists)	102 - 78	102	78	2	0	Sterling Brown		makes	dunk	2			George Hill	assists	
+401126817	4	01:12	10:48	det	Langston Galloway misses 28-foot three point jumper	102 - 78	102	78	0	0	Langston Galloway		misses	jumper	28		three			
+401126817	4	01:14	10:46	mil	Brook Lopez defensive rebound	102 - 78	102	78	0	0	Brook Lopez		defensive rebound							
+401126817	4	01:31	10:29	mil	Giannis Antetokounmpo misses 5-foot two point shot	102 - 78	102	78	0	0	Giannis Antetokounmpo		misses	shot	5		two			
+401126817	4	01:33	10:27	det	Langston Galloway defensive rebound	102 - 78	102	78	0	0	Langston Galloway		defensive rebound							
+401126817	4	01:40	10:20	det	Ish Smith misses 14-foot step back jumpshot	102 - 78	102	78	0	0	Ish Smith		misses	step back jumpshot	14					
+401126817	4	01:43	10:17	det	Andre Drummond offensive rebound	102 - 78	102	78	0	0	Andre Drummond		offensive rebound							
+401126817	4	01:52	10:08	det	Blake Griffin makes driving layup	102 - 80	102	80	0	2	Blake Griffin		makes	driving layup						
+401126817	4	02:21	9:39	mil	Eric Bledsoe misses driving floating jump shot	102 - 80	102	80	0	0	Eric Bledsoe		misses	driving floating jump shot						
+401126817	4	02:23	9:37	det	Andre Drummond defensive rebound	102 - 80	102	80	0	0	Andre Drummond		defensive rebound							
+401126817	4	02:35	9:25	det	Ish Smith makes 2-foot two point shot	102 - 82	102	82	0	2	Ish Smith		makes	shot	2		two			
+401126817	4	02:53	9:07	det	Ish Smith personal foul	102 - 82	102	82	0	0	Ish Smith		foul							
+401126817	4	02:53	9:07	det	Reggie Jackson enters the game for Ish Smith	102 - 82	102	82	0	0	Reggie Jackson	Ish Smith	enters the game for							
+401126817	4	02:53	9:07	mil	Pat Connaughton enters the game for George Hill	102 - 82	102	82	0	0	Pat Connaughton	George Hill	enters the game for							
+401126817	4	02:53	9:07	mil	Ersan Ilyasova enters the game for Giannis Antetokounmpo	102 - 82	102	82	0	0	Ersan Ilyasova	Giannis Antetokounmpo	enters the game for							
+401126817	4	03:13	8:47	mil	Eric Bledsoe bad pass (Andre Drummond steals)	102 - 82	102	82	0	0	Eric Bledsoe		bad pass					Andre Drummond	steals	
+401126817	4	03:27	8:33	det	Blake Griffin misses layup	102 - 82	102	82	0	0	Blake Griffin		misses	layup						
+401126817	4	03:29	8:31	det	Blake Griffin offensive rebound	102 - 82	102	82	0	0	Blake Griffin		offensive rebound							
+401126817	4	03:29	8:31	det	Blake Griffin misses tip shot	102 - 82	102	82	0	0	Blake Griffin		misses	tip shot						
+401126817	4	03:29	8:31	det	Blake Griffin offensive rebound	102 - 82	102	82	0	0	Blake Griffin		offensive rebound							
+401126817	4	03:29	8:31	det	Blake Griffin makes two point shot	102 - 84	102	84	0	2	Blake Griffin		makes	shot			two			
+401126817	4	03:29	8:31	mil	Bucks Full timeout	102 - 84	102	84	0	0			full timeout							bucks
+401126817	4	03:29	8:31	det	Luke Kennard enters the game for Langston Galloway	102 - 84	102	84	0	0	Luke Kennard	Langston Galloway	enters the game for							
+401126817	4	03:47	8:13	mil	Brook Lopez makes 2-foot dunk (Eric Bledsoe assists)	104 - 84	104	84	2	0	Brook Lopez		makes	dunk	2			Eric Bledsoe	assists	
+401126817	4	04:09	7:51	det	Reggie Jackson makes 24-foot three point jumper (Luke Kennard assists)	104 - 87	104	87	0	3	Reggie Jackson		makes	jumper	24		three	Luke Kennard	assists	
+401126817	4	04:22	7:38	mil	Ersan Ilyasova misses 25-foot three point jumper	104 - 87	104	87	0	0	Ersan Ilyasova		misses	jumper	25		three			
+401126817	4	04:26	7:34	mil	Eric Bledsoe offensive rebound	104 - 87	104	87	0	0	Eric Bledsoe		offensive rebound							
+401126817	4	04:33	7:27	mil	Eric Bledsoe makes 18-foot pullup jump shot (Brook Lopez assists)	106 - 87	106	87	2	0	Eric Bledsoe		makes	pullup jump shot	18			Brook Lopez	assists	
+401126817	4	04:45	7:15	det	Andre Drummond makes 3-foot dunk (Reggie Jackson assists)	106 - 89	106	89	0	2	Andre Drummond		makes	dunk	3			Reggie Jackson	assists	
+401126817	4	05:10	6:50	det	Blake Griffin shooting foul	106 - 89	106	89	0	0	Blake Griffin		foul							
+401126817	4	05:10	6:50	mil	Ersan Ilyasova makes free throw 1 of 2	107 - 89	107	89	1	0	Ersan Ilyasova		makes	free throw		1-2				
+401126817	4	05:10	6:50	mil	Khris Middleton enters the game for Eric Bledsoe	107 - 89	107	89	0	0	Khris Middleton	Eric Bledsoe	enters the game for							
+401126817	4	05:10	6:50	mil	George Hill enters the game for Sterling Brown	107 - 89	107	89	0	0	George Hill	Sterling Brown	enters the game for							
+401126817	4	05:10	6:50	mil	Ersan Ilyasova makes free throw 2 of 2	108 - 89	108	89	1	0	Ersan Ilyasova		makes	free throw		2-2				
+401126817	4	05:22	6:38	det	Reggie Jackson misses 27-foot three point pullup jump shot	108 - 89	108	89	0	0	Reggie Jackson		misses	pullup jump shot	27		three			
+401126817	4	05:26	6:34	mil	Khris Middleton defensive rebound	108 - 89	108	89	0	0	Khris Middleton		defensive rebound							
+401126817	4	05:32	6:28	mil	Pat Connaughton misses 27-foot three point jumper	108 - 89	108	89	0	0	Pat Connaughton		misses	jumper	27		three			
+401126817	4	05:36	6:24	det	Andre Drummond defensive rebound	108 - 89	108	89	0	0	Andre Drummond		defensive rebound							
+401126817	4	05:44	6:16	det	Brook Lopez blocks Reggie Jackson 's 9-foot driving layup	108 - 89	108	89	0	0	Brook Lopez	Reggie Jackson	blocks	driving layup	9					
+401126817	4	05:44	6:16	mil	Bucks defensive team rebound	108 - 89	108	89	0	0			defensive rebound	team						bucks
+401126817	4	05:44	6:16	det	Ish Smith enters the game for Blake Griffin	108 - 89	108	89	0	0	Ish Smith	Blake Griffin	enters the game for							
+401126817	4	05:44	6:16	mil	Giannis Antetokounmpo enters the game for Ersan Ilyasova	108 - 89	108	89	0	0	Giannis Antetokounmpo	Ersan Ilyasova	enters the game for							
+401126817	4	05:50	6:10	mil	Khris Middleton vs. Reggie Jackson (Giannis Antetokounmpo gains possession)	108 - 89	108	89	0	0	Khris Middleton	Reggie Jackson	vs.					Giannis Antetokounmpo	gains possession	
+401126817	4	06:04	5:56	mil	Khris Middleton bad pass (Andre Drummond steals)	108 - 89	108	89	0	0	Khris Middleton		bad pass					Andre Drummond	steals	
+401126817	4	06:09	5:51	det	Reggie Jackson misses dunk	108 - 89	108	89	0	0	Reggie Jackson		misses	dunk						
+401126817	4	06:11	5:49	mil	Brook Lopez defensive rebound	108 - 89	108	89	0	0	Brook Lopez		defensive rebound							
+401126817	4	06:18	5:42	mil	Andre Drummond blocks Giannis Antetokounmpo 's 1-foot layup	108 - 89	108	89	0	0	Andre Drummond	Giannis Antetokounmpo	blocks	layup	1					
+401126817	4	06:22	5:38	det	Ish Smith defensive rebound	108 - 89	108	89	0	0	Ish Smith		defensive rebound							
+401126817	4	06:29	5:31	det	Wayne Ellington misses 24-foot three point pullup jump shot	108 - 89	108	89	0	0	Wayne Ellington		misses	pullup jump shot	24		three			
+401126817	4	06:30	5:30	mil	Bucks defensive team rebound	108 - 89	108	89	0	0			defensive rebound	team						bucks
+401126817	4	06:48	5:12	mil	Brook Lopez out of bounds bad pass turnover	108 - 89	108	89	0	0	Brook Lopez		turnover							
+401126817	4	06:58	5:02	det	Andre Drummond makes 3-foot alley oop dunk shot (Ish Smith assists)	108 - 91	108	91	0	2	Andre Drummond		makes	alley oop dunk shot	3			Ish Smith	assists	
+401126817	4	07:08	4:52	det	Reggie Jackson personal foul	108 - 91	108	91	0	0	Reggie Jackson		foul							
+401126817	4	07:15	4:45	mil	Giannis Antetokounmpo makes 3-foot two point shot	110 - 91	110	91	2	0	Giannis Antetokounmpo		makes	shot	3		two			
+401126817	4	07:31	4:29	det	Reggie Jackson misses two point shot	110 - 91	110	91	0	0	Reggie Jackson		misses	shot			two			
+401126817	4	07:35	4:25	det	Andre Drummond offensive rebound	110 - 91	110	91	0	0	Andre Drummond		offensive rebound							
+401126817	4	07:35	4:25	det	Andre Drummond makes dunk	110 - 93	110	93	0	2	Andre Drummond		makes	dunk						
+401126817	4	07:44	4:16	mil	Giannis Antetokounmpo lost ball turnover (Andre Drummond steals)	110 - 93	110	93	0	0	Giannis Antetokounmpo		turnover					Andre Drummond	steals	
+401126817	4	07:59	4:01	det	Luke Kennard makes 11-foot step back jumpshot	110 - 95	110	95	0	2	Luke Kennard		makes	step back jumpshot	11					
+401126817	4	08:15	3:45	mil	Giannis Antetokounmpo misses 23-foot three point jumper	110 - 95	110	95	0	0	Giannis Antetokounmpo		misses	jumper	23		three			
+401126817	4	08:18	3:42	det	Andre Drummond defensive rebound	110 - 95	110	95	0	0	Andre Drummond		defensive rebound							
+401126817	4	08:26	3:34	det	Ish Smith misses 23-foot three point pullup jump shot	110 - 95	110	95	0	0	Ish Smith		misses	pullup jump shot	23		three			
+401126817	4	08:28	3:32	mil	Giannis Antetokounmpo defensive rebound	110 - 95	110	95	0	0	Giannis Antetokounmpo		defensive rebound							
+401126817	4	08:35	3:25	mil	Bucks Full timeout	110 - 95	110	95	0	0			full timeout							bucks
+401126817	4	08:45	3:15	mil	Khris Middleton makes 19-foot jumper	112 - 95	112	95	2	0	Khris Middleton		makes	jumper	19					
+401126817	4	09:02	2:58	mil	Giannis Antetokounmpo personal foul	112 - 95	112	95	0	0	Giannis Antetokounmpo		foul							
+401126817	4	09:10	2:50	det	Brook Lopez blocks Andre Drummond's layup	112 - 95	112	95	0	0	Brook Lopez	Andre Drummond	blocks	layup						
+401126817	4	09:14	2:46	mil	Pat Connaughton defensive rebound	112 - 95	112	95	0	0	Pat Connaughton		defensive rebound							
+401126817	4	09:17	2:43	mil	Khris Middleton makes driving layup (Giannis Antetokounmpo assists)	114 - 95	114	95	2	0	Khris Middleton		makes	driving layup				Giannis Antetokounmpo	assists	
+401126817	4	09:27	2:33	det	Reggie Jackson misses 27-foot three point jumper	114 - 95	114	95	0	0	Reggie Jackson		misses	jumper	27		three			
+401126817	4	09:28	2:32	mil	Bucks defensive team rebound	114 - 95	114	95	0	0			defensive rebound	team						bucks
+401126817	4	09:28	2:32	mil	Sterling Brown enters the game for Giannis Antetokounmpo	114 - 95	114	95	0	0	Sterling Brown	Giannis Antetokounmpo	enters the game for							
+401126817	4	09:55	2:05	mil	George Hill misses 25-foot step back jumpshot	114 - 95	114	95	0	0	George Hill		misses	step back jumpshot	25					
+401126817	4	09:57	2:03	det	Luke Kennard defensive rebound	114 - 95	114	95	0	0	Luke Kennard		defensive rebound							
+401126817	4	09:59	2:01	mil	Khris Middleton shooting foul	114 - 95	114	95	0	0	Khris Middleton		foul							
+401126817	4	09:59	2:01	det	Andre Drummond misses free throw 1 of 2	114 - 95	114	95	0	0	Andre Drummond		misses	free throw		1-2				
+401126817	4	09:59	2:01	det	Pistons offensive team rebound	114 - 95	114	95	0	0			offensive rebound	team						pistons
+401126817	4	09:59	2:01	det	Langston Galloway enters the game for Wayne Ellington	114 - 95	114	95	0	0	Langston Galloway	Wayne Ellington	enters the game for							
+401126817	4	09:59	2:01	mil	Tim Frazier enters the game for Brook Lopez	114 - 95	114	95	0	0	Tim Frazier	Brook Lopez	enters the game for							
+401126817	4	09:59	2:01	mil	Ersan Ilyasova enters the game for Khris Middleton	114 - 95	114	95	0	0	Ersan Ilyasova	Khris Middleton	enters the game for							
+401126817	4	09:59	2:01	det	Andre Drummond misses free throw 2 of 2	114 - 95	114	95	0	0	Andre Drummond		misses	free throw		2-2				
+401126817	4	10:02	1:58	det	Reggie Jackson offensive rebound	114 - 95	114	95	0	0	Reggie Jackson		offensive rebound							
+401126817	4	10:11	1:49	mil	Nikola Mirotic enters the game for George Hill	114 - 95	114	95	0	0	Nikola Mirotic	George Hill	enters the game for							
+401126817	4	10:15	1:45	det	Luke Kennard misses 26-foot three point jumper	114 - 95	114	95	0	0	Luke Kennard		misses	jumper	26		three			
+401126817	4	10:17	1:43	mil	Tim Frazier defensive rebound	114 - 95	114	95	0	0	Tim Frazier		defensive rebound							
+401126817	4	10:32	1:28	mil	Pat Connaughton makes driving layup	116 - 95	116	95	2	0	Pat Connaughton		makes	driving layup						
+401126817	4	10:38	1:22	det	Reggie Jackson makes driving layup	116 - 97	116	97	0	2	Reggie Jackson		makes	driving layup						
+401126817	4	10:50	1:10	mil	Nikola Mirotic makes 25-foot three point jumper (Tim Frazier assists)	119 - 97	119	97	3	0	Nikola Mirotic		makes	jumper	25		three	Tim Frazier	assists	
+401126817	4	10:50	1:10	mil	Sterling Brown personal take foul	119 - 97	119	97	0	0	Sterling Brown		foul							
+401126817	4	10:50	1:10	mil	D.J. Wilson enters the game for Pat Connaughton	119 - 97	119	97	0	0	D.J. Wilson	Pat Connaughton	enters the game for							
+401126817	4	10:50	1:10	mil	Tony Snell enters the game for Ersan Ilyasova	119 - 97	119	97	0	0	Tony Snell	Ersan Ilyasova	enters the game for							
+401126817	4	11:01	58.9	det	Ish Smith misses two point shot	119 - 97	119	97	0	0	Ish Smith		misses	shot			two			
+401126817	4	11:04	56.0	mil	D.J. Wilson defensive rebound	119 - 97	119	97	0	0	D.J. Wilson		defensive rebound							
+401126817	4	11:23	37.0	mil	Andre Drummond blocks Tim Frazier 's 16-foot two point shot	119 - 97	119	97	0	0	Andre Drummond	Tim Frazier	blocks	shot	16		two			
+401126817	4	11:26	33.9	det	Reggie Jackson defensive rebound	119 - 97	119	97	0	0	Reggie Jackson		defensive rebound							
+401126817	4	11:32	27.4	det	Langston Galloway makes 24-foot three point jumper (Luke Kennard assists)	119 - 100	119	100	0	3	Langston Galloway		makes	jumper	24		three	Luke Kennard	assists	
+401126817	4	11:38	21.3	det	Reggie Jackson personal foul	119 - 100	119	100	0	0	Reggie Jackson		foul							
+401126817	4	11:52	8.0	mil	D.J. Wilson traveling	119 - 100	119	100	0	0	D.J. Wilson		traveling							
+401126817	4	11:59	0.9	det	Ish Smith makes 27-foot three point jumper (Reggie Jackson assists)	119 - 103	119	103	0	3	Ish Smith		makes	jumper	27		three	Reggie Jackson	assists	
+401126817	4	12:00	0.0	det	End of the 4th Quarter	119 - 103	119	103	0	0			end of the 4th quarter							
+401126817	4	12:00	0.0	det	End of Game	119 - 103	119	103	0	0			end of game							

@@ -1,0 +1,473 @@
+game_id	quarter	q_time	q_time_remaining	team	event	score	team1_score	team2_score	team1_event_point	team2_event_point	player1	player2	action	action_what	foot_value	free_throw	point_info	player_secondary	action_secondary	team_action
+401126859	1	00:00	12:00	utah	Clint Capela vs. Rudy Gobert (Jae Crowder gains possession)	0 - 0	0	0	0	0	Clint Capela	Rudy Gobert	vs.					Jae Crowder	gains possession	
+401126859	1	00:21	11:39	utah	Donovan Mitchell bad pass (PJ Tucker steals)	0 - 0	0	0	0	0	Donovan Mitchell		bad pass					PJ Tucker	steals	
+401126859	1	00:36	11:24	hou	PJ Tucker makes 25-foot three point jumper (Eric Gordon assists)	3 - 0	3	0	3	0	PJ Tucker		makes	jumper	25		three	Eric Gordon	assists	
+401126859	1	00:49	11:11	utah	Jae Crowder makes driving layup (Ricky Rubio assists)	3 - 2	3	2	0	2	Jae Crowder		makes	driving layup				Ricky Rubio	assists	
+401126859	1	01:11	10:49	utah	Jae Crowder personal foul	3 - 2	3	2	0	0	Jae Crowder		foul							
+401126859	1	01:19	10:41	hou	James Harden offensive foul	3 - 2	3	2	0	0	James Harden		foul							
+401126859	1	01:19	10:41	hou	James Harden turnover	3 - 2	3	2	0	0	James Harden		turnover							
+401126859	1	01:31	10:29	utah	Rudy Gobert misses alley oop dunk shot	3 - 2	3	2	0	0	Rudy Gobert		misses	alley oop dunk shot						
+401126859	1	01:33	10:27	hou	Clint Capela defensive rebound	3 - 2	3	2	0	0	Clint Capela		defensive rebound							
+401126859	1	01:42	10:18	hou	Chris Paul makes 9-foot driving floating jump shot (Clint Capela assists)	5 - 2	5	2	2	0	Chris Paul		makes	driving floating jump shot	9			Clint Capela	assists	
+401126859	1	01:59	10:01	utah	Donovan Mitchell bad pass (James Harden steals)	5 - 2	5	2	0	0	Donovan Mitchell		bad pass					James Harden	steals	
+401126859	1	02:05	9:55	hou	James Harden misses layup	5 - 2	5	2	0	0	James Harden		misses	layup						
+401126859	1	02:05	9:55	hou	Rockets offensive team rebound	5 - 2	5	2	0	0			offensive rebound	team						rockets
+401126859	1	02:10	9:50	hou	Chris Paul misses 14-foot pullup jump shot	5 - 2	5	2	0	0	Chris Paul		misses	pullup jump shot	14					
+401126859	1	02:13	9:47	utah	Rudy Gobert defensive rebound	5 - 2	5	2	0	0	Rudy Gobert		defensive rebound							
+401126859	1	02:27	9:33	utah	Joe Ingles misses 25-foot three point jumper	5 - 2	5	2	0	0	Joe Ingles		misses	jumper	25		three			
+401126859	1	02:29	9:31	utah	Jazz offensive team rebound	5 - 2	5	2	0	0			offensive rebound	team						jazz
+401126859	1	02:31	9:29	utah	Donovan Mitchell misses 24-foot three point jumper	5 - 2	5	2	0	0	Donovan Mitchell		misses	jumper	24		three			
+401126859	1	02:34	9:26	utah	Rudy Gobert offensive rebound	5 - 2	5	2	0	0	Rudy Gobert		offensive rebound							
+401126859	1	02:36	9:24	utah	Jae Crowder makes 26-foot three point jumper (Rudy Gobert assists)	5 - 5	5	5	0	3	Jae Crowder		makes	jumper	26		three	Rudy Gobert	assists	
+401126859	1	02:50	9:10	hou	Rudy Gobert blocks James Harden's driving layup	5 - 5	5	5	0	0	Rudy Gobert	James Harden	blocks	driving layup						
+401126859	1	02:50	9:10	hou	Clint Capela offensive rebound	5 - 5	5	5	0	0	Clint Capela		offensive rebound							
+401126859	1	02:50	9:10	utah	Donovan Mitchell shooting foul	5 - 5	5	5	0	0	Donovan Mitchell		foul							
+401126859	1	02:50	9:10	hou	Clint Capela misses free throw 1 of 2	5 - 5	5	5	0	0	Clint Capela		misses	free throw		1-2				
+401126859	1	02:50	9:10	hou	Rockets offensive team rebound	5 - 5	5	5	0	0			offensive rebound	team						rockets
+401126859	1	02:50	9:10	hou	Clint Capela makes free throw 2 of 2	6 - 5	6	5	1	0	Clint Capela		makes	free throw		2-2				
+401126859	1	03:05	8:55	utah	Jae Crowder makes driving layup (Joe Ingles assists)	6 - 7	6	7	0	2	Jae Crowder		makes	driving layup				Joe Ingles	assists	
+401126859	1	03:18	8:42	hou	Ricky Rubio blocks Clint Capela's layup	6 - 7	6	7	0	0	Ricky Rubio	Clint Capela	blocks	layup						
+401126859	1	03:18	8:42	hou	Rockets offensive team rebound	6 - 7	6	7	0	0			offensive rebound	team						rockets
+401126859	1	03:20	8:40	utah	Joe Ingles personal foul	6 - 7	6	7	0	0	Joe Ingles		foul							
+401126859	1	03:22	8:38	hou	Chris Paul bad pass (Jae Crowder steals)	6 - 7	6	7	0	0	Chris Paul		bad pass					Jae Crowder	steals	
+401126859	1	03:25	8:35	utah	Jae Crowder makes 2-foot dunk	6 - 9	6	9	0	2	Jae Crowder		makes	dunk	2					
+401126859	1	03:39	8:21	hou	Chris Paul out of bounds bad pass turnover	6 - 9	6	9	0	0	Chris Paul		turnover							
+401126859	1	03:51	8:09	utah	Donovan Mitchell misses driving floating jump shot	6 - 9	6	9	0	0	Donovan Mitchell		misses	driving floating jump shot						
+401126859	1	03:53	8:07	utah	Donovan Mitchell offensive rebound	6 - 9	6	9	0	0	Donovan Mitchell		offensive rebound							
+401126859	1	03:53	8:07	utah	Donovan Mitchell makes tip shot	6 - 11	6	11	0	2	Donovan Mitchell		makes	tip shot						
+401126859	1	04:04	7:56	hou	James Harden makes 24-foot three point jumper	9 - 11	9	11	3	0	James Harden		makes	jumper	24		three			
+401126859	1	04:21	7:39	utah	Jae Crowder makes 26-foot three point jumper (Rudy Gobert assists)	9 - 14	9	14	0	3	Jae Crowder		makes	jumper	26		three	Rudy Gobert	assists	
+401126859	1	04:36	7:24	hou	Eric Gordon makes 25-foot three point jumper (James Harden assists)	12 - 14	12	14	3	0	Eric Gordon		makes	jumper	25		three	James Harden	assists	
+401126859	1	04:53	7:07	utah	Joe Ingles makes 25-foot step back jumpshot (Ricky Rubio assists)	12 - 17	12	17	0	3	Joe Ingles		makes	step back jumpshot	25			Ricky Rubio	assists	
+401126859	1	05:14	6:46	hou	PJ Tucker makes 23-foot three point jumper (Clint Capela assists)	15 - 17	15	17	3	0	PJ Tucker		makes	jumper	23		three	Clint Capela	assists	
+401126859	1	05:26	6:34	utah	Ricky Rubio makes 25-foot jump bank shot (Joe Ingles assists)	15 - 20	15	20	0	3	Ricky Rubio		makes	jump bank shot	25			Joe Ingles	assists	
+401126859	1	05:41	6:19	utah	Donovan Mitchell shooting foul	15 - 20	15	20	0	0	Donovan Mitchell		foul							
+401126859	1	05:41	6:19	utah	Jazz Full timeout	15 - 20	15	20	0	0			full timeout							jazz
+401126859	1	05:41	6:19	utah	Royce O'Neale enters the game for Donovan Mitchell	15 - 20	15	20	0	0	Royce O'Neale	Donovan Mitchell	enters the game for							
+401126859	1	05:41	6:19	hou	Danuel House Jr. enters the game for Chris Paul	15 - 20	15	20	0	0	Danuel House Jr.	Chris Paul	enters the game for							
+401126859	1	05:41	6:19	hou	Eric Gordon misses free throw 1 of 2	15 - 20	15	20	0	0	Eric Gordon		misses	free throw		1-2				
+401126859	1	05:41	6:19	hou	Rockets offensive team rebound	15 - 20	15	20	0	0			offensive rebound	team						rockets
+401126859	1	05:41	6:19	hou	Eric Gordon makes free throw 2 of 2	16 - 20	16	20	1	0	Eric Gordon		makes	free throw		2-2				
+401126859	1	05:53	6:07	utah	Ricky Rubio misses 13-foot pullup jump shot	16 - 20	16	20	0	0	Ricky Rubio		misses	pullup jump shot	13					
+401126859	1	05:55	6:05	hou	James Harden defensive rebound	16 - 20	16	20	0	0	James Harden		defensive rebound							
+401126859	1	06:01	5:59	hou	Eric Gordon traveling	16 - 20	16	20	0	0	Eric Gordon		traveling							
+401126859	1	06:12	5:48	utah	Ricky Rubio makes two point shot (Joe Ingles assists)	16 - 22	16	22	0	2	Ricky Rubio		makes	shot			two	Joe Ingles	assists	
+401126859	1	06:32	5:28	hou	Rudy Gobert blocks James Harden's two point shot	16 - 22	16	22	0	0	Rudy Gobert	James Harden	blocks	shot			two			
+401126859	1	06:35	5:25	hou	Danuel House Jr. offensive rebound	16 - 22	16	22	0	0	Danuel House Jr.		offensive rebound							
+401126859	1	06:39	5:21	hou	shot clock turnover	16 - 22	16	22	0	0			turnover							
+401126859	1	06:39	5:21	utah	Georges Niang enters the game for Joe Ingles	16 - 22	16	22	0	0	Georges Niang	Joe Ingles	enters the game for							
+401126859	1	06:49	5:11	hou	PJ Tucker shooting foul	16 - 22	16	22	0	0	PJ Tucker		foul							
+401126859	1	06:49	5:11	utah	Jae Crowder makes free throw 1 of 2	16 - 23	16	23	0	1	Jae Crowder		makes	free throw		1-2				
+401126859	1	06:49	5:11	hou	Austin Rivers enters the game for Eric Gordon	16 - 23	16	23	0	0	Austin Rivers	Eric Gordon	enters the game for							
+401126859	1	06:49	5:11	utah	Jae Crowder makes free throw 2 of 2	16 - 24	16	24	0	1	Jae Crowder		makes	free throw		2-2				
+401126859	1	07:06	4:54	hou	Clint Capela out of bounds lost ball turnover	16 - 24	16	24	0	0	Clint Capela		turnover							
+401126859	1	07:06	4:54	hou	Kenneth Faried enters the game for Clint Capela	16 - 24	16	24	0	0	Kenneth Faried	Clint Capela	enters the game for							
+401126859	1	07:17	4:43	utah	Ricky Rubio makes 4-foot two point shot	16 - 26	16	26	0	2	Ricky Rubio		makes	shot	4		two			
+401126859	1	07:22	4:38	hou	Rockets Full timeout	16 - 26	16	26	0	0			full timeout							rockets
+401126859	1	07:30	4:30	hou	James Harden misses 27-foot three point jumper	16 - 26	16	26	0	0	James Harden		misses	jumper	27		three			
+401126859	1	07:32	4:28	utah	Jazz defensive team rebound	16 - 26	16	26	0	0			defensive rebound	team						jazz
+401126859	1	07:32	4:28	hou	Kenneth Faried loose ball foul	16 - 26	16	26	0	0	Kenneth Faried		foul							
+401126859	1	07:55	4:05	utah	Ricky Rubio misses driving layup	16 - 26	16	26	0	0	Ricky Rubio		misses	driving layup						
+401126859	1	07:55	4:05	hou	Rockets defensive team rebound	16 - 26	16	26	0	0			defensive rebound	team						rockets
+401126859	1	07:55	4:05	hou	Gerald Green enters the game for PJ Tucker	16 - 26	16	26	0	0	Gerald Green	PJ Tucker	enters the game for							
+401126859	1	08:06	3:54	hou	Austin Rivers misses two point shot	16 - 26	16	26	0	0	Austin Rivers		misses	shot			two			
+401126859	1	08:09	3:51	utah	Rudy Gobert defensive rebound	16 - 26	16	26	0	0	Rudy Gobert		defensive rebound							
+401126859	1	08:21	3:39	utah	Ricky Rubio makes 3-foot two point shot (Jae Crowder assists)	16 - 28	16	28	0	2	Ricky Rubio		makes	shot	3		two	Jae Crowder	assists	
+401126859	1	08:34	3:26	hou	Gerald Green misses 14-foot pullup jump shot	16 - 28	16	28	0	0	Gerald Green		misses	pullup jump shot	14					
+401126859	1	08:37	3:23	utah	Jae Crowder defensive rebound	16 - 28	16	28	0	0	Jae Crowder		defensive rebound							
+401126859	1	08:57	3:03	hou	Danuel House Jr. shooting foul	16 - 28	16	28	0	0	Danuel House Jr.		foul							
+401126859	1	08:57	3:03	utah	Ricky Rubio makes free throw 1 of 2	16 - 29	16	29	0	1	Ricky Rubio		makes	free throw		1-2				
+401126859	1	08:57	3:03	utah	Derrick Favors enters the game for Rudy Gobert	16 - 29	16	29	0	0	Derrick Favors	Rudy Gobert	enters the game for							
+401126859	1	08:57	3:03	utah	Kyle Korver enters the game for Jae Crowder	16 - 29	16	29	0	0	Kyle Korver	Jae Crowder	enters the game for							
+401126859	1	08:57	3:03	utah	Ricky Rubio makes free throw 2 of 2	16 - 30	16	30	0	1	Ricky Rubio		makes	free throw		2-2				
+401126859	1	09:10	2:50	hou	James Harden makes driving layup	18 - 30	18	30	2	0	James Harden		makes	driving layup						
+401126859	1	09:24	2:36	utah	Gerald Green blocks Georges Niang 's 4-foot two point shot	18 - 30	18	30	0	0	Gerald Green	Georges Niang	blocks	shot	4		two			
+401126859	1	09:25	2:35	utah	Jazz offensive team rebound	18 - 30	18	30	0	0			offensive rebound	team						jazz
+401126859	1	09:25	2:35	hou	Chris Paul enters the game for James Harden	18 - 30	18	30	0	0	Chris Paul	James Harden	enters the game for							
+401126859	1	09:25	2:35	utah	Joe Ingles enters the game for Ricky Rubio	18 - 30	18	30	0	0	Joe Ingles	Ricky Rubio	enters the game for							
+401126859	1	09:28	2:32	utah	Chris Paul blocks Derrick Favors's layup	18 - 30	18	30	0	0	Chris Paul	Derrick Favors	blocks	layup						
+401126859	1	09:31	2:29	hou	Austin Rivers defensive rebound	18 - 30	18	30	0	0	Austin Rivers		defensive rebound							
+401126859	1	09:32	2:28	hou	Georges Niang blocks Austin Rivers 's 3-foot layup	18 - 30	18	30	0	0	Georges Niang	Austin Rivers	blocks	layup	3					
+401126859	1	09:36	2:24	utah	Royce O'Neale defensive rebound	18 - 30	18	30	0	0	Royce O'Neale		defensive rebound							
+401126859	1	09:46	2:14	utah	Georges Niang misses 27-foot three point jumper	18 - 30	18	30	0	0	Georges Niang		misses	jumper	27		three			
+401126859	1	09:48	2:12	hou	Rockets defensive team rebound	18 - 30	18	30	0	0			defensive rebound	team						rockets
+401126859	1	09:48	2:12	utah	Donovan Mitchell enters the game for Royce O'Neale	18 - 30	18	30	0	0	Donovan Mitchell	Royce O'Neale	enters the game for							
+401126859	1	10:08	1:52	utah	Derrick Favors personal foul	18 - 30	18	30	0	0	Derrick Favors		foul							
+401126859	1	10:08	1:52	hou	Chris Paul makes free throw 1 of 2	19 - 30	19	30	1	0	Chris Paul		makes	free throw		1-2				
+401126859	1	10:08	1:52	hou	Chris Paul makes free throw 2 of 2	20 - 30	20	30	1	0	Chris Paul		makes	free throw		2-2				
+401126859	1	10:22	1:38	utah	Derrick Favors misses 5-foot hook shot	20 - 30	20	30	0	0	Derrick Favors		misses	hook shot	5					
+401126859	1	10:24	1:36	hou	Kenneth Faried defensive rebound	20 - 30	20	30	0	0	Kenneth Faried		defensive rebound							
+401126859	1	10:28	1:32	utah	Kyle Korver personal foul	20 - 30	20	30	0	0	Kyle Korver		foul							
+401126859	1	10:28	1:32	hou	Chris Paul makes free throw 1 of 2	21 - 30	21	30	1	0	Chris Paul		makes	free throw		1-2				
+401126859	1	10:28	1:32	hou	Chris Paul makes free throw 2 of 2	22 - 30	22	30	1	0	Chris Paul		makes	free throw		2-2				
+401126859	1	10:37	1:23	hou	Austin Rivers personal foul	22 - 30	22	30	0	0	Austin Rivers		foul							
+401126859	1	10:37	1:23	utah	Thabo Sefolosha enters the game for Kyle Korver	22 - 30	22	30	0	0	Thabo Sefolosha	Kyle Korver	enters the game for							
+401126859	1	10:52	1:08	utah	Joe Ingles misses 25-foot three point jumper	22 - 30	22	30	0	0	Joe Ingles		misses	jumper	25		three			
+401126859	1	10:54	1:06	hou	Danuel House Jr. defensive rebound	22 - 30	22	30	0	0	Danuel House Jr.		defensive rebound							
+401126859	1	11:10	49.2	hou	Austin Rivers misses two point shot	22 - 30	22	30	0	0	Austin Rivers		misses	shot			two			
+401126859	1	11:12	47.6	utah	Derrick Favors defensive rebound	22 - 30	22	30	0	0	Derrick Favors		defensive rebound							
+401126859	1	11:20	39.5	utah	Joe Ingles bad pass (Chris Paul steals)	22 - 30	22	30	0	0	Joe Ingles		bad pass					Chris Paul	steals	
+401126859	1	11:24	36.0	hou	Austin Rivers makes 2-foot dunk (Chris Paul assists)	24 - 30	24	30	2	0	Austin Rivers		makes	dunk	2			Chris Paul	assists	
+401126859	1	11:44	15.7	hou	Gerald Green shooting foul	24 - 30	24	30	0	0	Gerald Green		foul							
+401126859	1	11:44	15.7	utah	Donovan Mitchell makes free throw 1 of 2	24 - 31	24	31	0	1	Donovan Mitchell		makes	free throw		1-2				
+401126859	1	11:44	15.7	utah	Royce O'Neale enters the game for Georges Niang	24 - 31	24	31	0	0	Royce O'Neale	Georges Niang	enters the game for							
+401126859	1	11:44	15.7	utah	Donovan Mitchell makes free throw 2 of 2	24 - 32	24	32	0	1	Donovan Mitchell		makes	free throw		2-2				
+401126859	1	11:58	1.9	hou	Chris Paul misses 27-foot three point jumper	24 - 32	24	32	0	0	Chris Paul		misses	jumper	27		three			
+401126859	1	11:58	1.9	utah	Donovan Mitchell defensive rebound	24 - 32	24	32	0	0	Donovan Mitchell		defensive rebound							
+401126859	1	12:00	0.0	utah	End of the 1st Quarter	24 - 32	24	32	0	0			end of the 1st quarter							
+401126859	2	00:00	12:00	hou	Eric Gordon enters the game for Danuel House Jr.	24 - 32	24	32	0	0	Eric Gordon	Danuel House Jr.	enters the game for							
+401126859	2	00:10	11:50	hou	Kenneth Faried misses 6-foot jumper	24 - 32	24	32	0	0	Kenneth Faried		misses	jumper	6					
+401126859	2	00:13	11:47	utah	Derrick Favors defensive rebound	24 - 32	24	32	0	0	Derrick Favors		defensive rebound							
+401126859	2	00:27	11:33	utah	Donovan Mitchell misses 6-foot two point shot	24 - 32	24	32	0	0	Donovan Mitchell		misses	shot	6		two			
+401126859	2	00:27	11:33	utah	Derrick Favors offensive rebound	24 - 32	24	32	0	0	Derrick Favors		offensive rebound							
+401126859	2	00:27	11:33	hou	Eric Gordon shooting foul	24 - 32	24	32	0	0	Eric Gordon		foul							
+401126859	2	00:27	11:33	utah	Derrick Favors makes free throw 1 of 2	24 - 33	24	33	0	1	Derrick Favors		makes	free throw		1-2				
+401126859	2	00:27	11:33	hou	Clint Capela enters the game for Kenneth Faried	24 - 33	24	33	0	0	Clint Capela	Kenneth Faried	enters the game for							
+401126859	2	00:27	11:33	utah	Derrick Favors misses free throw 2 of 2	24 - 33	24	33	0	0	Derrick Favors		misses	free throw		2-2				
+401126859	2	00:28	11:32	hou	Gerald Green defensive rebound	24 - 33	24	33	0	0	Gerald Green		defensive rebound							
+401126859	2	00:39	11:21	hou	Chris Paul misses 28-foot three point jumper	24 - 33	24	33	0	0	Chris Paul		misses	jumper	28		three			
+401126859	2	00:43	11:17	utah	Royce O'Neale defensive rebound	24 - 33	24	33	0	0	Royce O'Neale		defensive rebound							
+401126859	2	00:53	11:07	utah	Derrick Favors makes layup (Donovan Mitchell assists)	24 - 35	24	35	0	2	Derrick Favors		makes	layup				Donovan Mitchell	assists	
+401126859	2	00:53	11:07	hou	Chris Paul shooting foul	24 - 35	24	35	0	0	Chris Paul		foul							
+401126859	2	00:53	11:07	utah	Derrick Favors makes free throw 1 of 1	24 - 36	24	36	0	1	Derrick Favors		makes	free throw		1-1				
+401126859	2	01:10	10:50	hou	Eric Gordon misses driving layup	24 - 36	24	36	0	0	Eric Gordon		misses	driving layup						
+401126859	2	01:11	10:49	utah	Jazz defensive team rebound	24 - 36	24	36	0	0			defensive rebound	team						jazz
+401126859	2	01:27	10:33	hou	Austin Rivers personal foul	24 - 36	24	36	0	0	Austin Rivers		foul							
+401126859	2	01:27	10:33	hou	PJ Tucker enters the game for Gerald Green	24 - 36	24	36	0	0	PJ Tucker	Gerald Green	enters the game for							
+401126859	2	01:27	10:33	hou	Danuel House Jr. enters the game for Austin Rivers	24 - 36	24	36	0	0	Danuel House Jr.	Austin Rivers	enters the game for							
+401126859	2	01:42	10:18	utah	Joe Ingles misses two point shot	24 - 36	24	36	0	0	Joe Ingles		misses	shot			two			
+401126859	2	01:44	10:16	utah	Joe Ingles offensive rebound	24 - 36	24	36	0	0	Joe Ingles		offensive rebound							
+401126859	2	01:49	10:11	utah	Joe Ingles bad pass (PJ Tucker steals)	24 - 36	24	36	0	0	Joe Ingles		bad pass					PJ Tucker	steals	
+401126859	2	01:59	10:01	hou	Royce O'Neale blocks Clint Capela 's 3-foot layup	24 - 36	24	36	0	0	Royce O'Neale	Clint Capela	blocks	layup	3					
+401126859	2	02:01	9:59	hou	Chris Paul offensive rebound	24 - 36	24	36	0	0	Chris Paul		offensive rebound							
+401126859	2	02:01	9:59	utah	Thabo Sefolosha personal foul	24 - 36	24	36	0	0	Thabo Sefolosha		foul							
+401126859	2	02:01	9:59	utah	Ricky Rubio enters the game for Joe Ingles	24 - 36	24	36	0	0	Ricky Rubio	Joe Ingles	enters the game for							
+401126859	2	02:05	9:55	hou	Chris Paul makes layup	26 - 36	26	36	2	0	Chris Paul		makes	layup						
+401126859	2	02:25	9:35	utah	Royce O'Neale misses 27-foot three point jumper	26 - 36	26	36	0	0	Royce O'Neale		misses	jumper	27		three			
+401126859	2	02:28	9:32	hou	Chris Paul defensive rebound	26 - 36	26	36	0	0	Chris Paul		defensive rebound							
+401126859	2	02:32	9:28	hou	James Harden enters the game for Danuel House Jr.	26 - 36	26	36	0	0	James Harden	Danuel House Jr.	enters the game for							
+401126859	2	02:38	9:22	hou	Eric Gordon misses 25-foot three point pullup jump shot	26 - 36	26	36	0	0	Eric Gordon		misses	pullup jump shot	25		three			
+401126859	2	02:40	9:20	utah	Royce O'Neale defensive rebound	26 - 36	26	36	0	0	Royce O'Neale		defensive rebound							
+401126859	2	02:47	9:13	utah	Thabo Sefolosha misses 24-foot three point jumper	26 - 36	26	36	0	0	Thabo Sefolosha		misses	jumper	24		three			
+401126859	2	02:50	9:10	utah	Derrick Favors offensive rebound	26 - 36	26	36	0	0	Derrick Favors		offensive rebound							
+401126859	2	02:51	9:09	utah	Chris Paul blocks Derrick Favors's layup	26 - 36	26	36	0	0	Chris Paul	Derrick Favors	blocks	layup						
+401126859	2	02:54	9:06	hou	Chris Paul defensive rebound	26 - 36	26	36	0	0	Chris Paul		defensive rebound							
+401126859	2	02:57	9:03	hou	Chris Paul makes 25-foot three point jumper	29 - 36	29	36	3	0	Chris Paul		makes	jumper	25		three			
+401126859	2	03:15	8:45	utah	Ricky Rubio back court turnover	29 - 36	29	36	0	0	Ricky Rubio		turnover							
+401126859	2	03:21	8:39	hou	Chris Paul misses 25-foot three point jumper	29 - 36	29	36	0	0	Chris Paul		misses	jumper	25		three			
+401126859	2	03:27	8:33	hou	Clint Capela offensive rebound	29 - 36	29	36	0	0	Clint Capela		offensive rebound							
+401126859	2	03:31	8:29	hou	James Harden misses driving dunk	29 - 36	29	36	0	0	James Harden		misses	driving dunk						
+401126859	2	03:31	8:29	hou	Chris Paul offensive rebound	29 - 36	29	36	0	0	Chris Paul		offensive rebound							
+401126859	2	03:39	8:21	hou	Chris Paul misses two point shot	29 - 36	29	36	0	0	Chris Paul		misses	shot			two			
+401126859	2	03:40	8:20	utah	Derrick Favors defensive rebound	29 - 36	29	36	0	0	Derrick Favors		defensive rebound							
+401126859	2	03:47	8:13	hou	Eric Gordon shooting foul	29 - 36	29	36	0	0	Eric Gordon		foul							
+401126859	2	03:47	8:13	utah	Derrick Favors makes free throw 1 of 2	29 - 37	29	37	0	1	Derrick Favors		makes	free throw		1-2				
+401126859	2	03:47	8:13	hou	Austin Rivers enters the game for Chris Paul	29 - 37	29	37	0	0	Austin Rivers	Chris Paul	enters the game for							
+401126859	2	03:47	8:13	utah	Derrick Favors makes free throw 2 of 2	29 - 38	29	38	0	1	Derrick Favors		makes	free throw		2-2				
+401126859	2	04:01	7:59	hou	James Harden makes 25-foot step back jumpshot	32 - 38	32	38	3	0	James Harden		makes	step back jumpshot	25					
+401126859	2	04:24	7:36	hou	Clint Capela personal foul	32 - 38	32	38	0	0	Clint Capela		foul							
+401126859	2	04:24	7:36	utah	Royce O'Neale misses free throw 1 of 2	32 - 38	32	38	0	0	Royce O'Neale		misses	free throw		1-2				
+401126859	2	04:24	7:36	utah	Jazz offensive team rebound	32 - 38	32	38	0	0			offensive rebound	team						jazz
+401126859	2	04:24	7:36	utah	Jae Crowder enters the game for Derrick Favors	32 - 38	32	38	0	0	Jae Crowder	Derrick Favors	enters the game for							
+401126859	2	04:24	7:36	utah	Rudy Gobert enters the game for Thabo Sefolosha	32 - 38	32	38	0	0	Rudy Gobert	Thabo Sefolosha	enters the game for							
+401126859	2	04:24	7:36	utah	Royce O'Neale makes free throw 2 of 2	32 - 39	32	39	0	1	Royce O'Neale		makes	free throw		2-2				
+401126859	2	04:41	7:19	hou	James Harden steps out of bounds turnover	32 - 39	32	39	0	0	James Harden		turnover							
+401126859	2	04:49	7:11	utah	Ricky Rubio makes two point shot	32 - 41	32	41	0	2	Ricky Rubio		makes	shot			two			
+401126859	2	05:02	6:58	hou	Eric Gordon bad pass (Rudy Gobert steals)	32 - 41	32	41	0	0	Eric Gordon		bad pass					Rudy Gobert	steals	
+401126859	2	05:06	6:54	utah	Jae Crowder misses 25-foot three point jumper	32 - 41	32	41	0	0	Jae Crowder		misses	jumper	25		three			
+401126859	2	05:08	6:52	hou	PJ Tucker defensive rebound	32 - 41	32	41	0	0	PJ Tucker		defensive rebound							
+401126859	2	05:11	6:49	hou	James Harden out of bounds lost ball turnover	32 - 41	32	41	0	0	James Harden		turnover							
+401126859	2	05:11	6:49	utah	Jazz Full timeout	32 - 41	32	41	0	0			full timeout							jazz
+401126859	2	05:11	6:49	hou	Danuel House Jr. enters the game for Clint Capela	32 - 41	32	41	0	0	Danuel House Jr.	Clint Capela	enters the game for							
+401126859	2	05:23	6:37	utah	Royce O'Neale bad pass (James Harden steals)	32 - 41	32	41	0	0	Royce O'Neale		bad pass					James Harden	steals	
+401126859	2	05:42	6:18	hou	PJ Tucker makes two point shot (James Harden assists)	34 - 41	34	41	2	0	PJ Tucker		makes	shot			two	James Harden	assists	
+401126859	2	05:53	6:07	utah	Donovan Mitchell misses 19-foot pullup jump shot	34 - 41	34	41	0	0	Donovan Mitchell		misses	pullup jump shot	19					
+401126859	2	05:55	6:05	hou	Rockets defensive team rebound	34 - 41	34	41	0	0			defensive rebound	team						rockets
+401126859	2	06:05	5:55	hou	James Harden misses 24-foot three point jumper	34 - 41	34	41	0	0	James Harden		misses	jumper	24		three			
+401126859	2	06:09	5:51	hou	PJ Tucker offensive rebound	34 - 41	34	41	0	0	PJ Tucker		offensive rebound							
+401126859	2	06:10	5:50	hou	PJ Tucker misses three point jumper	34 - 41	34	41	0	0	PJ Tucker		misses	jumper			three			
+401126859	2	06:13	5:47	utah	Royce O'Neale defensive rebound	34 - 41	34	41	0	0	Royce O'Neale		defensive rebound							
+401126859	2	06:27	5:33	utah	Royce O'Neale misses driving layup	34 - 41	34	41	0	0	Royce O'Neale		misses	driving layup						
+401126859	2	06:30	5:30	utah	Rudy Gobert offensive rebound	34 - 41	34	41	0	0	Rudy Gobert		offensive rebound							
+401126859	2	06:30	5:30	utah	Rudy Gobert makes dunk	34 - 43	34	43	0	2	Rudy Gobert		makes	dunk						
+401126859	2	06:48	5:12	hou	James Harden makes 25-foot three point jumper	37 - 43	37	43	3	0	James Harden		makes	jumper	25		three			
+401126859	2	07:16	4:44	utah	Donovan Mitchell makes 5-foot two point shot	37 - 45	37	45	0	2	Donovan Mitchell		makes	shot	5		two			
+401126859	2	07:35	4:25	utah	Joe Ingles enters the game for Donovan Mitchell	37 - 45	37	45	0	0	Joe Ingles	Donovan Mitchell	enters the game for							
+401126859	2	07:35	4:25	hou	Chris Paul enters the game for Austin Rivers	37 - 45	37	45	0	0	Chris Paul	Austin Rivers	enters the game for							
+401126859	2	07:42	4:18	hou	Danuel House Jr. misses three point jumper	37 - 45	37	45	0	0	Danuel House Jr.		misses	jumper			three			
+401126859	2	07:45	4:15	utah	Royce O'Neale defensive rebound	37 - 45	37	45	0	0	Royce O'Neale		defensive rebound							
+401126859	2	07:54	4:06	utah	Jae Crowder misses 25-foot three point jumper	37 - 45	37	45	0	0	Jae Crowder		misses	jumper	25		three			
+401126859	2	07:58	4:02	hou	James Harden defensive rebound	37 - 45	37	45	0	0	James Harden		defensive rebound							
+401126859	2	07:59	4:01	hou	James Harden lost ball turnover (Jae Crowder steals)	37 - 45	37	45	0	0	James Harden		turnover					Jae Crowder	steals	
+401126859	2	08:00	4:00	utah	Jae Crowder makes driving layup	37 - 47	37	47	0	2	Jae Crowder		makes	driving layup						
+401126859	2	08:00	4:00	hou	PJ Tucker shooting foul	37 - 47	37	47	0	0	PJ Tucker		foul							
+401126859	2	08:00	4:00	utah	Jae Crowder misses free throw 1 of 1	37 - 47	37	47	0	0	Jae Crowder		misses	free throw		1-1				
+401126859	2	08:02	3:58	hou	PJ Tucker defensive rebound	37 - 47	37	47	0	0	PJ Tucker		defensive rebound							
+401126859	2	08:10	3:50	hou	Danuel House Jr. misses 25-foot step back jumpshot	37 - 47	37	47	0	0	Danuel House Jr.		misses	step back jumpshot	25					
+401126859	2	08:13	3:47	utah	Royce O'Neale defensive rebound	37 - 47	37	47	0	0	Royce O'Neale		defensive rebound							
+401126859	2	08:28	3:32	utah	Rudy Gobert makes layup (Ricky Rubio assists)	37 - 49	37	49	0	2	Rudy Gobert		makes	layup				Ricky Rubio	assists	
+401126859	2	08:49	3:11	hou	Eric Gordon makes 25-foot three point jumper (Chris Paul assists)	40 - 49	40	49	3	0	Eric Gordon		makes	jumper	25		three	Chris Paul	assists	
+401126859	2	09:04	2:56	utah	Ricky Rubio out of bounds bad pass turnover	40 - 49	40	49	0	0	Ricky Rubio		turnover							
+401126859	2	09:04	2:56	hou	Rockets Full timeout	40 - 49	40	49	0	0			full timeout							rockets
+401126859	2	09:04	2:56	utah	Donovan Mitchell enters the game for Joe Ingles	40 - 49	40	49	0	0	Donovan Mitchell	Joe Ingles	enters the game for							
+401126859	2	09:27	2:33	hou	James Harden misses 31-foot step back jumpshot	40 - 49	40	49	0	0	James Harden		misses	step back jumpshot	31					
+401126859	2	09:30	2:30	utah	Jae Crowder defensive rebound	40 - 49	40	49	0	0	Jae Crowder		defensive rebound							
+401126859	2	09:49	2:11	utah	Ricky Rubio misses 26-foot three point jumper	40 - 49	40	49	0	0	Ricky Rubio		misses	jumper	26		three			
+401126859	2	09:52	2:08	hou	Chris Paul defensive rebound	40 - 49	40	49	0	0	Chris Paul		defensive rebound							
+401126859	2	10:02	1:58	hou	PJ Tucker makes three point jumper (Chris Paul assists)	43 - 49	43	49	3	0	PJ Tucker		makes	jumper			three	Chris Paul	assists	
+401126859	2	10:26	1:34	utah	Donovan Mitchell misses 28-foot three point pullup jump shot	43 - 49	43	49	0	0	Donovan Mitchell		misses	pullup jump shot	28		three			
+401126859	2	10:30	1:30	hou	Danuel House Jr. defensive rebound	43 - 49	43	49	0	0	Danuel House Jr.		defensive rebound							
+401126859	2	10:37	1:23	utah	Rudy Gobert shooting foul	43 - 49	43	49	0	0	Rudy Gobert		foul							
+401126859	2	10:37	1:23	hou	James Harden makes free throw 1 of 2	44 - 49	44	49	1	0	James Harden		makes	free throw		1-2				
+401126859	2	10:37	1:23	hou	James Harden makes free throw 2 of 2	45 - 49	45	49	1	0	James Harden		makes	free throw		2-2				
+401126859	2	10:44	1:16	hou	PJ Tucker personal foul	45 - 49	45	49	0	0	PJ Tucker		foul							
+401126859	2	10:44	1:16	utah	Ricky Rubio makes free throw 1 of 2	45 - 50	45	50	0	1	Ricky Rubio		makes	free throw		1-2				
+401126859	2	10:44	1:16	hou	Clint Capela enters the game for PJ Tucker	45 - 50	45	50	0	0	Clint Capela	PJ Tucker	enters the game for							
+401126859	2	10:44	1:16	utah	Ricky Rubio makes free throw 2 of 2	45 - 51	45	51	0	1	Ricky Rubio		makes	free throw		2-2				
+401126859	2	10:58	1:02	hou	Clint Capela makes alley oop dunk shot (James Harden assists)	47 - 51	47	51	2	0	Clint Capela		makes	alley oop dunk shot				James Harden	assists	
+401126859	2	11:10	50.0	hou	Danuel House Jr. shooting foul	47 - 51	47	51	0	0	Danuel House Jr.		foul							
+401126859	2	11:10	50.0	utah	Jae Crowder makes free throw 1 of 2	47 - 52	47	52	0	1	Jae Crowder		makes	free throw		1-2				
+401126859	2	11:10	50.0	utah	Jae Crowder makes free throw 2 of 2	47 - 53	47	53	0	1	Jae Crowder		makes	free throw		2-2				
+401126859	2	11:27	32.4	hou	Chris Paul misses 23-foot three point jumper	47 - 53	47	53	0	0	Chris Paul		misses	jumper	23		three			
+401126859	2	11:30	29.2	hou	Clint Capela offensive rebound	47 - 53	47	53	0	0	Clint Capela		offensive rebound							
+401126859	2	11:31	28.5	hou	Clint Capela misses two point shot	47 - 53	47	53	0	0	Clint Capela		misses	shot			two			
+401126859	2	11:33	26.9	utah	Royce O'Neale defensive rebound	47 - 53	47	53	0	0	Royce O'Neale		defensive rebound							
+401126859	2	11:51	8.1	utah	Ricky Rubio misses 29-foot three point jumper	47 - 53	47	53	0	0	Ricky Rubio		misses	jumper	29		three			
+401126859	2	11:55	4.9	hou	Danuel House Jr. defensive rebound	47 - 53	47	53	0	0	Danuel House Jr.		defensive rebound							
+401126859	2	12:00	0.0	hou	Chris Paul misses 25-foot three point pullup jump shot	47 - 53	47	53	0	0	Chris Paul		misses	pullup jump shot	25		three			
+401126859	2	12:00	0.0	hou	Rockets offensive team rebound	47 - 53	47	53	0	0			offensive rebound	team						rockets
+401126859	2	12:00	0.0	utah	End of the 2nd Quarter	47 - 53	47	53	0	0			end of the 2nd quarter							
+401126859	3	00:00	12:00	utah	Joe Ingles enters the game for Royce O'Neale	47 - 53	47	53	0	0	Joe Ingles	Royce O'Neale	enters the game for							
+401126859	3	00:00	12:00	hou	PJ Tucker enters the game for Danuel House Jr.	47 - 53	47	53	0	0	PJ Tucker	Danuel House Jr.	enters the game for							
+401126859	3	00:11	11:49	hou	Eric Gordon makes 25-foot three point jumper (Chris Paul assists)	50 - 53	50	53	3	0	Eric Gordon		makes	jumper	25		three	Chris Paul	assists	
+401126859	3	00:34	11:26	utah	Ricky Rubio misses layup	50 - 53	50	53	0	0	Ricky Rubio		misses	layup						
+401126859	3	00:37	11:23	utah	Rudy Gobert offensive rebound	50 - 53	50	53	0	0	Rudy Gobert		offensive rebound							
+401126859	3	00:37	11:23	utah	Rudy Gobert misses tip shot	50 - 53	50	53	0	0	Rudy Gobert		misses	tip shot						
+401126859	3	00:38	11:22	hou	Eric Gordon defensive rebound	50 - 53	50	53	0	0	Eric Gordon		defensive rebound							
+401126859	3	00:53	11:07	hou	Chris Paul misses 20-foot step back jumpshot	50 - 53	50	53	0	0	Chris Paul		misses	step back jumpshot	20					
+401126859	3	00:56	11:04	utah	Ricky Rubio defensive rebound	50 - 53	50	53	0	0	Ricky Rubio		defensive rebound							
+401126859	3	01:00	11:00	utah	Donovan Mitchell makes layup (Ricky Rubio assists)	50 - 55	50	55	0	2	Donovan Mitchell		makes	layup				Ricky Rubio	assists	
+401126859	3	01:15	10:45	hou	Rudy Gobert blocks James Harden 's 3-foot two point shot	50 - 55	50	55	0	0	Rudy Gobert	James Harden	blocks	shot	3		two			
+401126859	3	01:17	10:43	utah	Rudy Gobert defensive rebound	50 - 55	50	55	0	0	Rudy Gobert		defensive rebound							
+401126859	3	01:21	10:39	hou	Chris Paul personal foul	50 - 55	50	55	0	0	Chris Paul		foul							
+401126859	3	01:30	10:30	utah	Ricky Rubio bad pass (Chris Paul steals)	50 - 55	50	55	0	0	Ricky Rubio		bad pass					Chris Paul	steals	
+401126859	3	01:37	10:23	hou	Eric Gordon makes 26-foot three point jumper (Chris Paul assists)	53 - 55	53	55	3	0	Eric Gordon		makes	jumper	26		three	Chris Paul	assists	
+401126859	3	01:57	10:03	utah	Donovan Mitchell misses driving layup	53 - 55	53	55	0	0	Donovan Mitchell		misses	driving layup						
+401126859	3	01:59	10:01	hou	Chris Paul defensive rebound	53 - 55	53	55	0	0	Chris Paul		defensive rebound							
+401126859	3	02:09	9:51	utah	Rudy Gobert shooting foul	53 - 55	53	55	0	0	Rudy Gobert		foul							
+401126859	3	02:09	9:51	hou	Clint Capela makes free throw 1 of 2	54 - 55	54	55	1	0	Clint Capela		makes	free throw		1-2				
+401126859	3	02:09	9:51	hou	Clint Capela misses free throw 2 of 2	54 - 55	54	55	0	0	Clint Capela		misses	free throw		2-2				
+401126859	3	02:12	9:48	utah	Rudy Gobert defensive rebound	54 - 55	54	55	0	0	Rudy Gobert		defensive rebound							
+401126859	3	02:22	9:38	utah	Donovan Mitchell misses 9-foot two point shot	54 - 55	54	55	0	0	Donovan Mitchell		misses	shot	9		two			
+401126859	3	02:25	9:35	utah	Ricky Rubio offensive rebound	54 - 55	54	55	0	0	Ricky Rubio		offensive rebound							
+401126859	3	02:29	9:31	utah	Ricky Rubio misses 8-foot two point shot	54 - 55	54	55	0	0	Ricky Rubio		misses	shot	8		two			
+401126859	3	02:29	9:31	hou	Rockets defensive team rebound	54 - 55	54	55	0	0			defensive rebound	team						rockets
+401126859	3	02:29	9:31	utah	Rudy Gobert loose ball foul	54 - 55	54	55	0	0	Rudy Gobert		foul							
+401126859	3	02:40	9:20	hou	Chris Paul misses 13-foot two point shot	54 - 55	54	55	0	0	Chris Paul		misses	shot	13		two			
+401126859	3	02:42	9:18	utah	Joe Ingles defensive rebound	54 - 55	54	55	0	0	Joe Ingles		defensive rebound							
+401126859	3	02:47	9:13	utah	Jae Crowder misses 25-foot three point jumper	54 - 55	54	55	0	0	Jae Crowder		misses	jumper	25		three			
+401126859	3	02:50	9:10	hou	Chris Paul defensive rebound	54 - 55	54	55	0	0	Chris Paul		defensive rebound							
+401126859	3	02:54	9:06	utah	Ricky Rubio personal take foul	54 - 55	54	55	0	0	Ricky Rubio		foul							
+401126859	3	03:02	8:58	utah	Ricky Rubio shooting foul	54 - 55	54	55	0	0	Ricky Rubio		foul							
+401126859	3	03:02	8:58	hou	James Harden makes free throw 1 of 3	55 - 55	55	55	1	0	James Harden		makes	free throw		1-3				
+401126859	3	03:02	8:58	hou	James Harden makes free throw 2 of 3	56 - 55	56	55	1	0	James Harden		makes	free throw		2-3				
+401126859	3	03:02	8:58	utah	Royce O'Neale enters the game for Joe Ingles	56 - 55	56	55	0	0	Royce O'Neale	Joe Ingles	enters the game for							
+401126859	3	03:02	8:58	hou	James Harden makes free throw 3 of 3	57 - 55	57	55	1	0	James Harden		makes	free throw		3-3				
+401126859	3	03:11	8:49	hou	James Harden personal foul	57 - 55	57	55	0	0	James Harden		foul							
+401126859	3	03:19	8:41	utah	Royce O'Neale makes 23-foot three point jumper (Donovan Mitchell assists)	57 - 58	57	58	0	3	Royce O'Neale		makes	jumper	23		three	Donovan Mitchell	assists	
+401126859	3	03:37	8:23	hou	James Harden makes 26-foot step back jumpshot (Chris Paul assists)	60 - 58	60	58	3	0	James Harden		makes	step back jumpshot	26			Chris Paul	assists	
+401126859	3	03:45	8:15	utah	Jae Crowder makes driving layup (Ricky Rubio assists)	60 - 60	60	60	0	2	Jae Crowder		makes	driving layup				Ricky Rubio	assists	
+401126859	3	04:08	7:52	hou	James Harden misses 25-foot step back jumpshot	60 - 60	60	60	0	0	James Harden		misses	step back jumpshot	25					
+401126859	3	04:10	7:50	utah	Donovan Mitchell defensive rebound	60 - 60	60	60	0	0	Donovan Mitchell		defensive rebound							
+401126859	3	04:18	7:42	utah	Royce O'Neale misses 22-foot three point jumper	60 - 60	60	60	0	0	Royce O'Neale		misses	jumper	22		three			
+401126859	3	04:21	7:39	utah	Rudy Gobert offensive rebound	60 - 60	60	60	0	0	Rudy Gobert		offensive rebound							
+401126859	3	04:23	7:37	utah	Ricky Rubio misses 25-foot three point jumper	60 - 60	60	60	0	0	Ricky Rubio		misses	jumper	25		three			
+401126859	3	04:23	7:37	hou	Clint Capela defensive rebound	60 - 60	60	60	0	0	Clint Capela		defensive rebound							
+401126859	3	04:37	7:23	hou	James Harden out of bounds bad pass turnover	60 - 60	60	60	0	0	James Harden		turnover							
+401126859	3	04:52	7:08	utah	Donovan Mitchell bad pass (Chris Paul steals)	60 - 60	60	60	0	0	Donovan Mitchell		bad pass					Chris Paul	steals	
+401126859	3	04:55	7:05	hou	Chris Paul makes 26-foot three point jumper	63 - 60	63	60	3	0	Chris Paul		makes	jumper	26		three			
+401126859	3	04:57	7:03	utah	Jazz Full timeout	63 - 60	63	60	0	0			full timeout							jazz
+401126859	3	04:57	7:03	utah	Joe Ingles enters the game for Ricky Rubio	63 - 60	63	60	0	0	Joe Ingles	Ricky Rubio	enters the game for							
+401126859	3	05:06	6:54	hou	Eric Gordon personal foul	63 - 60	63	60	0	0	Eric Gordon		foul							
+401126859	3	05:13	6:47	utah	Eric Gordon blocks Donovan Mitchell 's 3-foot driving layup	63 - 60	63	60	0	0	Eric Gordon	Donovan Mitchell	blocks	driving layup	3					
+401126859	3	05:13	6:47	utah	Jazz offensive team rebound	63 - 60	63	60	0	0			offensive rebound	team						jazz
+401126859	3	05:13	6:47	utah	Rudy Gobert offensive foul	63 - 60	63	60	0	0	Rudy Gobert		foul							
+401126859	3	05:13	6:47	utah	Rudy Gobert turnover	63 - 60	63	60	0	0	Rudy Gobert		turnover							
+401126859	3	05:13	6:47	utah	Derrick Favors enters the game for Rudy Gobert	63 - 60	63	60	0	0	Derrick Favors	Rudy Gobert	enters the game for							
+401126859	3	05:34	6:26	hou	Eric Gordon misses 12-foot pullup jump shot	63 - 60	63	60	0	0	Eric Gordon		misses	pullup jump shot	12					
+401126859	3	05:35	6:25	utah	Joe Ingles defensive rebound	63 - 60	63	60	0	0	Joe Ingles		defensive rebound							
+401126859	3	05:50	6:10	utah	Donovan Mitchell misses 11-foot two point shot	63 - 60	63	60	0	0	Donovan Mitchell		misses	shot	11		two			
+401126859	3	05:51	6:09	hou	Clint Capela defensive rebound	63 - 60	63	60	0	0	Clint Capela		defensive rebound							
+401126859	3	06:04	5:56	hou	Chris Paul bad pass (Joe Ingles steals)	63 - 60	63	60	0	0	Chris Paul		bad pass					Joe Ingles	steals	
+401126859	3	06:08	5:52	utah	Royce O'Neale offensive charge	63 - 60	63	60	0	0	Royce O'Neale		offensive charge							
+401126859	3	06:08	5:52	utah	Royce O'Neale turnover	63 - 60	63	60	0	0	Royce O'Neale		turnover							
+401126859	3	06:08	5:52	hou	Danuel House Jr. enters the game for Chris Paul	63 - 60	63	60	0	0	Danuel House Jr.	Chris Paul	enters the game for							
+401126859	3	06:25	5:35	hou	Danuel House Jr. misses 23-foot three point jumper	63 - 60	63	60	0	0	Danuel House Jr.		misses	jumper	23		three			
+401126859	3	06:28	5:32	hou	Clint Capela vs. Derrick Favors (James Harden gains possession)	63 - 60	63	60	0	0	Clint Capela	Derrick Favors	vs.					James Harden	gains possession	
+401126859	3	06:28	5:32	hou	Rockets offensive team rebound	63 - 60	63	60	0	0			offensive rebound	team						rockets
+401126859	3	06:43	5:17	hou	James Harden bad pass (Derrick Favors steals)	63 - 60	63	60	0	0	James Harden		bad pass					Derrick Favors	steals	
+401126859	3	06:54	5:06	utah	Jae Crowder misses 25-foot three point jumper	63 - 60	63	60	0	0	Jae Crowder		misses	jumper	25		three			
+401126859	3	06:57	5:03	utah	Joe Ingles offensive rebound	63 - 60	63	60	0	0	Joe Ingles		offensive rebound							
+401126859	3	07:06	4:54	utah	Jae Crowder makes 23-foot three point jumper (Donovan Mitchell assists)	63 - 63	63	63	0	3	Jae Crowder		makes	jumper	23		three	Donovan Mitchell	assists	
+401126859	3	07:29	4:31	hou	James Harden makes 27-foot three point jumper	66 - 63	66	63	3	0	James Harden		makes	jumper	27		three			
+401126859	3	07:47	4:13	utah	Jae Crowder misses 23-foot three point jumper	66 - 63	66	63	0	0	Jae Crowder		misses	jumper	23		three			
+401126859	3	07:50	4:10	hou	PJ Tucker defensive rebound	66 - 63	66	63	0	0	PJ Tucker		defensive rebound							
+401126859	3	07:56	4:04	utah	Joe Ingles shooting foul	66 - 63	66	63	0	0	Joe Ingles		foul							
+401126859	3	07:56	4:04	hou	Clint Capela misses free throw 1 of 2	66 - 63	66	63	0	0	Clint Capela		misses	free throw		1-2				
+401126859	3	07:56	4:04	hou	Rockets offensive team rebound	66 - 63	66	63	0	0			offensive rebound	team						rockets
+401126859	3	07:56	4:04	hou	Clint Capela misses free throw 2 of 2	66 - 63	66	63	0	0	Clint Capela		misses	free throw		2-2				
+401126859	3	07:58	4:02	utah	Jae Crowder defensive rebound	66 - 63	66	63	0	0	Jae Crowder		defensive rebound							
+401126859	3	08:12	3:48	utah	Donovan Mitchell makes driving layup	66 - 65	66	65	0	2	Donovan Mitchell		makes	driving layup						
+401126859	3	08:31	3:29	hou	Eric Gordon makes 28-foot three point jumper (James Harden assists)	69 - 65	69	65	3	0	Eric Gordon		makes	jumper	28		three	James Harden	assists	
+401126859	3	08:47	3:13	utah	Donovan Mitchell makes driving layup	69 - 67	69	67	0	2	Donovan Mitchell		makes	driving layup						
+401126859	3	09:08	2:52	hou	James Harden makes 25-foot three pointer	72 - 67	72	67	3	0	James Harden		makes	er	25		three			
+401126859	3	09:37	2:23	utah	Royce O'Neale makes 24-foot three point jumper (Joe Ingles assists)	72 - 70	72	70	0	3	Royce O'Neale		makes	jumper	24		three	Joe Ingles	assists	
+401126859	3	09:43	2:17	hou	Rockets Full timeout	72 - 70	72	70	0	0			full timeout							rockets
+401126859	3	09:43	2:17	hou	Chris Paul enters the game for James Harden	72 - 70	72	70	0	0	Chris Paul	James Harden	enters the game for							
+401126859	3	09:43	2:17	hou	Austin Rivers enters the game for Clint Capela	72 - 70	72	70	0	0	Austin Rivers	Clint Capela	enters the game for							
+401126859	3	09:43	2:17	utah	Thabo Sefolosha enters the game for Royce O'Neale	72 - 70	72	70	0	0	Thabo Sefolosha	Royce O'Neale	enters the game for							
+401126859	3	09:43	2:17	utah	Georges Niang enters the game for Donovan Mitchell	72 - 70	72	70	0	0	Georges Niang	Donovan Mitchell	enters the game for							
+401126859	3	09:43	2:17	utah	Ricky Rubio enters the game for Jae Crowder	72 - 70	72	70	0	0	Ricky Rubio	Jae Crowder	enters the game for							
+401126859	3	09:52	2:08	hou	Eric Gordon misses 26-foot three point pullup jump shot	72 - 70	72	70	0	0	Eric Gordon		misses	pullup jump shot	26		three			
+401126859	3	09:55	2:05	utah	Thabo Sefolosha defensive rebound	72 - 70	72	70	0	0	Thabo Sefolosha		defensive rebound							
+401126859	3	10:07	1:53	utah	Georges Niang makes 25-foot three point jumper (Derrick Favors assists)	72 - 73	72	73	0	3	Georges Niang		makes	jumper	25		three	Derrick Favors	assists	
+401126859	3	10:28	1:32	hou	Austin Rivers makes 26-foot three point jumper (Chris Paul assists)	75 - 73	75	73	3	0	Austin Rivers		makes	jumper	26		three	Chris Paul	assists	
+401126859	3	10:41	1:19	hou	Austin Rivers shooting foul	75 - 73	75	73	0	0	Austin Rivers		foul							
+401126859	3	10:41	1:19	utah	Ricky Rubio misses free throw 1 of 2	75 - 73	75	73	0	0	Ricky Rubio		misses	free throw		1-2				
+401126859	3	10:41	1:19	utah	Jazz offensive team rebound	75 - 73	75	73	0	0			offensive rebound	team						jazz
+401126859	3	10:41	1:19	hou	Gerald Green enters the game for Eric Gordon	75 - 73	75	73	0	0	Gerald Green	Eric Gordon	enters the game for							
+401126859	3	10:41	1:19	utah	Ricky Rubio makes free throw 2 of 2	75 - 74	75	74	0	1	Ricky Rubio		makes	free throw		2-2				
+401126859	3	10:53	1:07	utah	Derrick Favors shooting foul	75 - 74	75	74	0	0	Derrick Favors		foul							
+401126859	3	10:53	1:07	hou	PJ Tucker makes free throw 1 of 2	76 - 74	76	74	1	0	PJ Tucker		makes	free throw		1-2				
+401126859	3	10:53	1:07	hou	PJ Tucker makes free throw 2 of 2	77 - 74	77	74	1	0	PJ Tucker		makes	free throw		2-2				
+401126859	3	11:09	50.1	utah	Georges Niang misses three point jumper	77 - 74	77	74	0	0	Georges Niang		misses	jumper			three			
+401126859	3	11:13	46.8	hou	Austin Rivers defensive rebound	77 - 74	77	74	0	0	Austin Rivers		defensive rebound							
+401126859	3	11:24	35.3	hou	Chris Paul misses 27-foot three point jumper	77 - 74	77	74	0	0	Chris Paul		misses	jumper	27		three			
+401126859	3	11:27	32.6	utah	Joe Ingles defensive rebound	77 - 74	77	74	0	0	Joe Ingles		defensive rebound							
+401126859	3	11:42	17.2	utah	Thabo Sefolosha makes layup (Ricky Rubio assists)	77 - 76	77	76	0	2	Thabo Sefolosha		makes	layup				Ricky Rubio	assists	
+401126859	3	11:59	0.7	hou	Chris Paul makes 4-foot two point shot	79 - 76	79	76	2	0	Chris Paul		makes	shot	4		two			
+401126859	3	12:00	0.0	utah	Ricky Rubio misses 70-foot three point jumper	79 - 76	79	76	0	0	Ricky Rubio		misses	jumper	70		three			
+401126859	3	12:00	0.0	utah	Jazz offensive team rebound	79 - 76	79	76	0	0			offensive rebound	team						jazz
+401126859	3	12:00	0.0	utah	End of the 3rd Quarter	79 - 76	79	76	0	0			end of the 3rd quarter							
+401126859	4	00:00	12:00	utah	Donovan Mitchell enters the game for Joe Ingles	79 - 76	79	76	0	0	Donovan Mitchell	Joe Ingles	enters the game for							
+401126859	4	00:00	12:00	hou	Clint Capela enters the game for PJ Tucker	79 - 76	79	76	0	0	Clint Capela	PJ Tucker	enters the game for							
+401126859	4	00:21	11:39	utah	Donovan Mitchell makes 25-foot three point jumper (Ricky Rubio assists)	79 - 79	79	79	0	3	Donovan Mitchell		makes	jumper	25		three	Ricky Rubio	assists	
+401126859	4	00:43	11:17	hou	Chris Paul misses 7-foot two point shot	79 - 79	79	79	0	0	Chris Paul		misses	shot	7		two			
+401126859	4	00:45	11:15	hou	Clint Capela offensive rebound	79 - 79	79	79	0	0	Clint Capela		offensive rebound							
+401126859	4	00:53	11:07	hou	Gerald Green misses 23-foot three point jumper	79 - 79	79	79	0	0	Gerald Green		misses	jumper	23		three			
+401126859	4	00:56	11:04	utah	Georges Niang defensive rebound	79 - 79	79	79	0	0	Georges Niang		defensive rebound							
+401126859	4	01:06	10:54	utah	Ricky Rubio makes 9-foot two point shot	79 - 81	79	81	0	2	Ricky Rubio		makes	shot	9		two			
+401126859	4	01:22	10:38	hou	Gerald Green misses 25-foot three point pullup jump shot	79 - 81	79	81	0	0	Gerald Green		misses	pullup jump shot	25		three			
+401126859	4	01:25	10:35	utah	Ricky Rubio defensive rebound	79 - 81	79	81	0	0	Ricky Rubio		defensive rebound							
+401126859	4	01:39	10:21	utah	Donovan Mitchell makes 13-foot two point shot (Ricky Rubio assists)	79 - 83	79	83	0	2	Donovan Mitchell		makes	shot	13		two	Ricky Rubio	assists	
+401126859	4	01:40	10:20	hou	Rockets Full timeout	79 - 83	79	83	0	0			full timeout							rockets
+401126859	4	01:40	10:20	hou	James Harden enters the game for Gerald Green	79 - 83	79	83	0	0	James Harden	Gerald Green	enters the game for							
+401126859	4	01:40	10:20	utah	Royce O'Neale enters the game for Georges Niang	79 - 83	79	83	0	0	Royce O'Neale	Georges Niang	enters the game for							
+401126859	4	01:55	10:05	utah	Ricky Rubio shooting foul	79 - 83	79	83	0	0	Ricky Rubio		foul							
+401126859	4	01:55	10:05	hou	Chris Paul misses free throw 1 of 2	79 - 83	79	83	0	0	Chris Paul		misses	free throw		1-2				
+401126859	4	01:55	10:05	hou	Rockets offensive team rebound	79 - 83	79	83	0	0			offensive rebound	team						rockets
+401126859	4	01:55	10:05	hou	Chris Paul makes free throw 2 of 2	80 - 83	80	83	1	0	Chris Paul		makes	free throw		2-2				
+401126859	4	02:05	9:55	hou	Danuel House Jr. shooting foul	80 - 83	80	83	0	0	Danuel House Jr.		foul							
+401126859	4	02:05	9:55	utah	Donovan Mitchell makes free throw 1 of 2	80 - 84	80	84	0	1	Donovan Mitchell		makes	free throw		1-2				
+401126859	4	02:05	9:55	utah	Donovan Mitchell makes free throw 2 of 2	80 - 85	80	85	0	1	Donovan Mitchell		makes	free throw		2-2				
+401126859	4	02:20	9:40	hou	Clint Capela misses alley oop dunk shot	80 - 85	80	85	0	0	Clint Capela		misses	alley oop dunk shot						
+401126859	4	02:23	9:37	utah	Derrick Favors defensive rebound	80 - 85	80	85	0	0	Derrick Favors		defensive rebound							
+401126859	4	02:26	9:34	utah	Donovan Mitchell makes 30-foot three point jumper (Ricky Rubio assists)	80 - 88	80	88	0	3	Donovan Mitchell		makes	jumper	30		three	Ricky Rubio	assists	
+401126859	4	02:45	9:15	hou	Derrick Favors blocks Clint Capela's layup	80 - 88	80	88	0	0	Derrick Favors	Clint Capela	blocks	layup						
+401126859	4	02:45	9:15	utah	Jazz defensive team rebound	80 - 88	80	88	0	0			defensive rebound	team						jazz
+401126859	4	02:45	9:15	hou	Clint Capela loose ball foul	80 - 88	80	88	0	0	Clint Capela		foul							
+401126859	4	02:56	9:04	utah	Donovan Mitchell makes 25-foot three pointer (Ricky Rubio assists)	80 - 91	80	91	0	3	Donovan Mitchell		makes	er	25		three	Ricky Rubio	assists	
+401126859	4	02:58	9:02	hou	Rockets Full timeout	80 - 91	80	91	0	0			full timeout							rockets
+401126859	4	02:58	9:02	hou	PJ Tucker enters the game for Danuel House Jr.	80 - 91	80	91	0	0	PJ Tucker	Danuel House Jr.	enters the game for							
+401126859	4	02:58	9:02	hou	Eric Gordon enters the game for Clint Capela	80 - 91	80	91	0	0	Eric Gordon	Clint Capela	enters the game for							
+401126859	4	03:09	8:51	hou	James Harden makes two point shot	82 - 91	82	91	2	0	James Harden		makes	shot			two			
+401126859	4	03:34	8:26	utah	Donovan Mitchell misses driving layup	82 - 91	82	91	0	0	Donovan Mitchell		misses	driving layup						
+401126859	4	03:36	8:24	hou	PJ Tucker defensive rebound	82 - 91	82	91	0	0	PJ Tucker		defensive rebound							
+401126859	4	03:38	8:22	hou	Eric Gordon misses 27-foot three point jumper	82 - 91	82	91	0	0	Eric Gordon		misses	jumper	27		three			
+401126859	4	03:43	8:17	utah	Royce O'Neale defensive rebound	82 - 91	82	91	0	0	Royce O'Neale		defensive rebound							
+401126859	4	04:00	8:00	hou	Chris Paul shooting foul	82 - 91	82	91	0	0	Chris Paul		foul							
+401126859	4	04:00	8:00	utah	Royce O'Neale makes free throw 1 of 2	82 - 92	82	92	0	1	Royce O'Neale		makes	free throw		1-2				
+401126859	4	04:00	8:00	utah	Royce O'Neale makes free throw 2 of 2	82 - 93	82	93	0	1	Royce O'Neale		makes	free throw		2-2				
+401126859	4	04:12	7:48	hou	PJ Tucker misses three point jumper	82 - 93	82	93	0	0	PJ Tucker		misses	jumper			three			
+401126859	4	04:15	7:45	utah	Royce O'Neale defensive rebound	82 - 93	82	93	0	0	Royce O'Neale		defensive rebound							
+401126859	4	04:28	7:32	utah	Ricky Rubio misses 25-foot three point jumper	82 - 93	82	93	0	0	Ricky Rubio		misses	jumper	25		three			
+401126859	4	04:31	7:29	hou	Chris Paul defensive rebound	82 - 93	82	93	0	0	Chris Paul		defensive rebound							
+401126859	4	04:38	7:22	hou	Chris Paul makes layup	84 - 93	84	93	2	0	Chris Paul		makes	layup						
+401126859	4	04:57	7:03	utah	Royce O'Neale makes driving layup (Donovan Mitchell assists)	84 - 95	84	95	0	2	Royce O'Neale		makes	driving layup				Donovan Mitchell	assists	
+401126859	4	05:11	6:49	hou	Austin Rivers misses 25-foot three point jumper	84 - 95	84	95	0	0	Austin Rivers		misses	jumper	25		three			
+401126859	4	05:14	6:46	utah	Donovan Mitchell defensive rebound	84 - 95	84	95	0	0	Donovan Mitchell		defensive rebound							
+401126859	4	05:21	6:39	utah	Donovan Mitchell misses 25-foot three point pullup jump shot	84 - 95	84	95	0	0	Donovan Mitchell		misses	pullup jump shot	25		three			
+401126859	4	05:25	6:35	hou	James Harden defensive rebound	84 - 95	84	95	0	0	James Harden		defensive rebound							
+401126859	4	05:33	6:27	hou	James Harden traveling	84 - 95	84	95	0	0	James Harden		traveling							
+401126859	4	05:33	6:27	utah	Rudy Gobert enters the game for Derrick Favors	84 - 95	84	95	0	0	Rudy Gobert	Derrick Favors	enters the game for							
+401126859	4	05:33	6:27	utah	Jae Crowder enters the game for Thabo Sefolosha	84 - 95	84	95	0	0	Jae Crowder	Thabo Sefolosha	enters the game for							
+401126859	4	05:33	6:27	hou	Danuel House Jr. enters the game for Chris Paul	84 - 95	84	95	0	0	Danuel House Jr.	Chris Paul	enters the game for							
+401126859	4	05:33	6:27	hou	Rockets delay of game violation	84 - 95	84	95	0	0			delay of game violation							rockets
+401126859	4	05:48	6:12	utah	Ricky Rubio misses 24-foot three point jumper	84 - 95	84	95	0	0	Ricky Rubio		misses	jumper	24		three			
+401126859	4	05:52	6:08	hou	Danuel House Jr. defensive rebound	84 - 95	84	95	0	0	Danuel House Jr.		defensive rebound							
+401126859	4	06:06	5:54	hou	PJ Tucker misses 26-foot three point jumper	84 - 95	84	95	0	0	PJ Tucker		misses	jumper	26		three			
+401126859	4	06:08	5:52	utah	Jae Crowder defensive rebound	84 - 95	84	95	0	0	Jae Crowder		defensive rebound							
+401126859	4	06:14	5:46	utah	Jazz Full timeout	84 - 95	84	95	0	0			full timeout							jazz
+401126859	4	06:20	5:40	utah	Donovan Mitchell misses driving floating jump shot	84 - 95	84	95	0	0	Donovan Mitchell		misses	driving floating jump shot						
+401126859	4	06:23	5:37	utah	Donovan Mitchell offensive rebound	84 - 95	84	95	0	0	Donovan Mitchell		offensive rebound							
+401126859	4	06:35	5:25	utah	Royce O'Neale misses driving layup	84 - 95	84	95	0	0	Royce O'Neale		misses	driving layup						
+401126859	4	06:37	5:23	hou	PJ Tucker defensive rebound	84 - 95	84	95	0	0	PJ Tucker		defensive rebound							
+401126859	4	06:41	5:19	hou	James Harden misses 26-foot three point jumper	84 - 95	84	95	0	0	James Harden		misses	jumper	26		three			
+401126859	4	06:44	5:16	hou	Austin Rivers offensive rebound	84 - 95	84	95	0	0	Austin Rivers		offensive rebound							
+401126859	4	06:46	5:14	hou	Eric Gordon misses 26-foot three point jumper	84 - 95	84	95	0	0	Eric Gordon		misses	jumper	26		three			
+401126859	4	06:48	5:12	utah	Rudy Gobert defensive rebound	84 - 95	84	95	0	0	Rudy Gobert		defensive rebound							
+401126859	4	07:06	4:54	hou	PJ Tucker kicked ball violation	84 - 95	84	95	0	0	PJ Tucker		kicked ball violation							
+401126859	4	07:06	4:54	hou	Chris Paul enters the game for Austin Rivers	84 - 95	84	95	0	0	Chris Paul	Austin Rivers	enters the game for							
+401126859	4	07:14	4:46	utah	Rudy Gobert bad pass (Chris Paul steals)	84 - 95	84	95	0	0	Rudy Gobert		bad pass					Chris Paul	steals	
+401126859	4	07:17	4:43	hou	Chris Paul makes 2-foot dunk	86 - 95	86	95	2	0	Chris Paul		makes	dunk	2					
+401126859	4	07:34	4:26	utah	Jae Crowder offensive foul	86 - 95	86	95	0	0	Jae Crowder		foul							
+401126859	4	07:34	4:26	utah	Jae Crowder turnover	86 - 95	86	95	0	0	Jae Crowder		turnover							
+401126859	4	07:34	4:26	utah	Derrick Favors enters the game for Rudy Gobert	86 - 95	86	95	0	0	Derrick Favors	Rudy Gobert	enters the game for							
+401126859	4	07:44	4:16	hou	James Harden lost ball turnover (Donovan Mitchell steals)	86 - 95	86	95	0	0	James Harden		turnover					Donovan Mitchell	steals	
+401126859	4	07:47	4:13	utah	Donovan Mitchell makes 2-foot alley oop dunk shot (Royce O'Neale assists)	86 - 97	86	97	0	2	Donovan Mitchell		makes	alley oop dunk shot	2			Royce O'Neale	assists	
+401126859	4	08:03	3:57	hou	Danuel House Jr. misses 23-foot step back jumpshot	86 - 97	86	97	0	0	Danuel House Jr.		misses	step back jumpshot	23					
+401126859	4	08:06	3:54	utah	Donovan Mitchell defensive rebound	86 - 97	86	97	0	0	Donovan Mitchell		defensive rebound							
+401126859	4	08:19	3:41	utah	Donovan Mitchell makes 13-foot pullup jump shot	86 - 99	86	99	0	2	Donovan Mitchell		makes	pullup jump shot	13					
+401126859	4	08:37	3:23	hou	Chris Paul makes driving layup	88 - 99	88	99	2	0	Chris Paul		makes	driving layup						
+401126859	4	08:58	3:02	utah	Royce O'Neale misses 25-foot three point jumper	88 - 99	88	99	0	0	Royce O'Neale		misses	jumper	25		three			
+401126859	4	09:02	2:58	utah	Derrick Favors offensive rebound	88 - 99	88	99	0	0	Derrick Favors		offensive rebound							
+401126859	4	09:13	2:47	utah	Ricky Rubio misses two point shot	88 - 99	88	99	0	0	Ricky Rubio		misses	shot			two			
+401126859	4	09:14	2:46	utah	Derrick Favors offensive rebound	88 - 99	88	99	0	0	Derrick Favors		offensive rebound							
+401126859	4	09:25	2:35	utah	Royce O'Neale misses 25-foot three point jumper	88 - 99	88	99	0	0	Royce O'Neale		misses	jumper	25		three			
+401126859	4	09:28	2:32	utah	Jazz offensive team rebound	88 - 99	88	99	0	0			offensive rebound	team						jazz
+401126859	4	09:29	2:31	utah	Derrick Favors makes dunk (Ricky Rubio assists)	88 - 101	88	101	0	2	Derrick Favors		makes	dunk				Ricky Rubio	assists	
+401126859	4	09:39	2:21	utah	Royce O'Neale shooting foul	88 - 101	88	101	0	0	Royce O'Neale		foul							
+401126859	4	09:39	2:21	hou	James Harden makes free throw 1 of 3	89 - 101	89	101	1	0	James Harden		makes	free throw		1-3				
+401126859	4	09:39	2:21	hou	James Harden makes free throw 2 of 3	90 - 101	90	101	1	0	James Harden		makes	free throw		2-3				
+401126859	4	09:39	2:21	hou	Clint Capela enters the game for Danuel House Jr.	90 - 101	90	101	0	0	Clint Capela	Danuel House Jr.	enters the game for							
+401126859	4	09:39	2:21	hou	James Harden makes free throw 3 of 3	91 - 101	91	101	1	0	James Harden		makes	free throw		3-3				
+401126859	4	09:56	2:04	utah	Donovan Mitchell lost ball turnover (Chris Paul steals)	91 - 101	91	101	0	0	Donovan Mitchell		turnover					Chris Paul	steals	
+401126859	4	10:02	1:58	hou	Chris Paul lost ball turnover (Ricky Rubio steals)	91 - 101	91	101	0	0	Chris Paul		turnover					Ricky Rubio	steals	
+401126859	4	10:12	1:48	hou	Chris Paul personal foul	91 - 101	91	101	0	0	Chris Paul		foul							
+401126859	4	10:24	1:36	utah	Donovan Mitchell misses 25-foot three point jumper	91 - 101	91	101	0	0	Donovan Mitchell		misses	jumper	25		three			
+401126859	4	10:28	1:32	utah	Donovan Mitchell offensive rebound	91 - 101	91	101	0	0	Donovan Mitchell		offensive rebound							
+401126859	4	10:36	1:24	utah	Donovan Mitchell misses driving layup	91 - 101	91	101	0	0	Donovan Mitchell		misses	driving layup						
+401126859	4	10:36	1:24	utah	Derrick Favors offensive rebound	91 - 101	91	101	0	0	Derrick Favors		offensive rebound							
+401126859	4	10:36	1:24	utah	Derrick Favors makes dunk	91 - 103	91	103	0	2	Derrick Favors		makes	dunk						
+401126859	4	10:45	1:15	hou	James Harden misses 26-foot three point pullup jump shot	91 - 103	91	103	0	0	James Harden		misses	pullup jump shot	26		three			
+401126859	4	10:49	1:11	utah	Royce O'Neale defensive rebound	91 - 103	91	103	0	0	Royce O'Neale		defensive rebound							
+401126859	4	11:06	53.4	utah	Donovan Mitchell misses driving layup	91 - 103	91	103	0	0	Donovan Mitchell		misses	driving layup						
+401126859	4	11:08	51.9	utah	Derrick Favors offensive rebound	91 - 103	91	103	0	0	Derrick Favors		offensive rebound							
+401126859	4	11:08	51.9	utah	Derrick Favors makes tip shot	91 - 105	91	105	0	2	Derrick Favors		makes	tip shot						
+401126859	4	11:14	45.8	hou	Eric Gordon misses 27-foot step back jumpshot	91 - 105	91	105	0	0	Eric Gordon		misses	step back jumpshot	27					
+401126859	4	11:17	42.5	utah	Royce O'Neale defensive rebound	91 - 105	91	105	0	0	Royce O'Neale		defensive rebound							
+401126859	4	11:22	37.8	hou	PJ Tucker personal foul	91 - 105	91	105	0	0	PJ Tucker		foul							
+401126859	4	11:22	37.8	hou	Austin Rivers enters the game for Chris Paul	91 - 105	91	105	0	0	Austin Rivers	Chris Paul	enters the game for							
+401126859	4	11:22	37.8	hou	Gerald Green enters the game for Eric Gordon	91 - 105	91	105	0	0	Gerald Green	Eric Gordon	enters the game for							
+401126859	4	11:22	37.8	hou	Danuel House Jr. enters the game for James Harden	91 - 105	91	105	0	0	Danuel House Jr.	James Harden	enters the game for							
+401126859	4	11:22	37.8	hou	Gary Clark enters the game for PJ Tucker	91 - 105	91	105	0	0	Gary Clark	PJ Tucker	enters the game for							
+401126859	4	11:22	37.8	hou	Isaiah Hartenstein enters the game for Clint Capela	91 - 105	91	105	0	0	Isaiah Hartenstein	Clint Capela	enters the game for							
+401126859	4	11:22	37.8	utah	Donovan Mitchell makes free throw 1 of 2	91 - 106	91	106	0	1	Donovan Mitchell		makes	free throw		1-2				
+401126859	4	11:22	37.8	utah	Donovan Mitchell makes free throw 2 of 2	91 - 107	91	107	0	1	Donovan Mitchell		makes	free throw		2-2				
+401126859	4	11:28	31.2	hou	Danuel House Jr. misses 24-foot three point pullup jump shot	91 - 107	91	107	0	0	Danuel House Jr.		misses	pullup jump shot	24		three			
+401126859	4	11:32	27.7	utah	Derrick Favors defensive rebound	91 - 107	91	107	0	0	Derrick Favors		defensive rebound							
+401126859	4	11:55	4.8	utah	shot clock turnover	91 - 107	91	107	0	0			turnover							
+401126859	4	12:00	0.0	hou	Danuel House Jr. misses 26-foot three point pullup jump shot	91 - 107	91	107	0	0	Danuel House Jr.		misses	pullup jump shot	26		three			
+401126859	4	12:00	0.0	hou	Rockets offensive team rebound	91 - 107	91	107	0	0			offensive rebound	team						rockets
+401126859	4	12:00	0.0	utah	End of the 4th Quarter	91 - 107	91	107	0	0			end of the 4th quarter							
+401126859	4	12:00	0.0	utah	End of Game	91 - 107	91	107	0	0			end of game							

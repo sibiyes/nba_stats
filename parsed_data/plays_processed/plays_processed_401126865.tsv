@@ -1,0 +1,484 @@
+game_id	quarter	q_time	q_time_remaining	team	event	score	team1_score	team2_score	team1_event_point	team2_event_point	player1	player2	action	action_what	foot_value	free_throw	point_info	player_secondary	action_secondary	team_action
+401126865	1	00:00	12:00	ind	Aron Baynes vs. Myles Turner (Thaddeus Young gains possession)	0 - 0	0	0	0	0	Aron Baynes	Myles Turner	vs.					Thaddeus Young	gains possession	
+401126865	1	00:16	11:44	ind	Thaddeus Young misses layup	0 - 0	0	0	0	0	Thaddeus Young		misses	layup						
+401126865	1	00:18	11:42	bos	Jayson Tatum defensive rebound	0 - 0	0	0	0	0	Jayson Tatum		defensive rebound							
+401126865	1	00:33	11:27	ind	Darren Collison shooting foul	0 - 0	0	0	0	0	Darren Collison		foul							
+401126865	1	00:33	11:27	bos	Kyrie Irving misses free throw 1 of 2	0 - 0	0	0	0	0	Kyrie Irving		misses	free throw		1-2				
+401126865	1	00:33	11:27	bos	Celtics offensive team rebound	0 - 0	0	0	0	0			offensive rebound	team						celtics
+401126865	1	00:33	11:27	bos	Kyrie Irving makes free throw 2 of 2	1 - 0	1	0	1	0	Kyrie Irving		makes	free throw		2-2				
+401126865	1	00:44	11:16	ind	Bojan Bogdanovic misses two point shot	1 - 0	1	0	0	0	Bojan Bogdanovic		misses	shot			two			
+401126865	1	00:47	11:13	bos	Al Horford defensive rebound	1 - 0	1	0	0	0	Al Horford		defensive rebound							
+401126865	1	00:51	11:09	bos	Jaylen Brown makes driving layup	3 - 0	3	0	2	0	Jaylen Brown		makes	driving layup						
+401126865	1	01:02	10:58	ind	Bojan Bogdanovic offensive charge	3 - 0	3	0	0	0	Bojan Bogdanovic		offensive charge							
+401126865	1	01:02	10:58	ind	Bojan Bogdanovic turnover	3 - 0	3	0	0	0	Bojan Bogdanovic		turnover							
+401126865	1	01:08	10:52	bos	Kyrie Irving makes 10-foot driving floating jump shot	5 - 0	5	0	2	0	Kyrie Irving		makes	driving floating jump shot	10					
+401126865	1	01:26	10:34	ind	Darren Collison misses 23-foot three point jumper	5 - 0	5	0	0	0	Darren Collison		misses	jumper	23		three			
+401126865	1	01:29	10:31	bos	Kyrie Irving defensive rebound	5 - 0	5	0	0	0	Kyrie Irving		defensive rebound							
+401126865	1	01:32	10:28	bos	Jayson Tatum makes 28-foot three pointer (Kyrie Irving assists)	8 - 0	8	0	3	0	Jayson Tatum		makes	er	28		three	Kyrie Irving	assists	
+401126865	1	01:35	10:25	ind	Pacers Full timeout	8 - 0	8	0	0	0			full timeout							pacers
+401126865	1	01:57	10:03	ind	Myles Turner misses 20-foot pullup jump shot	8 - 0	8	0	0	0	Myles Turner		misses	pullup jump shot	20					
+401126865	1	02:00	10:00	bos	Al Horford defensive rebound	8 - 0	8	0	0	0	Al Horford		defensive rebound							
+401126865	1	02:09	9:51	bos	Al Horford misses 27-foot three point jumper	8 - 0	8	0	0	0	Al Horford		misses	jumper	27		three			
+401126865	1	02:12	9:48	ind	Darren Collison defensive rebound	8 - 0	8	0	0	0	Darren Collison		defensive rebound							
+401126865	1	02:29	9:31	ind	Thaddeus Young makes 23-foot three point jumper (Darren Collison assists)	8 - 3	8	3	0	3	Thaddeus Young		makes	jumper	23		three	Darren Collison	assists	
+401126865	1	02:57	9:03	bos	Al Horford misses 19-foot jumper	8 - 3	8	3	0	0	Al Horford		misses	jumper	19					
+401126865	1	02:58	9:02	bos	Celtics offensive team rebound	8 - 3	8	3	0	0			offensive rebound	team						celtics
+401126865	1	02:58	9:02	bos	shot clock turnover	8 - 3	8	3	0	0			turnover							
+401126865	1	03:10	8:50	ind	Bojan Bogdanovic makes driving layup (Thaddeus Young assists)	8 - 5	8	5	0	2	Bojan Bogdanovic		makes	driving layup				Thaddeus Young	assists	
+401126865	1	03:10	8:50	bos	Jaylen Brown shooting foul	8 - 5	8	5	0	0	Jaylen Brown		foul							
+401126865	1	03:10	8:50	ind	Bojan Bogdanovic makes free throw 1 of 1	8 - 6	8	6	0	1	Bojan Bogdanovic		makes	free throw		1-1				
+401126865	1	03:31	8:29	bos	Jayson Tatum out of bounds lost ball turnover	8 - 6	8	6	0	0	Jayson Tatum		turnover							
+401126865	1	03:47	8:13	ind	Thaddeus Young misses 21-foot jumper	8 - 6	8	6	0	0	Thaddeus Young		misses	jumper	21					
+401126865	1	03:50	8:10	bos	Jayson Tatum defensive rebound	8 - 6	8	6	0	0	Jayson Tatum		defensive rebound							
+401126865	1	04:04	7:56	bos	Jaylen Brown misses 26-foot three point jumper	8 - 6	8	6	0	0	Jaylen Brown		misses	jumper	26		three			
+401126865	1	04:06	7:54	ind	Wesley Matthews defensive rebound	8 - 6	8	6	0	0	Wesley Matthews		defensive rebound							
+401126865	1	04:17	7:43	ind	Darren Collison makes 17-foot step back jumpshot	8 - 8	8	8	0	2	Darren Collison		makes	step back jumpshot	17					
+401126865	1	04:35	7:25	bos	Jaylen Brown misses 9-foot pullup jump shot	8 - 8	8	8	0	0	Jaylen Brown		misses	pullup jump shot	9					
+401126865	1	04:38	7:22	ind	Thaddeus Young defensive rebound	8 - 8	8	8	0	0	Thaddeus Young		defensive rebound							
+401126865	1	04:45	7:15	bos	Kyrie Irving shooting foul	8 - 8	8	8	0	0	Kyrie Irving		foul							
+401126865	1	04:45	7:15	ind	Bojan Bogdanovic makes free throw 1 of 2	8 - 9	8	9	0	1	Bojan Bogdanovic		makes	free throw		1-2				
+401126865	1	04:45	7:15	bos	Gordon Hayward enters the game for Al Horford	8 - 9	8	9	0	0	Gordon Hayward	Al Horford	enters the game for							
+401126865	1	04:45	7:15	ind	Bojan Bogdanovic makes free throw 2 of 2	8 - 10	8	10	0	1	Bojan Bogdanovic		makes	free throw		2-2				
+401126865	1	05:03	6:57	bos	Myles Turner blocks Jaylen Brown's driving layup	8 - 10	8	10	0	0	Myles Turner	Jaylen Brown	blocks	driving layup						
+401126865	1	05:06	6:54	ind	Myles Turner defensive rebound	8 - 10	8	10	0	0	Myles Turner		defensive rebound							
+401126865	1	05:12	6:48	ind	Darren Collison makes 28-foot step back jumpshot	8 - 13	8	13	0	3	Darren Collison		makes	step back jumpshot	28					
+401126865	1	05:28	6:32	bos	Kyrie Irving misses 27-foot step back jumpshot	8 - 13	8	13	0	0	Kyrie Irving		misses	step back jumpshot	27					
+401126865	1	05:31	6:29	bos	Celtics offensive team rebound	8 - 13	8	13	0	0			offensive rebound	team						celtics
+401126865	1	05:31	6:29	ind	Wesley Matthews away from play foul	8 - 13	8	13	0	0	Wesley Matthews		foul							
+401126865	1	05:31	6:29	bos	Kyrie Irving makes free throw 1 of 1	9 - 13	9	13	1	0	Kyrie Irving		makes	free throw		1-1				
+401126865	1	05:41	6:19	bos	Gordon Hayward makes 13-foot pullup jump shot (Jayson Tatum assists)	11 - 13	11	13	2	0	Gordon Hayward		makes	pullup jump shot	13			Jayson Tatum	assists	
+401126865	1	05:50	6:10	ind	Darren Collison misses two point shot	11 - 13	11	13	0	0	Darren Collison		misses	shot			two			
+401126865	1	05:53	6:07	ind	Myles Turner offensive rebound	11 - 13	11	13	0	0	Myles Turner		offensive rebound							
+401126865	1	05:53	6:07	ind	Myles Turner makes dunk	11 - 15	11	15	0	2	Myles Turner		makes	dunk						
+401126865	1	06:05	5:55	bos	Jayson Tatum makes 6-foot driving floating jump shot	13 - 15	13	15	2	0	Jayson Tatum		makes	driving floating jump shot	6					
+401126865	1	06:25	5:35	ind	Bojan Bogdanovic misses 19-foot pullup jump shot	13 - 15	13	15	0	0	Bojan Bogdanovic		misses	pullup jump shot	19					
+401126865	1	06:28	5:32	bos	Jaylen Brown defensive rebound	13 - 15	13	15	0	0	Jaylen Brown		defensive rebound							
+401126865	1	06:33	5:27	bos	Jayson Tatum offensive foul	13 - 15	13	15	0	0	Jayson Tatum		foul							
+401126865	1	06:33	5:27	bos	Jayson Tatum turnover	13 - 15	13	15	0	0	Jayson Tatum		turnover							
+401126865	1	06:48	5:12	ind	Thaddeus Young misses 23-foot step back jumpshot	13 - 15	13	15	0	0	Thaddeus Young		misses	step back jumpshot	23					
+401126865	1	06:50	5:10	bos	Kyrie Irving defensive rebound	13 - 15	13	15	0	0	Kyrie Irving		defensive rebound							
+401126865	1	06:56	5:04	bos	Jayson Tatum makes driving layup (Kyrie Irving assists)	15 - 15	15	15	2	0	Jayson Tatum		makes	driving layup				Kyrie Irving	assists	
+401126865	1	07:15	4:45	ind	Myles Turner makes layup (Bojan Bogdanovic assists)	15 - 17	15	17	0	2	Myles Turner		makes	layup				Bojan Bogdanovic	assists	
+401126865	1	07:32	4:28	bos	Jayson Tatum misses 9-foot two point shot	15 - 17	15	17	0	0	Jayson Tatum		misses	shot	9		two			
+401126865	1	07:34	4:26	ind	Bojan Bogdanovic defensive rebound	15 - 17	15	17	0	0	Bojan Bogdanovic		defensive rebound							
+401126865	1	07:39	4:21	ind	Bojan Bogdanovic misses driving layup	15 - 17	15	17	0	0	Bojan Bogdanovic		misses	driving layup						
+401126865	1	07:39	4:21	bos	Jaylen Brown defensive rebound	15 - 17	15	17	0	0	Jaylen Brown		defensive rebound							
+401126865	1	07:46	4:14	bos	Jaylen Brown makes driving layup	17 - 17	17	17	2	0	Jaylen Brown		makes	driving layup						
+401126865	1	08:03	3:57	ind	Wesley Matthews misses 26-foot three point pullup jump shot	17 - 17	17	17	0	0	Wesley Matthews		misses	pullup jump shot	26		three			
+401126865	1	08:06	3:54	bos	Jaylen Brown defensive rebound	17 - 17	17	17	0	0	Jaylen Brown		defensive rebound							
+401126865	1	08:06	3:54	bos	Celtics Full timeout	17 - 17	17	17	0	0			full timeout							celtics
+401126865	1	08:06	3:54	ind	Tyreke Evans enters the game for Thaddeus Young	17 - 17	17	17	0	0	Tyreke Evans	Thaddeus Young	enters the game for							
+401126865	1	08:06	3:54	ind	Domantas Sabonis enters the game for Bojan Bogdanovic	17 - 17	17	17	0	0	Domantas Sabonis	Bojan Bogdanovic	enters the game for							
+401126865	1	08:06	3:54	bos	Marcus Morris enters the game for Jayson Tatum	17 - 17	17	17	0	0	Marcus Morris	Jayson Tatum	enters the game for							
+401126865	1	08:06	3:54	bos	Al Horford enters the game for Aron Baynes	17 - 17	17	17	0	0	Al Horford	Aron Baynes	enters the game for							
+401126865	1	08:20	3:40	bos	Marcus Morris misses 27-foot three point jumper	17 - 17	17	17	0	0	Marcus Morris		misses	jumper	27		three			
+401126865	1	08:23	3:37	ind	Darren Collison defensive rebound	17 - 17	17	17	0	0	Darren Collison		defensive rebound							
+401126865	1	08:34	3:26	ind	Darren Collison misses two point shot	17 - 17	17	17	0	0	Darren Collison		misses	shot			two			
+401126865	1	08:37	3:23	bos	Al Horford defensive rebound	17 - 17	17	17	0	0	Al Horford		defensive rebound							
+401126865	1	08:51	3:09	bos	Al Horford misses driving floating jump shot	17 - 17	17	17	0	0	Al Horford		misses	driving floating jump shot						
+401126865	1	08:54	3:06	bos	Marcus Morris offensive rebound	17 - 17	17	17	0	0	Marcus Morris		offensive rebound							
+401126865	1	08:54	3:06	bos	Marcus Morris misses tip shot	17 - 17	17	17	0	0	Marcus Morris		misses	tip shot						
+401126865	1	08:55	3:05	bos	Al Horford offensive rebound	17 - 17	17	17	0	0	Al Horford		offensive rebound							
+401126865	1	08:56	3:04	bos	Myles Turner blocks Al Horford's layup	17 - 17	17	17	0	0	Myles Turner	Al Horford	blocks	layup						
+401126865	1	08:59	3:01	ind	Wesley Matthews defensive rebound	17 - 17	17	17	0	0	Wesley Matthews		defensive rebound							
+401126865	1	09:02	2:58	ind	Tyreke Evans misses driving layup	17 - 17	17	17	0	0	Tyreke Evans		misses	driving layup						
+401126865	1	09:05	2:55	ind	Myles Turner offensive rebound	17 - 17	17	17	0	0	Myles Turner		offensive rebound							
+401126865	1	09:05	2:55	ind	Myles Turner misses tip shot	17 - 17	17	17	0	0	Myles Turner		misses	tip shot						
+401126865	1	09:07	2:53	bos	Jaylen Brown defensive rebound	17 - 17	17	17	0	0	Jaylen Brown		defensive rebound							
+401126865	1	09:11	2:49	bos	Gordon Hayward offensive foul	17 - 17	17	17	0	0	Gordon Hayward		foul							
+401126865	1	09:11	2:49	bos	Gordon Hayward turnover	17 - 17	17	17	0	0	Gordon Hayward		turnover							
+401126865	1	09:11	2:49	ind	Aaron Holiday enters the game for Darren Collison	17 - 17	17	17	0	0	Aaron Holiday	Darren Collison	enters the game for							
+401126865	1	09:11	2:49	ind	Cory Joseph enters the game for Wesley Matthews	17 - 17	17	17	0	0	Cory Joseph	Wesley Matthews	enters the game for							
+401126865	1	09:11	2:49	bos	Terry Rozier enters the game for Jaylen Brown	17 - 17	17	17	0	0	Terry Rozier	Jaylen Brown	enters the game for							
+401126865	1	09:25	2:35	ind	Tyreke Evans misses layup	17 - 17	17	17	0	0	Tyreke Evans		misses	layup						
+401126865	1	09:27	2:33	bos	Gordon Hayward defensive rebound	17 - 17	17	17	0	0	Gordon Hayward		defensive rebound							
+401126865	1	09:31	2:29	ind	Aaron Holiday personal foul	17 - 17	17	17	0	0	Aaron Holiday		foul							
+401126865	1	09:31	2:29	bos	Jayson Tatum enters the game for Marcus Morris	17 - 17	17	17	0	0	Jayson Tatum	Marcus Morris	enters the game for							
+401126865	1	09:37	2:23	bos	Al Horford misses 27-foot three point jumper	17 - 17	17	17	0	0	Al Horford		misses	jumper	27		three			
+401126865	1	09:41	2:19	ind	Domantas Sabonis defensive rebound	17 - 17	17	17	0	0	Domantas Sabonis		defensive rebound							
+401126865	1	09:52	2:08	ind	Cory Joseph makes 26-foot three point jumper (Domantas Sabonis assists)	17 - 20	17	20	0	3	Cory Joseph		makes	jumper	26		three	Domantas Sabonis	assists	
+401126865	1	10:08	1:52	bos	Kyrie Irving out of bounds bad pass turnover	17 - 20	17	20	0	0	Kyrie Irving		turnover							
+401126865	1	10:08	1:52	ind	Bojan Bogdanovic enters the game for Myles Turner	17 - 20	17	20	0	0	Bojan Bogdanovic	Myles Turner	enters the game for							
+401126865	1	10:16	1:44	ind	Domantas Sabonis makes layup (Cory Joseph assists)	17 - 22	17	22	0	2	Domantas Sabonis		makes	layup				Cory Joseph	assists	
+401126865	1	10:30	1:30	ind	Tyreke Evans shooting foul	17 - 22	17	22	0	0	Tyreke Evans		foul							
+401126865	1	10:30	1:30	bos	Gordon Hayward makes free throw 1 of 2	18 - 22	18	22	1	0	Gordon Hayward		makes	free throw		1-2				
+401126865	1	10:30	1:30	bos	Marcus Morris enters the game for Kyrie Irving	18 - 22	18	22	0	0	Marcus Morris	Kyrie Irving	enters the game for							
+401126865	1	10:30	1:30	bos	Gordon Hayward makes free throw 2 of 2	19 - 22	19	22	1	0	Gordon Hayward		makes	free throw		2-2				
+401126865	1	10:43	1:17	bos	Al Horford shooting foul	19 - 22	19	22	0	0	Al Horford		foul							
+401126865	1	10:43	1:17	ind	Domantas Sabonis misses free throw 1 of 2	19 - 22	19	22	0	0	Domantas Sabonis		misses	free throw		1-2				
+401126865	1	10:43	1:17	ind	Pacers offensive team rebound	19 - 22	19	22	0	0			offensive rebound	team						pacers
+401126865	1	10:43	1:17	ind	Domantas Sabonis makes free throw 2 of 2	19 - 23	19	23	0	1	Domantas Sabonis		makes	free throw		2-2				
+401126865	1	11:04	55.8	bos	Gordon Hayward makes driving dunk (Al Horford assists)	21 - 23	21	23	2	0	Gordon Hayward		makes	driving dunk				Al Horford	assists	
+401126865	1	11:26	33.6	ind	Bojan Bogdanovic misses 33-foot three point jumper	21 - 23	21	23	0	0	Bojan Bogdanovic		misses	jumper	33		three			
+401126865	1	11:29	30.1	bos	Terry Rozier defensive rebound	21 - 23	21	23	0	0	Terry Rozier		defensive rebound							
+401126865	1	11:39	21.0	bos	Gordon Hayward misses layup	21 - 23	21	23	0	0	Gordon Hayward		misses	layup						
+401126865	1	11:40	19.9	bos	Celtics offensive team rebound	21 - 23	21	23	0	0			offensive rebound	team						celtics
+401126865	1	11:40	19.9	bos	Gordon Hayward traveling	21 - 23	21	23	0	0	Gordon Hayward		traveling							
+401126865	1	11:53	6.6	ind	Domantas Sabonis misses 26-foot three point jumper	21 - 23	21	23	0	0	Domantas Sabonis		misses	jumper	26		three			
+401126865	1	11:57	2.3	bos	Jayson Tatum defensive rebound	21 - 23	21	23	0	0	Jayson Tatum		defensive rebound							
+401126865	1	11:59	0.3	bos	Terry Rozier misses 33-foot three point pullup jump shot	21 - 23	21	23	0	0	Terry Rozier		misses	pullup jump shot	33		three			
+401126865	1	11:59	0.3	bos	Celtics offensive team rebound	21 - 23	21	23	0	0			offensive rebound	team						celtics
+401126865	1	12:00	0.0	ind	End of the 1st Quarter	21 - 23	21	23	0	0			end of the 1st quarter							
+401126865	2	00:19	11:41	bos	Marcus Morris makes 10-foot two point shot	23 - 23	23	23	2	0	Marcus Morris		makes	shot	10		two			
+401126865	2	00:40	11:20	ind	Cory Joseph misses 23-foot three point jumper	23 - 23	23	23	0	0	Cory Joseph		misses	jumper	23		three			
+401126865	2	00:42	11:18	ind	Domantas Sabonis offensive rebound	23 - 23	23	23	0	0	Domantas Sabonis		offensive rebound							
+401126865	2	00:44	11:16	ind	Tyreke Evans misses 26-foot three point jumper	23 - 23	23	23	0	0	Tyreke Evans		misses	jumper	26		three			
+401126865	2	00:46	11:14	bos	Jayson Tatum defensive rebound	23 - 23	23	23	0	0	Jayson Tatum		defensive rebound							
+401126865	2	00:54	11:06	bos	Jayson Tatum misses 8-foot two point shot	23 - 23	23	23	0	0	Jayson Tatum		misses	shot	8		two			
+401126865	2	00:56	11:04	bos	Al Horford offensive rebound	23 - 23	23	23	0	0	Al Horford		offensive rebound							
+401126865	2	00:56	11:04	ind	Tyreke Evans shooting foul	23 - 23	23	23	0	0	Tyreke Evans		foul							
+401126865	2	00:56	11:04	bos	Al Horford makes free throw 1 of 2	24 - 23	24	23	1	0	Al Horford		makes	free throw		1-2				
+401126865	2	00:56	11:04	bos	Al Horford makes free throw 2 of 2	25 - 23	25	23	1	0	Al Horford		makes	free throw		2-2				
+401126865	2	01:15	10:45	ind	Cory Joseph makes 5-foot two point shot	25 - 25	25	25	0	2	Cory Joseph		makes	shot	5		two			
+401126865	2	01:29	10:31	ind	Aaron Holiday personal foul	25 - 25	25	25	0	0	Aaron Holiday		foul							
+401126865	2	01:41	10:19	bos	Al Horford makes jumper	27 - 25	27	25	2	0	Al Horford		makes	jumper						
+401126865	2	01:52	10:08	ind	Tyreke Evans misses layup	27 - 25	27	25	0	0	Tyreke Evans		misses	layup						
+401126865	2	01:54	10:06	bos	Gordon Hayward defensive rebound	27 - 25	27	25	0	0	Gordon Hayward		defensive rebound							
+401126865	2	02:01	9:59	bos	Al Horford misses 26-foot three point jumper	27 - 25	27	25	0	0	Al Horford		misses	jumper	26		three			
+401126865	2	02:04	9:56	ind	Domantas Sabonis defensive rebound	27 - 25	27	25	0	0	Domantas Sabonis		defensive rebound							
+401126865	2	02:14	9:46	ind	Bojan Bogdanovic bad pass (Gordon Hayward steals)	27 - 25	27	25	0	0	Bojan Bogdanovic		bad pass					Gordon Hayward	steals	
+401126865	2	02:17	9:43	bos	Terry Rozier makes dunk (Gordon Hayward assists)	29 - 25	29	25	2	0	Terry Rozier		makes	dunk				Gordon Hayward	assists	
+401126865	2	02:18	9:42	ind	Pacers Full timeout	29 - 25	29	25	0	0			full timeout							pacers
+401126865	2	02:18	9:42	ind	Thaddeus Young enters the game for Bojan Bogdanovic	29 - 25	29	25	0	0	Thaddeus Young	Bojan Bogdanovic	enters the game for							
+401126865	2	02:40	9:20	ind	Gordon Hayward blocks Tyreke Evans 's 3-foot driving layup	29 - 25	29	25	0	0	Gordon Hayward	Tyreke Evans	blocks	driving layup	3					
+401126865	2	02:43	9:17	bos	Al Horford defensive rebound	29 - 25	29	25	0	0	Al Horford		defensive rebound							
+401126865	2	02:52	9:08	bos	Jayson Tatum misses 25-foot three point pullup jump shot	29 - 25	29	25	0	0	Jayson Tatum		misses	pullup jump shot	25		three			
+401126865	2	02:54	9:06	ind	Tyreke Evans defensive rebound	29 - 25	29	25	0	0	Tyreke Evans		defensive rebound							
+401126865	2	03:05	8:55	ind	Aaron Holiday misses 17-foot pullup jump shot	29 - 25	29	25	0	0	Aaron Holiday		misses	pullup jump shot	17					
+401126865	2	03:07	8:53	bos	Jayson Tatum defensive rebound	29 - 25	29	25	0	0	Jayson Tatum		defensive rebound							
+401126865	2	03:22	8:38	bos	Terry Rozier makes 12-foot pullup jump shot	31 - 25	31	25	2	0	Terry Rozier		makes	pullup jump shot	12					
+401126865	2	03:33	8:27	ind	Aaron Holiday offensive foul	31 - 25	31	25	0	0	Aaron Holiday		foul							
+401126865	2	03:33	8:27	ind	Aaron Holiday turnover	31 - 25	31	25	0	0	Aaron Holiday		turnover							
+401126865	2	03:33	8:27	ind	Wesley Matthews enters the game for Aaron Holiday	31 - 25	31	25	0	0	Wesley Matthews	Aaron Holiday	enters the game for							
+401126865	2	03:33	8:27	bos	Jaylen Brown enters the game for Gordon Hayward	31 - 25	31	25	0	0	Jaylen Brown	Gordon Hayward	enters the game for							
+401126865	2	03:33	8:27	bos	Daniel Theis enters the game for Al Horford	31 - 25	31	25	0	0	Daniel Theis	Al Horford	enters the game for							
+401126865	2	03:44	8:16	bos	Terry Rozier makes 27-foot three point jumper (Jaylen Brown assists)	34 - 25	34	25	3	0	Terry Rozier		makes	jumper	27		three	Jaylen Brown	assists	
+401126865	2	04:09	7:51	ind	Tyreke Evans makes 28-foot three point jumper (Domantas Sabonis assists)	34 - 28	34	28	0	3	Tyreke Evans		makes	jumper	28		three	Domantas Sabonis	assists	
+401126865	2	04:28	7:32	bos	Marcus Morris makes 18-foot pullup jump shot (Terry Rozier assists)	36 - 28	36	28	2	0	Marcus Morris		makes	pullup jump shot	18			Terry Rozier	assists	
+401126865	2	04:41	7:19	ind	Tyreke Evans misses 27-foot step back jumpshot	36 - 28	36	28	0	0	Tyreke Evans		misses	step back jumpshot	27					
+401126865	2	04:46	7:14	ind	Thaddeus Young offensive rebound	36 - 28	36	28	0	0	Thaddeus Young		offensive rebound							
+401126865	2	04:46	7:14	ind	Thaddeus Young misses tip shot	36 - 28	36	28	0	0	Thaddeus Young		misses	tip shot						
+401126865	2	04:47	7:13	bos	Marcus Morris defensive rebound	36 - 28	36	28	0	0	Marcus Morris		defensive rebound							
+401126865	2	04:54	7:06	bos	Terry Rozier traveling	36 - 28	36	28	0	0	Terry Rozier		traveling							
+401126865	2	04:54	7:06	ind	Darren Collison enters the game for Cory Joseph	36 - 28	36	28	0	0	Darren Collison	Cory Joseph	enters the game for							
+401126865	2	05:10	6:50	ind	Wesley Matthews misses driving layup	36 - 28	36	28	0	0	Wesley Matthews		misses	driving layup						
+401126865	2	05:10	6:50	bos	Celtics defensive team rebound	36 - 28	36	28	0	0			defensive rebound	team						celtics
+401126865	2	05:10	6:50	ind	Domantas Sabonis loose ball foul	36 - 28	36	28	0	0	Domantas Sabonis		foul							
+401126865	2	05:10	6:50	bos	Kyrie Irving enters the game for Jayson Tatum	36 - 28	36	28	0	0	Kyrie Irving	Jayson Tatum	enters the game for							
+401126865	2	05:25	6:35	bos	Kyrie Irving misses 23-foot three point jumper	36 - 28	36	28	0	0	Kyrie Irving		misses	jumper	23		three			
+401126865	2	05:27	6:33	ind	Darren Collison defensive rebound	36 - 28	36	28	0	0	Darren Collison		defensive rebound							
+401126865	2	05:43	6:17	ind	Domantas Sabonis makes two point shot	36 - 30	36	30	0	2	Domantas Sabonis		makes	shot			two			
+401126865	2	05:50	6:10	bos	Marcus Morris misses 24-foot three point jumper	36 - 30	36	30	0	0	Marcus Morris		misses	jumper	24		three			
+401126865	2	05:53	6:07	ind	Thaddeus Young defensive rebound	36 - 30	36	30	0	0	Thaddeus Young		defensive rebound							
+401126865	2	06:03	5:57	ind	Tyreke Evans makes driving layup	36 - 32	36	32	0	2	Tyreke Evans		makes	driving layup						
+401126865	2	06:03	5:57	bos	Daniel Theis shooting foul	36 - 32	36	32	0	0	Daniel Theis		foul							
+401126865	2	06:03	5:57	ind	Myles Turner enters the game for Thaddeus Young	36 - 32	36	32	0	0	Myles Turner	Thaddeus Young	enters the game for							
+401126865	2	06:03	5:57	bos	Gordon Hayward enters the game for Terry Rozier	36 - 32	36	32	0	0	Gordon Hayward	Terry Rozier	enters the game for							
+401126865	2	06:03	5:57	ind	Tyreke Evans makes free throw 1 of 1	36 - 33	36	33	0	1	Tyreke Evans		makes	free throw		1-1				
+401126865	2	06:15	5:45	bos	Gordon Hayward offensive foul	36 - 33	36	33	0	0	Gordon Hayward		foul							
+401126865	2	06:15	5:45	bos	Gordon Hayward turnover	36 - 33	36	33	0	0	Gordon Hayward		turnover							
+401126865	2	06:15	5:45	ind	Thaddeus Young enters the game for Domantas Sabonis	36 - 33	36	33	0	0	Thaddeus Young	Domantas Sabonis	enters the game for							
+401126865	2	06:15	5:45	ind	Bojan Bogdanovic enters the game for Tyreke Evans	36 - 33	36	33	0	0	Bojan Bogdanovic	Tyreke Evans	enters the game for							
+401126865	2	06:37	5:23	ind	Thaddeus Young makes 2-foot two point shot (Wesley Matthews assists)	36 - 35	36	35	0	2	Thaddeus Young		makes	shot	2		two	Wesley Matthews	assists	
+401126865	2	07:01	4:59	bos	Kyrie Irving makes 16-foot pullup jump shot	38 - 35	38	35	2	0	Kyrie Irving		makes	pullup jump shot	16					
+401126865	2	07:21	4:39	ind	Wesley Matthews misses 27-foot three point jumper	38 - 35	38	35	0	0	Wesley Matthews		misses	jumper	27		three			
+401126865	2	07:25	4:35	bos	Daniel Theis defensive rebound	38 - 35	38	35	0	0	Daniel Theis		defensive rebound							
+401126865	2	07:30	4:30	bos	Kyrie Irving misses 27-foot three point pullup jump shot	38 - 35	38	35	0	0	Kyrie Irving		misses	pullup jump shot	27		three			
+401126865	2	07:31	4:29	ind	Bojan Bogdanovic defensive rebound	38 - 35	38	35	0	0	Bojan Bogdanovic		defensive rebound							
+401126865	2	07:46	4:14	ind	Darren Collison misses layup	38 - 35	38	35	0	0	Darren Collison		misses	layup						
+401126865	2	07:49	4:11	bos	Marcus Morris defensive rebound	38 - 35	38	35	0	0	Marcus Morris		defensive rebound							
+401126865	2	07:59	4:01	bos	Marcus Morris makes 20-foot pullup jump shot (Kyrie Irving assists)	40 - 35	40	35	2	0	Marcus Morris		makes	pullup jump shot	20			Kyrie Irving	assists	
+401126865	2	08:26	3:34	ind	Darren Collison misses 27-foot three point jumper	40 - 35	40	35	0	0	Darren Collison		misses	jumper	27		three			
+401126865	2	08:29	3:31	bos	Marcus Morris defensive rebound	40 - 35	40	35	0	0	Marcus Morris		defensive rebound							
+401126865	2	08:36	3:24	bos	Kyrie Irving bad pass (Darren Collison steals)	40 - 35	40	35	0	0	Kyrie Irving		bad pass					Darren Collison	steals	
+401126865	2	08:40	3:20	ind	Bojan Bogdanovic makes dunk (Darren Collison assists)	40 - 37	40	37	0	2	Bojan Bogdanovic		makes	dunk				Darren Collison	assists	
+401126865	2	08:40	3:20	bos	Celtics Full timeout	40 - 37	40	37	0	0			full timeout							celtics
+401126865	2	08:40	3:20	bos	Al Horford enters the game for Marcus Morris	40 - 37	40	37	0	0	Al Horford	Marcus Morris	enters the game for							
+401126865	2	08:40	3:20	bos	Jayson Tatum enters the game for Daniel Theis	40 - 37	40	37	0	0	Jayson Tatum	Daniel Theis	enters the game for							
+401126865	2	08:54	3:06	ind	Myles Turner shooting foul	40 - 37	40	37	0	0	Myles Turner		foul							
+401126865	2	08:54	3:06	bos	Jayson Tatum makes free throw 1 of 2	41 - 37	41	37	1	0	Jayson Tatum		makes	free throw		1-2				
+401126865	2	08:54	3:06	bos	Jayson Tatum makes free throw 2 of 2	42 - 37	42	37	1	0	Jayson Tatum		makes	free throw		2-2				
+401126865	2	09:12	2:48	ind	Myles Turner makes 2-foot driving dunk (Bojan Bogdanovic assists)	42 - 39	42	39	0	2	Myles Turner		makes	driving dunk	2			Bojan Bogdanovic	assists	
+401126865	2	09:25	2:35	bos	Jaylen Brown makes 25-foot three point jumper (Al Horford assists)	45 - 39	45	39	3	0	Jaylen Brown		makes	jumper	25		three	Al Horford	assists	
+401126865	2	09:41	2:19	ind	Bojan Bogdanovic makes layup (Darren Collison assists)	45 - 41	45	41	0	2	Bojan Bogdanovic		makes	layup				Darren Collison	assists	
+401126865	2	09:53	2:07	bos	Jaylen Brown offensive charge	45 - 41	45	41	0	0	Jaylen Brown		offensive charge							
+401126865	2	09:53	2:07	bos	Jaylen Brown turnover	45 - 41	45	41	0	0	Jaylen Brown		turnover							
+401126865	2	10:09	1:51	ind	Bojan Bogdanovic misses 18-foot step back jumpshot	45 - 41	45	41	0	0	Bojan Bogdanovic		misses	step back jumpshot	18					
+401126865	2	10:12	1:48	bos	Jayson Tatum defensive rebound	45 - 41	45	41	0	0	Jayson Tatum		defensive rebound							
+401126865	2	10:19	1:41	bos	Jayson Tatum bad pass (Darren Collison steals)	45 - 41	45	41	0	0	Jayson Tatum		bad pass					Darren Collison	steals	
+401126865	2	10:22	1:38	bos	Kyrie Irving shooting foul	45 - 41	45	41	0	0	Kyrie Irving		foul							
+401126865	2	10:22	1:38	ind	Darren Collison makes free throw 1 of 2	45 - 42	45	42	0	1	Darren Collison		makes	free throw		1-2				
+401126865	2	10:22	1:38	ind	Darren Collison makes free throw 2 of 2	45 - 43	45	43	0	1	Darren Collison		makes	free throw		2-2				
+401126865	2	10:38	1:22	bos	Gordon Hayward makes driving layup	47 - 43	47	43	2	0	Gordon Hayward		makes	driving layup						
+401126865	2	10:48	1:12	ind	Darren Collison makes driving layup	47 - 45	47	45	0	2	Darren Collison		makes	driving layup						
+401126865	2	11:02	57.3	bos	Kyrie Irving misses 11-foot two point shot	47 - 45	47	45	0	0	Kyrie Irving		misses	shot	11		two			
+401126865	2	11:05	55.0	ind	Bojan Bogdanovic defensive rebound	47 - 45	47	45	0	0	Bojan Bogdanovic		defensive rebound							
+401126865	2	11:17	42.7	ind	Myles Turner makes 19-foot jumper (Darren Collison assists)	47 - 47	47	47	0	2	Myles Turner		makes	jumper	19			Darren Collison	assists	
+401126865	2	11:30	29.6	bos	Jayson Tatum misses 27-foot three point jumper	47 - 47	47	47	0	0	Jayson Tatum		misses	jumper	27		three			
+401126865	2	11:32	27.4	ind	Myles Turner defensive rebound	47 - 47	47	47	0	0	Myles Turner		defensive rebound							
+401126865	2	11:52	7.2	bos	Al Horford shooting foul	47 - 47	47	47	0	0	Al Horford		foul							
+401126865	2	11:52	7.2	ind	Darren Collison makes free throw 1 of 2	47 - 48	47	48	0	1	Darren Collison		makes	free throw		1-2				
+401126865	2	11:52	7.2	ind	Cory Joseph enters the game for Bojan Bogdanovic	47 - 48	47	48	0	0	Cory Joseph	Bojan Bogdanovic	enters the game for							
+401126865	2	11:52	7.2	bos	Terry Rozier enters the game for Jaylen Brown	47 - 48	47	48	0	0	Terry Rozier	Jaylen Brown	enters the game for							
+401126865	2	11:52	7.2	ind	Darren Collison makes free throw 2 of 2	47 - 49	47	49	0	1	Darren Collison		makes	free throw		2-2				
+401126865	2	11:59	0.5	bos	Kyrie Irving misses 15-foot pullup jump shot	47 - 49	47	49	0	0	Kyrie Irving		misses	pullup jump shot	15					
+401126865	2	11:59	0.5	bos	Celtics offensive team rebound	47 - 49	47	49	0	0			offensive rebound	team						celtics
+401126865	2	12:00	0.0	ind	End of the 2nd Quarter	47 - 49	47	49	0	0			end of the 2nd quarter							
+401126865	3	00:00	12:00	ind	Bojan Bogdanovic enters the game for Cory Joseph	47 - 49	47	49	0	0	Bojan Bogdanovic	Cory Joseph	enters the game for							
+401126865	3	00:00	12:00	bos	Jaylen Brown enters the game for Gordon Hayward	47 - 49	47	49	0	0	Jaylen Brown	Gordon Hayward	enters the game for							
+401126865	3	00:00	12:00	bos	Aron Baynes enters the game for Terry Rozier	47 - 49	47	49	0	0	Aron Baynes	Terry Rozier	enters the game for							
+401126865	3	00:14	11:46	bos	Al Horford misses layup	47 - 49	47	49	0	0	Al Horford		misses	layup						
+401126865	3	00:17	11:43	bos	Al Horford offensive rebound	47 - 49	47	49	0	0	Al Horford		offensive rebound							
+401126865	3	00:17	11:43	bos	Al Horford misses tip shot	47 - 49	47	49	0	0	Al Horford		misses	tip shot						
+401126865	3	00:18	11:42	bos	Al Horford offensive rebound	47 - 49	47	49	0	0	Al Horford		offensive rebound							
+401126865	3	00:18	11:42	bos	Al Horford misses tip shot	47 - 49	47	49	0	0	Al Horford		misses	tip shot						
+401126865	3	00:20	11:40	ind	Thaddeus Young defensive rebound	47 - 49	47	49	0	0	Thaddeus Young		defensive rebound							
+401126865	3	00:32	11:28	ind	Myles Turner makes 18-foot jumper (Darren Collison assists)	47 - 51	47	51	0	2	Myles Turner		makes	jumper	18			Darren Collison	assists	
+401126865	3	00:50	11:10	bos	Aron Baynes makes layup (Kyrie Irving assists)	49 - 51	49	51	2	0	Aron Baynes		makes	layup				Kyrie Irving	assists	
+401126865	3	00:55	11:05	ind	Bojan Bogdanovic makes 26-foot three point jumper (Wesley Matthews assists)	49 - 54	49	54	0	3	Bojan Bogdanovic		makes	jumper	26		three	Wesley Matthews	assists	
+401126865	3	00:57	11:03	bos	Celtics Full timeout	49 - 54	49	54	0	0			full timeout							celtics
+401126865	3	01:14	10:46	bos	Kyrie Irving misses 17-foot two point shot	49 - 54	49	54	0	0	Kyrie Irving		misses	shot	17		two			
+401126865	3	01:18	10:42	ind	Bojan Bogdanovic defensive rebound	49 - 54	49	54	0	0	Bojan Bogdanovic		defensive rebound							
+401126865	3	01:22	10:38	bos	Jaylen Brown shooting foul	49 - 54	49	54	0	0	Jaylen Brown		foul							
+401126865	3	01:22	10:38	ind	Bojan Bogdanovic makes free throw 1 of 2	49 - 55	49	55	0	1	Bojan Bogdanovic		makes	free throw		1-2				
+401126865	3	01:22	10:38	ind	Bojan Bogdanovic makes free throw 2 of 2	49 - 56	49	56	0	1	Bojan Bogdanovic		makes	free throw		2-2				
+401126865	3	01:40	10:20	bos	Jaylen Brown makes driving layup	51 - 56	51	56	2	0	Jaylen Brown		makes	driving layup						
+401126865	3	01:58	10:02	ind	Myles Turner misses 27-foot three point jumper	51 - 56	51	56	0	0	Myles Turner		misses	jumper	27		three			
+401126865	3	02:02	9:58	bos	Jayson Tatum defensive rebound	51 - 56	51	56	0	0	Jayson Tatum		defensive rebound							
+401126865	3	02:07	9:53	bos	Jayson Tatum misses 18-foot pullup jump shot	51 - 56	51	56	0	0	Jayson Tatum		misses	pullup jump shot	18					
+401126865	3	02:10	9:50	ind	Pacers defensive team rebound	51 - 56	51	56	0	0			defensive rebound	team						pacers
+401126865	3	02:16	9:44	ind	Wesley Matthews bad pass (Jayson Tatum steals)	51 - 56	51	56	0	0	Wesley Matthews		bad pass					Jayson Tatum	steals	
+401126865	3	02:20	9:40	bos	Jayson Tatum bad pass (Wesley Matthews steals)	51 - 56	51	56	0	0	Jayson Tatum		bad pass					Wesley Matthews	steals	
+401126865	3	02:30	9:30	ind	Darren Collison misses pullup jump shot	51 - 56	51	56	0	0	Darren Collison		misses	pullup jump shot						
+401126865	3	02:32	9:28	ind	Thaddeus Young offensive rebound	51 - 56	51	56	0	0	Thaddeus Young		offensive rebound							
+401126865	3	02:32	9:28	ind	Thaddeus Young makes dunk	51 - 58	51	58	0	2	Thaddeus Young		makes	dunk						
+401126865	3	02:57	9:03	bos	Al Horford makes 27-foot three point jumper (Kyrie Irving assists)	54 - 58	54	58	3	0	Al Horford		makes	jumper	27		three	Kyrie Irving	assists	
+401126865	3	03:14	8:46	ind	Wesley Matthews misses 27-foot three point pullup jump shot	54 - 58	54	58	0	0	Wesley Matthews		misses	pullup jump shot	27		three			
+401126865	3	03:18	8:42	bos	Jaylen Brown defensive rebound	54 - 58	54	58	0	0	Jaylen Brown		defensive rebound							
+401126865	3	03:26	8:34	bos	Al Horford misses 8-foot two point shot	54 - 58	54	58	0	0	Al Horford		misses	shot	8		two			
+401126865	3	03:30	8:30	ind	Thaddeus Young defensive rebound	54 - 58	54	58	0	0	Thaddeus Young		defensive rebound							
+401126865	3	03:38	8:22	ind	Thaddeus Young misses 4-foot hook shot	54 - 58	54	58	0	0	Thaddeus Young		misses	hook shot	4					
+401126865	3	03:40	8:20	bos	Al Horford defensive rebound	54 - 58	54	58	0	0	Al Horford		defensive rebound							
+401126865	3	03:46	8:14	bos	Al Horford misses 28-foot three point jumper	54 - 58	54	58	0	0	Al Horford		misses	jumper	28		three			
+401126865	3	03:50	8:10	ind	Bojan Bogdanovic defensive rebound	54 - 58	54	58	0	0	Bojan Bogdanovic		defensive rebound							
+401126865	3	03:55	8:05	ind	Bojan Bogdanovic makes two point shot	54 - 60	54	60	0	2	Bojan Bogdanovic		makes	shot			two			
+401126865	3	04:10	7:50	bos	Al Horford traveling	54 - 60	54	60	0	0	Al Horford		traveling							
+401126865	3	04:23	7:37	ind	Darren Collison back court turnover	54 - 60	54	60	0	0	Darren Collison		turnover							
+401126865	3	04:23	7:37	bos	Marcus Morris enters the game for Jayson Tatum	54 - 60	54	60	0	0	Marcus Morris	Jayson Tatum	enters the game for							
+401126865	3	04:23	7:37	bos	Gordon Hayward enters the game for Al Horford	54 - 60	54	60	0	0	Gordon Hayward	Al Horford	enters the game for							
+401126865	3	04:34	7:26	bos	Jaylen Brown misses 28-foot three point jumper	54 - 60	54	60	0	0	Jaylen Brown		misses	jumper	28		three			
+401126865	3	04:38	7:22	ind	Thaddeus Young defensive rebound	54 - 60	54	60	0	0	Thaddeus Young		defensive rebound							
+401126865	3	04:49	7:11	ind	Thaddeus Young bad pass (Aron Baynes steals)	54 - 60	54	60	0	0	Thaddeus Young		bad pass					Aron Baynes	steals	
+401126865	3	05:03	6:57	bos	Marcus Morris makes 12-foot pullup jump shot	56 - 60	56	60	2	0	Marcus Morris		makes	pullup jump shot	12					
+401126865	3	05:09	6:51	ind	Pacers Full timeout	56 - 60	56	60	0	0			full timeout							pacers
+401126865	3	05:17	6:43	ind	Wesley Matthews misses 29-foot three point jumper	56 - 60	56	60	0	0	Wesley Matthews		misses	jumper	29		three			
+401126865	3	05:20	6:40	ind	Thaddeus Young offensive rebound	56 - 60	56	60	0	0	Thaddeus Young		offensive rebound							
+401126865	3	05:21	6:39	ind	Wesley Matthews makes 23-foot three point jumper (Thaddeus Young assists)	56 - 63	56	63	0	3	Wesley Matthews		makes	jumper	23		three	Thaddeus Young	assists	
+401126865	3	05:33	6:27	bos	Kyrie Irving misses 17-foot pullup jump shot	56 - 63	56	63	0	0	Kyrie Irving		misses	pullup jump shot	17					
+401126865	3	05:36	6:24	ind	Darren Collison defensive rebound	56 - 63	56	63	0	0	Darren Collison		defensive rebound							
+401126865	3	05:46	6:14	ind	Myles Turner misses 19-foot pullup jump shot	56 - 63	56	63	0	0	Myles Turner		misses	pullup jump shot	19					
+401126865	3	05:49	6:11	bos	Marcus Morris defensive rebound	56 - 63	56	63	0	0	Marcus Morris		defensive rebound							
+401126865	3	05:55	6:05	bos	Jaylen Brown makes 27-foot three point jumper (Kyrie Irving assists)	59 - 63	59	63	3	0	Jaylen Brown		makes	jumper	27		three	Kyrie Irving	assists	
+401126865	3	06:13	5:47	bos	Aron Baynes shooting foul	59 - 63	59	63	0	0	Aron Baynes		foul							
+401126865	3	06:13	5:47	ind	Myles Turner makes free throw 1 of 2	59 - 64	59	64	0	1	Myles Turner		makes	free throw		1-2				
+401126865	3	06:13	5:47	ind	Myles Turner makes free throw 2 of 2	59 - 65	59	65	0	1	Myles Turner		makes	free throw		2-2				
+401126865	3	06:22	5:38	bos	Gordon Hayward makes 28-foot three point jumper (Kyrie Irving assists)	62 - 65	62	65	3	0	Gordon Hayward		makes	jumper	28		three	Kyrie Irving	assists	
+401126865	3	06:35	5:25	ind	Wesley Matthews back court turnover	62 - 65	62	65	0	0	Wesley Matthews		turnover							
+401126865	3	06:44	5:16	bos	Aron Baynes offensive foul	62 - 65	62	65	0	0	Aron Baynes		foul							
+401126865	3	06:44	5:16	bos	Aron Baynes turnover	62 - 65	62	65	0	0	Aron Baynes		turnover							
+401126865	3	07:08	4:52	ind	Darren Collison misses 27-foot three point jumper	62 - 65	62	65	0	0	Darren Collison		misses	jumper	27		three			
+401126865	3	07:11	4:49	bos	Aron Baynes defensive rebound	62 - 65	62	65	0	0	Aron Baynes		defensive rebound							
+401126865	3	07:21	4:39	bos	Kyrie Irving makes 20-foot pullup jump shot	64 - 65	64	65	2	0	Kyrie Irving		makes	pullup jump shot	20					
+401126865	3	07:42	4:18	ind	Thaddeus Young makes layup	64 - 67	64	67	0	2	Thaddeus Young		makes	layup						
+401126865	3	07:42	4:18	bos	Aron Baynes defensive goaltending violation	64 - 67	64	67	0	0	Aron Baynes		defensive goaltending violation							
+401126865	3	07:59	4:01	bos	Marcus Morris misses 19-foot pullup jump shot	64 - 67	64	67	0	0	Marcus Morris		misses	pullup jump shot	19					
+401126865	3	08:02	3:58	ind	Bojan Bogdanovic defensive rebound	64 - 67	64	67	0	0	Bojan Bogdanovic		defensive rebound							
+401126865	3	08:13	3:47	ind	Bojan Bogdanovic misses two point shot	64 - 67	64	67	0	0	Bojan Bogdanovic		misses	shot			two			
+401126865	3	08:17	3:43	ind	Myles Turner offensive rebound	64 - 67	64	67	0	0	Myles Turner		offensive rebound							
+401126865	3	08:17	3:43	bos	Marcus Morris shooting foul	64 - 67	64	67	0	0	Marcus Morris		foul							
+401126865	3	08:17	3:43	ind	Myles Turner misses free throw 1 of 2	64 - 67	64	67	0	0	Myles Turner		misses	free throw		1-2				
+401126865	3	08:17	3:43	ind	Pacers offensive team rebound	64 - 67	64	67	0	0			offensive rebound	team						pacers
+401126865	3	08:17	3:43	ind	Domantas Sabonis enters the game for Thaddeus Young	64 - 67	64	67	0	0	Domantas Sabonis	Thaddeus Young	enters the game for							
+401126865	3	08:17	3:43	ind	Tyreke Evans enters the game for Bojan Bogdanovic	64 - 67	64	67	0	0	Tyreke Evans	Bojan Bogdanovic	enters the game for							
+401126865	3	08:17	3:43	bos	Al Horford enters the game for Jaylen Brown	64 - 67	64	67	0	0	Al Horford	Jaylen Brown	enters the game for							
+401126865	3	08:17	3:43	bos	Terry Rozier enters the game for Aron Baynes	64 - 67	64	67	0	0	Terry Rozier	Aron Baynes	enters the game for							
+401126865	3	08:17	3:43	ind	Myles Turner makes free throw 2 of 2	64 - 68	64	68	0	1	Myles Turner		makes	free throw		2-2				
+401126865	3	08:31	3:29	bos	Al Horford makes 22-foot jumper (Gordon Hayward assists)	66 - 68	66	68	2	0	Al Horford		makes	jumper	22			Gordon Hayward	assists	
+401126865	3	08:49	3:11	ind	Wesley Matthews misses 18-foot step back jumpshot	66 - 68	66	68	0	0	Wesley Matthews		misses	step back jumpshot	18					
+401126865	3	08:52	3:08	ind	Domantas Sabonis offensive rebound	66 - 68	66	68	0	0	Domantas Sabonis		offensive rebound							
+401126865	3	08:53	3:07	ind	Domantas Sabonis bad pass (Gordon Hayward steals)	66 - 68	66	68	0	0	Domantas Sabonis		bad pass					Gordon Hayward	steals	
+401126865	3	09:04	2:56	bos	Gordon Hayward misses driving layup	66 - 68	66	68	0	0	Gordon Hayward		misses	driving layup						
+401126865	3	09:06	2:54	bos	Al Horford offensive rebound	66 - 68	66	68	0	0	Al Horford		offensive rebound							
+401126865	3	09:06	2:54	bos	Al Horford makes tip shot	68 - 68	68	68	2	0	Al Horford		makes	tip shot						
+401126865	3	09:29	2:31	ind	Myles Turner misses layup	68 - 68	68	68	0	0	Myles Turner		misses	layup						
+401126865	3	09:31	2:29	ind	Domantas Sabonis offensive rebound	68 - 68	68	68	0	0	Domantas Sabonis		offensive rebound							
+401126865	3	09:32	2:28	ind	Domantas Sabonis makes two point shot	68 - 70	68	70	0	2	Domantas Sabonis		makes	shot			two			
+401126865	3	09:43	2:17	ind	Domantas Sabonis shooting foul	68 - 70	68	70	0	0	Domantas Sabonis		foul							
+401126865	3	09:43	2:17	bos	Terry Rozier misses free throw 1 of 2	68 - 70	68	70	0	0	Terry Rozier		misses	free throw		1-2				
+401126865	3	09:43	2:17	bos	Celtics offensive team rebound	68 - 70	68	70	0	0			offensive rebound	team						celtics
+401126865	3	09:43	2:17	ind	Cory Joseph enters the game for Wesley Matthews	68 - 70	68	70	0	0	Cory Joseph	Wesley Matthews	enters the game for							
+401126865	3	09:43	2:17	bos	Terry Rozier makes free throw 2 of 2	69 - 70	69	70	1	0	Terry Rozier		makes	free throw		2-2				
+401126865	3	09:55	2:05	bos	Terry Rozier shooting foul	69 - 70	69	70	0	0	Terry Rozier		foul							
+401126865	3	09:55	2:05	ind	Darren Collison makes free throw 1 of 2	69 - 71	69	71	0	1	Darren Collison		makes	free throw		1-2				
+401126865	3	09:55	2:05	ind	Darren Collison makes free throw 2 of 2	69 - 72	69	72	0	1	Darren Collison		makes	free throw		2-2				
+401126865	3	10:09	1:51	bos	Kyrie Irving makes two point shot	71 - 72	71	72	2	0	Kyrie Irving		makes	shot			two			
+401126865	3	10:27	1:33	ind	Myles Turner misses 27-foot three point jumper	71 - 72	71	72	0	0	Myles Turner		misses	jumper	27		three			
+401126865	3	10:30	1:30	ind	Darren Collison offensive rebound	71 - 72	71	72	0	0	Darren Collison		offensive rebound							
+401126865	3	10:31	1:29	ind	Tyreke Evans misses 27-foot three point jumper	71 - 72	71	72	0	0	Tyreke Evans		misses	jumper	27		three			
+401126865	3	10:35	1:25	bos	Al Horford defensive rebound	71 - 72	71	72	0	0	Al Horford		defensive rebound							
+401126865	3	10:42	1:18	bos	Al Horford misses 26-foot three point jumper	71 - 72	71	72	0	0	Al Horford		misses	jumper	26		three			
+401126865	3	10:45	1:15	ind	Domantas Sabonis defensive rebound	71 - 72	71	72	0	0	Domantas Sabonis		defensive rebound							
+401126865	3	11:05	54.6	ind	Domantas Sabonis misses 18-foot jumper	71 - 72	71	72	0	0	Domantas Sabonis		misses	jumper	18					
+401126865	3	11:08	51.5	bos	Celtics defensive team rebound	71 - 72	71	72	0	0			defensive rebound	team						celtics
+401126865	3	11:08	51.5	ind	Myles Turner loose ball foul	71 - 72	71	72	0	0	Myles Turner		foul							
+401126865	3	11:08	51.5	ind	Bojan Bogdanovic enters the game for Myles Turner	71 - 72	71	72	0	0	Bojan Bogdanovic	Myles Turner	enters the game for							
+401126865	3	11:08	51.5	bos	Jayson Tatum enters the game for Kyrie Irving	71 - 72	71	72	0	0	Jayson Tatum	Kyrie Irving	enters the game for							
+401126865	3	11:21	39.0	bos	Al Horford misses alley oop layup	71 - 72	71	72	0	0	Al Horford		misses	alley oop layup						
+401126865	3	11:22	38.0	bos	Al Horford offensive rebound	71 - 72	71	72	0	0	Al Horford		offensive rebound							
+401126865	3	11:23	36.3	bos	Al Horford lost ball turnover (Cory Joseph steals)	71 - 72	71	72	0	0	Al Horford		turnover					Cory Joseph	steals	
+401126865	3	11:32	27.1	ind	Cory Joseph misses driving layup	71 - 72	71	72	0	0	Cory Joseph		misses	driving layup						
+401126865	3	11:34	25.1	bos	Marcus Morris defensive rebound	71 - 72	71	72	0	0	Marcus Morris		defensive rebound							
+401126865	3	11:34	25.1	ind	Domantas Sabonis personal foul	71 - 72	71	72	0	0	Domantas Sabonis		foul							
+401126865	3	11:34	25.1	bos	Marcus Morris makes free throw 1 of 2	72 - 72	72	72	1	0	Marcus Morris		makes	free throw		1-2				
+401126865	3	11:34	25.1	bos	Marcus Morris makes free throw 2 of 2	73 - 72	73	72	1	0	Marcus Morris		makes	free throw		2-2				
+401126865	3	11:59	0.5	ind	Tyreke Evans misses layup	73 - 72	73	72	0	0	Tyreke Evans		misses	layup						
+401126865	3	11:59	0.5	ind	Darren Collison offensive rebound	73 - 72	73	72	0	0	Darren Collison		offensive rebound							
+401126865	3	12:00	0.0	ind	Darren Collison misses tip shot	73 - 72	73	72	0	0	Darren Collison		misses	tip shot						
+401126865	3	12:00	0.0	ind	Pacers offensive team rebound	73 - 72	73	72	0	0			offensive rebound	team						pacers
+401126865	3	12:00	0.0	ind	End of the 3rd Quarter	73 - 72	73	72	0	0			end of the 3rd quarter							
+401126865	4	00:00	12:00	ind	Thaddeus Young enters the game for Darren Collison	73 - 72	73	72	0	0	Thaddeus Young	Darren Collison	enters the game for							
+401126865	4	00:18	11:42	bos	Al Horford kicked ball violation	73 - 72	73	72	0	0	Al Horford		kicked ball violation							
+401126865	4	00:24	11:36	ind	Cory Joseph misses 15-foot pullup jump shot	73 - 72	73	72	0	0	Cory Joseph		misses	pullup jump shot	15					
+401126865	4	00:27	11:33	bos	Marcus Morris defensive rebound	73 - 72	73	72	0	0	Marcus Morris		defensive rebound							
+401126865	4	00:46	11:14	bos	Terry Rozier makes 25-foot three pointer	76 - 72	76	72	3	0	Terry Rozier		makes	er	25		three			
+401126865	4	01:05	10:55	ind	Domantas Sabonis bad pass (Terry Rozier steals)	76 - 72	76	72	0	0	Domantas Sabonis		bad pass					Terry Rozier	steals	
+401126865	4	01:16	10:44	bos	Al Horford misses 17-foot jumper	76 - 72	76	72	0	0	Al Horford		misses	jumper	17					
+401126865	4	01:19	10:41	ind	Domantas Sabonis defensive rebound	76 - 72	76	72	0	0	Domantas Sabonis		defensive rebound							
+401126865	4	01:27	10:33	ind	Tyreke Evans makes two point shot	76 - 74	76	74	0	2	Tyreke Evans		makes	shot			two			
+401126865	4	01:51	10:09	bos	Terry Rozier out of bounds bad pass turnover	76 - 74	76	74	0	0	Terry Rozier		turnover							
+401126865	4	02:06	9:54	bos	Al Horford personal foul	76 - 74	76	74	0	0	Al Horford		foul							
+401126865	4	02:11	9:49	ind	Domantas Sabonis makes 15-foot jumper (Cory Joseph assists)	76 - 76	76	76	0	2	Domantas Sabonis		makes	jumper	15			Cory Joseph	assists	
+401126865	4	02:36	9:24	ind	Tyreke Evans shooting foul	76 - 76	76	76	0	0	Tyreke Evans		foul							
+401126865	4	02:36	9:24	bos	Al Horford makes free throw 1 of 2	77 - 76	77	76	1	0	Al Horford		makes	free throw		1-2				
+401126865	4	02:36	9:24	bos	Al Horford makes free throw 2 of 2	78 - 76	78	76	1	0	Al Horford		makes	free throw		2-2				
+401126865	4	02:54	9:06	ind	Domantas Sabonis makes 19-foot jumper (Tyreke Evans assists)	78 - 78	78	78	0	2	Domantas Sabonis		makes	jumper	19			Tyreke Evans	assists	
+401126865	4	03:08	8:52	bos	Marcus Morris makes 19-foot pullup jump shot	80 - 78	80	78	2	0	Marcus Morris		makes	pullup jump shot	19					
+401126865	4	03:18	8:42	ind	Tyreke Evans misses 27-foot three point jumper	80 - 78	80	78	0	0	Tyreke Evans		misses	jumper	27		three			
+401126865	4	03:22	8:38	ind	Pacers offensive team rebound	80 - 78	80	78	0	0			offensive rebound	team						pacers
+401126865	4	03:22	8:38	bos	Marcus Morris loose ball foul	80 - 78	80	78	0	0	Marcus Morris		foul							
+401126865	4	03:22	8:38	bos	Kyrie Irving enters the game for Gordon Hayward	80 - 78	80	78	0	0	Kyrie Irving	Gordon Hayward	enters the game for							
+401126865	4	03:22	8:38	bos	Aron Baynes enters the game for Al Horford	80 - 78	80	78	0	0	Aron Baynes	Al Horford	enters the game for							
+401126865	4	03:28	8:32	bos	Kyrie Irving shooting foul	80 - 78	80	78	0	0	Kyrie Irving		foul							
+401126865	4	03:28	8:32	ind	Tyreke Evans makes free throw 1 of 2	80 - 79	80	79	0	1	Tyreke Evans		makes	free throw		1-2				
+401126865	4	03:28	8:32	ind	Tyreke Evans makes free throw 2 of 2	80 - 80	80	80	0	1	Tyreke Evans		makes	free throw		2-2				
+401126865	4	03:42	8:18	bos	Terry Rozier misses 28-foot three point jumper	80 - 80	80	80	0	0	Terry Rozier		misses	jumper	28		three			
+401126865	4	03:46	8:14	ind	Cory Joseph defensive rebound	80 - 80	80	80	0	0	Cory Joseph		defensive rebound							
+401126865	4	03:57	8:03	bos	Terry Rozier personal foul	80 - 80	80	80	0	0	Terry Rozier		foul							
+401126865	4	04:05	7:55	ind	Bojan Bogdanovic misses 19-foot pullup jump shot	80 - 80	80	80	0	0	Bojan Bogdanovic		misses	pullup jump shot	19					
+401126865	4	04:07	7:53	bos	Aron Baynes defensive rebound	80 - 80	80	80	0	0	Aron Baynes		defensive rebound							
+401126865	4	04:19	7:41	bos	Kyrie Irving misses two point shot	80 - 80	80	80	0	0	Kyrie Irving		misses	shot			two			
+401126865	4	04:22	7:38	ind	Domantas Sabonis defensive rebound	80 - 80	80	80	0	0	Domantas Sabonis		defensive rebound							
+401126865	4	04:27	7:33	ind	Tyreke Evans makes two point shot	80 - 82	80	82	0	2	Tyreke Evans		makes	shot			two			
+401126865	4	04:42	7:18	ind	Tyreke Evans personal foul	80 - 82	80	82	0	0	Tyreke Evans		foul							
+401126865	4	04:54	7:06	ind	Bojan Bogdanovic shooting foul	80 - 82	80	82	0	0	Bojan Bogdanovic		foul							
+401126865	4	04:54	7:06	bos	Jayson Tatum misses free throw 1 of 2	80 - 82	80	82	0	0	Jayson Tatum		misses	free throw		1-2				
+401126865	4	04:54	7:06	bos	Celtics offensive team rebound	80 - 82	80	82	0	0			offensive rebound	team						celtics
+401126865	4	04:54	7:06	bos	Daniel Theis enters the game for Marcus Morris	80 - 82	80	82	0	0	Daniel Theis	Marcus Morris	enters the game for							
+401126865	4	04:54	7:06	bos	Jayson Tatum makes free throw 2 of 2	81 - 82	81	82	1	0	Jayson Tatum		makes	free throw		2-2				
+401126865	4	05:12	6:48	ind	Tyreke Evans bad pass (Terry Rozier steals)	81 - 82	81	82	0	0	Tyreke Evans		bad pass					Terry Rozier	steals	
+401126865	4	05:15	6:45	ind	Cory Joseph flagrant foul type 1	81 - 82	81	82	0	0	Cory Joseph		foul	type 1						
+401126865	4	05:15	6:45	ind	Pacers Full timeout	81 - 82	81	82	0	0			full timeout							pacers
+401126865	4	05:15	6:45	ind	Wesley Matthews enters the game for Thaddeus Young	81 - 82	81	82	0	0	Wesley Matthews	Thaddeus Young	enters the game for							
+401126865	4	05:15	6:45	ind	Myles Turner enters the game for Bojan Bogdanovic	81 - 82	81	82	0	0	Myles Turner	Bojan Bogdanovic	enters the game for							
+401126865	4	05:15	6:45	bos	Al Horford enters the game for Aron Baynes	81 - 82	81	82	0	0	Al Horford	Aron Baynes	enters the game for							
+401126865	4	05:15	6:45	bos	Marcus Morris enters the game for Daniel Theis	81 - 82	81	82	0	0	Marcus Morris	Daniel Theis	enters the game for							
+401126865	4	05:15	6:45	bos	Jayson Tatum makes free throw flagrant 1 of 2	82 - 82	82	82	1	0	Jayson Tatum		makes	free throw flagrant 1 of 2						
+401126865	4	05:15	6:45	bos	Jayson Tatum makes free throw flagrant 2 of 2	83 - 82	83	82	1	0	Jayson Tatum		makes	free throw flagrant 2 of 2						
+401126865	4	05:22	6:38	bos	Kyrie Irving misses 28-foot three point jumper	83 - 82	83	82	0	0	Kyrie Irving		misses	jumper	28		three			
+401126865	4	05:25	6:35	ind	Tyreke Evans defensive rebound	83 - 82	83	82	0	0	Tyreke Evans		defensive rebound							
+401126865	4	05:41	6:19	ind	Domantas Sabonis misses 19-foot jumper	83 - 82	83	82	0	0	Domantas Sabonis		misses	jumper	19					
+401126865	4	05:44	6:16	bos	Marcus Morris defensive rebound	83 - 82	83	82	0	0	Marcus Morris		defensive rebound							
+401126865	4	06:05	5:55	bos	Jayson Tatum misses pullup jump shot	83 - 82	83	82	0	0	Jayson Tatum		misses	pullup jump shot						
+401126865	4	06:07	5:53	bos	Celtics offensive team rebound	83 - 82	83	82	0	0			offensive rebound	team						celtics
+401126865	4	06:07	5:53	ind	Domantas Sabonis loose ball foul	83 - 82	83	82	0	0	Domantas Sabonis		foul							
+401126865	4	06:07	5:53	bos	Al Horford makes free throw 1 of 2	84 - 82	84	82	1	0	Al Horford		makes	free throw		1-2				
+401126865	4	06:07	5:53	bos	Gordon Hayward enters the game for Terry Rozier	84 - 82	84	82	0	0	Gordon Hayward	Terry Rozier	enters the game for							
+401126865	4	06:07	5:53	bos	Al Horford misses free throw 2 of 2	84 - 82	84	82	0	0	Al Horford		misses	free throw		2-2				
+401126865	4	06:08	5:52	ind	Myles Turner defensive rebound	84 - 82	84	82	0	0	Myles Turner		defensive rebound							
+401126865	4	06:29	5:31	ind	Tyreke Evans misses 21-foot step back jumpshot	84 - 82	84	82	0	0	Tyreke Evans		misses	step back jumpshot	21					
+401126865	4	06:31	5:29	ind	Pacers offensive team rebound	84 - 82	84	82	0	0			offensive rebound	team						pacers
+401126865	4	06:35	5:25	bos	Marcus Morris shooting foul	84 - 82	84	82	0	0	Marcus Morris		foul							
+401126865	4	06:35	5:25	ind	Domantas Sabonis misses free throw 1 of 2	84 - 82	84	82	0	0	Domantas Sabonis		misses	free throw		1-2				
+401126865	4	06:35	5:25	ind	Pacers offensive team rebound	84 - 82	84	82	0	0			offensive rebound	team						pacers
+401126865	4	06:35	5:25	ind	Domantas Sabonis makes free throw 2 of 2	84 - 83	84	83	0	1	Domantas Sabonis		makes	free throw		2-2				
+401126865	4	06:52	5:08	bos	Marcus Morris makes 23-foot three point jumper (Al Horford assists)	87 - 83	87	83	3	0	Marcus Morris		makes	jumper	23		three	Al Horford	assists	
+401126865	4	06:59	5:01	ind	Pacers Full timeout	87 - 83	87	83	0	0			full timeout							pacers
+401126865	4	06:59	5:01	ind	Thaddeus Young enters the game for Domantas Sabonis	87 - 83	87	83	0	0	Thaddeus Young	Domantas Sabonis	enters the game for							
+401126865	4	06:59	5:01	ind	Bojan Bogdanovic enters the game for Wesley Matthews	87 - 83	87	83	0	0	Bojan Bogdanovic	Wesley Matthews	enters the game for							
+401126865	4	07:16	4:44	ind	Tyreke Evans misses 20-foot pullup jump shot	87 - 83	87	83	0	0	Tyreke Evans		misses	pullup jump shot	20					
+401126865	4	07:18	4:42	bos	Jayson Tatum defensive rebound	87 - 83	87	83	0	0	Jayson Tatum		defensive rebound							
+401126865	4	07:36	4:24	bos	Gordon Hayward makes 8-foot two point shot	89 - 83	89	83	2	0	Gordon Hayward		makes	shot	8		two			
+401126865	4	07:36	4:24	ind	Myles Turner shooting foul	89 - 83	89	83	0	0	Myles Turner		foul							
+401126865	4	07:36	4:24	ind	Darren Collison enters the game for Cory Joseph	89 - 83	89	83	0	0	Darren Collison	Cory Joseph	enters the game for							
+401126865	4	07:36	4:24	bos	Gordon Hayward makes free throw 1 of 1	90 - 83	90	83	1	0	Gordon Hayward		makes	free throw		1-1				
+401126865	4	07:45	4:15	bos	Gordon Hayward personal foul	90 - 83	90	83	0	0	Gordon Hayward		foul							
+401126865	4	07:45	4:15	ind	Bojan Bogdanovic makes free throw 1 of 2	90 - 84	90	84	0	1	Bojan Bogdanovic		makes	free throw		1-2				
+401126865	4	07:45	4:15	ind	Bojan Bogdanovic makes free throw 2 of 2	90 - 85	90	85	0	1	Bojan Bogdanovic		makes	free throw		2-2				
+401126865	4	08:06	3:54	bos	Gordon Hayward makes 25-foot three pointer	93 - 85	93	85	3	0	Gordon Hayward		makes	er	25		three			
+401126865	4	08:25	3:35	ind	Darren Collison bad pass (Kyrie Irving steals)	92 - 85	93	85	0	0	Darren Collison		bad pass					Kyrie Irving	steals	
+401126865	4	08:28	3:32	bos	Jayson Tatum makes 3-foot dunk (Al Horford assists)	94 - 85	94	85	2	0	Jayson Tatum		makes	dunk	3			Al Horford	assists	
+401126865	4	08:49	3:11	ind	Bojan Bogdanovic makes 1-foot two point shot	94 - 87	94	87	0	2	Bojan Bogdanovic		makes	shot	1		two			
+401126865	4	09:11	2:49	bos	Marcus Morris makes 24-foot three point jumper (Al Horford assists)	97 - 87	97	87	3	0	Marcus Morris		makes	jumper	24		three	Al Horford	assists	
+401126865	4	09:34	2:26	ind	Myles Turner misses 21-foot jumper	98 - 87	98	87	0	0	Myles Turner		misses	jumper	21					
+401126865	4	09:37	2:23	bos	Gordon Hayward defensive rebound	98 - 87	98	87	0	0	Gordon Hayward		defensive rebound							
+401126865	4	09:57	2:03	bos	Al Horford misses 9-foot two point shot	97 - 87	98	87	0	0	Al Horford		misses	shot	9		two			
+401126865	4	10:01	1:59	ind	Thaddeus Young defensive rebound	97 - 87	97	87	0	0	Thaddeus Young		defensive rebound							
+401126865	4	10:05	1:55	ind	Tyreke Evans makes finger roll layup (Thaddeus Young assists)	97 - 89	97	89	0	2	Tyreke Evans		makes	finger roll layup				Thaddeus Young	assists	
+401126865	4	10:05	1:55	bos	Marcus Morris shooting foul	98 - 89	98	89	0	0	Marcus Morris		foul							
+401126865	4	10:05	1:55	ind	Tyreke Evans makes free throw 1 of 1	98 - 90	98	90	0	1	Tyreke Evans		makes	free throw		1-1				
+401126865	4	10:23	1:37	ind	Thaddeus Young personal foul	98 - 90	98	90	0	0	Thaddeus Young		foul							
+401126865	4	10:23	1:37	bos	Jayson Tatum makes free throw 1 of 2	99 - 90	99	90	1	0	Jayson Tatum		makes	free throw		1-2				
+401126865	4	10:23	1:37	bos	Jayson Tatum misses free throw 2 of 2	99 - 90	99	90	0	0	Jayson Tatum		misses	free throw		2-2				
+401126865	4	10:24	1:36	ind	Bojan Bogdanovic defensive rebound	99 - 90	99	90	0	0	Bojan Bogdanovic		defensive rebound							
+401126865	4	10:34	1:26	bos	Jayson Tatum shooting foul	99 - 90	99	90	0	0	Jayson Tatum		foul							
+401126865	4	10:34	1:26	ind	Bojan Bogdanovic misses free throw 1 of 3	99 - 90	99	90	0	0	Bojan Bogdanovic		misses	free throw		1-3				
+401126865	4	10:34	1:26	ind	Pacers offensive team rebound	99 - 90	99	90	0	0			offensive rebound	team						pacers
+401126865	4	10:34	1:26	ind	Bojan Bogdanovic makes free throw 2 of 3	99 - 91	99	91	0	1	Bojan Bogdanovic		makes	free throw		2-3				
+401126865	4	10:34	1:26	ind	Bojan Bogdanovic makes free throw 3 of 3	99 - 92	99	92	0	1	Bojan Bogdanovic		makes	free throw		3-3				
+401126865	4	10:56	1:04	bos	Gordon Hayward makes 23-foot three point jumper (Jayson Tatum assists)	102 - 92	102	92	3	0	Gordon Hayward		makes	jumper	23		three	Jayson Tatum	assists	
+401126865	4	10:57	1:03	ind	Pacers Full timeout	102 - 92	102	92	0	0			full timeout							pacers
+401126865	4	10:57	1:03	ind	Domantas Sabonis enters the game for Thaddeus Young	102 - 92	102	92	0	0	Domantas Sabonis	Thaddeus Young	enters the game for							
+401126865	4	11:04	55.7	ind	Domantas Sabonis makes layup (Bojan Bogdanovic assists)	102 - 94	102	94	0	2	Domantas Sabonis		makes	layup				Bojan Bogdanovic	assists	
+401126865	4	11:11	48.1	ind	Domantas Sabonis personal take foul	102 - 94	102	94	0	0	Domantas Sabonis		foul							
+401126865	4	11:11	48.1	bos	Jayson Tatum makes free throw 1 of 2	103 - 94	103	94	1	0	Jayson Tatum		makes	free throw		1-2				
+401126865	4	11:11	48.1	bos	Jaylen Brown enters the game for Marcus Morris	103 - 94	103	94	0	0	Jaylen Brown	Marcus Morris	enters the game for							
+401126865	4	11:11	48.1	bos	Jayson Tatum makes free throw 2 of 2	104 - 94	104	94	1	0	Jayson Tatum		makes	free throw		2-2				
+401126865	4	11:17	43.0	ind	Darren Collison makes 28-foot three pointer	104 - 97	104	97	0	3	Darren Collison		makes	er	28		three			
+401126865	4	11:23	36.7	ind	Myles Turner personal take foul	104 - 97	104	97	0	0	Myles Turner		foul							
+401126865	4	11:23	36.7	bos	Kyrie Irving makes free throw 1 of 2	105 - 97	105	97	1	0	Kyrie Irving		makes	free throw		1-2				
+401126865	4	11:23	36.7	bos	Kyrie Irving makes free throw 2 of 2	106 - 97	106	97	1	0	Kyrie Irving		makes	free throw		2-2				
+401126865	4	11:23	36.7	ind	Pacers Full timeout	106 - 97	106	97	0	0			full timeout							pacers
+401126865	4	11:26	33.6	ind	Bojan Bogdanovic misses 28-foot step back jumpshot	106 - 97	106	97	0	0	Bojan Bogdanovic		misses	step back jumpshot	28					
+401126865	4	11:29	30.8	bos	Jaylen Brown defensive rebound	106 - 97	106	97	0	0	Jaylen Brown		defensive rebound							
+401126865	4	11:30	29.9	ind	Bojan Bogdanovic personal take foul	106 - 97	106	97	0	0	Bojan Bogdanovic		foul							
+401126865	4	11:30	29.9	bos	Jaylen Brown makes free throw 1 of 2	107 - 97	107	97	1	0	Jaylen Brown		makes	free throw		1-2				
+401126865	4	11:30	29.9	bos	Daniel Theis enters the game for Al Horford	106 - 97	107	97	0	0	Daniel Theis	Al Horford	enters the game for							
+401126865	4	11:30	29.9	bos	Jaylen Brown misses free throw 2 of 2	107 - 97	107	97	0	0	Jaylen Brown		misses	free throw		2-2				
+401126865	4	11:32	27.9	ind	Myles Turner defensive rebound	107 - 97	107	97	0	0	Myles Turner		defensive rebound							
+401126865	4	11:38	21.7	ind	Tyreke Evans makes 28-foot three pointer	107 - 100	107	100	0	3	Tyreke Evans		makes	er	28		three			
+401126865	4	11:42	17.8	ind	Domantas Sabonis personal take foul	107 - 100	107	100	0	0	Domantas Sabonis		foul							
+401126865	4	11:42	17.8	ind	Cory Joseph enters the game for Domantas Sabonis	107 - 100	107	100	0	0	Cory Joseph	Domantas Sabonis	enters the game for							
+401126865	4	11:42	17.8	bos	Kyrie Irving makes free throw 1 of 2	108 - 100	108	100	1	0	Kyrie Irving		makes	free throw		1-2				
+401126865	4	11:42	17.8	bos	Kyrie Irving makes free throw 2 of 2	109 - 100	109	100	1	0	Kyrie Irving		makes	free throw		2-2				
+401126865	4	11:48	11.6	ind	Tyreke Evans makes 28-foot step back jumpshot	109 - 103	109	103	0	3	Tyreke Evans		makes	step back jumpshot	28					
+401126865	4	11:48	11.4	bos	Kyrie Irving bad pass (Tyreke Evans steals)	109 - 103	109	103	0	0	Kyrie Irving		bad pass					Tyreke Evans	steals	
+401126865	4	11:49	11.0	bos	Celtics Full timeout	109 - 103	109	103	0	0			full timeout							celtics
+401126865	4	11:49	11.0	bos	Marcus Morris enters the game for Daniel Theis	109 - 103	109	103	0	0	Marcus Morris	Daniel Theis	enters the game for							
+401126865	4	11:49	11.0	ind	Tyreke Evans steps out of bounds turnover	109 - 103	109	103	0	0	Tyreke Evans		turnover							
+401126865	4	11:51	9.0	ind	Cory Joseph personal take foul	109 - 103	109	103	0	0	Cory Joseph		foul							
+401126865	4	11:51	9.0	bos	Jayson Tatum makes free throw 1 of 2	110 - 103	110	103	1	0	Jayson Tatum		makes	free throw		1-2				
+401126865	4	11:51	9.0	bos	Jayson Tatum misses free throw 2 of 2	110 - 103	110	103	0	0	Jayson Tatum		misses	free throw		2-2				
+401126865	4	11:51	8.2	ind	Bojan Bogdanovic defensive rebound	110 - 103	110	103	0	0	Bojan Bogdanovic		defensive rebound							
+401126865	4	11:58	1.6	ind	Darren Collison makes 24-foot three pointer	110 - 106	110	106	0	3	Darren Collison		makes	er	24		three			
+401126865	4	12:00	0.0	ind	End of the 4th Quarter	110 - 106	110	106	0	0			end of the 4th quarter							
+401126865	4	12:00	0.0	ind	End of Game	110 - 106	110	106	0	0			end of game							
